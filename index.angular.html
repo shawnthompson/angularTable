@@ -1,0 +1,76 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tracks</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootswatch/3.2.0/sandstone/bootstrap.min.css">
+    <style>
+        body { padding-top:50px; }
+    </style>
+
+    <!-- JS -->
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.23/angular.min.js"></script>
+    <script src="js/dirPagination.js"></script>
+    <script src="app.js"></script>
+
+</head>
+<body>
+<div class="container" ng-app="sortApp" ng-controller="mainController">
+    
+  <form>
+    <div class="form-group">
+      <div class="input-group">
+        <div class="input-group-addon"><i class="glyphicon glyphicon-search"></i></div>
+
+        <input type="text" class="form-control" placeholder="Search for a song" ng-model="search">
+
+      </div>      
+    </div>
+  </form>
+
+  <table class="table table-bordered table-striped">
+    
+    <thead>
+      <tr>
+        <th>Selected</th>
+        <th>
+        <a href="#" ng-click="sortType = 'Artist'; sortReverse = !sortReverse">
+        Artist
+        <span ng-show="sortType == 'Artist' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
+        <span ng-show="sortType == 'Artist' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
+        </a></th>
+        <th>
+        <a href="#" ng-click="sortType = 'Album'; sortReverse = !sortReverse">
+        Album
+        <span ng-show="sortType == 'Album' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
+        <span ng-show="sortType == 'Album' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
+        </a></th>
+        <th>
+        <a href="#" ng-click="sortType = 'Song'; sortReverse = !sortReverse">
+        Song
+        <span ng-show="sortType == 'Song' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
+        <span ng-show="sortType == 'Song' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
+        </a></th>
+        <th>Remove</th>
+      </tr>
+    </thead>
+    
+    <tbody>
+      <tr ng-repeat="songs in tracks | orderBy:sortType:sortReverse | filter:search">
+        <td><input type="checkbox" name="songID" value="checked" /></td>
+        <td>{{ songs.Artist }}</td>
+        <td>{{ songs.Album }}</td>
+        <td>{{ songs.Song }}</td>
+        <td><a href="" ng-click="removeSong(songs)">X</a></td>
+      </tr>
+    </tbody>
+    
+  </table>
+  
+</div>
+</body>
+</html>

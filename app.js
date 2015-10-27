@@ -1,5 +1,5 @@
 // app.js
-angular.module('sortApp', [])
+angular.module('sortApp', ['angularUtils.directives.dirPagination'])
 
 .controller('mainController', function($scope, $http) {
   $http.get('tracks.json')

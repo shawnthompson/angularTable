@@ -1,3292 +1,3950 @@
 [
   {
-    "Artist":"213",
-    "Album":"The Hard Way",
-    "Song":"Intro"
+    "id":1,
+    "artist":"213",
+    "genre":"HipHop",
+    "title":"Intro"
   },
   {
-    "Artist":"213",
-    "Album":"The Hard Way",
-    "Song":"Twist Yo Body"
+    "id":2,
+    "artist":"213",
+    "genre":"HipHop",
+    "title":"Twist Yo Body"
   },
   {
-    "Artist":"213",
-    "Album":"The Hard Way",
-    "Song":"Absolutely"
+    "id":3,
+    "artist":"213",
+    "genre":"HipHop",
+    "title":"Absolutely"
   },
   {
-    "Artist":"213",
-    "Album":"The Hard Way",
-    "Song":"Sassy Ways"
+    "id":4,
+    "artist":"213",
+    "genre":"HipHop",
+    "title":"Sassy Ways"
   },
   {
-    "Artist":"213",
-    "Album":"The Hard Way",
-    "Song":"Groupie Luv"
+    "id":5,
+    "artist":"213",
+    "genre":"HipHop",
+    "title":"Groupie Luv"
   },
   {
-    "Artist":"213",
-    "Album":"The Hard Way",
-    "Song":"Wait A Minute"
+    "id":6,
+    "artist":"213",
+    "genre":"HipHop",
+    "title":"Wait A Minute"
   },
   {
-    "Artist":"213",
-    "Album":"The Hard Way",
-    "Song":"Another Summer"
+    "id":7,
+    "artist":"213",
+    "genre":"HipHop",
+    "title":"Another Summer"
   },
   {
-    "Artist":"213",
-    "Album":"The Hard Way",
-    "Song":"213 The Gangsta Clicc"
+    "id":8,
+    "artist":"213",
+    "genre":"HipHop",
+    "title":"213 The Gangsta Clicc"
   },
   {
-    "Artist":"213",
-    "Album":"The Hard Way",
-    "Song":"Ups & Downs"
+    "id":9,
+    "artist":"213",
+    "genre":"HipHop",
+    "title":"Ups & Downs"
   },
   {
-    "Artist":"213",
-    "Album":"The Hard Way",
-    "Song":"Gotta Find A Way"
+    "id":10,
+    "artist":"213",
+    "genre":"HipHop",
+    "title":"Gotta Find A Way"
   },
   {
-    "Artist":"213",
-    "Album":"The Hard Way",
-    "Song":"Joysticc"
+    "id":11,
+    "artist":"213",
+    "genre":"HipHop",
+    "title":"Joysticc"
   },
   {
-    "Artist":"213",
-    "Album":"The Hard Way",
-    "Song":"Rick James Interlude"
+    "id":12,
+    "artist":"213",
+    "genre":"HipHop",
+    "title":"Rick James Interlude"
   },
   {
-    "Artist":"213",
-    "Album":"The Hard Way",
-    "Song":"Mary Jane"
+    "id":13,
+    "artist":"213",
+    "genre":"HipHop",
+    "title":"Mary Jane"
   },
   {
-    "Artist":"213",
-    "Album":"The Hard Way",
-    "Song":"MLK"
+    "id":14,
+    "artist":"213",
+    "genre":"HipHop",
+    "title":"MLK"
   },
   {
-    "Artist":"213",
-    "Album":"The Hard Way",
-    "Song":"Lil Girl"
+    "id":15,
+    "artist":"213",
+    "genre":"HipHop",
+    "title":"Lil Girl"
   },
   {
-    "Artist":"213",
-    "Album":"The Hard Way",
-    "Song":"Give It Up"
+    "id":16,
+    "artist":"213",
+    "genre":"HipHop",
+    "title":"Give It Up"
   },
   {
-    "Artist":"213",
-    "Album":"The Hard Way",
-    "Song":"Never Love A Ho"
+    "id":17,
+    "artist":"213",
+    "genre":"HipHop",
+    "title":"Never Love A Ho"
   },
   {
-    "Artist":"213",
-    "Album":"The Hard Way",
-    "Song":"Appreciation"
+    "id":18,
+    "artist":"213",
+    "genre":"HipHop",
+    "title":"Appreciation"
   },
   {
-    "Artist":"213",
-    "Album":"The Hard Way",
-    "Song":"So Fly"
+    "id":19,
+    "artist":"213",
+    "genre":"HipHop",
+    "title":"So Fly"
   },
   {
-    "Artist":"3",
-    "Album":"3",
-    "Song":"Batuka"
+    "id":20,
+    "artist":"3",
+    "genre":"HipHop",
+    "title":"Batuka"
   },
   {
-    "Artist":"3",
-    "Album":"3",
-    "Song":"No One To Depend On"
+    "id":21,
+    "artist":"3",
+    "genre":"HipHop",
+    "title":"No One To Depend On"
   },
   {
-    "Artist":"3",
-    "Album":"3",
-    "Song":"Taboo"
+    "id":22,
+    "artist":"3",
+    "genre":"HipHop",
+    "title":"Taboo"
   },
   {
-    "Artist":"3",
-    "Album":"3",
-    "Song":"Toussaint L'Overture"
+    "id":23,
+    "artist":"3",
+    "genre":"HipHop",
+    "title":"Toussaint L'Overture"
   },
   {
-    "Artist":"3",
-    "Album":"3",
-    "Song":"Everybody's Everything"
+    "id":24,
+    "artist":"3",
+    "genre":"HipHop",
+    "title":"Everybody's Everything"
   },
   {
-    "Artist":"3",
-    "Album":"3",
-    "Song":"Guajira"
+    "id":25,
+    "artist":"3",
+    "genre":"HipHop",
+    "title":"Guajira"
   },
   {
-    "Artist":"3",
-    "Album":"3",
-    "Song":"Jungle Strut"
+    "id":26,
+    "artist":"3",
+    "genre":"HipHop",
+    "title":"Jungle Strut"
   },
   {
-    "Artist":"3",
-    "Album":"3",
-    "Song":"Everything's Coming Our Way"
+    "id":27,
+    "artist":"3",
+    "genre":"HipHop",
+    "title":"Everything's Coming Our Way"
   },
   {
-    "Artist":"3",
-    "Album":"3",
-    "Song":"Para Los Rumberos"
+    "id":28,
+    "artist":"3",
+    "genre":"HipHop",
+    "title":"Para Los Rumberos"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Anthology",
-    "Song":"Check The Rhime"
+    "id":29,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Check The Rhime"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Anthology",
-    "Song":"Bonita Applebum"
+    "id":30,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Bonita Applebum"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Anthology",
-    "Song":"Award Tour"
+    "id":31,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Award Tour"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Anthology",
-    "Song":"Can I Kick It_"
+    "id":32,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Can I Kick It_"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Anthology",
-    "Song":"Scenario"
+    "id":33,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Scenario"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Anthology",
-    "Song":"Buggin' Out"
+    "id":34,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Buggin' Out"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Anthology",
-    "Song":"Electric Relaxation"
+    "id":35,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Electric Relaxation"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Anthology",
-    "Song":"Jazz (We've Got)"
+    "id":36,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Jazz (We've Got)"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Anthology",
-    "Song":"I Left My Wallet In El Segundo"
+    "id":37,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"I Left My Wallet In El Segundo"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Anthology",
-    "Song":"Hot Sex"
+    "id":38,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Hot Sex"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Anthology",
-    "Song":"Oh My God"
+    "id":39,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Oh My God"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Anthology",
-    "Song":"Keeping It Moving"
+    "id":40,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Keeping It Moving"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Anthology",
-    "Song":"Sucka Nigga"
+    "id":41,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Sucka Nigga"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Midnight Marauders",
-    "Song":"Midnight Marauders Tour Guide"
+    "id":42,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Midnight Marauders Tour Guide"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Midnight Marauders",
-    "Song":"Steve Biko (Stir It Up)"
+    "id":43,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Steve Biko (Stir It Up)"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Midnight Marauders",
-    "Song":"Award Tour"
+    "id":44,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Award Tour"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Midnight Marauders",
-    "Song":"8 Million Stories"
+    "id":45,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"8 Million Stories"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Midnight Marauders",
-    "Song":"Sucka Nigga"
+    "id":46,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Sucka Nigga"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Midnight Marauders",
-    "Song":"Midnight"
+    "id":47,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Midnight"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Midnight Marauders",
-    "Song":"We Can Get Down"
+    "id":48,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"We Can Get Down"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Midnight Marauders",
-    "Song":"Electric Relaxation"
+    "id":49,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Electric Relaxation"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Midnight Marauders",
-    "Song":"Clap Your Hands"
+    "id":50,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Clap Your Hands"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Midnight Marauders",
-    "Song":"Oh My God"
+    "id":51,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Oh My God"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Midnight Marauders",
-    "Song":"Keep It Rollin'"
+    "id":52,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Keep It Rollin'"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Midnight Marauders",
-    "Song":"Chase, Pt. 2"
+    "id":53,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Chase, Pt. 2"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Midnight Marauders",
-    "Song":"Lyrics to Go"
+    "id":54,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Lyrics to Go"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"Midnight Marauders",
-    "Song":"God Lives Through"
+    "id":55,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"God Lives Through"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Love Movement",
-    "Song":"Start It Up"
+    "id":56,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Start It Up"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Love Movement",
-    "Song":"Find a Way"
+    "id":57,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Find a Way"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Love Movement",
-    "Song":"Booty"
+    "id":58,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Booty"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Love Movement",
-    "Song":"Steppin' It Up - Redman"
+    "id":59,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Steppin' It Up - Redman"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Love Movement",
-    "Song":"Like It Like That"
+    "id":60,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Like It Like That"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Love Movement",
-    "Song":"Common Ground (Get It Goin' On)"
+    "id":61,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Common Ground (Get It Goin' On)"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Love Movement",
-    "Song":"Moms - Spanky"
+    "id":62,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Moms - Spanky"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Love Movement",
-    "Song":"His Name Is Mutty Ranks"
+    "id":63,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"His Name Is Mutty Ranks"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Love Movement",
-    "Song":"Give Me - Noreaga"
+    "id":64,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Give Me - Noreaga"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Love Movement",
-    "Song":"Pad & Pen"
+    "id":65,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Pad & Pen"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Love Movement",
-    "Song":"Busta's Lament"
+    "id":66,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Busta's Lament"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Love Movement",
-    "Song":"Hot 4 U"
+    "id":67,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Hot 4 U"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Love Movement",
-    "Song":"Against the World"
+    "id":68,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Against the World"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Love Movement",
-    "Song":"Love"
+    "id":69,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Love"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Love Movement",
-    "Song":"Rock Rock Y'all - Mos Def"
+    "id":70,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Rock Rock Y'all - Mos Def"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Love Movement",
-    "Song":"Scenario [Remix][_]"
+    "id":71,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Scenario [Remix][_]"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Love Movement",
-    "Song":"Money Maker [_]"
+    "id":72,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Money Maker [_]"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Love Movement",
-    "Song":"Hot Sex [_]"
+    "id":73,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Hot Sex [_]"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Love Movement",
-    "Song":"Oh My God [Remix][_]"
+    "id":74,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Oh My God [Remix][_]"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Love Movement",
-    "Song":"Jazz (We've Got) [_]"
+    "id":75,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Jazz (We've Got) [_]"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Love Movement",
-    "Song":"One Two S__t [_] - Busta Rhymes"
+    "id":76,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"One Two S__t [_] - Busta Rhymes"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Low End Theory",
-    "Song":"Excursions"
+    "id":77,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Excursions"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Low End Theory",
-    "Song":"Buggin' Out"
+    "id":78,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Buggin' Out"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Low End Theory",
-    "Song":"Rap Promoter"
+    "id":79,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Rap Promoter"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Low End Theory",
-    "Song":"Butter"
+    "id":80,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Butter"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Low End Theory",
-    "Song":"Verses From the Abstract"
+    "id":81,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Verses From the Abstract"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Low End Theory",
-    "Song":"Show Business"
+    "id":82,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Show Business"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Low End Theory",
-    "Song":"Vibes and Stuff"
+    "id":83,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Vibes and Stuff"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Low End Theory",
-    "Song":"Infamous Date Rape"
+    "id":84,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Infamous Date Rape"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Low End Theory",
-    "Song":"Check the Rhime"
+    "id":85,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Check the Rhime"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Low End Theory",
-    "Song":"Everything Is Fair"
+    "id":86,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Everything Is Fair"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Low End Theory",
-    "Song":"Jazz (We've Got)"
+    "id":87,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Jazz (We've Got)"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Low End Theory",
-    "Song":"Skypager"
+    "id":88,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"Skypager"
   },
   {
-    "Artist":"A Tribe Called Quest",
-    "Album":"The Low End Theory",
-    "Song":"What_"
+    "id":89,
+    "artist":"A Tribe Called Quest",
+    "genre":"HipHop",
+    "title":"What_"
   },
   {
-    "Artist":"Aceyalone and Rjd2",
-    "Album":"Magnificent City",
-    "Song":"All For U"
+    "id":90,
+    "artist":"Aceyalone and Rjd2",
+    "genre":"HipHop",
+    "title":"All For U"
   },
   {
-    "Artist":"Aceyalone and Rjd2",
-    "Album":"Magnificent City",
-    "Song":"Fire"
+    "id":91,
+    "artist":"Aceyalone and Rjd2",
+    "genre":"HipHop",
+    "title":"Fire"
   },
   {
-    "Artist":"Aceyalone and Rjd2",
-    "Album":"Magnificent City",
-    "Song":"Cornbread, Eddy, and Me"
+    "id":92,
+    "artist":"Aceyalone and Rjd2",
+    "genre":"HipHop",
+    "title":"Cornbread, Eddy, and Me"
   },
   {
-    "Artist":"Aceyalone and Rjd2",
-    "Album":"Magnificent City",
-    "Song":"Moore"
+    "id":93,
+    "artist":"Aceyalone and Rjd2",
+    "genre":"HipHop",
+    "title":"Moore"
   },
   {
-    "Artist":"Aceyalone and Rjd2",
-    "Album":"Magnificent City",
-    "Song":"Supahero"
+    "id":94,
+    "artist":"Aceyalone and Rjd2",
+    "genre":"HipHop",
+    "title":"Supahero"
   },
   {
-    "Artist":"Aceyalone and Rjd2",
-    "Album":"Magnificent City",
-    "Song":"High Lights"
+    "id":95,
+    "artist":"Aceyalone and Rjd2",
+    "genre":"HipHop",
+    "title":"High Lights"
   },
   {
-    "Artist":"Aceyalone and Rjd2",
-    "Album":"Magnificent City",
-    "Song":"Disconnected"
+    "id":96,
+    "artist":"Aceyalone and Rjd2",
+    "genre":"HipHop",
+    "title":"Disconnected"
   },
   {
-    "Artist":"Aceyalone and Rjd2",
-    "Album":"Magnificent City",
-    "Song":"Caged Bird"
+    "id":97,
+    "artist":"Aceyalone and Rjd2",
+    "genre":"HipHop",
+    "title":"Caged Bird"
   },
   {
-    "Artist":"Aceyalone and Rjd2",
-    "Album":"Magnificent City",
-    "Song":"Solomon Jones"
+    "id":98,
+    "artist":"Aceyalone and Rjd2",
+    "genre":"HipHop",
+    "title":"Solomon Jones"
   },
   {
-    "Artist":"Aceyalone and Rjd2",
-    "Album":"Magnificent City",
-    "Song":"A Sunday Mystery"
+    "id":99,
+    "artist":"Aceyalone and Rjd2",
+    "genre":"HipHop",
+    "title":"A Sunday Mystery"
   },
   {
-    "Artist":"Aceyalone and Rjd2",
-    "Album":"Magnificent City",
-    "Song":"Junior"
+    "id":100,
+    "artist":"Aceyalone and Rjd2",
+    "genre":"HipHop",
+    "title":"Junior"
   },
   {
-    "Artist":"Aceyalone and Rjd2",
-    "Album":"Magnificent City",
-    "Song":"Heaven"
+    "id":101,
+    "artist":"Aceyalone and Rjd2",
+    "genre":"HipHop",
+    "title":"Heaven"
   },
   {
-    "Artist":"Aceyalone and Rjd2",
-    "Album":"Magnificent City",
-    "Song":"Here and Now"
+    "id":102,
+    "artist":"Aceyalone and Rjd2",
+    "genre":"HipHop",
+    "title":"Here and Now"
   },
   {
-    "Artist":"Aceyalone and Rjd2",
-    "Album":"Magnificent City",
-    "Song":"A Beautiful Mine"
+    "id":103,
+    "artist":"Aceyalone and Rjd2",
+    "genre":"HipHop",
+    "title":"A Beautiful Mine"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Blue Chips",
-    "Song":"01 Pouches Of Tuna Ft. Roc Marcia"
+    "id":104,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"01 Pouches Of Tuna Ft. Roc Marcia"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Blue Chips",
-    "Song":"02 Steve Wynn"
+    "id":105,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"02 Steve Wynn"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Blue Chips",
-    "Song":"03 Tan Leather"
+    "id":106,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"03 Tan Leather"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Blue Chips",
-    "Song":"04 Double Breasted"
+    "id":107,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"04 Double Breasted"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Blue Chips",
-    "Song":"05 Thug Love Story 2012"
+    "id":108,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"05 Thug Love Story 2012"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Blue Chips",
-    "Song":"06 Hookers At The Point"
+    "id":109,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"06 Hookers At The Point"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Blue Chips",
-    "Song":"07 Dreamer"
+    "id":110,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"07 Dreamer"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Blue Chips",
-    "Song":"08 Ron Simmons"
+    "id":111,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"08 Ron Simmons"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Blue Chips",
-    "Song":"09 Expensive Pens Ft. Meyhem Laur"
+    "id":112,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"09 Expensive Pens Ft. Meyhem Laur"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Blue Chips",
-    "Song":"10 9-24-11"
+    "id":113,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"10 9-24-11"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Blue Chips",
-    "Song":"11 Arts & Leisure Ft. Kool Ad"
+    "id":114,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"11 Arts & Leisure Ft. Kool Ad"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Blue Chips",
-    "Song":"12 Intercontinental Champion"
+    "id":115,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"12 Intercontinental Champion"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Blue Chips",
-    "Song":"13 5 Minute Beats 1 Take Raps"
+    "id":116,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"13 5 Minute Beats 1 Take Raps"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Blue Chips",
-    "Song":"14 Blue Chips"
+    "id":117,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"14 Blue Chips"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Blue Chips",
-    "Song":"15 103 And Roosy"
+    "id":118,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"15 103 And Roosy"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Blue Chips",
-    "Song":"16 Tapas"
+    "id":119,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"16 Tapas"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"East Bound And Down"
+    "id":120,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"East Bound And Down"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"T.K.O"
+    "id":121,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"T.K.O"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Mark Sanchez"
+    "id":122,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Mark Sanchez"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Shiraz"
+    "id":123,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Shiraz"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"The Come Up"
+    "id":124,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"The Come Up"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Imported Goods"
+    "id":125,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Imported Goods"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Bronson Maina"
+    "id":126,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Bronson Maina"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Dabble In Truffles"
+    "id":127,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Dabble In Truffles"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Growin Up"
+    "id":128,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Growin Up"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Mofongo"
+    "id":129,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Mofongo"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Fuck Me Till I Die"
+    "id":130,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Fuck Me Till I Die"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Borderline"
+    "id":131,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Borderline"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Eastern Promises"
+    "id":132,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Eastern Promises"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"85 Barritz BRO-HAM"
+    "id":133,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"85 Barritz BRO-HAM"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Body Language"
+    "id":134,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Body Language"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Aged Manchego"
+    "id":135,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Aged Manchego"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Albino Gorilla"
+    "id":136,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Albino Gorilla"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Roasted Bone Marrow"
+    "id":137,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Roasted Bone Marrow"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Get Off The P.P."
+    "id":138,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Get Off The P.P."
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Tango & Cash"
+    "id":139,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Tango & Cash"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Shape Shifters"
+    "id":140,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Shape Shifters"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Night Court"
+    "id":141,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Night Court"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Ceviche"
+    "id":142,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Ceviche"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Black Rain"
+    "id":143,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Black Rain"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Double Impact"
+    "id":144,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Double Impact"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"The Team"
+    "id":145,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"The Team"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Marijuana Bronson"
+    "id":146,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Marijuana Bronson"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Shorty Bop With A Hook"
+    "id":147,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Shorty Bop With A Hook"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Friendly Fire"
+    "id":148,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Friendly Fire"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Bronson Hard Lemonade"
+    "id":149,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Bronson Hard Lemonade"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"I Remember"
+    "id":150,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"I Remember"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Amuse Pusche"
+    "id":151,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Amuse Pusche"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"On The Real"
+    "id":152,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"On The Real"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Re-Elect Dinkins"
+    "id":153,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Re-Elect Dinkins"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Bon Appetit .... Bitch !!!!!!!!!!",
-    "Song":"Chilli Chicken Hakka Style"
+    "id":154,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Chilli Chicken Hakka Style"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Dr. Lecter",
-    "Song":"Moonstruck"
+    "id":155,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Moonstruck"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Dr. Lecter",
-    "Song":"Barry Horowitz"
+    "id":156,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Barry Horowitz"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Dr. Lecter",
-    "Song":"The Madness"
+    "id":157,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"The Madness"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Dr. Lecter",
-    "Song":"Larry Csonka"
+    "id":158,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Larry Csonka"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Dr. Lecter",
-    "Song":"Ronnie Coleman"
+    "id":159,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Ronnie Coleman"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Dr. Lecter",
-    "Song":"Bag of Money Ft. Meyhem Lauren"
+    "id":160,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Bag of Money Ft. Meyhem Lauren"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Dr. Lecter",
-    "Song":"Brunch"
+    "id":161,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Brunch"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Dr. Lecter",
-    "Song":"Shiraz"
+    "id":162,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Shiraz"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Dr. Lecter",
-    "Song":"Buddy Guy"
+    "id":163,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Buddy Guy"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Dr. Lecter",
-    "Song":"Jerk Chicken Ft. Maffew Ragazino"
+    "id":164,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Jerk Chicken Ft. Maffew Ragazino"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Dr. Lecter",
-    "Song":"Chuck Person Ft. Meyhem Lauren, S"
+    "id":165,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Chuck Person Ft. Meyhem Lauren, S"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Dr. Lecter",
-    "Song":"Forbidden Fruit"
+    "id":166,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Forbidden Fruit"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Dr. Lecter",
-    "Song":"Suede Ft. Meyhem Lauren, Shaz Ill"
+    "id":167,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Suede Ft. Meyhem Lauren, Shaz Ill"
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Dr. Lecter",
-    "Song":"Get Off My P.P."
+    "id":168,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Get Off My P.P."
   },
   {
-    "Artist":"Action Bronson",
-    "Album":"Dr. Lecter",
-    "Song":"Beautiful Music"
+    "id":169,
+    "artist":"Action Bronson",
+    "genre":"HipHop",
+    "title":"Beautiful Music"
   },
   {
-    "Artist":"Action Bronson & Statik Selektah",
-    "Album":"Well-Done",
-    "Song":"Respect The Mustoche"
+    "id":170,
+    "artist":"Action Bronson & Statik Selektah",
+    "genre":"HipHop",
+    "title":"Respect The Mustoche"
   },
   {
-    "Artist":"Action Bronson & Statik Selektah",
-    "Album":"Well-Done",
-    "Song":"Time For Some Ft. Lil Fame"
+    "id":171,
+    "artist":"Action Bronson & Statik Selektah",
+    "genre":"HipHop",
+    "title":"Time For Some Ft. Lil Fame"
   },
   {
-    "Artist":"Action Bronson & Statik Selektah",
-    "Album":"Well-Done",
-    "Song":"Cocoo Butter Ft. Nina Sky"
+    "id":172,
+    "artist":"Action Bronson & Statik Selektah",
+    "genre":"HipHop",
+    "title":"Cocoo Butter Ft. Nina Sky"
   },
   {
-    "Artist":"Action Bronson & Statik Selektah",
-    "Album":"Well-Done",
-    "Song":"White Silk"
+    "id":173,
+    "artist":"Action Bronson & Statik Selektah",
+    "genre":"HipHop",
+    "title":"White Silk"
   },
   {
-    "Artist":"Action Bronson & Statik Selektah",
-    "Album":"Well-Done",
-    "Song":"Keep Off The Grass"
+    "id":174,
+    "artist":"Action Bronson & Statik Selektah",
+    "genre":"HipHop",
+    "title":"Keep Off The Grass"
   },
   {
-    "Artist":"Action Bronson & Statik Selektah",
-    "Album":"Well-Done",
-    "Song":"The Stick Up"
+    "id":175,
+    "artist":"Action Bronson & Statik Selektah",
+    "genre":"HipHop",
+    "title":"The Stick Up"
   },
   {
-    "Artist":"Action Bronson & Statik Selektah",
-    "Album":"Well-Done",
-    "Song":"Central Bookings Ft. Meyham Laure"
+    "id":176,
+    "artist":"Action Bronson & Statik Selektah",
+    "genre":"HipHop",
+    "title":"Central Bookings Ft. Meyham Laure"
   },
   {
-    "Artist":"Action Bronson & Statik Selektah",
-    "Album":"Well-Done",
-    "Song":"Cirque Du Soleil"
+    "id":177,
+    "artist":"Action Bronson & Statik Selektah",
+    "genre":"HipHop",
+    "title":"Cirque Du Soleil"
   },
   {
-    "Artist":"Action Bronson & Statik Selektah",
-    "Album":"Well-Done",
-    "Song":"The Rainmaker"
+    "id":178,
+    "artist":"Action Bronson & Statik Selektah",
+    "genre":"HipHop",
+    "title":"The Rainmaker"
   },
   {
-    "Artist":"Action Bronson & Statik Selektah",
-    "Album":"Well-Done",
-    "Song":"Love Letter"
+    "id":179,
+    "artist":"Action Bronson & Statik Selektah",
+    "genre":"HipHop",
+    "title":"Love Letter"
   },
   {
-    "Artist":"Action Bronson & Statik Selektah",
-    "Album":"Well-Done",
-    "Song":"Not Enough Words"
+    "id":180,
+    "artist":"Action Bronson & Statik Selektah",
+    "genre":"HipHop",
+    "title":"Not Enough Words"
   },
   {
-    "Artist":"Action Bronson & Statik Selektah",
-    "Album":"Well-Done",
-    "Song":"Terror Death Camp Ft. Meyham Laur"
+    "id":181,
+    "artist":"Action Bronson & Statik Selektah",
+    "genre":"HipHop",
+    "title":"Terror Death Camp Ft. Meyham Laur"
   },
   {
-    "Artist":"Action Bronson & Statik Selektah",
-    "Album":"Well-Done",
-    "Song":"Miss Fordham Road (86 87 88)"
+    "id":182,
+    "artist":"Action Bronson & Statik Selektah",
+    "genre":"HipHop",
+    "title":"Miss Fordham Road (86 87 88)"
   },
   {
-    "Artist":"Action Bronson & Statik Selektah",
-    "Album":"Well-Done",
-    "Song":"Cliff Notes"
+    "id":183,
+    "artist":"Action Bronson & Statik Selektah",
+    "genre":"HipHop",
+    "title":"Cliff Notes"
   },
   {
-    "Artist":"Action Bronson & Statik Selektah",
-    "Album":"Well-Done",
-    "Song":"Bon Voyage"
+    "id":184,
+    "artist":"Action Bronson & Statik Selektah",
+    "genre":"HipHop",
+    "title":"Bon Voyage"
   },
   {
-    "Artist":"AC_DC",
-    "Album":"The Very Best Of",
-    "Song":"Let There Be Rock"
+    "id":185,
+    "artist":"AC_DC",
+    "genre":"Classic Rock",
+    "title":"Let There Be Rock"
   },
   {
-    "Artist":"AC_DC",
-    "Album":"The Very Best Of",
-    "Song":"Dirty Deeds Done Dirt Cheap"
+    "id":186,
+    "artist":"AC_DC",
+    "genre":"Classic Rock",
+    "title":"Dirty Deeds Done Dirt Cheap"
   },
   {
-    "Artist":"AC_DC",
-    "Album":"The Very Best Of",
-    "Song":"Big Gun"
+    "id":187,
+    "artist":"AC_DC",
+    "genre":"Classic Rock",
+    "title":"Big Gun"
   },
   {
-    "Artist":"AC_DC",
-    "Album":"The Very Best Of",
-    "Song":"The Jack"
+    "id":188,
+    "artist":"AC_DC",
+    "genre":"Classic Rock",
+    "title":"The Jack"
   },
   {
-    "Artist":"AC_DC",
-    "Album":"The Very Best Of",
-    "Song":"Heatseeker"
+    "id":189,
+    "artist":"AC_DC",
+    "genre":"Classic Rock",
+    "title":"Heatseeker"
   },
   {
-    "Artist":"AC_DC",
-    "Album":"The Very Best Of",
-    "Song":"Jailbreak"
+    "id":190,
+    "artist":"AC_DC",
+    "genre":"Classic Rock",
+    "title":"Jailbreak"
   },
   {
-    "Artist":"AC_DC",
-    "Album":"The Very Best Of",
-    "Song":"You Shook Me All Night Long"
+    "id":191,
+    "artist":"AC_DC",
+    "genre":"Classic Rock",
+    "title":"You Shook Me All Night Long"
   },
   {
-    "Artist":"AC_DC",
-    "Album":"The Very Best Of",
-    "Song":"Rock 'N' Roll Damnation"
+    "id":192,
+    "artist":"AC_DC",
+    "genre":"Classic Rock",
+    "title":"Rock 'N' Roll Damnation"
   },
   {
-    "Artist":"AC_DC",
-    "Album":"The Very Best Of",
-    "Song":"Shake Your Foundations"
+    "id":193,
+    "artist":"AC_DC",
+    "genre":"Classic Rock",
+    "title":"Shake Your Foundations"
   },
   {
-    "Artist":"AC_DC",
-    "Album":"The Very Best Of",
-    "Song":"T.N.T."
+    "id":194,
+    "artist":"AC_DC",
+    "genre":"Classic Rock",
+    "title":"T.N.T."
   },
   {
-    "Artist":"AC_DC",
-    "Album":"The Very Best Of",
-    "Song":"Who Made Who"
+    "id":195,
+    "artist":"AC_DC",
+    "genre":"Classic Rock",
+    "title":"Who Made Who"
   },
   {
-    "Artist":"AC_DC",
-    "Album":"The Very Best Of",
-    "Song":"Highway To Hell"
+    "id":196,
+    "artist":"AC_DC",
+    "genre":"Classic Rock",
+    "title":"Highway To Hell"
   },
   {
-    "Artist":"AC_DC",
-    "Album":"The Very Best Of",
-    "Song":"Whole Lotta Rosie"
+    "id":197,
+    "artist":"AC_DC",
+    "genre":"Classic Rock",
+    "title":"Whole Lotta Rosie"
   },
   {
-    "Artist":"AC_DC",
-    "Album":"The Very Best Of",
-    "Song":"For These About To Rock (We Salut"
+    "id":198,
+    "artist":"AC_DC",
+    "genre":"Classic Rock",
+    "title":"For These About To Rock (We Salut"
   },
   {
-    "Artist":"AC_DC",
-    "Album":"The Very Best Of",
-    "Song":"Big Balls"
+    "id":199,
+    "artist":"AC_DC",
+    "genre":"Classic Rock",
+    "title":"Big Balls"
   },
   {
-    "Artist":"AC_DC",
-    "Album":"The Very Best Of",
-    "Song":"Rocker"
+    "id":200,
+    "artist":"AC_DC",
+    "genre":"Classic Rock",
+    "title":"Rocker"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 1_ 1999-2003",
-    "Song":"Water"
+    "id":201,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Water"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 1_ 1999-2003",
-    "Song":"Wise Up"
+    "id":202,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Wise Up"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 1_ 1999-2003",
-    "Song":"The Active Element"
+    "id":203,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"The Active Element"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 1_ 1999-2003",
-    "Song":"The Tugboat Complex"
+    "id":204,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"The Tugboat Complex"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 1_ 1999-2003",
-    "Song":"Bad Karma"
+    "id":205,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Bad Karma"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 1_ 1999-2003",
-    "Song":"Take Me to the Basement"
+    "id":206,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Take Me to the Basement"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 1_ 1999-2003",
-    "Song":"Blacklist (feat. MF Doom)"
+    "id":207,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Blacklist (feat. MF Doom)"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 1_ 1999-2003",
-    "Song":"Sinister (feat. Vast Aire & Yesh)"
+    "id":208,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Sinister (feat. Vast Aire & Yesh)"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 1_ 1999-2003",
-    "Song":"Helium (feat. Vordul)"
+    "id":209,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Helium (feat. Vordul)"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 1_ 1999-2003",
-    "Song":"Dragon Coaster (feat. Mojo)"
+    "id":210,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Dragon Coaster (feat. Mojo)"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 1_ 1999-2003",
-    "Song":"Inner City Hustle [Wakin'] (feat."
+    "id":211,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Inner City Hustle [Wakin'] (feat."
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 1_ 1999-2003",
-    "Song":"Tap Dancin' for Scratch (feat. Va"
+    "id":212,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Tap Dancin' for Scratch (feat. Va"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 1_ 1999-2003",
-    "Song":"Put Your Quarters Up (feat. Slug"
+    "id":213,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Put Your Quarters Up (feat. Slug"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 1_ 1999-2003",
-    "Song":"Home Again (feat. The Controls)"
+    "id":214,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Home Again (feat. The Controls)"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 1_ 1999-2003",
-    "Song":"Coma [remix]"
+    "id":215,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Coma [remix]"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 1_ 1999-2003",
-    "Song":"Atlantis (feat. Mojo)"
+    "id":216,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Atlantis (feat. Mojo)"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 1_ 1999-2003",
-    "Song":"Bad Summeritan"
+    "id":217,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Bad Summeritan"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 1_ 1999-2003",
-    "Song":"Commencement at the Obedience Aca"
+    "id":218,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Commencement at the Obedience Aca"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 1_ 1999-2003",
-    "Song":"Accapella [Live at the El-Ray]"
+    "id":219,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Accapella [Live at the El-Ray]"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 2_ 2003-2006",
-    "Song":"Fishtales"
+    "id":220,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Fishtales"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 2_ 2003-2006",
-    "Song":"Face Melter"
+    "id":221,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Face Melter"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 2_ 2003-2006",
-    "Song":"Numb [To the Guns]"
+    "id":222,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Numb [To the Guns]"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 2_ 2003-2006",
-    "Song":"Sniff Glue"
+    "id":223,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Sniff Glue"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 2_ 2003-2006",
-    "Song":"Crooked"
+    "id":224,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Crooked"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 2_ 2003-2006",
-    "Song":"Sabbatical with Options"
+    "id":225,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Sabbatical with Options"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 2_ 2003-2006",
-    "Song":"Kill Switch"
+    "id":226,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Kill Switch"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 2_ 2003-2006",
-    "Song":"Jet Son"
+    "id":227,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Jet Son"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 2_ 2003-2006",
-    "Song":"Train Buffer"
+    "id":228,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Train Buffer"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 2_ 2003-2006",
-    "Song":"Ace Rocks"
+    "id":229,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Ace Rocks"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 2_ 2003-2006",
-    "Song":"All in All"
+    "id":230,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"All in All"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 2_ 2003-2006",
-    "Song":"Kill Em All"
+    "id":231,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Kill Em All"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 2_ 2003-2006",
-    "Song":"Junkyard"
+    "id":232,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Junkyard"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 2_ 2003-2006",
-    "Song":"Preservation (feat. Del the Funky"
+    "id":233,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Preservation (feat. Del the Funky"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 2_ 2003-2006",
-    "Song":"Deadpan"
+    "id":234,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Deadpan"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 2_ 2003-2006",
-    "Song":"One of Four"
+    "id":235,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"One of Four"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 2_ 2003-2006",
-    "Song":"Kill Em All [Rjd2 remix]"
+    "id":236,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Kill Em All [Rjd2 remix]"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 2_ 2003-2006",
-    "Song":"No Jumper Cables [remix]"
+    "id":237,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"No Jumper Cables [remix]"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 2_ 2003-2006",
-    "Song":"Train Buffer [remix]"
+    "id":238,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Train Buffer [remix]"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"B-Sides & Rarities Vol. 2_ 2003-2006",
-    "Song":"Encounter"
+    "id":239,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Encounter"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"Float",
-    "Song":"Float"
+    "id":240,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Float"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"Float",
-    "Song":"Commencement At The Obediance Aca"
+    "id":241,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Commencement At The Obediance Aca"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"Float",
-    "Song":"Big Bang"
+    "id":242,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Big Bang"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"Float",
-    "Song":"Garbage"
+    "id":243,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Garbage"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"Float",
-    "Song":"I'll Be Ok (Featuring Slug)"
+    "id":244,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"I'll Be Ok (Featuring Slug)"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"Float",
-    "Song":"Breakfast With Blockhead"
+    "id":245,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Breakfast With Blockhead"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"Float",
-    "Song":"Basic Cable"
+    "id":246,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Basic Cable"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"Float",
-    "Song":"Fascination"
+    "id":247,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Fascination"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"Float",
-    "Song":"Oxygen"
+    "id":248,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Oxygen"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"Float",
-    "Song":"Skip Town"
+    "id":249,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Skip Town"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"Float",
-    "Song":"6B Panamara"
+    "id":250,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"6B Panamara"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"Float",
-    "Song":"Lunch With Blockhead"
+    "id":251,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Lunch With Blockhead"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"Float",
-    "Song":"Spare A Match"
+    "id":252,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Spare A Match"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"Float",
-    "Song":"Attentoin Span (Featuring Vast Ai"
+    "id":253,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Attentoin Span (Featuring Vast Ai"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"Float",
-    "Song":"How To Be A Carpenter"
+    "id":254,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"How To Be A Carpenter"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"Float",
-    "Song":"Prosperity"
+    "id":255,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Prosperity"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"Float",
-    "Song":"No Splash"
+    "id":256,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"No Splash"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"Float",
-    "Song":"Drawbridge (Featuring Dose One)"
+    "id":257,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Drawbridge (Featuring Dose One)"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"Float",
-    "Song":"Dinner With Blockhead"
+    "id":258,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"Dinner With Blockhead"
   },
   {
-    "Artist":"Aesop Rock",
-    "Album":"Float",
-    "Song":"The Mayor And The Crook"
+    "id":259,
+    "artist":"Aesop Rock",
+    "genre":"HipHop",
+    "title":"The Mayor And The Crook"
   },
   {
-    "Artist":"AFI",
-    "Album":"Answer That And Stay Fashionab",
-    "Song":"Two Of A Kind"
+    "id":260,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Two Of A Kind"
   },
   {
-    "Artist":"AFI",
-    "Album":"Answer That And Stay Fashionab",
-    "Song":"Half-Empty Bottle"
+    "id":261,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Half-Empty Bottle"
   },
   {
-    "Artist":"AFI",
-    "Album":"Answer That And Stay Fashionab",
-    "Song":"Y?rf Rendernmein"
+    "id":262,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Y?rf Rendernmein"
   },
   {
-    "Artist":"AFI",
-    "Album":"Answer That And Stay Fashionab",
-    "Song":"I Wanna Get a Mohawk (But Mom"
+    "id":263,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"I Wanna Get a Mohawk (But Mom"
   },
   {
-    "Artist":"AFI",
-    "Album":"Answer That And Stay Fashionab",
-    "Song":"Brownie Bottom Sundae"
+    "id":264,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Brownie Bottom Sundae"
   },
   {
-    "Artist":"AFI",
-    "Album":"Answer That And Stay Fashionab",
-    "Song":"The Checkered Demon"
+    "id":265,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"The Checkered Demon"
   },
   {
-    "Artist":"AFI",
-    "Album":"Answer That And Stay Fashionab",
-    "Song":"Cereal Wars"
+    "id":266,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Cereal Wars"
   },
   {
-    "Artist":"AFI",
-    "Album":"Answer That And Stay Fashionab",
-    "Song":"The Mother In Me"
+    "id":267,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"The Mother In Me"
   },
   {
-    "Artist":"AFI",
-    "Album":"Answer That And Stay Fashionab",
-    "Song":"Rizzo In The Box"
+    "id":268,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Rizzo In The Box"
   },
   {
-    "Artist":"AFI",
-    "Album":"Answer That And Stay Fashionab",
-    "Song":"Kung-Fu Devil"
+    "id":269,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Kung-Fu Devil"
   },
   {
-    "Artist":"AFI",
-    "Album":"Answer That And Stay Fashionab",
-    "Song":"Your Name Here"
+    "id":270,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Your Name Here"
   },
   {
-    "Artist":"AFI",
-    "Album":"Answer That And Stay Fashionab",
-    "Song":"Ny-Quil"
+    "id":271,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Ny-Quil"
   },
   {
-    "Artist":"AFI",
-    "Album":"Answer That And Stay Fashionab",
-    "Song":"Don't Make Me Ill"
+    "id":272,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Don't Make Me Ill"
   },
   {
-    "Artist":"AFI",
-    "Album":"Answer That And Stay Fashionab",
-    "Song":"Open Your Eyes - High School F"
+    "id":273,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Open Your Eyes - High School F"
   },
   {
-    "Artist":"AFI",
-    "Album":"Black Sails In The Sunset",
-    "Song":"Strength Through Wounding"
+    "id":274,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Strength Through Wounding"
   },
   {
-    "Artist":"AFI",
-    "Album":"Black Sails In The Sunset",
-    "Song":"Porphyria"
+    "id":275,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Porphyria"
   },
   {
-    "Artist":"AFI",
-    "Album":"Black Sails In The Sunset",
-    "Song":"Exsanguination"
+    "id":276,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Exsanguination"
   },
   {
-    "Artist":"AFI",
-    "Album":"Black Sails In The Sunset",
-    "Song":"Malleus Maleficarum"
+    "id":277,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Malleus Maleficarum"
   },
   {
-    "Artist":"AFI",
-    "Album":"Black Sails In The Sunset",
-    "Song":"Narrative Of Soul Against Soul"
+    "id":278,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Narrative Of Soul Against Soul"
   },
   {
-    "Artist":"AFI",
-    "Album":"Black Sails In The Sunset",
-    "Song":"Clove Smoke Catharsis"
+    "id":279,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Clove Smoke Catharsis"
   },
   {
-    "Artist":"AFI",
-    "Album":"Black Sails In The Sunset",
-    "Song":"The Prayer Position"
+    "id":280,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"The Prayer Position"
   },
   {
-    "Artist":"AFI",
-    "Album":"Black Sails In The Sunset",
-    "Song":"No Poetic Device"
+    "id":281,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"No Poetic Device"
   },
   {
-    "Artist":"AFI",
-    "Album":"Black Sails In The Sunset",
-    "Song":"Weathered Tome"
+    "id":282,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Weathered Tome"
   },
   {
-    "Artist":"AFI",
-    "Album":"Black Sails In The Sunset",
-    "Song":"The Last Kiss"
+    "id":283,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"The Last Kiss"
   },
   {
-    "Artist":"AFI",
-    "Album":"Black Sails In The Sunset",
-    "Song":"At A Glance"
+    "id":284,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"At A Glance"
   },
   {
-    "Artist":"AFI",
-    "Album":"Black Sails In The Sunset",
-    "Song":"God Called In Sick Today"
+    "id":285,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"God Called In Sick Today"
   },
   {
-    "Artist":"AFI",
-    "Album":"Decemberunderground",
-    "Song":"Prelude 12_21"
+    "id":286,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Prelude 12_21"
   },
   {
-    "Artist":"AFI",
-    "Album":"Decemberunderground",
-    "Song":"Kill Caustic"
+    "id":287,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Kill Caustic"
   },
   {
-    "Artist":"AFI",
-    "Album":"Decemberunderground",
-    "Song":"Miss Murder"
+    "id":288,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Miss Murder"
   },
   {
-    "Artist":"AFI",
-    "Album":"Decemberunderground",
-    "Song":"Summer Shudder"
+    "id":289,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Summer Shudder"
   },
   {
-    "Artist":"AFI",
-    "Album":"Decemberunderground",
-    "Song":"The Interview"
+    "id":290,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"The Interview"
   },
   {
-    "Artist":"AFI",
-    "Album":"Decemberunderground",
-    "Song":"Love Like Winter"
+    "id":291,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Love Like Winter"
   },
   {
-    "Artist":"AFI",
-    "Album":"Decemberunderground",
-    "Song":"Affliction"
+    "id":292,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Affliction"
   },
   {
-    "Artist":"AFI",
-    "Album":"Decemberunderground",
-    "Song":"The Missing Frame"
+    "id":293,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"The Missing Frame"
   },
   {
-    "Artist":"AFI",
-    "Album":"Decemberunderground",
-    "Song":"Kiss And Control"
+    "id":294,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Kiss And Control"
   },
   {
-    "Artist":"AFI",
-    "Album":"Decemberunderground",
-    "Song":"The Killing Lights"
+    "id":295,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"The Killing Lights"
   },
   {
-    "Artist":"AFI",
-    "Album":"Decemberunderground",
-    "Song":"37mm"
+    "id":296,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"37mm"
   },
   {
-    "Artist":"AFI",
-    "Album":"Decemberunderground",
-    "Song":"Endlessly She Said"
+    "id":297,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Endlessly She Said"
   },
   {
-    "Artist":"AFI",
-    "Album":"Decemberunderground [Deluxe Cab Edition]",
-    "Song":"Don't Change [Bonus Track] (INXS"
+    "id":298,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Don't Change [Bonus Track] (INXS"
   },
   {
-    "Artist":"AFI",
-    "Album":"Decemberunderground [Deluxe Cab Edition]",
-    "Song":"Jack The Ripper [Bonus Track] (Mo"
+    "id":299,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Jack The Ripper [Bonus Track] (Mo"
   },
   {
-    "Artist":"AFI",
-    "Album":"Decemberunderground [Deluxe Cab Edition]",
-    "Song":"On The Arrow [Bonus Track]"
+    "id":300,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"On The Arrow [Bonus Track]"
   },
   {
-    "Artist":"AFI",
-    "Album":"Decemberunderground [Deluxe Cab Edition]",
-    "Song":"Fallen Like The Sky [Bonus Track]"
+    "id":301,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Fallen Like The Sky [Bonus Track]"
   },
   {
-    "Artist":"AFI",
-    "Album":"Shut Your Mouth And Open Your Eyes",
-    "Song":"Keeping Out Of Direct Sunlight"
+    "id":302,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Keeping Out Of Direct Sunlight"
   },
   {
-    "Artist":"AFI",
-    "Album":"Shut Your Mouth And Open Your Eyes",
-    "Song":"Three Reasons"
+    "id":303,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Three Reasons"
   },
   {
-    "Artist":"AFI",
-    "Album":"Shut Your Mouth And Open Your Eyes",
-    "Song":"A Single Second"
+    "id":304,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"A Single Second"
   },
   {
-    "Artist":"AFI",
-    "Album":"Shut Your Mouth And Open Your Eyes",
-    "Song":"pH Low"
+    "id":305,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"pH Low"
   },
   {
-    "Artist":"AFI",
-    "Album":"Shut Your Mouth And Open Your Eyes",
-    "Song":"Let It Be Broke"
+    "id":306,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Let It Be Broke"
   },
   {
-    "Artist":"AFI",
-    "Album":"Shut Your Mouth And Open Your Eyes",
-    "Song":"Third Season"
+    "id":307,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Third Season"
   },
   {
-    "Artist":"AFI",
-    "Album":"Shut Your Mouth And Open Your Eyes",
-    "Song":"Lower Your Head And Take It In"
+    "id":308,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Lower Your Head And Take It In"
   },
   {
-    "Artist":"AFI",
-    "Album":"Shut Your Mouth And Open Your Eyes",
-    "Song":"Coin Return"
+    "id":309,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Coin Return"
   },
   {
-    "Artist":"AFI",
-    "Album":"Shut Your Mouth And Open Your Eyes",
-    "Song":"The New Patron Saints And Ange"
+    "id":310,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"The New Patron Saints And Ange"
   },
   {
-    "Artist":"AFI",
-    "Album":"Shut Your Mouth And Open Your Eyes",
-    "Song":"Three Seconds Notice"
+    "id":311,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Three Seconds Notice"
   },
   {
-    "Artist":"AFI",
-    "Album":"Shut Your Mouth And Open Your Eyes",
-    "Song":"Salt For Your Wounds"
+    "id":312,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Salt For Your Wounds"
   },
   {
-    "Artist":"AFI",
-    "Album":"Shut Your Mouth And Open Your Eyes",
-    "Song":"Today's Lesson"
+    "id":313,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Today's Lesson"
   },
   {
-    "Artist":"AFI",
-    "Album":"Shut Your Mouth And Open Your Eyes",
-    "Song":"The Devil Loves You"
+    "id":314,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"The Devil Loves You"
   },
   {
-    "Artist":"AFI",
-    "Album":"Shut Your Mouth And Open Your Eyes",
-    "Song":"Triple Zero"
+    "id":315,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Triple Zero"
   },
   {
-    "Artist":"AFI",
-    "Album":"Sing The Sorrow",
-    "Song":"Miseria Cantare (The Beginning"
+    "id":316,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Miseria Cantare (The Beginning"
   },
   {
-    "Artist":"AFI",
-    "Album":"Sing The Sorrow",
-    "Song":"The Leaving Song Pt. 2-Fnt"
+    "id":317,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"The Leaving Song Pt. 2-Fnt"
   },
   {
-    "Artist":"AFI",
-    "Album":"Sing The Sorrow",
-    "Song":"Bleed Black-Fnt"
+    "id":318,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Bleed Black-Fnt"
   },
   {
-    "Artist":"AFI",
-    "Album":"Sing The Sorrow",
-    "Song":"Silver And Cold-Fnt"
+    "id":319,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Silver And Cold-Fnt"
   },
   {
-    "Artist":"AFI",
-    "Album":"Sing The Sorrow",
-    "Song":"Dancing Through Sunday-Fnt"
+    "id":320,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Dancing Through Sunday-Fnt"
   },
   {
-    "Artist":"AFI",
-    "Album":"Sing The Sorrow",
-    "Song":"Girls Not Grey-Fnt"
+    "id":321,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Girls Not Grey-Fnt"
   },
   {
-    "Artist":"AFI",
-    "Album":"Sing The Sorrow",
-    "Song":"Death Of Seasons-Fnt"
+    "id":322,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Death Of Seasons-Fnt"
   },
   {
-    "Artist":"AFI",
-    "Album":"Sing The Sorrow",
-    "Song":"The Great Disappointment-Fnt"
+    "id":323,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"The Great Disappointment-Fnt"
   },
   {
-    "Artist":"AFI",
-    "Album":"Sing The Sorrow",
-    "Song":"Paper Airplanes (Makeshift Win"
+    "id":324,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Paper Airplanes (Makeshift Win"
   },
   {
-    "Artist":"AFI",
-    "Album":"Sing The Sorrow",
-    "Song":"This Celluloid Dream-Fnt"
+    "id":325,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"This Celluloid Dream-Fnt"
   },
   {
-    "Artist":"AFI",
-    "Album":"Sing The Sorrow",
-    "Song":"The Leaving Song-Fnt"
+    "id":326,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"The Leaving Song-Fnt"
   },
   {
-    "Artist":"AFI",
-    "Album":"Sing The Sorrow",
-    "Song":"But Home Is Nowhere-Fnt"
+    "id":327,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"But Home Is Nowhere-Fnt"
   },
   {
-    "Artist":"AFI",
-    "Album":"The Art Of Drowning",
-    "Song":"Initiation"
+    "id":328,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Initiation"
   },
   {
-    "Artist":"AFI",
-    "Album":"The Art Of Drowning",
-    "Song":"The Lost Souls"
+    "id":329,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"The Lost Souls"
   },
   {
-    "Artist":"AFI",
-    "Album":"The Art Of Drowning",
-    "Song":"The Nephilim"
+    "id":330,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"The Nephilim"
   },
   {
-    "Artist":"AFI",
-    "Album":"The Art Of Drowning",
-    "Song":"Ever And A Day"
+    "id":331,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Ever And A Day"
   },
   {
-    "Artist":"AFI",
-    "Album":"The Art Of Drowning",
-    "Song":"Sacrifice Theory"
+    "id":332,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Sacrifice Theory"
   },
   {
-    "Artist":"AFI",
-    "Album":"The Art Of Drowning",
-    "Song":"Of Greetings And Goodbyes"
+    "id":333,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Of Greetings And Goodbyes"
   },
   {
-    "Artist":"AFI",
-    "Album":"The Art Of Drowning",
-    "Song":"Smile"
+    "id":334,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Smile"
   },
   {
-    "Artist":"AFI",
-    "Album":"The Art Of Drowning",
-    "Song":"Story At Three"
+    "id":335,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Story At Three"
   },
   {
-    "Artist":"AFI",
-    "Album":"The Art Of Drowning",
-    "Song":"The Days Of The Pheonix"
+    "id":336,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"The Days Of The Pheonix"
   },
   {
-    "Artist":"AFI",
-    "Album":"The Art Of Drowning",
-    "Song":"Catch A Hot One"
+    "id":337,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Catch A Hot One"
   },
   {
-    "Artist":"AFI",
-    "Album":"The Art Of Drowning",
-    "Song":"Wester"
+    "id":338,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Wester"
   },
   {
-    "Artist":"AFI",
-    "Album":"The Art Of Drowning",
-    "Song":"6 To 8"
+    "id":339,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"6 To 8"
   },
   {
-    "Artist":"AFI",
-    "Album":"The Art Of Drowning",
-    "Song":"The Despair Factor"
+    "id":340,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"The Despair Factor"
   },
   {
-    "Artist":"AFI",
-    "Album":"The Art Of Drowning",
-    "Song":"Morningstar"
+    "id":341,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Morningstar"
   },
   {
-    "Artist":"AFI",
-    "Album":"Very Proud Of Ya",
-    "Song":"He Who Laughs Last"
+    "id":342,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"He Who Laughs Last"
   },
   {
-    "Artist":"AFI",
-    "Album":"Very Proud Of Ya",
-    "Song":"File 13"
+    "id":343,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"File 13"
   },
   {
-    "Artist":"AFI",
-    "Album":"Very Proud Of Ya",
-    "Song":"Wake Up Call"
+    "id":344,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Wake Up Call"
   },
   {
-    "Artist":"AFI",
-    "Album":"Very Proud Of Ya",
-    "Song":"Cult Status"
+    "id":345,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Cult Status"
   },
   {
-    "Artist":"AFI",
-    "Album":"Very Proud Of Ya",
-    "Song":"Perfect Fit"
+    "id":346,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Perfect Fit"
   },
   {
-    "Artist":"AFI",
-    "Album":"Very Proud Of Ya",
-    "Song":"Advances In Modern Technology"
+    "id":347,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Advances In Modern Technology"
   },
   {
-    "Artist":"AFI",
-    "Album":"Very Proud Of Ya",
-    "Song":"Theory Of Revolution"
+    "id":348,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Theory Of Revolution"
   },
   {
-    "Artist":"AFI",
-    "Album":"Very Proud Of Ya",
-    "Song":"This Secret Ninja"
+    "id":349,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"This Secret Ninja"
   },
   {
-    "Artist":"AFI",
-    "Album":"Very Proud Of Ya",
-    "Song":"Soap Box Derby"
+    "id":350,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Soap Box Derby"
   },
   {
-    "Artist":"AFI",
-    "Album":"Very Proud Of Ya",
-    "Song":"Aspirin Free"
+    "id":351,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Aspirin Free"
   },
   {
-    "Artist":"AFI",
-    "Album":"Very Proud Of Ya",
-    "Song":"Fishbowl"
+    "id":352,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Fishbowl"
   },
   {
-    "Artist":"AFI",
-    "Album":"Very Proud Of Ya",
-    "Song":"Charles Atlas"
+    "id":353,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Charles Atlas"
   },
   {
-    "Artist":"AFI",
-    "Album":"Very Proud Of Ya",
-    "Song":"Crop Tub"
+    "id":354,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Crop Tub"
   },
   {
-    "Artist":"AFI",
-    "Album":"Very Proud Of Ya",
-    "Song":"Consult My Lover"
+    "id":355,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Consult My Lover"
   },
   {
-    "Artist":"AFI",
-    "Album":"Very Proud Of Ya",
-    "Song":"Take The Test"
+    "id":356,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Take The Test"
   },
   {
-    "Artist":"AFI",
-    "Album":"Very Proud Of Ya",
-    "Song":"Two Of A Kind"
+    "id":357,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Two Of A Kind"
   },
   {
-    "Artist":"AFI",
-    "Album":"Very Proud Of Ya",
-    "Song":"Shatty Fatmas"
+    "id":358,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Shatty Fatmas"
   },
   {
-    "Artist":"AFI",
-    "Album":"Very Proud Of Ya",
-    "Song":"Y?rf Rendernmein"
+    "id":359,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Y?rf Rendernmein"
   },
   {
-    "Artist":"AFI",
-    "Album":"Very Proud Of Ya",
-    "Song":"Cruise Control"
+    "id":360,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Cruise Control"
   },
   {
-    "Artist":"AFI",
-    "Album":"Very Proud Of Ya",
-    "Song":"Modern Epidemic"
+    "id":361,
+    "artist":"AFI",
+    "genre":"Punk",
+    "title":"Modern Epidemic"
   },
   {
-    "Artist":"Akon",
-    "Album":"Konvicted",
-    "Song":"Gansta Bop"
+    "id":362,
+    "artist":"Akon",
+    "genre":"HipHop",
+    "title":"Gansta Bop"
   },
   {
-    "Artist":"Akon",
-    "Album":"Konvicted",
-    "Song":"Smack That Ft Eminem"
+    "id":363,
+    "artist":"Akon",
+    "genre":"HipHop",
+    "title":"Smack That Ft Eminem"
   },
   {
-    "Artist":"Akon",
-    "Album":"Konvicted",
-    "Song":"Blown Away Ft Styles P"
+    "id":364,
+    "artist":"Akon",
+    "genre":"HipHop",
+    "title":"Blown Away Ft Styles P"
   },
   {
-    "Artist":"Akon",
-    "Album":"Konvicted",
-    "Song":"I Wanna Fuck You Ft Snoop Dog"
+    "id":365,
+    "artist":"Akon",
+    "genre":"HipHop",
+    "title":"I Wanna Fuck You Ft Snoop Dog"
   },
   {
-    "Artist":"Akon",
-    "Album":"Konvicted",
-    "Song":"Be Easy Ft Gage"
+    "id":366,
+    "artist":"Akon",
+    "genre":"HipHop",
+    "title":"Be Easy Ft Gage"
   },
   {
-    "Artist":"Akon",
-    "Album":"Konvicted",
-    "Song":"Me Myself & I"
+    "id":367,
+    "artist":"Akon",
+    "genre":"HipHop",
+    "title":"Me Myself & I"
   },
   {
-    "Artist":"Akon",
-    "Album":"Konvicted",
-    "Song":"You Dont Want It"
+    "id":368,
+    "artist":"Akon",
+    "genre":"HipHop",
+    "title":"You Dont Want It"
   },
   {
-    "Artist":"Akon",
-    "Album":"Konvicted",
-    "Song":"Cross That Line Ft Rick Ross"
+    "id":369,
+    "artist":"Akon",
+    "genre":"HipHop",
+    "title":"Cross That Line Ft Rick Ross"
   },
   {
-    "Artist":"Akon",
-    "Album":"Konvicted",
-    "Song":"Girls Ft Beenie Man"
+    "id":370,
+    "artist":"Akon",
+    "genre":"HipHop",
+    "title":"Girls Ft Beenie Man"
   },
   {
-    "Artist":"Akon",
-    "Album":"Konvicted",
-    "Song":"Keep On Calling Ft P Money"
+    "id":371,
+    "artist":"Akon",
+    "genre":"HipHop",
+    "title":"Keep On Calling Ft P Money"
   },
   {
-    "Artist":"Akon",
-    "Album":"Konvicted",
-    "Song":"Moonshine Ft Savage"
+    "id":372,
+    "artist":"Akon",
+    "genre":"HipHop",
+    "title":"Moonshine Ft Savage"
   },
   {
-    "Artist":"Akon",
-    "Album":"Konvicted",
-    "Song":"Go To War Ft Papoose"
+    "id":373,
+    "artist":"Akon",
+    "genre":"HipHop",
+    "title":"Go To War Ft Papoose"
   },
   {
-    "Artist":"Akon",
-    "Album":"Konvicted",
-    "Song":"So Fly Ft Blewz"
+    "id":374,
+    "artist":"Akon",
+    "genre":"HipHop",
+    "title":"So Fly Ft Blewz"
   },
   {
-    "Artist":"Akon",
-    "Album":"Konvicted",
-    "Song":"Ride Out Ft Tru-Life"
+    "id":375,
+    "artist":"Akon",
+    "genre":"HipHop",
+    "title":"Ride Out Ft Tru-Life"
   },
   {
-    "Artist":"Akon",
-    "Album":"Konvicted",
-    "Song":"Dont Let Up"
+    "id":376,
+    "artist":"Akon",
+    "genre":"HipHop",
+    "title":"Dont Let Up"
   },
   {
-    "Artist":"Akon",
-    "Album":"Konvicted",
-    "Song":"Gun In Hand Ft Booba"
+    "id":377,
+    "artist":"Akon",
+    "genre":"HipHop",
+    "title":"Gun In Hand Ft Booba"
   },
   {
-    "Artist":"Akon",
-    "Album":"Konvicted",
-    "Song":"U Got Me Ft T-Pain"
+    "id":378,
+    "artist":"Akon",
+    "genre":"HipHop",
+    "title":"U Got Me Ft T-Pain"
   },
   {
-    "Artist":"Akon",
-    "Album":"Konvicted",
-    "Song":"Look Me In My Eyes Ft Blast"
+    "id":379,
+    "artist":"Akon",
+    "genre":"HipHop",
+    "title":"Look Me In My Eyes Ft Blast"
   },
   {
-    "Artist":"Akon",
-    "Album":"Konvicted",
-    "Song":"On Da Corner-Outro Ft Fat Joe And"
+    "id":380,
+    "artist":"Akon",
+    "genre":"HipHop",
+    "title":"On Da Corner-Outro Ft Fat Joe And"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"1998-1999 The Ongoing History Of New Mus",
-    "Song":"What's The Big Deal About Bauhaus"
+    "id":381,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"What's The Big Deal About Bauhaus"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"1998-1999 The Ongoing History Of New Mus",
-    "Song":"Music That Mattered 25-23"
+    "id":382,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Music That Mattered 25-23"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"1998-1999 The Ongoing History Of New Mus",
-    "Song":"Music That Mattered 22 & 21"
+    "id":383,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Music That Mattered 22 & 21"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"1998-1999 The Ongoing History Of New Mus",
-    "Song":"Music That Mattered 20 & 19"
+    "id":384,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Music That Mattered 20 & 19"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"1998-1999 The Ongoing History Of New Mus",
-    "Song":"Music That Mattered 18 & 17"
+    "id":385,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Music That Mattered 18 & 17"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"1998-1999 The Ongoing History Of New Mus",
-    "Song":"Music That Mattered 16 & 15"
+    "id":386,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Music That Mattered 16 & 15"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"1998-1999 The Ongoing History Of New Mus",
-    "Song":"Music That Mattered 14 & 13"
+    "id":387,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Music That Mattered 14 & 13"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"1998-1999 The Ongoing History Of New Mus",
-    "Song":"Music That Mattered 12 & 11"
+    "id":388,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Music That Mattered 12 & 11"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"1998-1999 The Ongoing History Of New Mus",
-    "Song":"Music That Mattered 10 & 9"
+    "id":389,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Music That Mattered 10 & 9"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"1998-1999 The Ongoing History Of New Mus",
-    "Song":"Music That Mattered 8 & 7"
+    "id":390,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Music That Mattered 8 & 7"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"1998-1999 The Ongoing History Of New Mus",
-    "Song":"Music That Mattered 6 & 5"
+    "id":391,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Music That Mattered 6 & 5"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"1998-1999 The Ongoing History Of New Mus",
-    "Song":"Music That Mattered 4"
+    "id":392,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Music That Mattered 4"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"1998-1999 The Ongoing History Of New Mus",
-    "Song":"Music That Mattered 3"
+    "id":393,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Music That Mattered 3"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"1998-1999 The Ongoing History Of New Mus",
-    "Song":"Music That Mattered 2"
+    "id":394,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Music That Mattered 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"1998-1999 The Ongoing History Of New Mus",
-    "Song":"Music That Mattered 1"
+    "id":395,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Music That Mattered 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2000-2001 The Ongoing History of New Mus",
-    "Song":"Electronica Part 1"
+    "id":396,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Electronica Part 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2000-2001 The Ongoing History of New Mus",
-    "Song":"Electronica Part 2"
+    "id":397,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Electronica Part 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2000-2001 The Ongoing History of New Mus",
-    "Song":"Electronica Part 3"
+    "id":398,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Electronica Part 3"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2000-2001 The Ongoing History of New Mus",
-    "Song":"Electronica Part 4"
+    "id":399,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Electronica Part 4"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2000-2001 The Ongoing History of New Mus",
-    "Song":"The Impact Of The Music Video"
+    "id":400,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The Impact Of The Music Video"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2000-2001 The Ongoing History of New Mus",
-    "Song":"Monsters Of New Rock Foo Fighters"
+    "id":401,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Monsters Of New Rock Foo Fighters"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2000-2001 The Ongoing History of New Mus",
-    "Song":"Monsters Of New Rock The Offsprin"
+    "id":402,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Monsters Of New Rock The Offsprin"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2000-2001 The Ongoing History of New Mus",
-    "Song":"Monsters Of New Rock_ Blink 182"
+    "id":403,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Monsters Of New Rock_ Blink 182"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2000-2001 The Ongoing History of New Mus",
-    "Song":"Monsters Of New Rock_ Foo Fighter"
+    "id":404,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Monsters Of New Rock_ Foo Fighter"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2000-2001 The Ongoing History of New Mus",
-    "Song":"Monsters Of New Rock_ Green Day"
+    "id":405,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Monsters Of New Rock_ Green Day"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2000-2001 The Ongoing History of New Mus",
-    "Song":"Monsters Of New Rock_ Kid Rock"
+    "id":406,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Monsters Of New Rock_ Kid Rock"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2000-2001 The Ongoing History of New Mus",
-    "Song":"Monsters Of New Rock_ Limp Bizkit"
+    "id":407,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Monsters Of New Rock_ Limp Bizkit"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2000-2001 The Ongoing History of New Mus",
-    "Song":"Monsters Of New Rock_ Radiohead"
+    "id":408,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Monsters Of New Rock_ Radiohead"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2000-2001 The Ongoing History of New Mus",
-    "Song":"Monsters Of New Rock_ Red Hot Chi"
+    "id":409,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Monsters Of New Rock_ Red Hot Chi"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2000-2001 The Ongoing History of New Mus",
-    "Song":"Payola"
+    "id":410,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Payola"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2000-2001 The Ongoing History of New Mus",
-    "Song":"The Producers, Part 1"
+    "id":411,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The Producers, Part 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2000-2001 The Ongoing History of New Mus",
-    "Song":"The Reunions Return!"
+    "id":412,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The Reunions Return!"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2000-2001 The Ongoing History of New Mus",
-    "Song":"The Stone Roses"
+    "id":413,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The Stone Roses"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2000-2001 The Ongoing History of New Mus",
-    "Song":"Tool"
+    "id":414,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Tool"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"9 Great B-Sides"
+    "id":415,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"9 Great B-Sides"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"A Brief History Of Nu Metal 1"
+    "id":416,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"A Brief History Of Nu Metal 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"A Brief History Of Nu Metal 2"
+    "id":417,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"A Brief History Of Nu Metal 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"A Live History Of The Smashing Pu"
+    "id":418,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"A Live History Of The Smashing Pu"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"Brit Pop Part 1"
+    "id":419,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Brit Pop Part 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"Brit Pop Part 2"
+    "id":420,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Brit Pop Part 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"Brit Pop Part 3"
+    "id":421,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Brit Pop Part 3"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"Brit Pop Part 4"
+    "id":422,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Brit Pop Part 4"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"Creed"
+    "id":423,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Creed"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"Depeche Mode At 20"
+    "id":424,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Depeche Mode At 20"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"Emo_ What's That_"
+    "id":425,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Emo_ What's That_"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"Get In the Van!"
+    "id":426,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Get In the Van!"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"Gossip And Weirdness"
+    "id":427,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Gossip And Weirdness"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"Moby"
+    "id":428,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Moby"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"Outsider Music"
+    "id":429,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Outsider Music"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"Psychos, Nutcases & Weirdos"
+    "id":430,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Psychos, Nutcases & Weirdos"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"Red Hot Chili Peppers Part 1"
+    "id":431,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Red Hot Chili Peppers Part 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"Red Hot Chili Peppers Part 2"
+    "id":432,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Red Hot Chili Peppers Part 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"Red Hot Chili Peppers Part 3"
+    "id":433,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Red Hot Chili Peppers Part 3"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"Seven Great Mysteries Of Modern R"
+    "id":434,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Seven Great Mysteries Of Modern R"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"The History of Selling Out Part 1"
+    "id":435,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The History of Selling Out Part 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"The History of Selling Out Part 2"
+    "id":436,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The History of Selling Out Part 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"The New Rockers"
+    "id":437,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The New Rockers"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"Weezer"
+    "id":438,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Weezer"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"What's The Big Deal About Elvis C"
+    "id":439,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"What's The Big Deal About Elvis C"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"What's Wrong With The Music Indus"
+    "id":440,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"What's Wrong With The Music Indus"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2002 The Ongoing History of New Music",
-    "Song":"Why Performers Hate Their Record"
+    "id":441,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Why Performers Hate Their Record"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"Where Are They Now_"
+    "id":442,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Where Are They Now_"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"How To Talk Like A Rock Snob 2"
+    "id":443,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"How To Talk Like A Rock Snob 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"Nirvana By The Numbers - Part I"
+    "id":444,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Nirvana By The Numbers - Part I"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"Nirvana By The Numbers - Part Ii"
+    "id":445,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Nirvana By The Numbers - Part Ii"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"Tracks From The Vinyl Vault"
+    "id":446,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Tracks From The Vinyl Vault"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"Joe Strummer A Remembrance 1"
+    "id":447,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Joe Strummer A Remembrance 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"Joe Strummer A Remembrance 2"
+    "id":448,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Joe Strummer A Remembrance 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"What's The Big Deal About The Smi"
+    "id":449,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"What's The Big Deal About The Smi"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"Building A Record Library 1 (Albu"
+    "id":450,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Building A Record Library 1 (Albu"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"Building A Record Library 2 (Albu"
+    "id":451,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Building A Record Library 2 (Albu"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"Building A Record Collection Part"
+    "id":452,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Building A Record Collection Part"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"Building A Record Collection Part"
+    "id":453,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Building A Record Collection Part"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"Nickelback"
+    "id":454,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Nickelback"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"Alt-Rock's Greatest Instrumentals"
+    "id":455,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Alt-Rock's Greatest Instrumentals"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"Rise & Fall Of Alice In Chains 1"
+    "id":456,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Rise & Fall Of Alice In Chains 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"Rise & Fall Of Alice In Chains 2"
+    "id":457,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Rise & Fall Of Alice In Chains 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"A Music Industry Checkup"
+    "id":458,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"A Music Industry Checkup"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"Medical Matters & Mysteries Of Mu"
+    "id":459,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Medical Matters & Mysteries Of Mu"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"Medical Matters & Mysteries Of Mu"
+    "id":460,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Medical Matters & Mysteries Of Mu"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"The White Stripes"
+    "id":461,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The White Stripes"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"How To Talk Like A Rock Snob 3"
+    "id":462,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"How To Talk Like A Rock Snob 3"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"Madchester Part 1"
+    "id":463,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Madchester Part 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"Madchester Part 2"
+    "id":464,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Madchester Part 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"Radiohead Part 1"
+    "id":465,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Radiohead Part 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"Radiohead Part 2"
+    "id":466,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Radiohead Part 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"Radiohead Part 3"
+    "id":467,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Radiohead Part 3"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"Radiohead Part 4"
+    "id":468,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Radiohead Part 4"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"Christian Alt-Rock"
+    "id":469,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Christian Alt-Rock"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"The Crime Beat"
+    "id":470,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The Crime Beat"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"Coldplay"
+    "id":471,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Coldplay"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2003 The Ongoing History Of New Music",
-    "Song":"The Producers 3  The Canadians"
+    "id":472,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The Producers 3  The Canadians"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"The 100 Greatest New Rock Moments"
+    "id":473,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The 100 Greatest New Rock Moments"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"The 100 Greatest New Rock Moments"
+    "id":474,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The 100 Greatest New Rock Moments"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"The 100 Greatest New Rock Moments"
+    "id":475,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The 100 Greatest New Rock Moments"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"The 100 Greatest New Rock Moments"
+    "id":476,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The 100 Greatest New Rock Moments"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"The 100 Greatest New Rock Moments"
+    "id":477,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The 100 Greatest New Rock Moments"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"The 100 Greatest New Rock Moments"
+    "id":478,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The 100 Greatest New Rock Moments"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"The 100 Greatest New Rock Moments"
+    "id":479,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The 100 Greatest New Rock Moments"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"The 100 Greatest New Rock Moments"
+    "id":480,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The 100 Greatest New Rock Moments"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"The 100 Greatest New Rock Moments"
+    "id":481,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The 100 Greatest New Rock Moments"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"The 100 Greatest New Rock Moments"
+    "id":482,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The 100 Greatest New Rock Moments"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"Kurt Cobain 10 Years Later Part 1"
+    "id":483,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Kurt Cobain 10 Years Later Part 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"Kurt Cobain 10 Years Later Part 2"
+    "id":484,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Kurt Cobain 10 Years Later Part 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"Was Kurt Cobain Murdered_ Part 1"
+    "id":485,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Was Kurt Cobain Murdered_ Part 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"Was Kurt Cobain Murdered_ Part 2"
+    "id":486,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Was Kurt Cobain Murdered_ Part 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"New Rock's Craziest People"
+    "id":487,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"New Rock's Craziest People"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"Drummers Who Made A Difference"
+    "id":488,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Drummers Who Made A Difference"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"A Guide To Summer Concert Festiva"
+    "id":489,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"A Guide To Summer Concert Festiva"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"The Secret History Of Recorded Mu"
+    "id":490,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The Secret History Of Recorded Mu"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"Stories Behind Songs"
+    "id":491,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Stories Behind Songs"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"Taboo Tunes_ Fear of Music Part 1"
+    "id":492,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Taboo Tunes_ Fear of Music Part 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"Taboo Tunes_ Fear of Music Part 2"
+    "id":493,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Taboo Tunes_ Fear of Music Part 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"How To Talk Like A Rock Snob 5"
+    "id":494,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"How To Talk Like A Rock Snob 5"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"Seven Morrissey Mysteries"
+    "id":495,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Seven Morrissey Mysteries"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"Rhythm Sections"
+    "id":496,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Rhythm Sections"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"Format Wars"
+    "id":497,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Format Wars"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"Death As A Career Move"
+    "id":498,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Death As A Career Move"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"U2 A Secret History - Part 1"
+    "id":499,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"U2 A Secret History - Part 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"U2 A Secret History - Part 2"
+    "id":500,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"U2 A Secret History - Part 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"U2 A Secret History - Part 3"
+    "id":501,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"U2 A Secret History - Part 3"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"U2 A Secret History - Part 4"
+    "id":502,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"U2 A Secret History - Part 4"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"What's the Big Deal About The Cur"
+    "id":503,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"What's the Big Deal About The Cur"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2004 The Ongoing History of New Music",
-    "Song":"Xmas Show 11"
+    "id":504,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Xmas Show 11"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"Gay New Rock 1"
+    "id":505,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Gay New Rock 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"Gay New Rock 2"
+    "id":506,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Gay New Rock 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"Whatever Happened to Britpop 1"
+    "id":507,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Whatever Happened to Britpop 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"Whatever Happened to Britpop 2"
+    "id":508,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Whatever Happened to Britpop 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"Whatever Happened to Britpop 3"
+    "id":509,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Whatever Happened to Britpop 3"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"Alt-Rock's Greatest All-Female Ba"
+    "id":510,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Alt-Rock's Greatest All-Female Ba"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"Alt-Rock's Greatest All-Female Ba"
+    "id":511,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Alt-Rock's Greatest All-Female Ba"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"I'm Not Dead Yet"
+    "id":512,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"I'm Not Dead Yet"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"Montreal New Rock"
+    "id":513,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Montreal New Rock"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"Bad Career Moves 2"
+    "id":514,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Bad Career Moves 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"Nirvana The Songs and Sessions"
+    "id":515,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Nirvana The Songs and Sessions"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"Beck's Brain"
+    "id":516,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Beck's Brain"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"New Rock Secrets - Exposed!"
+    "id":517,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"New Rock Secrets - Exposed!"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"Green Day_ Deep Background"
+    "id":518,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Green Day_ Deep Background"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"Trent Reznor & Nine Inch Nails Pa"
+    "id":519,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Trent Reznor & Nine Inch Nails Pa"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"Trent Reznor & Nine Inch Nails Pa"
+    "id":520,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Trent Reznor & Nine Inch Nails Pa"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"Joy Division and Ian Curtis 25 Ye"
+    "id":521,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Joy Division and Ian Curtis 25 Ye"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"10 Weird Things About Oasis"
+    "id":522,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"10 Weird Things About Oasis"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"Definition"
+    "id":523,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Definition"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"Bono Yes Just Bono"
+    "id":524,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Bono Yes Just Bono"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"Modern Collectible Records"
+    "id":525,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Modern Collectible Records"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"More Outsider Music"
+    "id":526,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"More Outsider Music"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"The Tricky Issue of Sampling"
+    "id":527,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The Tricky Issue of Sampling"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"The 500th Episode"
+    "id":528,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The 500th Episode"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"CBGB - A History, Part 1"
+    "id":529,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"CBGB - A History, Part 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"CBGB - A History, Part 2"
+    "id":530,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"CBGB - A History, Part 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"A Brief Tribute to Robert Moog"
+    "id":531,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"A Brief Tribute to Robert Moog"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"Before They Were Famous"
+    "id":532,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Before They Were Famous"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"Rivers Cuomo"
+    "id":533,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Rivers Cuomo"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"10 Things About Coldplay"
+    "id":534,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"10 Things About Coldplay"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"All-Time Longevity Champions"
+    "id":535,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"All-Time Longevity Champions"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"Where are they now_ Another repri"
+    "id":536,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Where are they now_ Another repri"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2005 The Ongoing History of New Music",
-    "Song":"Xmas Show 12"
+    "id":537,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Xmas Show 12"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"(Good) Goth Part 1"
+    "id":538,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"(Good) Goth Part 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"(Good) Goth Part 2"
+    "id":539,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"(Good) Goth Part 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"30 Years Of Punk, Part 1 (Pre-Pun"
+    "id":540,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"30 Years Of Punk, Part 1 (Pre-Pun"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"30 Years Of Punk, Part 2 (1975-19"
+    "id":541,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"30 Years Of Punk, Part 2 (1975-19"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"30 Years Of Punk, Part 3 (1977)"
+    "id":542,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"30 Years Of Punk, Part 3 (1977)"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"30 Years Of Punk, Part 4 (1978-19"
+    "id":543,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"30 Years Of Punk, Part 4 (1978-19"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"30 Years Of Punk, Part 5 (The 80s"
+    "id":544,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"30 Years Of Punk, Part 5 (The 80s"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"30 Years Of Punk, Part 6"
+    "id":545,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"30 Years Of Punk, Part 6"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"A Guide To Rock N Roll Drugs"
+    "id":546,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"A Guide To Rock N Roll Drugs"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"A Quarter-Century Of Depeche Mode"
+    "id":547,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"A Quarter-Century Of Depeche Mode"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"Cover Songs 1"
+    "id":548,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Cover Songs 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"Cover Songs 2"
+    "id":549,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Cover Songs 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"Hidden Tracks"
+    "id":550,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Hidden Tracks"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"Hot City Scenes Through The Years"
+    "id":551,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Hot City Scenes Through The Years"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"Hot City Scenes Through The Years"
+    "id":552,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Hot City Scenes Through The Years"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"How To Talk Like A Rock Snob 6"
+    "id":553,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"How To Talk Like A Rock Snob 6"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"Joey Ramone A Remembrance"
+    "id":554,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Joey Ramone A Remembrance"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"Missing In Action 1"
+    "id":555,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Missing In Action 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"Missing in Action 2"
+    "id":556,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Missing in Action 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"More Medical Mysteries Of Music"
+    "id":557,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"More Medical Mysteries Of Music"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"New Rock and Technology_ An Updat"
+    "id":558,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"New Rock and Technology_ An Updat"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"New Rock And Technology_ An Updat"
+    "id":559,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"New Rock And Technology_ An Updat"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"Retro 90s 1"
+    "id":560,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Retro 90s 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"Retro 90s 2"
+    "id":561,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Retro 90s 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"Retro 90s 3"
+    "id":562,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Retro 90s 3"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"Retro 90s 4"
+    "id":563,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Retro 90s 4"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"RHCP_ Drugs, Despair, Redemption"
+    "id":564,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"RHCP_ Drugs, Despair, Redemption"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"RHCP_ Drugs, Despair, Redemption"
+    "id":565,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"RHCP_ Drugs, Despair, Redemption"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"Secrets Of Pearl Jam"
+    "id":566,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Secrets Of Pearl Jam"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"The Fashionistas"
+    "id":567,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The Fashionistas"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"The History of New Rock Hair"
+    "id":568,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The History of New Rock Hair"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"The Producers, Part 2"
+    "id":569,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The Producers, Part 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"U2 At 30"
+    "id":570,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"U2 At 30"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2006 The Ongoing History of New Music",
-    "Song":"XMas 13"
+    "id":571,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"XMas 13"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"100 Weird Things_ Part 1 0F 10 -"
+    "id":572,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"100 Weird Things_ Part 1 0F 10 -"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"100 Weird Things_ Part 2 - Skelet"
+    "id":573,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"100 Weird Things_ Part 2 - Skelet"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"100 Weird Things_ Part 3 Of 10 -"
+    "id":574,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"100 Weird Things_ Part 3 Of 10 -"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"100 Weird Things_ Part 4 0F 10 -"
+    "id":575,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"100 Weird Things_ Part 4 0F 10 -"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"100 Weird Things Pt 5 Of 10 Drugs"
+    "id":576,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"100 Weird Things Pt 5 Of 10 Drugs"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"100 Weird Things_ Pt 6 Of 10 Stud"
+    "id":577,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"100 Weird Things_ Pt 6 Of 10 Stud"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"100 Weird Things_ Pt 7 Of 10 The"
+    "id":578,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"100 Weird Things_ Pt 7 Of 10 The"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"100 Weird Things_ Part 8 Of 10_ S"
+    "id":579,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"100 Weird Things_ Part 8 Of 10_ S"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"100 Weird Things_ Pt 9 Of 10 Mone"
+    "id":580,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"100 Weird Things_ Pt 9 Of 10 Mone"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"100 Weird Things_ Pt 10 Of 10 Oth"
+    "id":581,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"100 Weird Things_ Pt 10 Of 10 Oth"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"Alt-Rock's Top 10 Female Fronted"
+    "id":582,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Alt-Rock's Top 10 Female Fronted"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"Demo Versions_ How Songs Are Born"
+    "id":583,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Demo Versions_ How Songs Are Born"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"Fabulous Frontmen 1 Chris Cornell"
+    "id":584,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Fabulous Frontmen 1 Chris Cornell"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"Greatest Musical Gadgets"
+    "id":585,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Greatest Musical Gadgets"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"Killers Confidential"
+    "id":586,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Killers Confidential"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"Naming Your Band Part 1"
+    "id":587,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Naming Your Band Part 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"Naming Your Band Part 2"
+    "id":588,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Naming Your Band Part 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"Plagiarism Or Unfortunate Sonic C"
+    "id":589,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Plagiarism Or Unfortunate Sonic C"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"Plagiarism Or Unfortunate Sonic C"
+    "id":590,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Plagiarism Or Unfortunate Sonic C"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"Rock N Roll Hotels"
+    "id":591,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Rock N Roll Hotels"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"Rock Star Career Changes"
+    "id":592,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Rock Star Career Changes"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"Screw You Guys...I'm Going Solo!"
+    "id":593,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Screw You Guys...I'm Going Solo!"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"The 14Th Annual Xmas Show"
+    "id":594,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The 14Th Annual Xmas Show"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"The Art Of The Reunion Part 1"
+    "id":595,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The Art Of The Reunion Part 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"The Art Of The Reunion Part 2"
+    "id":596,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The Art Of The Reunion Part 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"The Art Of The Reunion Part 3"
+    "id":597,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The Art Of The Reunion Part 3"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"The History Of Mash-Ups"
+    "id":598,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The History Of Mash-Ups"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"The Infinite Musical Archive"
+    "id":599,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The Infinite Musical Archive"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"The Secret Of Album Cover Art"
+    "id":600,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The Secret Of Album Cover Art"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"Tool What The Hell_ Part 1"
+    "id":601,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Tool What The Hell_ Part 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"Tool What The Hell_ Part 2"
+    "id":602,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Tool What The Hell_ Part 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"Why Things Are The Way They Are"
+    "id":603,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Why Things Are The Way They Are"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2007 The Ongoing History Of New Music",
-    "Song":"Your Questions Answered"
+    "id":604,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Your Questions Answered"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2008 The Ongoing History of New Music",
-    "Song":"Etymology Part 1"
+    "id":605,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Etymology Part 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2008 The Ongoing History of New Music",
-    "Song":"Etymology Part 2"
+    "id":606,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Etymology Part 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2008 The Ongoing History of New Music",
-    "Song":"Fans & Fatalities"
+    "id":607,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Fans & Fatalities"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2008 The Ongoing History of New Music",
-    "Song":"Small Towns And Big Bands"
+    "id":608,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Small Towns And Big Bands"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2008 The Ongoing History of New Music",
-    "Song":"The Inventors"
+    "id":609,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The Inventors"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2008 The Ongoing History of New Music",
-    "Song":"Cult Heroes"
+    "id":610,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Cult Heroes"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2008 The Ongoing History of New Music",
-    "Song":"Linkin Park"
+    "id":611,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Linkin Park"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2008 The Ongoing History of New Music",
-    "Song":"Sourcing Samples"
+    "id":612,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Sourcing Samples"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2008 The Ongoing History of New Music",
-    "Song":"History Of Grunge Part 1_ The Ear"
+    "id":613,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"History Of Grunge Part 1_ The Ear"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2008 The Ongoing History of New Music",
-    "Song":"History Of Grunge Part 2_ 1990-91"
+    "id":614,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"History Of Grunge Part 2_ 1990-91"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2008 The Ongoing History of New Music",
-    "Song":"History Of Grunge Part 3_ 1992-93"
+    "id":615,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"History Of Grunge Part 3_ 1992-93"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2008 The Ongoing History of New Music",
-    "Song":"History Of Grunge Part 4_ 1993-94"
+    "id":616,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"History Of Grunge Part 4_ 1993-94"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2008 The Ongoing History of New Music",
-    "Song":"History Of Grunge Part 5 Rise Of"
+    "id":617,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"History Of Grunge Part 5 Rise Of"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2008 The Ongoing History of New Music",
-    "Song":"History Of Grunge Part 6_ The Fal"
+    "id":618,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"History Of Grunge Part 6_ The Fal"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2008 The Ongoing History of New Music",
-    "Song":"Dave Grohl - Part 1"
+    "id":619,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Dave Grohl - Part 1"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2008 The Ongoing History of New Music",
-    "Song":"Dave Grohl - Part 2"
+    "id":620,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Dave Grohl - Part 2"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2008 The Ongoing History of New Music",
-    "Song":"Moonlighting"
+    "id":621,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Moonlighting"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2008 The Ongoing History of New Music",
-    "Song":"Album Marketing 1 - NIN Year Zero"
+    "id":622,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Album Marketing 1 - NIN Year Zero"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2008 The Ongoing History of New Music",
-    "Song":"Album Marketing 2 - Radiohead and"
+    "id":623,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Album Marketing 2 - Radiohead and"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2008 The Ongoing History of New Music",
-    "Song":"The 15th Annual Xmas Show"
+    "id":624,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"The 15th Annual Xmas Show"
   },
   {
-    "Artist":"Alan Cross",
-    "Album":"2008 The Ongoing History of New Music",
-    "Song":"Rock Star Kids"
+    "id":625,
+    "artist":"Alan Cross",
+    "genre":"Radio",
+    "title":"Rock Star Kids"
   },
   {
-    "Artist":"Albert King",
-    "Album":"Blues Power (The Blues Collection Vol.26",
-    "Song":"Get Out Of My Life Woman"
+    "id":626,
+    "artist":"Albert King",
+    "genre":"Radio",
+    "title":"Get Out Of My Life Woman"
   },
   {
-    "Artist":"Albert King",
-    "Album":"Blues Power (The Blues Collection Vol.26",
-    "Song":"Born Under A Bad Sign"
+    "id":627,
+    "artist":"Albert King",
+    "genre":"Radio",
+    "title":"Born Under A Bad Sign"
   },
   {
-    "Artist":"Albert King",
-    "Album":"Blues Power (The Blues Collection Vol.26",
-    "Song":"The Feeling"
+    "id":628,
+    "artist":"Albert King",
+    "genre":"Radio",
+    "title":"The Feeling"
   },
   {
-    "Artist":"Albert King",
-    "Album":"Blues Power (The Blues Collection Vol.26",
-    "Song":"We All Wanna Boogie"
+    "id":629,
+    "artist":"Albert King",
+    "genre":"Radio",
+    "title":"We All Wanna Boogie"
   },
   {
-    "Artist":"Albert King",
-    "Album":"Blues Power (The Blues Collection Vol.26",
-    "Song":"The Very Thought Of You"
+    "id":630,
+    "artist":"Albert King",
+    "genre":"Radio",
+    "title":"The Very Thought Of You"
   },
   {
-    "Artist":"Albert King",
-    "Album":"Blues Power (The Blues Collection Vol.26",
-    "Song":"I Got The Blues"
+    "id":631,
+    "artist":"Albert King",
+    "genre":"Radio",
+    "title":"I Got The Blues"
   },
   {
-    "Artist":"Albert King",
-    "Album":"Blues Power (The Blues Collection Vol.26",
-    "Song":"I Get Evil"
+    "id":632,
+    "artist":"Albert King",
+    "genre":"Radio",
+    "title":"I Get Evil"
   },
   {
-    "Artist":"Albert King",
-    "Album":"Blues Power (The Blues Collection Vol.26",
-    "Song":"Angel Of Mercy"
+    "id":633,
+    "artist":"Albert King",
+    "genre":"Radio",
+    "title":"Angel Of Mercy"
   },
   {
-    "Artist":"Albert King",
-    "Album":"Blues Power (The Blues Collection Vol.26",
-    "Song":"Flat Tire"
+    "id":634,
+    "artist":"Albert King",
+    "genre":"Radio",
+    "title":"Flat Tire"
   },
   {
-    "Artist":"Albert King",
-    "Album":"Blues Power (The Blues Collection Vol.26",
-    "Song":"California"
+    "id":635,
+    "artist":"Albert King",
+    "genre":"Radio",
+    "title":"California"
   },
   {
-    "Artist":"Albert King",
-    "Album":"Blues Power (The Blues Collection Vol.26",
-    "Song":"Searchin' For A Woman"
+    "id":636,
+    "artist":"Albert King",
+    "genre":"Radio",
+    "title":"Searchin' For A Woman"
   },
   {
-    "Artist":"Albert King",
-    "Album":"Blues Power (The Blues Collection Vol.26",
-    "Song":"Bad Luck Blues"
+    "id":637,
+    "artist":"Albert King",
+    "genre":"Radio",
+    "title":"Bad Luck Blues"
   },
   {
-    "Artist":"Albert King",
-    "Album":"Blues Power (The Blues Collection Vol.26",
-    "Song":"Wild Woman"
+    "id":638,
+    "artist":"Albert King",
+    "genre":"Radio",
+    "title":"Wild Woman"
   },
   {
-    "Artist":"Albert King",
-    "Album":"Blues Power (The Blues Collection Vol.26",
-    "Song":"Be On Your Merry Way"
+    "id":639,
+    "artist":"Albert King",
+    "genre":"Radio",
+    "title":"Be On Your Merry Way"
   },
   {
-    "Artist":"Albert King",
-    "Album":"Blues Power (The Blues Collection Vol.26",
-    "Song":"Murder"
+    "id":640,
+    "artist":"Albert King",
+    "genre":"Radio",
+    "title":"Murder"
   },
   {
-    "Artist":"Albert King",
-    "Album":"Blues Power (The Blues Collection Vol.26",
-    "Song":"Howlin' For My Darlin'"
+    "id":641,
+    "artist":"Albert King",
+    "genre":"Radio",
+    "title":"Howlin' For My Darlin'"
   },
   {
-    "Artist":"Albert King",
-    "Album":"Blues Power (The Blues Collection Vol.26",
-    "Song":"Won't Be Hangin' Around"
+    "id":642,
+    "artist":"Albert King",
+    "genre":"Radio",
+    "title":"Won't Be Hangin' Around"
   },
   {
-    "Artist":"Arthur Big Boy Crudup",
-    "Album":"Rock Me Mama (The Blues Collection Vol.4",
-    "Song":"Black Pony Blues"
+    "id":643,
+    "artist":"Arthur Big Boy Crudup",
+    "genre":"Blues",
+    "title":"Black Pony Blues"
   },
   {
-    "Artist":"Arthur Big Boy Crudup",
-    "Album":"Rock Me Mama (The Blues Collection Vol.4",
-    "Song":"Death Valley Blues"
+    "id":644,
+    "artist":"Arthur Big Boy Crudup",
+    "genre":"Blues",
+    "title":"Death Valley Blues"
   },
   {
-    "Artist":"Arthur Big Boy Crudup",
-    "Album":"Rock Me Mama (The Blues Collection Vol.4",
-    "Song":"Kind Lover Blues"
+    "id":645,
+    "artist":"Arthur Big Boy Crudup",
+    "genre":"Blues",
+    "title":"Kind Lover Blues"
   },
   {
-    "Artist":"Arthur Big Boy Crudup",
-    "Album":"Rock Me Mama (The Blues Collection Vol.4",
-    "Song":"If I Get Lucky"
+    "id":646,
+    "artist":"Arthur Big Boy Crudup",
+    "genre":"Blues",
+    "title":"If I Get Lucky"
   },
   {
-    "Artist":"Arthur Big Boy Crudup",
-    "Album":"Rock Me Mama (The Blues Collection Vol.4",
-    "Song":"Give Me A 32-20"
+    "id":647,
+    "artist":"Arthur Big Boy Crudup",
+    "genre":"Blues",
+    "title":"Give Me A 32-20"
   },
   {
-    "Artist":"Arthur Big Boy Crudup",
-    "Album":"Rock Me Mama (The Blues Collection Vol.4",
-    "Song":"Mean Old Frisco Blues"
+    "id":648,
+    "artist":"Arthur Big Boy Crudup",
+    "genre":"Blues",
+    "title":"Mean Old Frisco Blues"
   },
   {
-    "Artist":"Arthur Big Boy Crudup",
-    "Album":"Rock Me Mama (The Blues Collection Vol.4",
-    "Song":"Raised To My Hand"
+    "id":649,
+    "artist":"Arthur Big Boy Crudup",
+    "genre":"Blues",
+    "title":"Raised To My Hand"
   },
   {
-    "Artist":"Arthur Big Boy Crudup",
-    "Album":"Rock Me Mama (The Blues Collection Vol.4",
-    "Song":"Cool Disposition"
+    "id":650,
+    "artist":"Arthur Big Boy Crudup",
+    "genre":"Blues",
+    "title":"Cool Disposition"
   },
   {
-    "Artist":"Arthur Big Boy Crudup",
-    "Album":"Rock Me Mama (The Blues Collection Vol.4",
-    "Song":"Who's Been Foolin' You"
+    "id":651,
+    "artist":"Arthur Big Boy Crudup",
+    "genre":"Blues",
+    "title":"Who's Been Foolin' You"
   },
   {
-    "Artist":"Arthur Big Boy Crudup",
-    "Album":"Rock Me Mama (The Blues Collection Vol.4",
-    "Song":"Rock Me Mama"
+    "id":652,
+    "artist":"Arthur Big Boy Crudup",
+    "genre":"Blues",
+    "title":"Rock Me Mama"
   },
   {
-    "Artist":"Arthur Big Boy Crudup",
-    "Album":"Rock Me Mama (The Blues Collection Vol.4",
-    "Song":"That's Your Red Wagon"
+    "id":653,
+    "artist":"Arthur Big Boy Crudup",
+    "genre":"Blues",
+    "title":"That's Your Red Wagon"
   },
   {
-    "Artist":"Arthur Big Boy Crudup",
-    "Album":"Rock Me Mama (The Blues Collection Vol.4",
-    "Song":"So Glad You're Mine"
+    "id":654,
+    "artist":"Arthur Big Boy Crudup",
+    "genre":"Blues",
+    "title":"So Glad You're Mine"
   },
   {
-    "Artist":"Arthur Big Boy Crudup",
-    "Album":"Rock Me Mama (The Blues Collection Vol.4",
-    "Song":"Boy Friend Blues"
+    "id":655,
+    "artist":"Arthur Big Boy Crudup",
+    "genre":"Blues",
+    "title":"Boy Friend Blues"
   },
   {
-    "Artist":"Arthur Big Boy Crudup",
-    "Album":"Rock Me Mama (The Blues Collection Vol.4",
-    "Song":"Crudup's After Hours"
+    "id":656,
+    "artist":"Arthur Big Boy Crudup",
+    "genre":"Blues",
+    "title":"Crudup's After Hours"
   },
   {
-    "Artist":"Arthur Big Boy Crudup",
-    "Album":"Rock Me Mama (The Blues Collection Vol.4",
-    "Song":"I Don't Know It"
+    "id":657,
+    "artist":"Arthur Big Boy Crudup",
+    "genre":"Blues",
+    "title":"I Don't Know It"
   },
   {
-    "Artist":"Arthur Big Boy Crudup",
-    "Album":"Rock Me Mama (The Blues Collection Vol.4",
-    "Song":"Chicago Blues"
+    "id":658,
+    "artist":"Arthur Big Boy Crudup",
+    "genre":"Blues",
+    "title":"Chicago Blues"
   }
 ]

@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootswatch/3.2.0/sandstone/bootstrap.min.css">
     <style>
         body { padding-top:50px; }
+        .btn-default {background-color: #aaa; color: #000; padding:0 15px;}
     </style>
 
     <!-- JS -->
@@ -20,7 +21,7 @@
 </head>
 <body>
 <div class="container" ng-app="sortApp" ng-controller="mainController">
-    
+    <h2>Available Songs</h2>
   <form>
     <div class="form-group">
       <div class="input-group">
@@ -36,7 +37,7 @@
     
     <thead>
       <tr>
-        <th>Selected</th>
+        <th class="col-md-1">Add</th>
         <th>
         <a href="#" ng-click="sortType = 'Artist'; sortReverse = !sortReverse">
         Artist
@@ -44,10 +45,10 @@
         <span ng-show="sortType == 'Artist' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
         </a></th>
         <th>
-        <a href="#" ng-click="sortType = 'Album'; sortReverse = !sortReverse">
-        Album
-        <span ng-show="sortType == 'Album' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
-        <span ng-show="sortType == 'Album' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
+        <a href="#" ng-click="sortType = 'Genre'; sortReverse = !sortReverse">
+        Genre
+        <span ng-show="sortType == 'Genre' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
+        <span ng-show="sortType == 'Genre' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
         </a></th>
         <th>
         <a href="#" ng-click="sortType = 'Song'; sortReverse = !sortReverse">
@@ -55,22 +56,21 @@
         <span ng-show="sortType == 'Song' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
         <span ng-show="sortType == 'Song' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
         </a></th>
-        <th>Remove</th>
       </tr>
     </thead>
     
     <tbody>
       <tr dir-paginate="songs in tracks | orderBy:sortType:sortReverse | filter:search | itemsPerPage: 30">
-        <td><input type="checkbox" name="songID" value="checked" /></td>
-        <td>{{ songs.Artist }}</td>
-        <td>{{ songs.Album }}</td>
-        <td>{{ songs.Song }}</td>
-        <td><a href="" ng-click="removeSong(songs)">X</a></td>
+        <td><a class="btn btn-default" href="#" role="button" ng-click="removeSong(songs)">Add</a></td>
+        <td>{{ songs.artist }}</td>
+        <td>{{ songs.genre }}</td>
+        <td>{{ songs.title }}</td>
       </tr>
     </tbody>
     
   </table>
   <dir-pagination-controls></dir-pagination-controls>
+
 </div>
 </body>
 </html>

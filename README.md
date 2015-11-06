@@ -4,7 +4,7 @@ Create a datatable using AngularJS with data from a JSON file created from an SQ
 
 ## To Do ##
 
-- [ ] Pagination
+- [X] Pagination
 - [ ] SQL to JSON
 - [ ] Create submit table
 - [ ] Add genre row

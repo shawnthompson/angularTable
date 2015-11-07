@@ -6,9 +6,9 @@ Create a datatable using AngularJS with data from a JSON file created from an SQ
 
 - [X] Pagination
 - [ ] SQL to JSON
-- [ ] Create submit table
-- [ ] Add genre row
-- [ ] remove album row
+- [X] Create submit table
+- [X] Add genre row
+- [X] remove album row
 - [ ] create genre dropdown (maybe)
 - [ ] Move selected item to Submit table
 - [ ] create emailing function

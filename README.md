@@ -13,4 +13,5 @@ Create a datatable using AngularJS with data from a JSON file created from an SQ
 - [ ] Move selected item to Submit table
 - [ ] create emailing function
 - [ ] create PHP admin area
+- [ ] add top songs option
 

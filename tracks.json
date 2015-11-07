@@ -3,3948 +3,4606 @@
     "id":1,
     "artist":"213",
     "genre":"HipHop",
-    "title":"Intro"
+    "title":"Intro",
+    "favourite":""
   },
   {
     "id":2,
     "artist":"213",
     "genre":"HipHop",
-    "title":"Twist Yo Body"
+    "title":"Twist Yo Body",
+    "favourite":""
   },
   {
     "id":3,
     "artist":"213",
     "genre":"HipHop",
-    "title":"Absolutely"
+    "title":"Absolutely",
+    "favourite":""
   },
   {
     "id":4,
     "artist":"213",
     "genre":"HipHop",
-    "title":"Sassy Ways"
+    "title":"Sassy Ways",
+    "favourite":""
   },
   {
     "id":5,
     "artist":"213",
     "genre":"HipHop",
-    "title":"Groupie Luv"
+    "title":"Groupie Luv",
+    "favourite":""
   },
   {
     "id":6,
     "artist":"213",
     "genre":"HipHop",
-    "title":"Wait A Minute"
+    "title":"Wait A Minute",
+    "favourite":""
   },
   {
     "id":7,
     "artist":"213",
     "genre":"HipHop",
-    "title":"Another Summer"
+    "title":"Another Summer",
+    "favourite":"yes"
   },
   {
     "id":8,
     "artist":"213",
     "genre":"HipHop",
-    "title":"213 The Gangsta Clicc"
+    "title":"213 The Gangsta Clicc",
+    "favourite":""
   },
   {
     "id":9,
     "artist":"213",
     "genre":"HipHop",
-    "title":"Ups & Downs"
+    "title":"Ups & Downs",
+    "favourite":""
   },
   {
     "id":10,
     "artist":"213",
     "genre":"HipHop",
-    "title":"Gotta Find A Way"
+    "title":"Gotta Find A Way",
+    "favourite":""
   },
   {
     "id":11,
     "artist":"213",
     "genre":"HipHop",
-    "title":"Joysticc"
+    "title":"Joysticc",
+    "favourite":""
   },
   {
     "id":12,
     "artist":"213",
     "genre":"HipHop",
-    "title":"Rick James Interlude"
+    "title":"Rick James Interlude",
+    "favourite":""
   },
   {
     "id":13,
     "artist":"213",
     "genre":"HipHop",
-    "title":"Mary Jane"
+    "title":"Mary Jane",
+    "favourite":""
   },
   {
     "id":14,
     "artist":"213",
     "genre":"HipHop",
-    "title":"MLK"
+    "title":"MLK",
+    "favourite":""
   },
   {
     "id":15,
     "artist":"213",
     "genre":"HipHop",
-    "title":"Lil Girl"
+    "title":"Lil Girl",
+    "favourite":""
   },
   {
     "id":16,
     "artist":"213",
     "genre":"HipHop",
-    "title":"Give It Up"
+    "title":"Give It Up",
+    "favourite":""
   },
   {
     "id":17,
     "artist":"213",
     "genre":"HipHop",
-    "title":"Never Love A Ho"
+    "title":"Never Love A Ho",
+    "favourite":""
   },
   {
     "id":18,
     "artist":"213",
     "genre":"HipHop",
-    "title":"Appreciation"
+    "title":"Appreciation",
+    "favourite":""
   },
   {
     "id":19,
     "artist":"213",
     "genre":"HipHop",
-    "title":"So Fly"
+    "title":"So Fly",
+    "favourite":""
   },
   {
     "id":20,
     "artist":"3",
     "genre":"HipHop",
-    "title":"Batuka"
+    "title":"Batuka",
+    "favourite":""
   },
   {
     "id":21,
     "artist":"3",
     "genre":"HipHop",
-    "title":"No One To Depend On"
+    "title":"No One To Depend On",
+    "favourite":""
   },
   {
     "id":22,
     "artist":"3",
     "genre":"HipHop",
-    "title":"Taboo"
+    "title":"Taboo",
+    "favourite":""
   },
   {
     "id":23,
     "artist":"3",
     "genre":"HipHop",
-    "title":"Toussaint L'Overture"
+    "title":"Toussaint L'Overture",
+    "favourite":""
   },
   {
     "id":24,
     "artist":"3",
     "genre":"HipHop",
-    "title":"Everybody's Everything"
+    "title":"Everybody's Everything",
+    "favourite":""
   },
   {
     "id":25,
     "artist":"3",
     "genre":"HipHop",
-    "title":"Guajira"
+    "title":"Guajira",
+    "favourite":""
   },
   {
     "id":26,
     "artist":"3",
     "genre":"HipHop",
-    "title":"Jungle Strut"
+    "title":"Jungle Strut",
+    "favourite":""
   },
   {
     "id":27,
     "artist":"3",
     "genre":"HipHop",
-    "title":"Everything's Coming Our Way"
+    "title":"Everything's Coming Our Way",
+    "favourite":""
   },
   {
     "id":28,
     "artist":"3",
     "genre":"HipHop",
-    "title":"Para Los Rumberos"
+    "title":"Para Los Rumberos",
+    "favourite":""
   },
   {
     "id":29,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Check The Rhime"
+    "title":"Check The Rhime",
+    "favourite":""
   },
   {
     "id":30,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Bonita Applebum"
+    "title":"Bonita Applebum",
+    "favourite":""
   },
   {
     "id":31,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Award Tour"
+    "title":"Award Tour",
+    "favourite":""
   },
   {
     "id":32,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Can I Kick It_"
+    "title":"Can I Kick It_",
+    "favourite":""
   },
   {
     "id":33,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Scenario"
+    "title":"Scenario",
+    "favourite":""
   },
   {
     "id":34,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Buggin' Out"
+    "title":"Buggin' Out",
+    "favourite":"yes"
   },
   {
     "id":35,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Electric Relaxation"
+    "title":"Electric Relaxation",
+    "favourite":""
   },
   {
     "id":36,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Jazz (We've Got)"
+    "title":"Jazz (We've Got)",
+    "favourite":""
   },
   {
     "id":37,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"I Left My Wallet In El Segundo"
+    "title":"I Left My Wallet In El Segundo",
+    "favourite":""
   },
   {
     "id":38,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Hot Sex"
+    "title":"Hot Sex",
+    "favourite":""
   },
   {
     "id":39,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Oh My God"
+    "title":"Oh My God",
+    "favourite":""
   },
   {
     "id":40,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Keeping It Moving"
+    "title":"Keeping It Moving",
+    "favourite":""
   },
   {
     "id":41,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Sucka Nigga"
+    "title":"Sucka Nigga",
+    "favourite":""
   },
   {
     "id":42,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Midnight Marauders Tour Guide"
+    "title":"Midnight Marauders Tour Guide",
+    "favourite":""
   },
   {
     "id":43,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Steve Biko (Stir It Up)"
+    "title":"Steve Biko (Stir It Up)",
+    "favourite":""
   },
   {
     "id":44,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Award Tour"
+    "title":"Award Tour",
+    "favourite":""
   },
   {
     "id":45,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"8 Million Stories"
+    "title":"8 Million Stories",
+    "favourite":""
   },
   {
     "id":46,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Sucka Nigga"
+    "title":"Sucka Nigga",
+    "favourite":""
   },
   {
     "id":47,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Midnight"
+    "title":"Midnight",
+    "favourite":""
   },
   {
     "id":48,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"We Can Get Down"
+    "title":"We Can Get Down",
+    "favourite":""
   },
   {
     "id":49,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Electric Relaxation"
+    "title":"Electric Relaxation",
+    "favourite":""
   },
   {
     "id":50,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Clap Your Hands"
+    "title":"Clap Your Hands",
+    "favourite":""
   },
   {
     "id":51,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Oh My God"
+    "title":"Oh My God",
+    "favourite":""
   },
   {
     "id":52,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Keep It Rollin'"
+    "title":"Keep It Rollin'",
+    "favourite":""
   },
   {
     "id":53,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Chase, Pt. 2"
+    "title":"Chase, Pt. 2",
+    "favourite":""
   },
   {
     "id":54,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Lyrics to Go"
+    "title":"Lyrics to Go",
+    "favourite":""
   },
   {
     "id":55,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"God Lives Through"
+    "title":"God Lives Through",
+    "favourite":""
   },
   {
     "id":56,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Start It Up"
+    "title":"Start It Up",
+    "favourite":""
   },
   {
     "id":57,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Find a Way"
+    "title":"Find a Way",
+    "favourite":""
   },
   {
     "id":58,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Booty"
+    "title":"Booty",
+    "favourite":""
   },
   {
     "id":59,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Steppin' It Up - Redman"
+    "title":"Steppin' It Up - Redman",
+    "favourite":""
   },
   {
     "id":60,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Like It Like That"
+    "title":"Like It Like That",
+    "favourite":""
   },
   {
     "id":61,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Common Ground (Get It Goin' On)"
+    "title":"Common Ground (Get It Goin' On)",
+    "favourite":""
   },
   {
     "id":62,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Moms - Spanky"
+    "title":"Moms - Spanky",
+    "favourite":""
   },
   {
     "id":63,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"His Name Is Mutty Ranks"
+    "title":"His Name Is Mutty Ranks",
+    "favourite":""
   },
   {
     "id":64,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Give Me - Noreaga"
+    "title":"Give Me - Noreaga",
+    "favourite":""
   },
   {
     "id":65,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Pad & Pen"
+    "title":"Pad & Pen",
+    "favourite":""
   },
   {
     "id":66,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Busta's Lament"
+    "title":"Busta's Lament",
+    "favourite":""
   },
   {
     "id":67,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Hot 4 U"
+    "title":"Hot 4 U",
+    "favourite":""
   },
   {
     "id":68,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Against the World"
+    "title":"Against the World",
+    "favourite":""
   },
   {
     "id":69,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Love"
+    "title":"Love",
+    "favourite":""
   },
   {
     "id":70,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Rock Rock Y'all - Mos Def"
+    "title":"Rock Rock Y'all - Mos Def",
+    "favourite":""
   },
   {
     "id":71,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Scenario [Remix][_]"
+    "title":"Scenario [Remix][_]",
+    "favourite":""
   },
   {
     "id":72,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Money Maker [_]"
+    "title":"Money Maker [_]",
+    "favourite":""
   },
   {
     "id":73,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Hot Sex [_]"
+    "title":"Hot Sex [_]",
+    "favourite":""
   },
   {
     "id":74,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Oh My God [Remix][_]"
+    "title":"Oh My God [Remix][_]",
+    "favourite":""
   },
   {
     "id":75,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Jazz (We've Got) [_]"
+    "title":"Jazz (We've Got) [_]",
+    "favourite":""
   },
   {
     "id":76,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"One Two S__t [_] - Busta Rhymes"
+    "title":"One Two S__t [_] - Busta Rhymes",
+    "favourite":""
   },
   {
     "id":77,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Excursions"
+    "title":"Excursions",
+    "favourite":""
   },
   {
     "id":78,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Buggin' Out"
+    "title":"Buggin' Out",
+    "favourite":""
   },
   {
     "id":79,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Rap Promoter"
+    "title":"Rap Promoter",
+    "favourite":""
   },
   {
     "id":80,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Butter"
+    "title":"Butter",
+    "favourite":""
   },
   {
     "id":81,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Verses From the Abstract"
+    "title":"Verses From the Abstract",
+    "favourite":""
   },
   {
     "id":82,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Show Business"
+    "title":"Show Business",
+    "favourite":""
   },
   {
     "id":83,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Vibes and Stuff"
+    "title":"Vibes and Stuff",
+    "favourite":""
   },
   {
     "id":84,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Infamous Date Rape"
+    "title":"Infamous Date Rape",
+    "favourite":""
   },
   {
     "id":85,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Check the Rhime"
+    "title":"Check the Rhime",
+    "favourite":""
   },
   {
     "id":86,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Everything Is Fair"
+    "title":"Everything Is Fair",
+    "favourite":""
   },
   {
     "id":87,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Jazz (We've Got)"
+    "title":"Jazz (We've Got)",
+    "favourite":""
   },
   {
     "id":88,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"Skypager"
+    "title":"Skypager",
+    "favourite":""
   },
   {
     "id":89,
     "artist":"A Tribe Called Quest",
     "genre":"HipHop",
-    "title":"What_"
+    "title":"What_",
+    "favourite":""
   },
   {
     "id":90,
     "artist":"Aceyalone and Rjd2",
     "genre":"HipHop",
-    "title":"All For U"
+    "title":"All For U",
+    "favourite":""
   },
   {
     "id":91,
     "artist":"Aceyalone and Rjd2",
     "genre":"HipHop",
-    "title":"Fire"
+    "title":"Fire",
+    "favourite":""
   },
   {
     "id":92,
     "artist":"Aceyalone and Rjd2",
     "genre":"HipHop",
-    "title":"Cornbread, Eddy, and Me"
+    "title":"Cornbread, Eddy, and Me",
+    "favourite":""
   },
   {
     "id":93,
     "artist":"Aceyalone and Rjd2",
     "genre":"HipHop",
-    "title":"Moore"
+    "title":"Moore",
+    "favourite":""
   },
   {
     "id":94,
     "artist":"Aceyalone and Rjd2",
     "genre":"HipHop",
-    "title":"Supahero"
+    "title":"Supahero",
+    "favourite":""
   },
   {
     "id":95,
     "artist":"Aceyalone and Rjd2",
     "genre":"HipHop",
-    "title":"High Lights"
+    "title":"High Lights",
+    "favourite":""
   },
   {
     "id":96,
     "artist":"Aceyalone and Rjd2",
     "genre":"HipHop",
-    "title":"Disconnected"
+    "title":"Disconnected",
+    "favourite":""
   },
   {
     "id":97,
     "artist":"Aceyalone and Rjd2",
     "genre":"HipHop",
-    "title":"Caged Bird"
+    "title":"Caged Bird",
+    "favourite":""
   },
   {
     "id":98,
     "artist":"Aceyalone and Rjd2",
     "genre":"HipHop",
-    "title":"Solomon Jones"
+    "title":"Solomon Jones",
+    "favourite":""
   },
   {
     "id":99,
     "artist":"Aceyalone and Rjd2",
     "genre":"HipHop",
-    "title":"A Sunday Mystery"
+    "title":"A Sunday Mystery",
+    "favourite":""
   },
   {
     "id":100,
     "artist":"Aceyalone and Rjd2",
     "genre":"HipHop",
-    "title":"Junior"
+    "title":"Junior",
+    "favourite":""
   },
   {
     "id":101,
     "artist":"Aceyalone and Rjd2",
     "genre":"HipHop",
-    "title":"Heaven"
+    "title":"Heaven",
+    "favourite":""
   },
   {
     "id":102,
     "artist":"Aceyalone and Rjd2",
     "genre":"HipHop",
-    "title":"Here and Now"
+    "title":"Here and Now",
+    "favourite":""
   },
   {
     "id":103,
     "artist":"Aceyalone and Rjd2",
     "genre":"HipHop",
-    "title":"A Beautiful Mine"
+    "title":"A Beautiful Mine",
+    "favourite":""
   },
   {
     "id":104,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"01 Pouches Of Tuna Ft. Roc Marcia"
+    "title":"01 Pouches Of Tuna Ft. Roc Marcia",
+    "favourite":""
   },
   {
     "id":105,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"02 Steve Wynn"
+    "title":"02 Steve Wynn",
+    "favourite":""
   },
   {
     "id":106,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"03 Tan Leather"
+    "title":"03 Tan Leather",
+    "favourite":""
   },
   {
     "id":107,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"04 Double Breasted"
+    "title":"04 Double Breasted",
+    "favourite":""
   },
   {
     "id":108,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"05 Thug Love Story 2012"
+    "title":"05 Thug Love Story 2012",
+    "favourite":""
   },
   {
     "id":109,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"06 Hookers At The Point"
+    "title":"06 Hookers At The Point",
+    "favourite":""
   },
   {
     "id":110,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"07 Dreamer"
+    "title":"07 Dreamer",
+    "favourite":""
   },
   {
     "id":111,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"08 Ron Simmons"
+    "title":"08 Ron Simmons",
+    "favourite":""
   },
   {
     "id":112,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"09 Expensive Pens Ft. Meyhem Laur"
+    "title":"09 Expensive Pens Ft. Meyhem Laur",
+    "favourite":""
   },
   {
     "id":113,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"10 9-24-11"
+    "title":"10 9-24-11",
+    "favourite":""
   },
   {
     "id":114,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"11 Arts & Leisure Ft. Kool Ad"
+    "title":"11 Arts & Leisure Ft. Kool Ad",
+    "favourite":""
   },
   {
     "id":115,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"12 Intercontinental Champion"
+    "title":"12 Intercontinental Champion",
+    "favourite":""
   },
   {
     "id":116,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"13 5 Minute Beats 1 Take Raps"
+    "title":"13 5 Minute Beats 1 Take Raps",
+    "favourite":""
   },
   {
     "id":117,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"14 Blue Chips"
+    "title":"14 Blue Chips",
+    "favourite":""
   },
   {
     "id":118,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"15 103 And Roosy"
+    "title":"15 103 And Roosy",
+    "favourite":""
   },
   {
     "id":119,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"16 Tapas"
+    "title":"16 Tapas",
+    "favourite":""
   },
   {
     "id":120,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"East Bound And Down"
+    "title":"East Bound And Down",
+    "favourite":""
   },
   {
     "id":121,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"T.K.O"
+    "title":"T.K.O",
+    "favourite":""
   },
   {
     "id":122,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Mark Sanchez"
+    "title":"Mark Sanchez",
+    "favourite":""
   },
   {
     "id":123,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Shiraz"
+    "title":"Shiraz",
+    "favourite":""
   },
   {
     "id":124,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"The Come Up"
+    "title":"The Come Up",
+    "favourite":""
   },
   {
     "id":125,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Imported Goods"
+    "title":"Imported Goods",
+    "favourite":""
   },
   {
     "id":126,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Bronson Maina"
+    "title":"Bronson Maina",
+    "favourite":""
   },
   {
     "id":127,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Dabble In Truffles"
+    "title":"Dabble In Truffles",
+    "favourite":""
   },
   {
     "id":128,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Growin Up"
+    "title":"Growin Up",
+    "favourite":""
   },
   {
     "id":129,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Mofongo"
+    "title":"Mofongo",
+    "favourite":""
   },
   {
     "id":130,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Fuck Me Till I Die"
+    "title":"Fuck Me Till I Die",
+    "favourite":""
   },
   {
     "id":131,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Borderline"
+    "title":"Borderline",
+    "favourite":""
   },
   {
     "id":132,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Eastern Promises"
+    "title":"Eastern Promises",
+    "favourite":""
   },
   {
     "id":133,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"85 Barritz BRO-HAM"
+    "title":"85 Barritz BRO-HAM",
+    "favourite":""
   },
   {
     "id":134,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Body Language"
+    "title":"Body Language",
+    "favourite":""
   },
   {
     "id":135,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Aged Manchego"
+    "title":"Aged Manchego",
+    "favourite":""
   },
   {
     "id":136,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Albino Gorilla"
+    "title":"Albino Gorilla",
+    "favourite":""
   },
   {
     "id":137,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Roasted Bone Marrow"
+    "title":"Roasted Bone Marrow",
+    "favourite":""
   },
   {
     "id":138,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Get Off The P.P."
+    "title":"Get Off The P.P.",
+    "favourite":""
   },
   {
     "id":139,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Tango & Cash"
+    "title":"Tango & Cash",
+    "favourite":""
   },
   {
     "id":140,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Shape Shifters"
+    "title":"Shape Shifters",
+    "favourite":""
   },
   {
     "id":141,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Night Court"
+    "title":"Night Court",
+    "favourite":""
   },
   {
     "id":142,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Ceviche"
+    "title":"Ceviche",
+    "favourite":""
   },
   {
     "id":143,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Black Rain"
+    "title":"Black Rain",
+    "favourite":""
   },
   {
     "id":144,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Double Impact"
+    "title":"Double Impact",
+    "favourite":""
   },
   {
     "id":145,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"The Team"
+    "title":"The Team",
+    "favourite":""
   },
   {
     "id":146,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Marijuana Bronson"
+    "title":"Marijuana Bronson",
+    "favourite":""
   },
   {
     "id":147,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Shorty Bop With A Hook"
+    "title":"Shorty Bop With A Hook",
+    "favourite":""
   },
   {
     "id":148,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Friendly Fire"
+    "title":"Friendly Fire",
+    "favourite":""
   },
   {
     "id":149,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Bronson Hard Lemonade"
+    "title":"Bronson Hard Lemonade",
+    "favourite":""
   },
   {
     "id":150,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"I Remember"
+    "title":"I Remember",
+    "favourite":""
   },
   {
     "id":151,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Amuse Pusche"
+    "title":"Amuse Pusche",
+    "favourite":""
   },
   {
     "id":152,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"On The Real"
+    "title":"On The Real",
+    "favourite":""
   },
   {
     "id":153,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Re-Elect Dinkins"
+    "title":"Re-Elect Dinkins",
+    "favourite":""
   },
   {
     "id":154,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Chilli Chicken Hakka Style"
+    "title":"Chilli Chicken Hakka Style",
+    "favourite":""
   },
   {
     "id":155,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Moonstruck"
+    "title":"Moonstruck",
+    "favourite":""
   },
   {
     "id":156,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Barry Horowitz"
+    "title":"Barry Horowitz",
+    "favourite":""
   },
   {
     "id":157,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"The Madness"
+    "title":"The Madness",
+    "favourite":""
   },
   {
     "id":158,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Larry Csonka"
+    "title":"Larry Csonka",
+    "favourite":""
   },
   {
     "id":159,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Ronnie Coleman"
+    "title":"Ronnie Coleman",
+    "favourite":""
   },
   {
     "id":160,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Bag of Money Ft. Meyhem Lauren"
+    "title":"Bag of Money Ft. Meyhem Lauren",
+    "favourite":""
   },
   {
     "id":161,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Brunch"
+    "title":"Brunch",
+    "favourite":""
   },
   {
     "id":162,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Shiraz"
+    "title":"Shiraz",
+    "favourite":""
   },
   {
     "id":163,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Buddy Guy"
+    "title":"Buddy Guy",
+    "favourite":""
   },
   {
     "id":164,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Jerk Chicken Ft. Maffew Ragazino"
+    "title":"Jerk Chicken Ft. Maffew Ragazino",
+    "favourite":""
   },
   {
     "id":165,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Chuck Person Ft. Meyhem Lauren, S"
+    "title":"Chuck Person Ft. Meyhem Lauren, S",
+    "favourite":""
   },
   {
     "id":166,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Forbidden Fruit"
+    "title":"Forbidden Fruit",
+    "favourite":""
   },
   {
     "id":167,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Suede Ft. Meyhem Lauren, Shaz Ill"
+    "title":"Suede Ft. Meyhem Lauren, Shaz Ill",
+    "favourite":""
   },
   {
     "id":168,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Get Off My P.P."
+    "title":"Get Off My P.P.",
+    "favourite":""
   },
   {
     "id":169,
     "artist":"Action Bronson",
     "genre":"HipHop",
-    "title":"Beautiful Music"
+    "title":"Beautiful Music",
+    "favourite":""
   },
   {
     "id":170,
     "artist":"Action Bronson & Statik Selektah",
     "genre":"HipHop",
-    "title":"Respect The Mustoche"
+    "title":"Respect The Mustoche",
+    "favourite":""
   },
   {
     "id":171,
     "artist":"Action Bronson & Statik Selektah",
     "genre":"HipHop",
-    "title":"Time For Some Ft. Lil Fame"
+    "title":"Time For Some Ft. Lil Fame",
+    "favourite":""
   },
   {
     "id":172,
     "artist":"Action Bronson & Statik Selektah",
     "genre":"HipHop",
-    "title":"Cocoo Butter Ft. Nina Sky"
+    "title":"Cocoo Butter Ft. Nina Sky",
+    "favourite":""
   },
   {
     "id":173,
     "artist":"Action Bronson & Statik Selektah",
     "genre":"HipHop",
-    "title":"White Silk"
+    "title":"White Silk",
+    "favourite":""
   },
   {
     "id":174,
     "artist":"Action Bronson & Statik Selektah",
     "genre":"HipHop",
-    "title":"Keep Off The Grass"
+    "title":"Keep Off The Grass",
+    "favourite":""
   },
   {
     "id":175,
     "artist":"Action Bronson & Statik Selektah",
     "genre":"HipHop",
-    "title":"The Stick Up"
+    "title":"The Stick Up",
+    "favourite":""
   },
   {
     "id":176,
     "artist":"Action Bronson & Statik Selektah",
     "genre":"HipHop",
-    "title":"Central Bookings Ft. Meyham Laure"
+    "title":"Central Bookings Ft. Meyham Laure",
+    "favourite":""
   },
   {
     "id":177,
     "artist":"Action Bronson & Statik Selektah",
     "genre":"HipHop",
-    "title":"Cirque Du Soleil"
+    "title":"Cirque Du Soleil",
+    "favourite":""
   },
   {
     "id":178,
     "artist":"Action Bronson & Statik Selektah",
     "genre":"HipHop",
-    "title":"The Rainmaker"
+    "title":"The Rainmaker",
+    "favourite":""
   },
   {
     "id":179,
     "artist":"Action Bronson & Statik Selektah",
     "genre":"HipHop",
-    "title":"Love Letter"
+    "title":"Love Letter",
+    "favourite":"yes"
   },
   {
     "id":180,
     "artist":"Action Bronson & Statik Selektah",
     "genre":"HipHop",
-    "title":"Not Enough Words"
+    "title":"Not Enough Words",
+    "favourite":""
   },
   {
     "id":181,
     "artist":"Action Bronson & Statik Selektah",
     "genre":"HipHop",
-    "title":"Terror Death Camp Ft. Meyham Laur"
+    "title":"Terror Death Camp Ft. Meyham Laur",
+    "favourite":""
   },
   {
     "id":182,
     "artist":"Action Bronson & Statik Selektah",
     "genre":"HipHop",
-    "title":"Miss Fordham Road (86 87 88)"
+    "title":"Miss Fordham Road (86 87 88)",
+    "favourite":""
   },
   {
     "id":183,
     "artist":"Action Bronson & Statik Selektah",
     "genre":"HipHop",
-    "title":"Cliff Notes"
+    "title":"Cliff Notes",
+    "favourite":""
   },
   {
     "id":184,
     "artist":"Action Bronson & Statik Selektah",
     "genre":"HipHop",
-    "title":"Bon Voyage"
+    "title":"Bon Voyage",
+    "favourite":""
   },
   {
     "id":185,
     "artist":"AC_DC",
     "genre":"Classic Rock",
-    "title":"Let There Be Rock"
+    "title":"Let There Be Rock",
+    "favourite":""
   },
   {
     "id":186,
     "artist":"AC_DC",
     "genre":"Classic Rock",
-    "title":"Dirty Deeds Done Dirt Cheap"
+    "title":"Dirty Deeds Done Dirt Cheap",
+    "favourite":""
   },
   {
     "id":187,
     "artist":"AC_DC",
     "genre":"Classic Rock",
-    "title":"Big Gun"
+    "title":"Big Gun",
+    "favourite":""
   },
   {
     "id":188,
     "artist":"AC_DC",
     "genre":"Classic Rock",
-    "title":"The Jack"
+    "title":"The Jack",
+    "favourite":""
   },
   {
     "id":189,
     "artist":"AC_DC",
     "genre":"Classic Rock",
-    "title":"Heatseeker"
+    "title":"Heatseeker",
+    "favourite":""
   },
   {
     "id":190,
     "artist":"AC_DC",
     "genre":"Classic Rock",
-    "title":"Jailbreak"
+    "title":"Jailbreak",
+    "favourite":""
   },
   {
     "id":191,
     "artist":"AC_DC",
     "genre":"Classic Rock",
-    "title":"You Shook Me All Night Long"
+    "title":"You Shook Me All Night Long",
+    "favourite":""
   },
   {
     "id":192,
     "artist":"AC_DC",
     "genre":"Classic Rock",
-    "title":"Rock 'N' Roll Damnation"
+    "title":"Rock 'N' Roll Damnation",
+    "favourite":""
   },
   {
     "id":193,
     "artist":"AC_DC",
     "genre":"Classic Rock",
-    "title":"Shake Your Foundations"
+    "title":"Shake Your Foundations",
+    "favourite":""
   },
   {
     "id":194,
     "artist":"AC_DC",
     "genre":"Classic Rock",
-    "title":"T.N.T."
+    "title":"T.N.T.",
+    "favourite":""
   },
   {
     "id":195,
     "artist":"AC_DC",
     "genre":"Classic Rock",
-    "title":"Who Made Who"
+    "title":"Who Made Who",
+    "favourite":""
   },
   {
     "id":196,
     "artist":"AC_DC",
     "genre":"Classic Rock",
-    "title":"Highway To Hell"
+    "title":"Highway To Hell",
+    "favourite":""
   },
   {
     "id":197,
     "artist":"AC_DC",
     "genre":"Classic Rock",
-    "title":"Whole Lotta Rosie"
+    "title":"Whole Lotta Rosie",
+    "favourite":""
   },
   {
     "id":198,
     "artist":"AC_DC",
     "genre":"Classic Rock",
-    "title":"For These About To Rock (We Salut"
+    "title":"For These About To Rock (We Salut",
+    "favourite":""
   },
   {
     "id":199,
     "artist":"AC_DC",
     "genre":"Classic Rock",
-    "title":"Big Balls"
+    "title":"Big Balls",
+    "favourite":""
   },
   {
     "id":200,
     "artist":"AC_DC",
     "genre":"Classic Rock",
-    "title":"Rocker"
+    "title":"Rocker",
+    "favourite":""
   },
   {
     "id":201,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Water"
+    "title":"Water",
+    "favourite":""
   },
   {
     "id":202,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Wise Up"
+    "title":"Wise Up",
+    "favourite":""
   },
   {
     "id":203,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"The Active Element"
+    "title":"The Active Element",
+    "favourite":""
   },
   {
     "id":204,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"The Tugboat Complex"
+    "title":"The Tugboat Complex",
+    "favourite":""
   },
   {
     "id":205,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Bad Karma"
+    "title":"Bad Karma",
+    "favourite":""
   },
   {
     "id":206,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Take Me to the Basement"
+    "title":"Take Me to the Basement",
+    "favourite":""
   },
   {
     "id":207,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Blacklist (feat. MF Doom)"
+    "title":"Blacklist (feat. MF Doom)",
+    "favourite":""
   },
   {
     "id":208,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Sinister (feat. Vast Aire & Yesh)"
+    "title":"Sinister (feat. Vast Aire & Yesh)",
+    "favourite":"yes"
   },
   {
     "id":209,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Helium (feat. Vordul)"
+    "title":"Helium (feat. Vordul)",
+    "favourite":""
   },
   {
     "id":210,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Dragon Coaster (feat. Mojo)"
+    "title":"Dragon Coaster (feat. Mojo)",
+    "favourite":""
   },
   {
     "id":211,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Inner City Hustle [Wakin'] (feat."
+    "title":"Inner City Hustle [Wakin'] (feat.",
+    "favourite":""
   },
   {
     "id":212,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Tap Dancin' for Scratch (feat. Va"
+    "title":"Tap Dancin' for Scratch (feat. Va",
+    "favourite":""
   },
   {
     "id":213,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Put Your Quarters Up (feat. Slug"
+    "title":"Put Your Quarters Up (feat. Slug",
+    "favourite":""
   },
   {
     "id":214,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Home Again (feat. The Controls)"
+    "title":"Home Again (feat. The Controls)",
+    "favourite":""
   },
   {
     "id":215,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Coma [remix]"
+    "title":"Coma [remix]",
+    "favourite":""
   },
   {
     "id":216,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Atlantis (feat. Mojo)"
+    "title":"Atlantis (feat. Mojo)",
+    "favourite":""
   },
   {
     "id":217,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Bad Summeritan"
+    "title":"Bad Summeritan",
+    "favourite":""
   },
   {
     "id":218,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Commencement at the Obedience Aca"
+    "title":"Commencement at the Obedience Aca",
+    "favourite":""
   },
   {
     "id":219,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Accapella [Live at the El-Ray]"
+    "title":"Accapella [Live at the El-Ray]",
+    "favourite":""
   },
   {
     "id":220,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Fishtales"
+    "title":"Fishtales",
+    "favourite":""
   },
   {
     "id":221,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Face Melter"
+    "title":"Face Melter",
+    "favourite":""
   },
   {
     "id":222,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Numb [To the Guns]"
+    "title":"Numb [To the Guns]",
+    "favourite":""
   },
   {
     "id":223,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Sniff Glue"
+    "title":"Sniff Glue",
+    "favourite":""
   },
   {
     "id":224,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Crooked"
+    "title":"Crooked",
+    "favourite":""
   },
   {
     "id":225,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Sabbatical with Options"
+    "title":"Sabbatical with Options",
+    "favourite":""
   },
   {
     "id":226,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Kill Switch"
+    "title":"Kill Switch",
+    "favourite":""
   },
   {
     "id":227,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Jet Son"
+    "title":"Jet Son",
+    "favourite":""
   },
   {
     "id":228,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Train Buffer"
+    "title":"Train Buffer",
+    "favourite":""
   },
   {
     "id":229,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Ace Rocks"
+    "title":"Ace Rocks",
+    "favourite":""
   },
   {
     "id":230,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"All in All"
+    "title":"All in All",
+    "favourite":""
   },
   {
     "id":231,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Kill Em All"
+    "title":"Kill Em All",
+    "favourite":""
   },
   {
     "id":232,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Junkyard"
+    "title":"Junkyard",
+    "favourite":""
   },
   {
     "id":233,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Preservation (feat. Del the Funky"
+    "title":"Preservation (feat. Del the Funky",
+    "favourite":""
   },
   {
     "id":234,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Deadpan"
+    "title":"Deadpan",
+    "favourite":""
   },
   {
     "id":235,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"One of Four"
+    "title":"One of Four",
+    "favourite":""
   },
   {
     "id":236,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Kill Em All [Rjd2 remix]"
+    "title":"Kill Em All [Rjd2 remix]",
+    "favourite":""
   },
   {
     "id":237,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"No Jumper Cables [remix]"
+    "title":"No Jumper Cables [remix]",
+    "favourite":""
   },
   {
     "id":238,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Train Buffer [remix]"
+    "title":"Train Buffer [remix]",
+    "favourite":""
   },
   {
     "id":239,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Encounter"
+    "title":"Encounter",
+    "favourite":""
   },
   {
     "id":240,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Float"
+    "title":"Float",
+    "favourite":""
   },
   {
     "id":241,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Commencement At The Obediance Aca"
+    "title":"Commencement At The Obediance Aca",
+    "favourite":""
   },
   {
     "id":242,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Big Bang"
+    "title":"Big Bang",
+    "favourite":""
   },
   {
     "id":243,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Garbage"
+    "title":"Garbage",
+    "favourite":""
   },
   {
     "id":244,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"I'll Be Ok (Featuring Slug)"
+    "title":"I'll Be Ok (Featuring Slug)",
+    "favourite":""
   },
   {
     "id":245,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Breakfast With Blockhead"
+    "title":"Breakfast With Blockhead",
+    "favourite":""
   },
   {
     "id":246,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Basic Cable"
+    "title":"Basic Cable",
+    "favourite":""
   },
   {
     "id":247,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Fascination"
+    "title":"Fascination",
+    "favourite":""
   },
   {
     "id":248,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Oxygen"
+    "title":"Oxygen",
+    "favourite":""
   },
   {
     "id":249,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Skip Town"
+    "title":"Skip Town",
+    "favourite":""
   },
   {
     "id":250,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"6B Panamara"
+    "title":"6B Panamara",
+    "favourite":""
   },
   {
     "id":251,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Lunch With Blockhead"
+    "title":"Lunch With Blockhead",
+    "favourite":""
   },
   {
     "id":252,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Spare A Match"
+    "title":"Spare A Match",
+    "favourite":"yes"
   },
   {
     "id":253,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Attentoin Span (Featuring Vast Ai"
+    "title":"Attentoin Span (Featuring Vast Ai",
+    "favourite":""
   },
   {
     "id":254,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"How To Be A Carpenter"
+    "title":"How To Be A Carpenter",
+    "favourite":""
   },
   {
     "id":255,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Prosperity"
+    "title":"Prosperity",
+    "favourite":""
   },
   {
     "id":256,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"No Splash"
+    "title":"No Splash",
+    "favourite":""
   },
   {
     "id":257,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Drawbridge (Featuring Dose One)"
+    "title":"Drawbridge (Featuring Dose One)",
+    "favourite":""
   },
   {
     "id":258,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"Dinner With Blockhead"
+    "title":"Dinner With Blockhead",
+    "favourite":""
   },
   {
     "id":259,
     "artist":"Aesop Rock",
     "genre":"HipHop",
-    "title":"The Mayor And The Crook"
+    "title":"The Mayor And The Crook",
+    "favourite":""
   },
   {
     "id":260,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Two Of A Kind"
+    "title":"Two Of A Kind",
+    "favourite":""
   },
   {
     "id":261,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Half-Empty Bottle"
+    "title":"Half-Empty Bottle",
+    "favourite":""
   },
   {
     "id":262,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Y?rf Rendernmein"
+    "title":"Y?rf Rendernmein",
+    "favourite":""
   },
   {
     "id":263,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"I Wanna Get a Mohawk (But Mom"
+    "title":"I Wanna Get a Mohawk (But Mom",
+    "favourite":""
   },
   {
     "id":264,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Brownie Bottom Sundae"
+    "title":"Brownie Bottom Sundae",
+    "favourite":""
   },
   {
     "id":265,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"The Checkered Demon"
+    "title":"The Checkered Demon",
+    "favourite":""
   },
   {
     "id":266,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Cereal Wars"
+    "title":"Cereal Wars",
+    "favourite":""
   },
   {
     "id":267,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"The Mother In Me"
+    "title":"The Mother In Me",
+    "favourite":""
   },
   {
     "id":268,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Rizzo In The Box"
+    "title":"Rizzo In The Box",
+    "favourite":""
   },
   {
     "id":269,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Kung-Fu Devil"
+    "title":"Kung-Fu Devil",
+    "favourite":""
   },
   {
     "id":270,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Your Name Here"
+    "title":"Your Name Here",
+    "favourite":""
   },
   {
     "id":271,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Ny-Quil"
+    "title":"Ny-Quil",
+    "favourite":""
   },
   {
     "id":272,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Don't Make Me Ill"
+    "title":"Don't Make Me Ill",
+    "favourite":""
   },
   {
     "id":273,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Open Your Eyes - High School F"
+    "title":"Open Your Eyes - High School F",
+    "favourite":""
   },
   {
     "id":274,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Strength Through Wounding"
+    "title":"Strength Through Wounding",
+    "favourite":""
   },
   {
     "id":275,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Porphyria"
+    "title":"Porphyria",
+    "favourite":""
   },
   {
     "id":276,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Exsanguination"
+    "title":"Exsanguination",
+    "favourite":""
   },
   {
     "id":277,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Malleus Maleficarum"
+    "title":"Malleus Maleficarum",
+    "favourite":""
   },
   {
     "id":278,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Narrative Of Soul Against Soul"
+    "title":"Narrative Of Soul Against Soul",
+    "favourite":""
   },
   {
     "id":279,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Clove Smoke Catharsis"
+    "title":"Clove Smoke Catharsis",
+    "favourite":""
   },
   {
     "id":280,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"The Prayer Position"
+    "title":"The Prayer Position",
+    "favourite":""
   },
   {
     "id":281,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"No Poetic Device"
+    "title":"No Poetic Device",
+    "favourite":""
   },
   {
     "id":282,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Weathered Tome"
+    "title":"Weathered Tome",
+    "favourite":""
   },
   {
     "id":283,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"The Last Kiss"
+    "title":"The Last Kiss",
+    "favourite":""
   },
   {
     "id":284,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"At A Glance"
+    "title":"At A Glance",
+    "favourite":""
   },
   {
     "id":285,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"God Called In Sick Today"
+    "title":"God Called In Sick Today",
+    "favourite":""
   },
   {
     "id":286,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Prelude 12_21"
+    "title":"Prelude 12_21",
+    "favourite":""
   },
   {
     "id":287,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Kill Caustic"
+    "title":"Kill Caustic",
+    "favourite":""
   },
   {
     "id":288,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Miss Murder"
+    "title":"Miss Murder",
+    "favourite":""
   },
   {
     "id":289,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Summer Shudder"
+    "title":"Summer Shudder",
+    "favourite":""
   },
   {
     "id":290,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"The Interview"
+    "title":"The Interview",
+    "favourite":""
   },
   {
     "id":291,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Love Like Winter"
+    "title":"Love Like Winter",
+    "favourite":""
   },
   {
     "id":292,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Affliction"
+    "title":"Affliction",
+    "favourite":""
   },
   {
     "id":293,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"The Missing Frame"
+    "title":"The Missing Frame",
+    "favourite":""
   },
   {
     "id":294,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Kiss And Control"
+    "title":"Kiss And Control",
+    "favourite":""
   },
   {
     "id":295,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"The Killing Lights"
+    "title":"The Killing Lights",
+    "favourite":"yes"
   },
   {
     "id":296,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"37mm"
+    "title":"37mm",
+    "favourite":""
   },
   {
     "id":297,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Endlessly She Said"
+    "title":"Endlessly She Said",
+    "favourite":""
   },
   {
     "id":298,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Don't Change [Bonus Track] (INXS"
+    "title":"Don't Change [Bonus Track] (INXS",
+    "favourite":""
   },
   {
     "id":299,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Jack The Ripper [Bonus Track] (Mo"
+    "title":"Jack The Ripper [Bonus Track] (Mo",
+    "favourite":""
   },
   {
     "id":300,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"On The Arrow [Bonus Track]"
+    "title":"On The Arrow [Bonus Track]",
+    "favourite":""
   },
   {
     "id":301,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Fallen Like The Sky [Bonus Track]"
+    "title":"Fallen Like The Sky [Bonus Track]",
+    "favourite":""
   },
   {
     "id":302,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Keeping Out Of Direct Sunlight"
+    "title":"Keeping Out Of Direct Sunlight",
+    "favourite":""
   },
   {
     "id":303,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Three Reasons"
+    "title":"Three Reasons",
+    "favourite":""
   },
   {
     "id":304,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"A Single Second"
+    "title":"A Single Second",
+    "favourite":""
   },
   {
     "id":305,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"pH Low"
+    "title":"pH Low",
+    "favourite":""
   },
   {
     "id":306,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Let It Be Broke"
+    "title":"Let It Be Broke",
+    "favourite":""
   },
   {
     "id":307,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Third Season"
+    "title":"Third Season",
+    "favourite":""
   },
   {
     "id":308,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Lower Your Head And Take It In"
+    "title":"Lower Your Head And Take It In",
+    "favourite":""
   },
   {
     "id":309,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Coin Return"
+    "title":"Coin Return",
+    "favourite":""
   },
   {
     "id":310,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"The New Patron Saints And Ange"
+    "title":"The New Patron Saints And Ange",
+    "favourite":""
   },
   {
     "id":311,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Three Seconds Notice"
+    "title":"Three Seconds Notice",
+    "favourite":""
   },
   {
     "id":312,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Salt For Your Wounds"
+    "title":"Salt For Your Wounds",
+    "favourite":""
   },
   {
     "id":313,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Today's Lesson"
+    "title":"Today's Lesson",
+    "favourite":""
   },
   {
     "id":314,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"The Devil Loves You"
+    "title":"The Devil Loves You",
+    "favourite":""
   },
   {
     "id":315,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Triple Zero"
+    "title":"Triple Zero",
+    "favourite":""
   },
   {
     "id":316,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Miseria Cantare (The Beginning"
+    "title":"Miseria Cantare (The Beginning",
+    "favourite":""
   },
   {
     "id":317,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"The Leaving Song Pt. 2-Fnt"
+    "title":"The Leaving Song Pt. 2-Fnt",
+    "favourite":""
   },
   {
     "id":318,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Bleed Black-Fnt"
+    "title":"Bleed Black-Fnt",
+    "favourite":""
   },
   {
     "id":319,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Silver And Cold-Fnt"
+    "title":"Silver And Cold-Fnt",
+    "favourite":""
   },
   {
     "id":320,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Dancing Through Sunday-Fnt"
+    "title":"Dancing Through Sunday-Fnt",
+    "favourite":""
   },
   {
     "id":321,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Girls Not Grey-Fnt"
+    "title":"Girls Not Grey-Fnt",
+    "favourite":""
   },
   {
     "id":322,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Death Of Seasons-Fnt"
+    "title":"Death Of Seasons-Fnt",
+    "favourite":""
   },
   {
     "id":323,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"The Great Disappointment-Fnt"
+    "title":"The Great Disappointment-Fnt",
+    "favourite":""
   },
   {
     "id":324,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Paper Airplanes (Makeshift Win"
+    "title":"Paper Airplanes (Makeshift Win",
+    "favourite":""
   },
   {
     "id":325,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"This Celluloid Dream-Fnt"
+    "title":"This Celluloid Dream-Fnt",
+    "favourite":""
   },
   {
     "id":326,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"The Leaving Song-Fnt"
+    "title":"The Leaving Song-Fnt",
+    "favourite":""
   },
   {
     "id":327,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"But Home Is Nowhere-Fnt"
+    "title":"But Home Is Nowhere-Fnt",
+    "favourite":""
   },
   {
     "id":328,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Initiation"
+    "title":"Initiation",
+    "favourite":""
   },
   {
     "id":329,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"The Lost Souls"
+    "title":"The Lost Souls",
+    "favourite":""
   },
   {
     "id":330,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"The Nephilim"
+    "title":"The Nephilim",
+    "favourite":""
   },
   {
     "id":331,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Ever And A Day"
+    "title":"Ever And A Day",
+    "favourite":""
   },
   {
     "id":332,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Sacrifice Theory"
+    "title":"Sacrifice Theory",
+    "favourite":""
   },
   {
     "id":333,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Of Greetings And Goodbyes"
+    "title":"Of Greetings And Goodbyes",
+    "favourite":""
   },
   {
     "id":334,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Smile"
+    "title":"Smile",
+    "favourite":""
   },
   {
     "id":335,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Story At Three"
+    "title":"Story At Three",
+    "favourite":""
   },
   {
     "id":336,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"The Days Of The Pheonix"
+    "title":"The Days Of The Pheonix",
+    "favourite":""
   },
   {
     "id":337,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Catch A Hot One"
+    "title":"Catch A Hot One",
+    "favourite":""
   },
   {
     "id":338,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Wester"
+    "title":"Wester",
+    "favourite":""
   },
   {
     "id":339,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"6 To 8"
+    "title":"6 To 8",
+    "favourite":""
   },
   {
     "id":340,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"The Despair Factor"
+    "title":"The Despair Factor",
+    "favourite":"yes"
   },
   {
     "id":341,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Morningstar"
+    "title":"Morningstar",
+    "favourite":""
   },
   {
     "id":342,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"He Who Laughs Last"
+    "title":"He Who Laughs Last",
+    "favourite":""
   },
   {
     "id":343,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"File 13"
+    "title":"File 13",
+    "favourite":""
   },
   {
     "id":344,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Wake Up Call"
+    "title":"Wake Up Call",
+    "favourite":""
   },
   {
     "id":345,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Cult Status"
+    "title":"Cult Status",
+    "favourite":""
   },
   {
     "id":346,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Perfect Fit"
+    "title":"Perfect Fit",
+    "favourite":""
   },
   {
     "id":347,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Advances In Modern Technology"
+    "title":"Advances In Modern Technology",
+    "favourite":""
   },
   {
     "id":348,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Theory Of Revolution"
+    "title":"Theory Of Revolution",
+    "favourite":""
   },
   {
     "id":349,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"This Secret Ninja"
+    "title":"This Secret Ninja",
+    "favourite":""
   },
   {
     "id":350,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Soap Box Derby"
+    "title":"Soap Box Derby",
+    "favourite":""
   },
   {
     "id":351,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Aspirin Free"
+    "title":"Aspirin Free",
+    "favourite":""
   },
   {
     "id":352,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Fishbowl"
+    "title":"Fishbowl",
+    "favourite":""
   },
   {
     "id":353,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Charles Atlas"
+    "title":"Charles Atlas",
+    "favourite":""
   },
   {
     "id":354,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Crop Tub"
+    "title":"Crop Tub",
+    "favourite":""
   },
   {
     "id":355,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Consult My Lover"
+    "title":"Consult My Lover",
+    "favourite":""
   },
   {
     "id":356,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Take The Test"
+    "title":"Take The Test",
+    "favourite":""
   },
   {
     "id":357,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Two Of A Kind"
+    "title":"Two Of A Kind",
+    "favourite":""
   },
   {
     "id":358,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Shatty Fatmas"
+    "title":"Shatty Fatmas",
+    "favourite":""
   },
   {
     "id":359,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Y?rf Rendernmein"
+    "title":"Y?rf Rendernmein",
+    "favourite":""
   },
   {
     "id":360,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Cruise Control"
+    "title":"Cruise Control",
+    "favourite":""
   },
   {
     "id":361,
     "artist":"AFI",
     "genre":"Punk",
-    "title":"Modern Epidemic"
+    "title":"Modern Epidemic",
+    "favourite":""
   },
   {
     "id":362,
     "artist":"Akon",
     "genre":"HipHop",
-    "title":"Gansta Bop"
+    "title":"Gansta Bop",
+    "favourite":""
   },
   {
     "id":363,
     "artist":"Akon",
     "genre":"HipHop",
-    "title":"Smack That Ft Eminem"
+    "title":"Smack That Ft Eminem",
+    "favourite":""
   },
   {
     "id":364,
     "artist":"Akon",
     "genre":"HipHop",
-    "title":"Blown Away Ft Styles P"
+    "title":"Blown Away Ft Styles P",
+    "favourite":""
   },
   {
     "id":365,
     "artist":"Akon",
     "genre":"HipHop",
-    "title":"I Wanna Fuck You Ft Snoop Dog"
+    "title":"I Wanna Fuck You Ft Snoop Dog",
+    "favourite":""
   },
   {
     "id":366,
     "artist":"Akon",
     "genre":"HipHop",
-    "title":"Be Easy Ft Gage"
+    "title":"Be Easy Ft Gage",
+    "favourite":""
   },
   {
     "id":367,
     "artist":"Akon",
     "genre":"HipHop",
-    "title":"Me Myself & I"
+    "title":"Me Myself & I",
+    "favourite":""
   },
   {
     "id":368,
     "artist":"Akon",
     "genre":"HipHop",
-    "title":"You Dont Want It"
+    "title":"You Dont Want It",
+    "favourite":""
   },
   {
     "id":369,
     "artist":"Akon",
     "genre":"HipHop",
-    "title":"Cross That Line Ft Rick Ross"
+    "title":"Cross That Line Ft Rick Ross",
+    "favourite":"yes"
   },
   {
     "id":370,
     "artist":"Akon",
     "genre":"HipHop",
-    "title":"Girls Ft Beenie Man"
+    "title":"Girls Ft Beenie Man",
+    "favourite":""
   },
   {
     "id":371,
     "artist":"Akon",
     "genre":"HipHop",
-    "title":"Keep On Calling Ft P Money"
+    "title":"Keep On Calling Ft P Money",
+    "favourite":""
   },
   {
     "id":372,
     "artist":"Akon",
     "genre":"HipHop",
-    "title":"Moonshine Ft Savage"
+    "title":"Moonshine Ft Savage",
+    "favourite":""
   },
   {
     "id":373,
     "artist":"Akon",
     "genre":"HipHop",
-    "title":"Go To War Ft Papoose"
+    "title":"Go To War Ft Papoose",
+    "favourite":""
   },
   {
     "id":374,
     "artist":"Akon",
     "genre":"HipHop",
-    "title":"So Fly Ft Blewz"
+    "title":"So Fly Ft Blewz",
+    "favourite":""
   },
   {
     "id":375,
     "artist":"Akon",
     "genre":"HipHop",
-    "title":"Ride Out Ft Tru-Life"
+    "title":"Ride Out Ft Tru-Life",
+    "favourite":""
   },
   {
     "id":376,
     "artist":"Akon",
     "genre":"HipHop",
-    "title":"Dont Let Up"
+    "title":"Dont Let Up",
+    "favourite":""
   },
   {
     "id":377,
     "artist":"Akon",
     "genre":"HipHop",
-    "title":"Gun In Hand Ft Booba"
+    "title":"Gun In Hand Ft Booba",
+    "favourite":""
   },
   {
     "id":378,
     "artist":"Akon",
     "genre":"HipHop",
-    "title":"U Got Me Ft T-Pain"
+    "title":"U Got Me Ft T-Pain",
+    "favourite":""
   },
   {
     "id":379,
     "artist":"Akon",
     "genre":"HipHop",
-    "title":"Look Me In My Eyes Ft Blast"
+    "title":"Look Me In My Eyes Ft Blast",
+    "favourite":""
   },
   {
     "id":380,
     "artist":"Akon",
     "genre":"HipHop",
-    "title":"On Da Corner-Outro Ft Fat Joe And"
+    "title":"On Da Corner-Outro Ft Fat Joe And",
+    "favourite":""
   },
   {
     "id":381,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"What's The Big Deal About Bauhaus"
+    "title":"What's The Big Deal About Bauhaus",
+    "favourite":""
   },
   {
     "id":382,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Music That Mattered 25-23"
+    "title":"Music That Mattered 25-23",
+    "favourite":""
   },
   {
     "id":383,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Music That Mattered 22 & 21"
+    "title":"Music That Mattered 22 & 21",
+    "favourite":""
   },
   {
     "id":384,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Music That Mattered 20 & 19"
+    "title":"Music That Mattered 20 & 19",
+    "favourite":""
   },
   {
     "id":385,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Music That Mattered 18 & 17"
+    "title":"Music That Mattered 18 & 17",
+    "favourite":""
   },
   {
     "id":386,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Music That Mattered 16 & 15"
+    "title":"Music That Mattered 16 & 15",
+    "favourite":""
   },
   {
     "id":387,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Music That Mattered 14 & 13"
+    "title":"Music That Mattered 14 & 13",
+    "favourite":""
   },
   {
     "id":388,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Music That Mattered 12 & 11"
+    "title":"Music That Mattered 12 & 11",
+    "favourite":""
   },
   {
     "id":389,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Music That Mattered 10 & 9"
+    "title":"Music That Mattered 10 & 9",
+    "favourite":""
   },
   {
     "id":390,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Music That Mattered 8 & 7"
+    "title":"Music That Mattered 8 & 7",
+    "favourite":""
   },
   {
     "id":391,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Music That Mattered 6 & 5"
+    "title":"Music That Mattered 6 & 5",
+    "favourite":""
   },
   {
     "id":392,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Music That Mattered 4"
+    "title":"Music That Mattered 4",
+    "favourite":""
   },
   {
     "id":393,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Music That Mattered 3"
+    "title":"Music That Mattered 3",
+    "favourite":""
   },
   {
     "id":394,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Music That Mattered 2"
+    "title":"Music That Mattered 2",
+    "favourite":""
   },
   {
     "id":395,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Music That Mattered 1"
+    "title":"Music That Mattered 1",
+    "favourite":""
   },
   {
     "id":396,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Electronica Part 1"
+    "title":"Electronica Part 1",
+    "favourite":""
   },
   {
     "id":397,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Electronica Part 2"
+    "title":"Electronica Part 2",
+    "favourite":""
   },
   {
     "id":398,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Electronica Part 3"
+    "title":"Electronica Part 3",
+    "favourite":""
   },
   {
     "id":399,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Electronica Part 4"
+    "title":"Electronica Part 4",
+    "favourite":""
   },
   {
     "id":400,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The Impact Of The Music Video"
+    "title":"The Impact Of The Music Video",
+    "favourite":""
   },
   {
     "id":401,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Monsters Of New Rock Foo Fighters"
+    "title":"Monsters Of New Rock Foo Fighters",
+    "favourite":""
   },
   {
     "id":402,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Monsters Of New Rock The Offsprin"
+    "title":"Monsters Of New Rock The Offsprin",
+    "favourite":"yes"
   },
   {
     "id":403,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Monsters Of New Rock_ Blink 182"
+    "title":"Monsters Of New Rock_ Blink 182",
+    "favourite":""
   },
   {
     "id":404,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Monsters Of New Rock_ Foo Fighter"
+    "title":"Monsters Of New Rock_ Foo Fighter",
+    "favourite":""
   },
   {
     "id":405,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Monsters Of New Rock_ Green Day"
+    "title":"Monsters Of New Rock_ Green Day",
+    "favourite":""
   },
   {
     "id":406,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Monsters Of New Rock_ Kid Rock"
+    "title":"Monsters Of New Rock_ Kid Rock",
+    "favourite":""
   },
   {
     "id":407,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Monsters Of New Rock_ Limp Bizkit"
+    "title":"Monsters Of New Rock_ Limp Bizkit",
+    "favourite":""
   },
   {
     "id":408,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Monsters Of New Rock_ Radiohead"
+    "title":"Monsters Of New Rock_ Radiohead",
+    "favourite":""
   },
   {
     "id":409,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Monsters Of New Rock_ Red Hot Chi"
+    "title":"Monsters Of New Rock_ Red Hot Chi",
+    "favourite":""
   },
   {
     "id":410,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Payola"
+    "title":"Payola",
+    "favourite":""
   },
   {
     "id":411,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The Producers, Part 1"
+    "title":"The Producers, Part 1",
+    "favourite":""
   },
   {
     "id":412,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The Reunions Return!"
+    "title":"The Reunions Return!",
+    "favourite":""
   },
   {
     "id":413,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The Stone Roses"
+    "title":"The Stone Roses",
+    "favourite":""
   },
   {
     "id":414,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Tool"
+    "title":"Tool",
+    "favourite":""
   },
   {
     "id":415,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"9 Great B-Sides"
+    "title":"9 Great B-Sides",
+    "favourite":""
   },
   {
     "id":416,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"A Brief History Of Nu Metal 1"
+    "title":"A Brief History Of Nu Metal 1",
+    "favourite":""
   },
   {
     "id":417,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"A Brief History Of Nu Metal 2"
+    "title":"A Brief History Of Nu Metal 2",
+    "favourite":""
   },
   {
     "id":418,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"A Live History Of The Smashing Pu"
+    "title":"A Live History Of The Smashing Pu",
+    "favourite":""
   },
   {
     "id":419,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Brit Pop Part 1"
+    "title":"Brit Pop Part 1",
+    "favourite":""
   },
   {
     "id":420,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Brit Pop Part 2"
+    "title":"Brit Pop Part 2",
+    "favourite":""
   },
   {
     "id":421,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Brit Pop Part 3"
+    "title":"Brit Pop Part 3",
+    "favourite":""
   },
   {
     "id":422,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Brit Pop Part 4"
+    "title":"Brit Pop Part 4",
+    "favourite":""
   },
   {
     "id":423,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Creed"
+    "title":"Creed",
+    "favourite":""
   },
   {
     "id":424,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Depeche Mode At 20"
+    "title":"Depeche Mode At 20",
+    "favourite":""
   },
   {
     "id":425,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Emo_ What's That_"
+    "title":"Emo_ What's That_",
+    "favourite":""
   },
   {
     "id":426,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Get In the Van!"
+    "title":"Get In the Van!",
+    "favourite":""
   },
   {
     "id":427,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Gossip And Weirdness"
+    "title":"Gossip And Weirdness",
+    "favourite":""
   },
   {
     "id":428,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Moby"
+    "title":"Moby",
+    "favourite":""
   },
   {
     "id":429,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Outsider Music"
+    "title":"Outsider Music",
+    "favourite":""
   },
   {
     "id":430,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Psychos, Nutcases & Weirdos"
+    "title":"Psychos, Nutcases & Weirdos",
+    "favourite":""
   },
   {
     "id":431,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Red Hot Chili Peppers Part 1"
+    "title":"Red Hot Chili Peppers Part 1",
+    "favourite":""
   },
   {
     "id":432,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Red Hot Chili Peppers Part 2"
+    "title":"Red Hot Chili Peppers Part 2",
+    "favourite":""
   },
   {
     "id":433,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Red Hot Chili Peppers Part 3"
+    "title":"Red Hot Chili Peppers Part 3",
+    "favourite":""
   },
   {
     "id":434,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Seven Great Mysteries Of Modern R"
+    "title":"Seven Great Mysteries Of Modern R",
+    "favourite":""
   },
   {
     "id":435,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The History of Selling Out Part 1"
+    "title":"The History of Selling Out Part 1",
+    "favourite":""
   },
   {
     "id":436,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The History of Selling Out Part 2"
+    "title":"The History of Selling Out Part 2",
+    "favourite":""
   },
   {
     "id":437,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The New Rockers"
+    "title":"The New Rockers",
+    "favourite":""
   },
   {
     "id":438,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Weezer"
+    "title":"Weezer",
+    "favourite":""
   },
   {
     "id":439,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"What's The Big Deal About Elvis C"
+    "title":"What's The Big Deal About Elvis C",
+    "favourite":""
   },
   {
     "id":440,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"What's Wrong With The Music Indus"
+    "title":"What's Wrong With The Music Indus",
+    "favourite":""
   },
   {
     "id":441,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Why Performers Hate Their Record"
+    "title":"Why Performers Hate Their Record",
+    "favourite":""
   },
   {
     "id":442,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Where Are They Now_"
+    "title":"Where Are They Now_",
+    "favourite":""
   },
   {
     "id":443,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"How To Talk Like A Rock Snob 2"
+    "title":"How To Talk Like A Rock Snob 2",
+    "favourite":""
   },
   {
     "id":444,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Nirvana By The Numbers - Part I"
+    "title":"Nirvana By The Numbers - Part I",
+    "favourite":""
   },
   {
     "id":445,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Nirvana By The Numbers - Part Ii"
+    "title":"Nirvana By The Numbers - Part Ii",
+    "favourite":""
   },
   {
     "id":446,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Tracks From The Vinyl Vault"
+    "title":"Tracks From The Vinyl Vault",
+    "favourite":""
   },
   {
     "id":447,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Joe Strummer A Remembrance 1"
+    "title":"Joe Strummer A Remembrance 1",
+    "favourite":""
   },
   {
     "id":448,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Joe Strummer A Remembrance 2"
+    "title":"Joe Strummer A Remembrance 2",
+    "favourite":""
   },
   {
     "id":449,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"What's The Big Deal About The Smi"
+    "title":"What's The Big Deal About The Smi",
+    "favourite":""
   },
   {
     "id":450,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Building A Record Library 1 (Albu"
+    "title":"Building A Record Library 1 (Albu",
+    "favourite":""
   },
   {
     "id":451,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Building A Record Library 2 (Albu"
+    "title":"Building A Record Library 2 (Albu",
+    "favourite":""
   },
   {
     "id":452,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Building A Record Collection Part"
+    "title":"Building A Record Collection Part",
+    "favourite":""
   },
   {
     "id":453,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Building A Record Collection Part"
+    "title":"Building A Record Collection Part",
+    "favourite":""
   },
   {
     "id":454,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Nickelback"
+    "title":"Nickelback",
+    "favourite":""
   },
   {
     "id":455,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Alt-Rock's Greatest Instrumentals"
+    "title":"Alt-Rock's Greatest Instrumentals",
+    "favourite":""
   },
   {
     "id":456,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Rise & Fall Of Alice In Chains 1"
+    "title":"Rise & Fall Of Alice In Chains 1",
+    "favourite":""
   },
   {
     "id":457,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Rise & Fall Of Alice In Chains 2"
+    "title":"Rise & Fall Of Alice In Chains 2",
+    "favourite":""
   },
   {
     "id":458,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"A Music Industry Checkup"
+    "title":"A Music Industry Checkup",
+    "favourite":""
   },
   {
     "id":459,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Medical Matters & Mysteries Of Mu"
+    "title":"Medical Matters & Mysteries Of Mu",
+    "favourite":""
   },
   {
     "id":460,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Medical Matters & Mysteries Of Mu"
+    "title":"Medical Matters & Mysteries Of Mu",
+    "favourite":""
   },
   {
     "id":461,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The White Stripes"
+    "title":"The White Stripes",
+    "favourite":""
   },
   {
     "id":462,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"How To Talk Like A Rock Snob 3"
+    "title":"How To Talk Like A Rock Snob 3",
+    "favourite":""
   },
   {
     "id":463,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Madchester Part 1"
+    "title":"Madchester Part 1",
+    "favourite":""
   },
   {
     "id":464,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Madchester Part 2"
+    "title":"Madchester Part 2",
+    "favourite":""
   },
   {
     "id":465,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Radiohead Part 1"
+    "title":"Radiohead Part 1",
+    "favourite":""
   },
   {
     "id":466,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Radiohead Part 2"
+    "title":"Radiohead Part 2",
+    "favourite":""
   },
   {
     "id":467,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Radiohead Part 3"
+    "title":"Radiohead Part 3",
+    "favourite":""
   },
   {
     "id":468,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Radiohead Part 4"
+    "title":"Radiohead Part 4",
+    "favourite":""
   },
   {
     "id":469,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Christian Alt-Rock"
+    "title":"Christian Alt-Rock",
+    "favourite":""
   },
   {
     "id":470,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The Crime Beat"
+    "title":"The Crime Beat",
+    "favourite":""
   },
   {
     "id":471,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Coldplay"
+    "title":"Coldplay",
+    "favourite":""
   },
   {
     "id":472,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The Producers 3  The Canadians"
+    "title":"The Producers 3  The Canadians",
+    "favourite":""
   },
   {
     "id":473,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The 100 Greatest New Rock Moments"
+    "title":"The 100 Greatest New Rock Moments",
+    "favourite":""
   },
   {
     "id":474,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The 100 Greatest New Rock Moments"
+    "title":"The 100 Greatest New Rock Moments",
+    "favourite":""
   },
   {
     "id":475,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The 100 Greatest New Rock Moments"
+    "title":"The 100 Greatest New Rock Moments",
+    "favourite":""
   },
   {
     "id":476,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The 100 Greatest New Rock Moments"
+    "title":"The 100 Greatest New Rock Moments",
+    "favourite":""
   },
   {
     "id":477,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The 100 Greatest New Rock Moments"
+    "title":"The 100 Greatest New Rock Moments",
+    "favourite":""
   },
   {
     "id":478,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The 100 Greatest New Rock Moments"
+    "title":"The 100 Greatest New Rock Moments",
+    "favourite":""
   },
   {
     "id":479,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The 100 Greatest New Rock Moments"
+    "title":"The 100 Greatest New Rock Moments",
+    "favourite":""
   },
   {
     "id":480,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The 100 Greatest New Rock Moments"
+    "title":"The 100 Greatest New Rock Moments",
+    "favourite":""
   },
   {
     "id":481,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The 100 Greatest New Rock Moments"
+    "title":"The 100 Greatest New Rock Moments",
+    "favourite":""
   },
   {
     "id":482,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The 100 Greatest New Rock Moments"
+    "title":"The 100 Greatest New Rock Moments",
+    "favourite":""
   },
   {
     "id":483,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Kurt Cobain 10 Years Later Part 1"
+    "title":"Kurt Cobain 10 Years Later Part 1",
+    "favourite":""
   },
   {
     "id":484,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Kurt Cobain 10 Years Later Part 2"
+    "title":"Kurt Cobain 10 Years Later Part 2",
+    "favourite":""
   },
   {
     "id":485,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Was Kurt Cobain Murdered_ Part 1"
+    "title":"Was Kurt Cobain Murdered_ Part 1",
+    "favourite":""
   },
   {
     "id":486,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Was Kurt Cobain Murdered_ Part 2"
+    "title":"Was Kurt Cobain Murdered_ Part 2",
+    "favourite":""
   },
   {
     "id":487,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"New Rock's Craziest People"
+    "title":"New Rock's Craziest People",
+    "favourite":""
   },
   {
     "id":488,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Drummers Who Made A Difference"
+    "title":"Drummers Who Made A Difference",
+    "favourite":"yes"
   },
   {
     "id":489,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"A Guide To Summer Concert Festiva"
+    "title":"A Guide To Summer Concert Festiva",
+    "favourite":""
   },
   {
     "id":490,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The Secret History Of Recorded Mu"
+    "title":"The Secret History Of Recorded Mu",
+    "favourite":""
   },
   {
     "id":491,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Stories Behind Songs"
+    "title":"Stories Behind Songs",
+    "favourite":""
   },
   {
     "id":492,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Taboo Tunes_ Fear of Music Part 1"
+    "title":"Taboo Tunes_ Fear of Music Part 1",
+    "favourite":""
   },
   {
     "id":493,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Taboo Tunes_ Fear of Music Part 2"
+    "title":"Taboo Tunes_ Fear of Music Part 2",
+    "favourite":""
   },
   {
     "id":494,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"How To Talk Like A Rock Snob 5"
+    "title":"How To Talk Like A Rock Snob 5",
+    "favourite":""
   },
   {
     "id":495,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Seven Morrissey Mysteries"
+    "title":"Seven Morrissey Mysteries",
+    "favourite":""
   },
   {
     "id":496,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Rhythm Sections"
+    "title":"Rhythm Sections",
+    "favourite":""
   },
   {
     "id":497,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Format Wars"
+    "title":"Format Wars",
+    "favourite":""
   },
   {
     "id":498,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Death As A Career Move"
+    "title":"Death As A Career Move",
+    "favourite":""
   },
   {
     "id":499,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"U2 A Secret History - Part 1"
+    "title":"U2 A Secret History - Part 1",
+    "favourite":""
   },
   {
     "id":500,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"U2 A Secret History - Part 2"
+    "title":"U2 A Secret History - Part 2",
+    "favourite":""
   },
   {
     "id":501,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"U2 A Secret History - Part 3"
+    "title":"U2 A Secret History - Part 3",
+    "favourite":""
   },
   {
     "id":502,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"U2 A Secret History - Part 4"
+    "title":"U2 A Secret History - Part 4",
+    "favourite":""
   },
   {
     "id":503,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"What's the Big Deal About The Cur"
+    "title":"What's the Big Deal About The Cur",
+    "favourite":""
   },
   {
     "id":504,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Xmas Show 11"
+    "title":"Xmas Show 11",
+    "favourite":""
   },
   {
     "id":505,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Gay New Rock 1"
+    "title":"Gay New Rock 1",
+    "favourite":""
   },
   {
     "id":506,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Gay New Rock 2"
+    "title":"Gay New Rock 2",
+    "favourite":""
   },
   {
     "id":507,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Whatever Happened to Britpop 1"
+    "title":"Whatever Happened to Britpop 1",
+    "favourite":""
   },
   {
     "id":508,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Whatever Happened to Britpop 2"
+    "title":"Whatever Happened to Britpop 2",
+    "favourite":""
   },
   {
     "id":509,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Whatever Happened to Britpop 3"
+    "title":"Whatever Happened to Britpop 3",
+    "favourite":""
   },
   {
     "id":510,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Alt-Rock's Greatest All-Female Ba"
+    "title":"Alt-Rock's Greatest All-Female Ba",
+    "favourite":""
   },
   {
     "id":511,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Alt-Rock's Greatest All-Female Ba"
+    "title":"Alt-Rock's Greatest All-Female Ba",
+    "favourite":""
   },
   {
     "id":512,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"I'm Not Dead Yet"
+    "title":"I'm Not Dead Yet",
+    "favourite":""
   },
   {
     "id":513,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Montreal New Rock"
+    "title":"Montreal New Rock",
+    "favourite":""
   },
   {
     "id":514,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Bad Career Moves 2"
+    "title":"Bad Career Moves 2",
+    "favourite":""
   },
   {
     "id":515,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Nirvana The Songs and Sessions"
+    "title":"Nirvana The Songs and Sessions",
+    "favourite":""
   },
   {
     "id":516,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Beck's Brain"
+    "title":"Beck's Brain",
+    "favourite":""
   },
   {
     "id":517,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"New Rock Secrets - Exposed!"
+    "title":"New Rock Secrets - Exposed!",
+    "favourite":""
   },
   {
     "id":518,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Green Day_ Deep Background"
+    "title":"Green Day_ Deep Background",
+    "favourite":""
   },
   {
     "id":519,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Trent Reznor & Nine Inch Nails Pa"
+    "title":"Trent Reznor & Nine Inch Nails Pa",
+    "favourite":""
   },
   {
     "id":520,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Trent Reznor & Nine Inch Nails Pa"
+    "title":"Trent Reznor & Nine Inch Nails Pa",
+    "favourite":""
   },
   {
     "id":521,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Joy Division and Ian Curtis 25 Ye"
+    "title":"Joy Division and Ian Curtis 25 Ye",
+    "favourite":""
   },
   {
     "id":522,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"10 Weird Things About Oasis"
+    "title":"10 Weird Things About Oasis",
+    "favourite":""
   },
   {
     "id":523,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Definition"
+    "title":"Definition",
+    "favourite":""
   },
   {
     "id":524,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Bono Yes Just Bono"
+    "title":"Bono Yes Just Bono",
+    "favourite":""
   },
   {
     "id":525,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Modern Collectible Records"
+    "title":"Modern Collectible Records",
+    "favourite":""
   },
   {
     "id":526,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"More Outsider Music"
+    "title":"More Outsider Music",
+    "favourite":""
   },
   {
     "id":527,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The Tricky Issue of Sampling"
+    "title":"The Tricky Issue of Sampling",
+    "favourite":""
   },
   {
     "id":528,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The 500th Episode"
+    "title":"The 500th Episode",
+    "favourite":""
   },
   {
     "id":529,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"CBGB - A History, Part 1"
+    "title":"CBGB - A History, Part 1",
+    "favourite":""
   },
   {
     "id":530,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"CBGB - A History, Part 2"
+    "title":"CBGB - A History, Part 2",
+    "favourite":""
   },
   {
     "id":531,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"A Brief Tribute to Robert Moog"
+    "title":"A Brief Tribute to Robert Moog",
+    "favourite":""
   },
   {
     "id":532,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Before They Were Famous"
+    "title":"Before They Were Famous",
+    "favourite":""
   },
   {
     "id":533,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Rivers Cuomo"
+    "title":"Rivers Cuomo",
+    "favourite":""
   },
   {
     "id":534,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"10 Things About Coldplay"
+    "title":"10 Things About Coldplay",
+    "favourite":""
   },
   {
     "id":535,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"All-Time Longevity Champions"
+    "title":"All-Time Longevity Champions",
+    "favourite":""
   },
   {
     "id":536,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Where are they now_ Another repri"
+    "title":"Where are they now_ Another repri",
+    "favourite":""
   },
   {
     "id":537,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Xmas Show 12"
+    "title":"Xmas Show 12",
+    "favourite":""
   },
   {
     "id":538,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"(Good) Goth Part 1"
+    "title":"(Good) Goth Part 1",
+    "favourite":""
   },
   {
     "id":539,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"(Good) Goth Part 2"
+    "title":"(Good) Goth Part 2",
+    "favourite":""
   },
   {
     "id":540,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"30 Years Of Punk, Part 1 (Pre-Pun"
+    "title":"30 Years Of Punk, Part 1 (Pre-Pun",
+    "favourite":""
   },
   {
     "id":541,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"30 Years Of Punk, Part 2 (1975-19"
+    "title":"30 Years Of Punk, Part 2 (1975-19",
+    "favourite":""
   },
   {
     "id":542,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"30 Years Of Punk, Part 3 (1977)"
+    "title":"30 Years Of Punk, Part 3 (1977)",
+    "favourite":""
   },
   {
     "id":543,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"30 Years Of Punk, Part 4 (1978-19"
+    "title":"30 Years Of Punk, Part 4 (1978-19",
+    "favourite":""
   },
   {
     "id":544,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"30 Years Of Punk, Part 5 (The 80s"
+    "title":"30 Years Of Punk, Part 5 (The 80s",
+    "favourite":""
   },
   {
     "id":545,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"30 Years Of Punk, Part 6"
+    "title":"30 Years Of Punk, Part 6",
+    "favourite":""
   },
   {
     "id":546,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"A Guide To Rock N Roll Drugs"
+    "title":"A Guide To Rock N Roll Drugs",
+    "favourite":""
   },
   {
     "id":547,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"A Quarter-Century Of Depeche Mode"
+    "title":"A Quarter-Century Of Depeche Mode",
+    "favourite":""
   },
   {
     "id":548,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Cover Songs 1"
+    "title":"Cover Songs 1",
+    "favourite":""
   },
   {
     "id":549,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Cover Songs 2"
+    "title":"Cover Songs 2",
+    "favourite":""
   },
   {
     "id":550,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Hidden Tracks"
+    "title":"Hidden Tracks",
+    "favourite":""
   },
   {
     "id":551,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Hot City Scenes Through The Years"
+    "title":"Hot City Scenes Through The Years",
+    "favourite":""
   },
   {
     "id":552,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Hot City Scenes Through The Years"
+    "title":"Hot City Scenes Through The Years",
+    "favourite":""
   },
   {
     "id":553,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"How To Talk Like A Rock Snob 6"
+    "title":"How To Talk Like A Rock Snob 6",
+    "favourite":""
   },
   {
     "id":554,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Joey Ramone A Remembrance"
+    "title":"Joey Ramone A Remembrance",
+    "favourite":""
   },
   {
     "id":555,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Missing In Action 1"
+    "title":"Missing In Action 1",
+    "favourite":""
   },
   {
     "id":556,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Missing in Action 2"
+    "title":"Missing in Action 2",
+    "favourite":""
   },
   {
     "id":557,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"More Medical Mysteries Of Music"
+    "title":"More Medical Mysteries Of Music",
+    "favourite":""
   },
   {
     "id":558,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"New Rock and Technology_ An Updat"
+    "title":"New Rock and Technology_ An Updat",
+    "favourite":""
   },
   {
     "id":559,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"New Rock And Technology_ An Updat"
+    "title":"New Rock And Technology_ An Updat",
+    "favourite":""
   },
   {
     "id":560,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Retro 90s 1"
+    "title":"Retro 90s 1",
+    "favourite":""
   },
   {
     "id":561,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Retro 90s 2"
+    "title":"Retro 90s 2",
+    "favourite":""
   },
   {
     "id":562,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Retro 90s 3"
+    "title":"Retro 90s 3",
+    "favourite":""
   },
   {
     "id":563,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Retro 90s 4"
+    "title":"Retro 90s 4",
+    "favourite":""
   },
   {
     "id":564,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"RHCP_ Drugs, Despair, Redemption"
+    "title":"RHCP_ Drugs, Despair, Redemption",
+    "favourite":""
   },
   {
     "id":565,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"RHCP_ Drugs, Despair, Redemption"
+    "title":"RHCP_ Drugs, Despair, Redemption",
+    "favourite":""
   },
   {
     "id":566,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Secrets Of Pearl Jam"
+    "title":"Secrets Of Pearl Jam",
+    "favourite":""
   },
   {
     "id":567,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The Fashionistas"
+    "title":"The Fashionistas",
+    "favourite":""
   },
   {
     "id":568,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The History of New Rock Hair"
+    "title":"The History of New Rock Hair",
+    "favourite":""
   },
   {
     "id":569,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The Producers, Part 2"
+    "title":"The Producers, Part 2",
+    "favourite":""
   },
   {
     "id":570,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"U2 At 30"
+    "title":"U2 At 30",
+    "favourite":""
   },
   {
     "id":571,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"XMas 13"
+    "title":"XMas 13",
+    "favourite":""
   },
   {
     "id":572,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"100 Weird Things_ Part 1 0F 10 -"
+    "title":"100 Weird Things_ Part 1 0F 10 -",
+    "favourite":""
   },
   {
     "id":573,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"100 Weird Things_ Part 2 - Skelet"
+    "title":"100 Weird Things_ Part 2 - Skelet",
+    "favourite":""
   },
   {
     "id":574,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"100 Weird Things_ Part 3 Of 10 -"
+    "title":"100 Weird Things_ Part 3 Of 10 -",
+    "favourite":""
   },
   {
     "id":575,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"100 Weird Things_ Part 4 0F 10 -"
+    "title":"100 Weird Things_ Part 4 0F 10 -",
+    "favourite":""
   },
   {
     "id":576,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"100 Weird Things Pt 5 Of 10 Drugs"
+    "title":"100 Weird Things Pt 5 Of 10 Drugs",
+    "favourite":""
   },
   {
     "id":577,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"100 Weird Things_ Pt 6 Of 10 Stud"
+    "title":"100 Weird Things_ Pt 6 Of 10 Stud",
+    "favourite":""
   },
   {
     "id":578,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"100 Weird Things_ Pt 7 Of 10 The"
+    "title":"100 Weird Things_ Pt 7 Of 10 The",
+    "favourite":""
   },
   {
     "id":579,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"100 Weird Things_ Part 8 Of 10_ S"
+    "title":"100 Weird Things_ Part 8 Of 10_ S",
+    "favourite":""
   },
   {
     "id":580,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"100 Weird Things_ Pt 9 Of 10 Mone"
+    "title":"100 Weird Things_ Pt 9 Of 10 Mone",
+    "favourite":""
   },
   {
     "id":581,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"100 Weird Things_ Pt 10 Of 10 Oth"
+    "title":"100 Weird Things_ Pt 10 Of 10 Oth",
+    "favourite":""
   },
   {
     "id":582,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Alt-Rock's Top 10 Female Fronted"
+    "title":"Alt-Rock's Top 10 Female Fronted",
+    "favourite":""
   },
   {
     "id":583,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Demo Versions_ How Songs Are Born"
+    "title":"Demo Versions_ How Songs Are Born",
+    "favourite":""
   },
   {
     "id":584,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Fabulous Frontmen 1 Chris Cornell"
+    "title":"Fabulous Frontmen 1 Chris Cornell",
+    "favourite":""
   },
   {
     "id":585,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Greatest Musical Gadgets"
+    "title":"Greatest Musical Gadgets",
+    "favourite":""
   },
   {
     "id":586,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Killers Confidential"
+    "title":"Killers Confidential",
+    "favourite":""
   },
   {
     "id":587,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Naming Your Band Part 1"
+    "title":"Naming Your Band Part 1",
+    "favourite":""
   },
   {
     "id":588,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Naming Your Band Part 2"
+    "title":"Naming Your Band Part 2",
+    "favourite":""
   },
   {
     "id":589,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Plagiarism Or Unfortunate Sonic C"
+    "title":"Plagiarism Or Unfortunate Sonic C",
+    "favourite":"yes"
   },
   {
     "id":590,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Plagiarism Or Unfortunate Sonic C"
+    "title":"Plagiarism Or Unfortunate Sonic C",
+    "favourite":""
   },
   {
     "id":591,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Rock N Roll Hotels"
+    "title":"Rock N Roll Hotels",
+    "favourite":""
   },
   {
     "id":592,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Rock Star Career Changes"
+    "title":"Rock Star Career Changes",
+    "favourite":""
   },
   {
     "id":593,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Screw You Guys...I'm Going Solo!"
+    "title":"Screw You Guys...I'm Going Solo!",
+    "favourite":""
   },
   {
     "id":594,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The 14Th Annual Xmas Show"
+    "title":"The 14Th Annual Xmas Show",
+    "favourite":""
   },
   {
     "id":595,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The Art Of The Reunion Part 1"
+    "title":"The Art Of The Reunion Part 1",
+    "favourite":""
   },
   {
     "id":596,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The Art Of The Reunion Part 2"
+    "title":"The Art Of The Reunion Part 2",
+    "favourite":""
   },
   {
     "id":597,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The Art Of The Reunion Part 3"
+    "title":"The Art Of The Reunion Part 3",
+    "favourite":""
   },
   {
     "id":598,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The History Of Mash-Ups"
+    "title":"The History Of Mash-Ups",
+    "favourite":""
   },
   {
     "id":599,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The Infinite Musical Archive"
+    "title":"The Infinite Musical Archive",
+    "favourite":""
   },
   {
     "id":600,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The Secret Of Album Cover Art"
+    "title":"The Secret Of Album Cover Art",
+    "favourite":""
   },
   {
     "id":601,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Tool What The Hell_ Part 1"
+    "title":"Tool What The Hell_ Part 1",
+    "favourite":""
   },
   {
     "id":602,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Tool What The Hell_ Part 2"
+    "title":"Tool What The Hell_ Part 2",
+    "favourite":""
   },
   {
     "id":603,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Why Things Are The Way They Are"
+    "title":"Why Things Are The Way They Are",
+    "favourite":""
   },
   {
     "id":604,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Your Questions Answered"
+    "title":"Your Questions Answered",
+    "favourite":""
   },
   {
     "id":605,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Etymology Part 1"
+    "title":"Etymology Part 1",
+    "favourite":""
   },
   {
     "id":606,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Etymology Part 2"
+    "title":"Etymology Part 2",
+    "favourite":""
   },
   {
     "id":607,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Fans & Fatalities"
+    "title":"Fans & Fatalities",
+    "favourite":""
   },
   {
     "id":608,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Small Towns And Big Bands"
+    "title":"Small Towns And Big Bands",
+    "favourite":""
   },
   {
     "id":609,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The Inventors"
+    "title":"The Inventors",
+    "favourite":""
   },
   {
     "id":610,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Cult Heroes"
+    "title":"Cult Heroes",
+    "favourite":""
   },
   {
     "id":611,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Linkin Park"
+    "title":"Linkin Park",
+    "favourite":""
   },
   {
     "id":612,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Sourcing Samples"
+    "title":"Sourcing Samples",
+    "favourite":""
   },
   {
     "id":613,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"History Of Grunge Part 1_ The Ear"
+    "title":"History Of Grunge Part 1_ The Ear",
+    "favourite":""
   },
   {
     "id":614,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"History Of Grunge Part 2_ 1990-91"
+    "title":"History Of Grunge Part 2_ 1990-91",
+    "favourite":""
   },
   {
     "id":615,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"History Of Grunge Part 3_ 1992-93"
+    "title":"History Of Grunge Part 3_ 1992-93",
+    "favourite":""
   },
   {
     "id":616,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"History Of Grunge Part 4_ 1993-94"
+    "title":"History Of Grunge Part 4_ 1993-94",
+    "favourite":""
   },
   {
     "id":617,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"History Of Grunge Part 5 Rise Of"
+    "title":"History Of Grunge Part 5 Rise Of",
+    "favourite":""
   },
   {
     "id":618,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"History Of Grunge Part 6_ The Fal"
+    "title":"History Of Grunge Part 6_ The Fal",
+    "favourite":""
   },
   {
     "id":619,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Dave Grohl - Part 1"
+    "title":"Dave Grohl - Part 1",
+    "favourite":""
   },
   {
     "id":620,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Dave Grohl - Part 2"
+    "title":"Dave Grohl - Part 2",
+    "favourite":""
   },
   {
     "id":621,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Moonlighting"
+    "title":"Moonlighting",
+    "favourite":""
   },
   {
     "id":622,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Album Marketing 1 - NIN Year Zero"
+    "title":"Album Marketing 1 - NIN Year Zero",
+    "favourite":""
   },
   {
     "id":623,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Album Marketing 2 - Radiohead and"
+    "title":"Album Marketing 2 - Radiohead and",
+    "favourite":""
   },
   {
     "id":624,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"The 15th Annual Xmas Show"
+    "title":"The 15th Annual Xmas Show",
+    "favourite":""
   },
   {
     "id":625,
     "artist":"Alan Cross",
     "genre":"Radio",
-    "title":"Rock Star Kids"
+    "title":"Rock Star Kids",
+    "favourite":""
   },
   {
     "id":626,
     "artist":"Albert King",
     "genre":"Radio",
-    "title":"Get Out Of My Life Woman"
+    "title":"Get Out Of My Life Woman",
+    "favourite":""
   },
   {
     "id":627,
     "artist":"Albert King",
     "genre":"Radio",
-    "title":"Born Under A Bad Sign"
+    "title":"Born Under A Bad Sign",
+    "favourite":""
   },
   {
     "id":628,
     "artist":"Albert King",
     "genre":"Radio",
-    "title":"The Feeling"
+    "title":"The Feeling",
+    "favourite":""
   },
   {
     "id":629,
     "artist":"Albert King",
     "genre":"Radio",
-    "title":"We All Wanna Boogie"
+    "title":"We All Wanna Boogie",
+    "favourite":""
   },
   {
     "id":630,
     "artist":"Albert King",
     "genre":"Radio",
-    "title":"The Very Thought Of You"
+    "title":"The Very Thought Of You",
+    "favourite":""
   },
   {
     "id":631,
     "artist":"Albert King",
     "genre":"Radio",
-    "title":"I Got The Blues"
+    "title":"I Got The Blues",
+    "favourite":""
   },
   {
     "id":632,
     "artist":"Albert King",
     "genre":"Radio",
-    "title":"I Get Evil"
+    "title":"I Get Evil",
+    "favourite":""
   },
   {
     "id":633,
     "artist":"Albert King",
     "genre":"Radio",
-    "title":"Angel Of Mercy"
+    "title":"Angel Of Mercy",
+    "favourite":""
   },
   {
     "id":634,
     "artist":"Albert King",
     "genre":"Radio",
-    "title":"Flat Tire"
+    "title":"Flat Tire",
+    "favourite":""
   },
   {
     "id":635,
     "artist":"Albert King",
     "genre":"Radio",
-    "title":"California"
+    "title":"California",
+    "favourite":""
   },
   {
     "id":636,
     "artist":"Albert King",
     "genre":"Radio",
-    "title":"Searchin' For A Woman"
+    "title":"Searchin' For A Woman",
+    "favourite":""
   },
   {
     "id":637,
     "artist":"Albert King",
     "genre":"Radio",
-    "title":"Bad Luck Blues"
+    "title":"Bad Luck Blues",
+    "favourite":""
   },
   {
     "id":638,
     "artist":"Albert King",
     "genre":"Radio",
-    "title":"Wild Woman"
+    "title":"Wild Woman",
+    "favourite":""
   },
   {
     "id":639,
     "artist":"Albert King",
     "genre":"Radio",
-    "title":"Be On Your Merry Way"
+    "title":"Be On Your Merry Way",
+    "favourite":""
   },
   {
     "id":640,
     "artist":"Albert King",
     "genre":"Radio",
-    "title":"Murder"
+    "title":"Murder",
+    "favourite":""
   },
   {
     "id":641,
     "artist":"Albert King",
     "genre":"Radio",
-    "title":"Howlin' For My Darlin'"
+    "title":"Howlin' For My Darlin'",
+    "favourite":""
   },
   {
     "id":642,
     "artist":"Albert King",
     "genre":"Radio",
-    "title":"Won't Be Hangin' Around"
+    "title":"Won't Be Hangin' Around",
+    "favourite":""
   },
   {
     "id":643,
     "artist":"Arthur Big Boy Crudup",
     "genre":"Blues",
-    "title":"Black Pony Blues"
+    "title":"Black Pony Blues",
+    "favourite":""
   },
   {
     "id":644,
     "artist":"Arthur Big Boy Crudup",
     "genre":"Blues",
-    "title":"Death Valley Blues"
+    "title":"Death Valley Blues",
+    "favourite":""
   },
   {
     "id":645,
     "artist":"Arthur Big Boy Crudup",
     "genre":"Blues",
-    "title":"Kind Lover Blues"
+    "title":"Kind Lover Blues",
+    "favourite":""
   },
   {
     "id":646,
     "artist":"Arthur Big Boy Crudup",
     "genre":"Blues",
-    "title":"If I Get Lucky"
+    "title":"If I Get Lucky",
+    "favourite":""
   },
   {
     "id":647,
     "artist":"Arthur Big Boy Crudup",
     "genre":"Blues",
-    "title":"Give Me A 32-20"
+    "title":"Give Me A 32-20",
+    "favourite":""
   },
   {
     "id":648,
     "artist":"Arthur Big Boy Crudup",
     "genre":"Blues",
-    "title":"Mean Old Frisco Blues"
+    "title":"Mean Old Frisco Blues",
+    "favourite":"yes"
   },
   {
     "id":649,
     "artist":"Arthur Big Boy Crudup",
     "genre":"Blues",
-    "title":"Raised To My Hand"
+    "title":"Raised To My Hand",
+    "favourite":""
   },
   {
     "id":650,
     "artist":"Arthur Big Boy Crudup",
     "genre":"Blues",
-    "title":"Cool Disposition"
+    "title":"Cool Disposition",
+    "favourite":""
   },
   {
     "id":651,
     "artist":"Arthur Big Boy Crudup",
     "genre":"Blues",
-    "title":"Who's Been Foolin' You"
+    "title":"Who's Been Foolin' You",
+    "favourite":""
   },
   {
     "id":652,
     "artist":"Arthur Big Boy Crudup",
     "genre":"Blues",
-    "title":"Rock Me Mama"
+    "title":"Rock Me Mama",
+    "favourite":""
   },
   {
     "id":653,
     "artist":"Arthur Big Boy Crudup",
     "genre":"Blues",
-    "title":"That's Your Red Wagon"
+    "title":"That's Your Red Wagon",
+    "favourite":""
   },
   {
     "id":654,
     "artist":"Arthur Big Boy Crudup",
     "genre":"Blues",
-    "title":"So Glad You're Mine"
+    "title":"So Glad You're Mine",
+    "favourite":""
   },
   {
     "id":655,
     "artist":"Arthur Big Boy Crudup",
     "genre":"Blues",
-    "title":"Boy Friend Blues"
+    "title":"Boy Friend Blues",
+    "favourite":""
   },
   {
     "id":656,
     "artist":"Arthur Big Boy Crudup",
     "genre":"Blues",
-    "title":"Crudup's After Hours"
+    "title":"Crudup's After Hours",
+    "favourite":""
   },
   {
     "id":657,
     "artist":"Arthur Big Boy Crudup",
     "genre":"Blues",
-    "title":"I Don't Know It"
+    "title":"I Don't Know It",
+    "favourite":""
   },
   {
     "id":658,
     "artist":"Arthur Big Boy Crudup",
     "genre":"Blues",
-    "title":"Chicago Blues"
+    "title":"Chicago Blues",
+    "favourite":""
   }
 ]

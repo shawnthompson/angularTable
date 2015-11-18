@@ -4,7 +4,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Tracks</title>
 
     <!-- CSS -->
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootswatch/3.2.0/sandstone/bootstrap.min.css">
@@ -38,22 +37,22 @@
       <tr>
         <th class="col-md-1">Add</th>
         <th>
-        <a href="#" ng-click="sortType = 'artist'; sortReverse = !sortReverse">
-        Artist
-        <span ng-show="sortType == 'artist' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
-        <span ng-show="sortType == 'artist' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
-        </a></th>
-        <th>
-        <a href="#" ng-click="sortType = 'genre'; sortReverse = !sortReverse">
-        Genre
-        <span ng-show="sortType == 'genre' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
-        <span ng-show="sortType == 'genre' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
-        </a></th>
-        <th>
-        <a href="#" ng-click="sortType = 'title'; sortReverse = !sortReverse">
+        <a href="#" ng-click="sortType = 'Song'; sortReverse = !sortReverse">
         Song
-        <span ng-show="sortType == 'title' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
-        <span ng-show="sortType == 'title' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
+        <span ng-show="sortType == 'Song' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
+        <span ng-show="sortType == 'Song' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
+        </a></th>
+        <th>
+        <a href="#" ng-click="sortType = 'Artist'; sortReverse = !sortReverse">
+        Artist
+        <span ng-show="sortType == 'Artist' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
+        <span ng-show="sortType == 'Artist' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
+        </a></th>
+        <th>
+        <a href="#" ng-click="sortType = 'Genre'; sortReverse = !sortReverse">
+        Genre
+        <span ng-show="sortType == 'Genre' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
+        <span ng-show="sortType == 'Genre' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
         </a></th>
       </tr>
     </thead>
@@ -61,9 +60,9 @@
     <tbody>
       <tr dir-paginate="songs in tracks | orderBy:sortType:sortReverse | filter:search | itemsPerPage: 30">
         <td><a class="btn btn-default" href="" role="button" ng-click="addSong(songs)">Add</a></td>
-        <td>{{ songs.artist }}</td>
-        <td>{{ songs.genre }}</td>
-        <td>{{ songs.title }}</td>
+        <td>{{ songs.Song }}</td>
+        <td>{{ songs.Artist }}</td>
+        <td>{{ songs.Genre }}</td>
       </tr>
     </tbody>
     
@@ -78,22 +77,22 @@
       <tr>
         <th class="col-md-1">Remove</th>
         <th>
-        <a href="#" ng-click="sortType = 'artist'; sortReverse = !sortReverse">
-        Artist
-        <span ng-show="sortType == 'artist' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
-        <span ng-show="sortType == 'artist' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
-        </a></th>
-        <th>
-        <a href="#" ng-click="sortType = 'genre'; sortReverse = !sortReverse">
-        Genre
-        <span ng-show="sortType == 'genre' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
-        <span ng-show="sortType == 'genre' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
-        </a></th>
-        <th>
-        <a href="#" ng-click="sortType = 'title'; sortReverse = !sortReverse">
+        <a href="#" ng-click="sortType = 'Song'; sortReverse = !sortReverse">
         Song
-        <span ng-show="sortType == 'title' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
-        <span ng-show="sortType == 'title' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
+        <span ng-show="sortType == 'Song' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
+        <span ng-show="sortType == 'Song' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
+        </a></th>
+        <th>
+        <a href="#" ng-click="sortType = 'Artist'; sortReverse = !sortReverse">
+        Artist
+        <span ng-show="sortType == 'Artist' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
+        <span ng-show="sortType == 'Artist' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
+        </a></th>
+        <th>
+        <a href="#" ng-click="sortType = 'Genre'; sortReverse = !sortReverse">
+        Genre
+        <span ng-show="sortType == 'Genre' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
+        <span ng-show="sortType == 'Genre' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
         </a></th>
       </tr>
     </thead>
@@ -101,9 +100,9 @@
     <tbody>
       <tr ng-repeat="addedSongs in addedTracks">
         <td><a class="btn btn-default" href="" role="button" ng-click="removeSong(songs)">Remove</a></td>
-        <td>{{ addedSongs.artist }}</td>
-        <td>{{ addedSongs.genre }}</td>
-        <td>{{ addedSongs.title }}</td>
+        <td>{{ addedSongs.Song }}</td>
+        <td>{{ addedSongs.Artist }}</td>
+        <td>{{ addedSongs.Genre }}</td>
       </tr>
     </tbody>
     

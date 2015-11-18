@@ -1,4608 +1,4538 @@
 [
   {
-    "id":1,
-    "artist":"213",
-    "genre":"HipHop",
-    "title":"Intro",
-    "favourite":""
+    "ID":1,
+    "Song":"You Shook Me all Night Long",
+    "Artist":"AC/DC",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":2,
-    "artist":"213",
-    "genre":"HipHop",
-    "title":"Twist Yo Body",
-    "favourite":""
+    "ID":2,
+    "Song":"YMCA",
+    "Artist":"Village People",
+    "Genre":"Disco",
+    "Top Song":""
   },
   {
-    "id":3,
-    "artist":"213",
-    "genre":"HipHop",
-    "title":"Absolutely",
-    "favourite":""
+    "ID":3,
+    "Song":"What a Wonderful World",
+    "Artist":"Louis Armstrong",
+    "Genre":"50s",
+    "Top Song":""
   },
   {
-    "id":4,
-    "artist":"213",
-    "genre":"HipHop",
-    "title":"Sassy Ways",
-    "favourite":""
+    "ID":4,
+    "Song":"Twist N Shout",
+    "Artist":"Beatles",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":5,
-    "artist":"213",
-    "genre":"HipHop",
-    "title":"Groupie Luv",
-    "favourite":""
+    "ID":5,
+    "Song":"Summer of 69",
+    "Artist":"Bryan Adams",
+    "Genre":"F Rock",
+    "Top Song":""
   },
   {
-    "id":6,
-    "artist":"213",
-    "genre":"HipHop",
-    "title":"Wait A Minute",
-    "favourite":""
+    "ID":6,
+    "Song":"Stayin Alive",
+    "Artist":"Bee Gees",
+    "Genre":"Disco",
+    "Top Song":""
   },
   {
-    "id":7,
-    "artist":"213",
-    "genre":"HipHop",
-    "title":"Another Summer",
-    "favourite":"yes"
+    "ID":7,
+    "Song":"Starships",
+    "Artist":"Nicki Minaj",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":8,
-    "artist":"213",
-    "genre":"HipHop",
-    "title":"213 The Gangsta Clicc",
-    "favourite":""
+    "ID":8,
+    "Song":"Some Kind if Wonderful",
+    "Artist":"Grand Funk",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":9,
-    "artist":"213",
-    "genre":"HipHop",
-    "title":"Ups & Downs",
-    "favourite":""
+    "ID":9,
+    "Song":"Single Ladies",
+    "Artist":"Beyonce",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":10,
-    "artist":"213",
-    "genre":"HipHop",
-    "title":"Gotta Find A Way",
-    "favourite":""
+    "ID":10,
+    "Song":"Save a Horse (Ride A Cowboy)",
+    "Artist":"Big N Rich",
+    "Genre":"F Country",
+    "Top Song":""
   },
   {
-    "id":11,
-    "artist":"213",
-    "genre":"HipHop",
-    "title":"Joysticc",
-    "favourite":""
+    "ID":11,
+    "Song":"Satisfaction",
+    "Artist":"Rolling Stones",
+    "Genre":"F Rock",
+    "Top Song":"Yes"
   },
   {
-    "id":12,
-    "artist":"213",
-    "genre":"HipHop",
-    "title":"Rick James Interlude",
-    "favourite":""
+    "ID":12,
+    "Song":"Rumor Has It",
+    "Artist":"Adele",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":13,
-    "artist":"213",
-    "genre":"HipHop",
-    "title":"Mary Jane",
-    "favourite":""
+    "ID":13,
+    "Song":"Respect",
+    "Artist":"Aretha Frankin",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":14,
-    "artist":"213",
-    "genre":"HipHop",
-    "title":"MLK",
-    "favourite":""
+    "ID":14,
+    "Song":"Rasputin",
+    "Artist":"Boney M",
+    "Genre":"Disco",
+    "Top Song":""
   },
   {
-    "id":15,
-    "artist":"213",
-    "genre":"HipHop",
-    "title":"Lil Girl",
-    "favourite":""
+    "ID":15,
+    "Song":"Pretty Woman",
+    "Artist":"Roy Orbison",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":16,
-    "artist":"213",
-    "genre":"HipHop",
-    "title":"Give It Up",
-    "favourite":""
+    "ID":16,
+    "Song":"Party Rock Anthem",
+    "Artist":"LMFAO",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":17,
-    "artist":"213",
-    "genre":"HipHop",
-    "title":"Never Love A Ho",
-    "favourite":""
+    "ID":17,
+    "Song":"On The Floor",
+    "Artist":"Jennifer Lopez and Pitbull",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":18,
-    "artist":"213",
-    "genre":"HipHop",
-    "title":"Appreciation",
-    "favourite":""
+    "ID":18,
+    "Song":"Old Time Rock N Roll",
+    "Artist":"Bob Seger",
+    "Genre":"F Rock",
+    "Top Song":""
   },
   {
-    "id":19,
-    "artist":"213",
-    "genre":"HipHop",
-    "title":"So Fly",
-    "favourite":""
+    "ID":19,
+    "Song":"Moves Like Jagger",
+    "Artist":"Maroon 5",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":20,
-    "artist":"3",
-    "genre":"HipHop",
-    "title":"Batuka",
-    "favourite":""
+    "ID":20,
+    "Song":"Mambo # 5",
+    "Artist":"Lou Bega",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":21,
-    "artist":"3",
-    "genre":"HipHop",
-    "title":"No One To Depend On",
-    "favourite":""
+    "ID":21,
+    "Song":"La Bamba",
+    "Artist":"Los Lobos",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":22,
-    "artist":"3",
-    "genre":"HipHop",
-    "title":"Taboo",
-    "favourite":""
+    "ID":22,
+    "Song":"I Love It",
+    "Artist":"Icono Pop",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":23,
-    "artist":"3",
-    "genre":"HipHop",
-    "title":"Toussaint L'Overture",
-    "favourite":""
+    "ID":23,
+    "Song":"I Gotta Feeling",
+    "Artist":"Black Eyed Peas",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":24,
-    "artist":"3",
-    "genre":"HipHop",
-    "title":"Everybody's Everything",
-    "favourite":""
+    "ID":24,
+    "Song":"Happy",
+    "Artist":"Pharell Wiiliams",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":25,
-    "artist":"3",
-    "genre":"HipHop",
-    "title":"Guajira",
-    "favourite":""
+    "ID":25,
+    "Song":"Grease Megamix",
+    "Artist":"John Travolta and Olivia Newton John",
+    "Genre":"80s",
+    "Top Song":""
   },
   {
-    "id":26,
-    "artist":"3",
-    "genre":"HipHop",
-    "title":"Jungle Strut",
-    "favourite":""
+    "ID":26,
+    "Song":"Good Feelin",
+    "Artist":"Flo Rida",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":27,
-    "artist":"3",
-    "genre":"HipHop",
-    "title":"Everything's Coming Our Way",
-    "favourite":""
+    "ID":27,
+    "Song":"Give Me Everything",
+    "Artist":"Pitbull",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":28,
-    "artist":"3",
-    "genre":"HipHop",
-    "title":"Para Los Rumberos",
-    "favourite":""
+    "ID":28,
+    "Song":"Get Lucky",
+    "Artist":"Daft Punk",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":29,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Check The Rhime",
-    "favourite":""
+    "ID":29,
+    "Song":"Gangnam Style",
+    "Artist":"Psy",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":30,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Bonita Applebum",
-    "favourite":""
+    "ID":30,
+    "Song":"Don't Stop This Party",
+    "Artist":"Pitbull",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":31,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Award Tour",
-    "favourite":""
+    "ID":31,
+    "Song":"Dancing Queen",
+    "Artist":"Abba",
+    "Genre":"Disco",
+    "Top Song":""
   },
   {
-    "id":32,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Can I Kick It_",
-    "favourite":""
+    "ID":32,
+    "Song":"Celebration",
+    "Artist":"Kool and the Gang",
+    "Genre":"Disco",
+    "Top Song":""
   },
   {
-    "id":33,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Scenario",
-    "favourite":""
+    "ID":33,
+    "Song":"Brown Eyed Girl",
+    "Artist":"Van Morrison",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":34,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Buggin' Out",
-    "favourite":"yes"
+    "ID":34,
+    "Song":"Billy Jean",
+    "Artist":"Michael Jackson",
+    "Genre":"80s",
+    "Top Song":""
   },
   {
-    "id":35,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Electric Relaxation",
-    "favourite":""
+    "ID":35,
+    "Song":"Billy Idol",
+    "Artist":"Mony Mony",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":36,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Jazz (We've Got)",
-    "favourite":""
+    "ID":36,
+    "Song":"500 Miles",
+    "Artist":"Proclaimers",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":37,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"I Left My Wallet In El Segundo",
-    "favourite":""
+    "ID":37,
+    "Song":"Lady In Red",
+    "Artist":"Chris De Burgh",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":38,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Hot Sex",
-    "favourite":""
+    "ID":38,
+    "Song":"Sexyback",
+    "Artist":"Justin Timberlake",
+    "Genre":"Hip Hop",
+    "Top Song":""
   },
   {
-    "id":39,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Oh My God",
-    "favourite":""
+    "ID":39,
+    "Song":"Only Girl In the World",
+    "Artist":"Rihanna",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":40,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Keeping It Moving",
-    "favourite":""
+    "ID":40,
+    "Song":"Sweet Home Alabama",
+    "Artist":"Lynyrd Skynard",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":41,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Sucka Nigga",
-    "favourite":""
+    "ID":41,
+    "Song":"Can You Feel The Love Tonight",
+    "Artist":"Elton John",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":42,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Midnight Marauders Tour Guide",
-    "favourite":""
+    "ID":42,
+    "Song":"Twist",
+    "Artist":"Chuby Checker",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":43,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Steve Biko (Stir It Up)",
-    "favourite":""
+    "ID":43,
+    "Song":"Cruise",
+    "Artist":"Florida Georgia Line",
+    "Genre":"M Country",
+    "Top Song":""
   },
   {
-    "id":44,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Award Tour",
-    "favourite":""
+    "ID":44,
+    "Song":"Shake, Rattle and Roll",
+    "Artist":"Bill Haley",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":45,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"8 Million Stories",
-    "favourite":""
+    "ID":45,
+    "Song":"Rock Around The Clock",
+    "Artist":"Bill Haley",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":46,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Sucka Nigga",
-    "favourite":""
+    "ID":46,
+    "Song":"Home For A Rest",
+    "Artist":"Spirit of the West",
+    "Genre":"Celtic",
+    "Top Song":""
   },
   {
-    "id":47,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Midnight",
-    "favourite":""
+    "ID":47,
+    "Song":"Man I Fell Like a woman",
+    "Artist":"Shania Twain",
+    "Genre":"F Country",
+    "Top Song":""
   },
   {
-    "id":48,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"We Can Get Down",
-    "favourite":""
+    "ID":48,
+    "Song":"Born This Way",
+    "Artist":"Lady Gaga",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":49,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Electric Relaxation",
-    "favourite":""
+    "ID":49,
+    "Song":"Just Dance",
+    "Artist":"Lady Gaga",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":50,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Clap Your Hands",
-    "favourite":""
+    "ID":50,
+    "Song":"Bad Romance",
+    "Artist":"Lady Gaga",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":51,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Oh My God",
-    "favourite":""
+    "ID":51,
+    "Song":"Save the Best for Last",
+    "Artist":"Instrumental",
+    "Genre":"Wedding",
+    "Top Song":""
   },
   {
-    "id":52,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Keep It Rollin'",
-    "favourite":""
+    "ID":52,
+    "Song":"Jesu, Joy of Man's desiring",
+    "Artist":"Instrumental",
+    "Genre":"Wedding",
+    "Top Song":""
   },
   {
-    "id":53,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Chase, Pt. 2",
-    "favourite":""
+    "ID":53,
+    "Song":"Ava Maria",
+    "Artist":"Schubert",
+    "Genre":"Wedding",
+    "Top Song":""
   },
   {
-    "id":54,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Lyrics to Go",
-    "favourite":""
+    "ID":54,
+    "Song":"Sheep May Safely Graze",
+    "Artist":"Instrumental",
+    "Genre":"Wedding",
+    "Top Song":""
   },
   {
-    "id":55,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"God Lives Through",
-    "favourite":""
+    "ID":55,
+    "Song":"Pachelbel's Canon",
+    "Artist":"Pachelbel",
+    "Genre":"Wedding",
+    "Top Song":""
   },
   {
-    "id":56,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Start It Up",
-    "favourite":""
+    "ID":56,
+    "Song":"Bridal March from Lohengrin",
+    "Artist":"Instrumental",
+    "Genre":"Wedding",
+    "Top Song":""
   },
   {
-    "id":57,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Find a Way",
-    "favourite":""
+    "ID":57,
+    "Song":"O Perfect Love",
+    "Artist":"Instrumental",
+    "Genre":"Wedding",
+    "Top Song":""
   },
   {
-    "id":58,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Booty",
-    "favourite":""
+    "ID":58,
+    "Song":"Finale of Ode to Joy",
+    "Artist":"Instrumental",
+    "Genre":"Wedding",
+    "Top Song":""
   },
   {
-    "id":59,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Steppin' It Up - Redman",
-    "favourite":""
+    "ID":59,
+    "Song":"When I Fall in Love",
+    "Artist":"Sleepless in Seattle",
+    "Genre":"Wedding",
+    "Top Song":""
   },
   {
-    "id":60,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Like It Like That",
-    "favourite":""
+    "ID":60,
+    "Song":"Everything I do for you",
+    "Artist":"Robin Hood",
+    "Genre":"Wedding",
+    "Top Song":""
   },
   {
-    "id":61,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Common Ground (Get It Goin' On)",
-    "favourite":""
+    "ID":61,
+    "Song":"Forever In Love",
+    "Artist":"Instrumental",
+    "Genre":"Wedding",
+    "Top Song":""
   },
   {
-    "id":62,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Moms - Spanky",
-    "favourite":""
+    "ID":62,
+    "Song":"Vangelis' Hymn",
+    "Artist":"Vangelis",
+    "Genre":"Wedding",
+    "Top Song":""
   },
   {
-    "id":63,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"His Name Is Mutty Ranks",
-    "favourite":""
+    "ID":63,
+    "Song":"One Hand, One Heart",
+    "Artist":"West Side Story",
+    "Genre":"Wedding",
+    "Top Song":""
   },
   {
-    "id":64,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Give Me - Noreaga",
-    "favourite":""
+    "ID":64,
+    "Song":"The Wedding Song",
+    "Artist":"Instrumental",
+    "Genre":"Wedding",
+    "Top Song":""
   },
   {
-    "id":65,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Pad & Pen",
-    "favourite":""
+    "ID":65,
+    "Song":"Happy Birthday",
+    "Artist":"unknown",
+    "Genre":"Specialty",
+    "Top Song":""
   },
   {
-    "id":66,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Busta's Lament",
-    "favourite":""
+    "ID":66,
+    "Song":"Bird/Chicken Dance",
+    "Artist":"unknown",
+    "Genre":"Specialty",
+    "Top Song":""
   },
   {
-    "id":67,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Hot 4 U",
-    "favourite":""
+    "ID":67,
+    "Song":"Ex's and Ohs",
+    "Artist":"Elle King",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":68,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Against the World",
-    "favourite":""
+    "ID":68,
+    "Song":"Hello",
+    "Artist":"Adele",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":69,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Love",
-    "favourite":""
+    "ID":69,
+    "Song":"Shut Up and Dance",
+    "Artist":"Walk the Moon",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":70,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Rock Rock Y'all - Mos Def",
-    "favourite":""
+    "ID":70,
+    "Song":"Uptown Funk",
+    "Artist":"Bruno Mars and Mark Ronson",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":71,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Scenario [Remix][_]",
-    "favourite":""
+    "ID":71,
+    "Song":"What do You Mean",
+    "Artist":"Justin Beiber",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":72,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Money Maker [_]",
-    "favourite":""
+    "ID":72,
+    "Song":"Can't Feel My Face",
+    "Artist":"The Weeknd",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":73,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Hot Sex [_]",
-    "favourite":""
+    "ID":73,
+    "Song":"Downtown",
+    "Artist":"Macklemore and Ryan",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":74,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Oh My God [Remix][_]",
-    "favourite":""
+    "ID":74,
+    "Song":"Thinking Out Loud",
+    "Artist":"Ed Sheeran",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":75,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Jazz (We've Got) [_]",
-    "favourite":""
+    "ID":75,
+    "Song":"All of Me",
+    "Artist":"John Legend",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":76,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"One Two S__t [_] - Busta Rhymes",
-    "favourite":""
+    "ID":76,
+    "Song":"Sugar",
+    "Artist":"Maroon 5",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":77,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Excursions",
-    "favourite":""
+    "ID":77,
+    "Song":"Cake By The Ocean",
+    "Artist":"DNCE",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":78,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Buggin' Out",
-    "favourite":""
+    "ID":78,
+    "Song":"Don't Stop Believing",
+    "Artist":"Journey",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":79,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Rap Promoter",
-    "favourite":""
+    "ID":79,
+    "Song":"Sweet Caroline",
+    "Artist":"Neil Diamond",
+    "Genre":"Adult Contemporary",
+    "Top Song":""
   },
   {
-    "id":80,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Butter",
-    "favourite":""
+    "ID":80,
+    "Song":"Living On A Prayer",
+    "Artist":"Bon Jovi",
+    "Genre":"F Rock",
+    "Top Song":""
   },
   {
-    "id":81,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Verses From the Abstract",
-    "favourite":""
+    "ID":81,
+    "Song":"Marry You",
+    "Artist":"Bruno Mars",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":82,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Show Business",
-    "favourite":""
+    "ID":82,
+    "Song":"Cha Cha Slide",
+    "Artist":"DJ Casper",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":83,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Vibes and Stuff",
-    "favourite":""
+    "ID":83,
+    "Song":"Yeah",
+    "Artist":"Usher",
+    "Genre":"Hip Hop",
+    "Top Song":""
   },
   {
-    "id":84,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Infamous Date Rape",
-    "favourite":""
+    "ID":84,
+    "Song":"Timber",
+    "Artist":"Pitbull and Kesha",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":85,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Check the Rhime",
-    "favourite":""
+    "ID":85,
+    "Song":"Love Shack",
+    "Artist":"B 52s",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":86,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Everything Is Fair",
-    "favourite":""
+    "ID":86,
+    "Song":"Shout",
+    "Artist":"Isley Brothers",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":87,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Jazz (We've Got)",
-    "favourite":""
+    "ID":87,
+    "Song":"Time Warp",
+    "Artist":"Rocky Horror",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":88,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"Skypager",
-    "favourite":""
+    "ID":88,
+    "Song":"Friends in Low Places",
+    "Artist":"Garth Brooks",
+    "Genre":"S Country",
+    "Top Song":""
   },
   {
-    "id":89,
-    "artist":"A Tribe Called Quest",
-    "genre":"HipHop",
-    "title":"What_",
-    "favourite":""
+    "ID":89,
+    "Song":"Pour Some Sugar On Me",
+    "Artist":"Def Leppard",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":90,
-    "artist":"Aceyalone and Rjd2",
-    "genre":"HipHop",
-    "title":"All For U",
-    "favourite":""
+    "ID":90,
+    "Song":"Baby Got Back",
+    "Artist":"Sir Mix a lot",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":91,
-    "artist":"Aceyalone and Rjd2",
-    "genre":"HipHop",
-    "title":"Fire",
-    "favourite":""
+    "ID":91,
+    "Song":"All About The Bass",
+    "Artist":"Meghan Trainor",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":92,
-    "artist":"Aceyalone and Rjd2",
-    "genre":"HipHop",
-    "title":"Cornbread, Eddy, and Me",
-    "favourite":""
+    "ID":92,
+    "Song":"Footloose",
+    "Artist":"Kenny Loggins",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":93,
-    "artist":"Aceyalone and Rjd2",
-    "genre":"HipHop",
-    "title":"Moore",
-    "favourite":""
+    "ID":93,
+    "Song":"Sexy And I Know It",
+    "Artist":"LMFAO",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":94,
-    "artist":"Aceyalone and Rjd2",
-    "genre":"HipHop",
-    "title":"Supahero",
-    "favourite":""
+    "ID":94,
+    "Song":"We Found Love",
+    "Artist":"Rihanna and Calvin Harris",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":95,
-    "artist":"Aceyalone and Rjd2",
-    "genre":"HipHop",
-    "title":"High Lights",
-    "favourite":""
+    "ID":95,
+    "Song":"Country Girl ( Shake it For Me)",
+    "Artist":"Luke Bryan",
+    "Genre":"F Country",
+    "Top Song":""
   },
   {
-    "id":96,
-    "artist":"Aceyalone and Rjd2",
-    "genre":"HipHop",
-    "title":"Disconnected",
-    "favourite":""
+    "ID":96,
+    "Song":"The Way You Look Tonight",
+    "Artist":"Frank Sinatra",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":97,
-    "artist":"Aceyalone and Rjd2",
-    "genre":"HipHop",
-    "title":"Caged Bird",
-    "favourite":""
+    "ID":97,
+    "Song":"Dynamite",
+    "Artist":"Taio Cruz",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":98,
-    "artist":"Aceyalone and Rjd2",
-    "genre":"HipHop",
-    "title":"Solomon Jones",
-    "favourite":""
+    "ID":98,
+    "Song":"I Don't want to Miss a Thing",
+    "Artist":"Aerosmith",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":99,
-    "artist":"Aceyalone and Rjd2",
-    "genre":"HipHop",
-    "title":"A Sunday Mystery",
-    "favourite":""
+    "ID":99,
+    "Song":"Forever",
+    "Artist":"Chris Brown",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":100,
-    "artist":"Aceyalone and Rjd2",
-    "genre":"HipHop",
-    "title":"Junior",
-    "favourite":""
+    "ID":100,
+    "Song":"Unchained Melody",
+    "Artist":"Righteous Brothers",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":101,
-    "artist":"Aceyalone and Rjd2",
-    "genre":"HipHop",
-    "title":"Heaven",
-    "favourite":""
+    "ID":101,
+    "Song":"Wake Me Up",
+    "Artist":"Avici",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":102,
-    "artist":"Aceyalone and Rjd2",
-    "genre":"HipHop",
-    "title":"Here and Now",
-    "favourite":""
+    "ID":102,
+    "Song":"Crazy In Love",
+    "Artist":"Beyonce and Jay Z",
+    "Genre":"Hip Hop",
+    "Top Song":""
   },
   {
-    "id":103,
-    "artist":"Aceyalone and Rjd2",
-    "genre":"HipHop",
-    "title":"A Beautiful Mine",
-    "favourite":""
+    "ID":103,
+    "Song":"Everybody",
+    "Artist":"BackStreet Boys",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":104,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"01 Pouches Of Tuna Ft. Roc Marcia",
-    "favourite":""
+    "ID":104,
+    "Song":"I'm Yours",
+    "Artist":"Jason Mraz",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":105,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"02 Steve Wynn",
-    "favourite":""
+    "ID":105,
+    "Song":"I Kissed a Girl",
+    "Artist":"Katy Perry",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":106,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"03 Tan Leather",
-    "favourite":""
+    "ID":106,
+    "Song":"Beat It",
+    "Artist":"Micheal Jackson",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":107,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"04 Double Breasted",
-    "favourite":""
+    "ID":107,
+    "Song":"U Can't Touch This",
+    "Artist":"MC Hammer",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":108,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"05 Thug Love Story 2012",
-    "favourite":""
+    "ID":108,
+    "Song":"(I've Had ) The Time of My Life",
+    "Artist":"Bill Medley and Jennifer Warnes",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":109,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"06 Hookers At The Point",
-    "favourite":""
+    "ID":109,
+    "Song":"Crazy Thing Called Love",
+    "Artist":"Queen",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":110,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"07 Dreamer",
-    "favourite":""
+    "ID":110,
+    "Song":"Macarena",
+    "Artist":"Los Del Rios",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":111,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"08 Ron Simmons",
-    "favourite":""
+    "ID":111,
+    "Song":"Boot Scootin Boogie",
+    "Artist":"Brooks and Dunn",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":112,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"09 Expensive Pens Ft. Meyhem Laur",
-    "favourite":""
+    "ID":112,
+    "Song":"Everything I Do For You",
+    "Artist":"Bryan Adams",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":113,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"10 9-24-11",
-    "favourite":""
+    "ID":113,
+    "Song":"Feel So Close",
+    "Artist":"Calvin Harris",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":114,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"11 Arts & Leisure Ft. Kool Ad",
-    "favourite":""
+    "ID":114,
+    "Song":"Fly Me to The Moon",
+    "Artist":"Frank Sinatra",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":115,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"12 Intercontinental Champion",
-    "favourite":""
+    "ID":115,
+    "Song":"New York, New York",
+    "Artist":"Frank Sinatra",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":116,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"13 5 Minute Beats 1 Take Raps",
-    "favourite":""
+    "ID":116,
+    "Song":"Stand By Me",
+    "Artist":"B.B. King",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":117,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"14 Blue Chips",
-    "favourite":""
+    "ID":117,
+    "Song":"Getting Jiggy With It",
+    "Artist":"Will Smith",
+    "Genre":"Hip Hop",
+    "Top Song":""
   },
   {
-    "id":118,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"15 103 And Roosy",
-    "favourite":""
+    "ID":118,
+    "Song":"Danza Kuduro",
+    "Artist":"Don Omar and Lucenzo",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":119,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"16 Tapas",
-    "favourite":""
+    "ID":119,
+    "Song":"Can't Hold Us",
+    "Artist":"Macklemore and Ryan Lewis",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":120,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"East Bound And Down",
-    "favourite":""
+    "ID":120,
+    "Song":"How Sweet It is to be Loved by You",
+    "Artist":"James Taylor",
+    "Genre":"S Dance",
+    "Top Song":"Yes"
   },
   {
-    "id":121,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"T.K.O",
-    "favourite":""
+    "ID":121,
+    "Song":"50 Cent",
+    "Artist":"In Da Club",
+    "Genre":"Hip Hop",
+    "Top Song":""
   },
   {
-    "id":122,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Mark Sanchez",
-    "favourite":""
+    "ID":122,
+    "Song":"Sweet Child of Mine",
+    "Artist":"Guns n Roses",
+    "Genre":"F Rock",
+    "Top Song":""
   },
   {
-    "id":123,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Shiraz",
-    "favourite":""
+    "ID":123,
+    "Song":"Signed, Sealed, Delivered",
+    "Artist":"Stevie Wonder",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":124,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"The Come Up",
-    "favourite":""
+    "ID":124,
+    "Song":"Don't Stop The Music",
+    "Artist":"Rihanna",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":125,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Imported Goods",
-    "favourite":""
+    "ID":125,
+    "Song":"Bust A Move",
+    "Artist":"Young MC",
+    "Genre":"Rap",
+    "Top Song":""
   },
   {
-    "id":126,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Bronson Maina",
-    "favourite":""
+    "ID":126,
+    "Song":"I Don't Dance",
+    "Artist":"Rascall Flatts",
+    "Genre":"S Country",
+    "Top Song":""
   },
   {
-    "id":127,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Dabble In Truffles",
-    "favourite":""
+    "ID":127,
+    "Song":"My Wish",
+    "Artist":"Rascall Flatts",
+    "Genre":"S Country",
+    "Top Song":""
   },
   {
-    "id":128,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Growin Up",
-    "favourite":""
+    "ID":128,
+    "Song":"Amazed",
+    "Artist":"Alabama",
+    "Genre":"S Country",
+    "Top Song":""
   },
   {
-    "id":129,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Mofongo",
-    "favourite":""
+    "ID":129,
+    "Song":"Bless The Broken Road",
+    "Artist":"Rascall Flatts",
+    "Genre":"S Country",
+    "Top Song":""
   },
   {
-    "id":130,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Fuck Me Till I Die",
-    "favourite":""
+    "ID":130,
+    "Song":"Let's Get It Started",
+    "Artist":"Black Eyed Peas",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":131,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Borderline",
-    "favourite":""
+    "ID":131,
+    "Song":"Better Together",
+    "Artist":"Jac Johnson",
+    "Genre":"dinner",
+    "Top Song":""
   },
   {
-    "id":132,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Eastern Promises",
-    "favourite":""
+    "ID":132,
+    "Song":"Sunrise",
+    "Artist":"Norah Jones",
+    "Genre":"dinner",
+    "Top Song":""
   },
   {
-    "id":133,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"85 Barritz BRO-HAM",
-    "favourite":""
+    "ID":133,
+    "Song":"The Look of Love",
+    "Artist":"Diana Krall",
+    "Genre":"dinner",
+    "Top Song":""
   },
   {
-    "id":134,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Body Language",
-    "favourite":""
+    "ID":134,
+    "Song":"I've Got You Under My Skin",
+    "Artist":"Diana Krall",
+    "Genre":"dinner",
+    "Top Song":""
   },
   {
-    "id":135,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Aged Manchego",
-    "favourite":""
+    "ID":135,
+    "Song":"Bye Bye Bye",
+    "Artist":"N'sync",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":136,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Albino Gorilla",
-    "favourite":""
+    "ID":136,
+    "Song":"One More Time",
+    "Artist":"Daft Punk",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":137,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Roasted Bone Marrow",
-    "favourite":""
+    "ID":137,
+    "Song":"Locked Out of Heaven",
+    "Artist":"Bruno Mars",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":138,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Get Off The P.P.",
-    "favourite":""
+    "ID":138,
+    "Song":"It Came Upon A Midnight Clear",
+    "Artist":"John Tesh",
+    "Genre":"Christmas",
+    "Top Song":""
   },
   {
-    "id":139,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Tango & Cash",
-    "favourite":""
+    "ID":139,
+    "Song":"Silent Night",
+    "Artist":"John Tesh",
+    "Genre":"Christmas",
+    "Top Song":""
   },
   {
-    "id":140,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Shape Shifters",
-    "favourite":""
+    "ID":140,
+    "Song":"Home For the Holidays",
+    "Artist":"Perry Como",
+    "Genre":"Christmas",
+    "Top Song":""
   },
   {
-    "id":141,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Night Court",
-    "favourite":""
+    "ID":141,
+    "Song":"Jingle Bell Rock",
+    "Artist":"Jim Reeves",
+    "Genre":"Christmas",
+    "Top Song":""
   },
   {
-    "id":142,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Ceviche",
-    "favourite":""
+    "ID":142,
+    "Song":"Rocking Around The Christmas Tree",
+    "Artist":"Brenda Lee",
+    "Genre":"Christmas",
+    "Top Song":""
   },
   {
-    "id":143,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Black Rain",
-    "favourite":""
+    "ID":143,
+    "Song":"Sleigh Ride",
+    "Artist":"Carpenters",
+    "Genre":"Christmas",
+    "Top Song":""
   },
   {
-    "id":144,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Double Impact",
-    "favourite":""
+    "ID":144,
+    "Song":"Everything",
+    "Artist":"Michaal Buble",
+    "Genre":"Dinner",
+    "Top Song":""
   },
   {
-    "id":145,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"The Team",
-    "favourite":""
+    "ID":145,
+    "Song":"I've Got the World On a String",
+    "Artist":"Diana Krall",
+    "Genre":"Dinner",
+    "Top Song":""
   },
   {
-    "id":146,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Marijuana Bronson",
-    "favourite":""
+    "ID":146,
+    "Song":"The Girl From Ipanema",
+    "Artist":"Frank Sinatra",
+    "Genre":"Dinner",
+    "Top Song":""
   },
   {
-    "id":147,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Shorty Bop With A Hook",
-    "favourite":""
+    "ID":147,
+    "Song":"Boplicity",
+    "Artist":"Miles Davis",
+    "Genre":"Dinner",
+    "Top Song":""
   },
   {
-    "id":148,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Friendly Fire",
-    "favourite":""
+    "ID":148,
+    "Song":"Round Midnight",
+    "Artist":"Thelonius Monk",
+    "Genre":"Dinner",
+    "Top Song":""
   },
   {
-    "id":149,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Bronson Hard Lemonade",
-    "favourite":""
+    "ID":149,
+    "Song":"Call Me Irrisistable",
+    "Artist":"Tony Bennett",
+    "Genre":"Dinner",
+    "Top Song":""
   },
   {
-    "id":150,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"I Remember",
-    "favourite":""
+    "ID":150,
+    "Song":"Sway",
+    "Artist":"Dean Martin",
+    "Genre":"Adult Contemporary",
+    "Top Song":""
   },
   {
-    "id":151,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Amuse Pusche",
-    "favourite":""
+    "ID":151,
+    "Song":"Amore",
+    "Artist":"Dean Martin",
+    "Genre":"Adult Contemporary",
+    "Top Song":""
   },
   {
-    "id":152,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"On The Real",
-    "favourite":""
+    "ID":152,
+    "Song":"In The Mood",
+    "Artist":"Glenn Miller",
+    "Genre":"Big Band",
+    "Top Song":""
   },
   {
-    "id":153,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Re-Elect Dinkins",
-    "favourite":""
+    "ID":153,
+    "Song":"At Last",
+    "Artist":"Ella Fitxgerald",
+    "Genre":"Adult Contemporary",
+    "Top Song":""
   },
   {
-    "id":154,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Chilli Chicken Hakka Style",
-    "favourite":""
+    "ID":154,
+    "Song":"Blue Moon",
+    "Artist":"Billie Halliday",
+    "Genre":"Dinner",
+    "Top Song":""
   },
   {
-    "id":155,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Moonstruck",
-    "favourite":""
+    "ID":155,
+    "Song":"Heartplace",
+    "Artist":"Stan Getz",
+    "Genre":"Dinner",
+    "Top Song":""
   },
   {
-    "id":156,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Barry Horowitz",
-    "favourite":""
+    "ID":156,
+    "Song":"This Guy's in Love with you",
+    "Artist":"Richard Clayderman",
+    "Genre":"Dinner",
+    "Top Song":""
   },
   {
-    "id":157,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"The Madness",
-    "favourite":""
+    "ID":157,
+    "Song":"End of the Night",
+    "Artist":"Kenny G",
+    "Genre":"Dinner",
+    "Top Song":""
   },
   {
-    "id":158,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Larry Csonka",
-    "favourite":""
+    "ID":158,
+    "Song":"Forever In Love",
+    "Artist":"Kenny G",
+    "Genre":"Dinner",
+    "Top Song":""
   },
   {
-    "id":159,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Ronnie Coleman",
-    "favourite":""
+    "ID":159,
+    "Song":"What I Like About You",
+    "Artist":"Romantics",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":160,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Bag of Money Ft. Meyhem Lauren",
-    "favourite":""
+    "ID":160,
+    "Song":"DJ Got Us Falling In Love Again",
+    "Artist":"Usher",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":161,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Brunch",
-    "favourite":""
+    "ID":161,
+    "Song":"Goldigger",
+    "Artist":"Kanye West",
+    "Genre":"Rap",
+    "Top Song":""
   },
   {
-    "id":162,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Shiraz",
-    "favourite":""
+    "ID":162,
+    "Song":"Stronger",
+    "Artist":"Kanye West",
+    "Genre":"Rap",
+    "Top Song":""
   },
   {
-    "id":163,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Buddy Guy",
-    "favourite":""
+    "ID":163,
+    "Song":"She's Everything",
+    "Artist":"Brad Paisley",
+    "Genre":"S Country",
+    "Top Song":""
   },
   {
-    "id":164,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Jerk Chicken Ft. Maffew Ragazino",
-    "favourite":""
+    "ID":164,
+    "Song":"Summer",
+    "Artist":"Calvin Harris",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":165,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Chuck Person Ft. Meyhem Lauren, S",
-    "favourite":""
+    "ID":165,
+    "Song":"Come Away With Me",
+    "Artist":"Norah Jones",
+    "Genre":"dinner",
+    "Top Song":""
   },
   {
-    "id":166,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Forbidden Fruit",
-    "favourite":""
+    "ID":166,
+    "Song":"Wanted",
+    "Artist":"Huner Hayes",
+    "Genre":"S Country",
+    "Top Song":""
   },
   {
-    "id":167,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Suede Ft. Meyhem Lauren, Shaz Ill",
-    "favourite":""
+    "ID":167,
+    "Song":"Honey Bee",
+    "Artist":"Sheldon Blake",
+    "Genre":"S Country",
+    "Top Song":""
   },
   {
-    "id":168,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Get Off My P.P.",
-    "favourite":""
+    "ID":168,
+    "Song":"Poker Face",
+    "Artist":"Lady Gaga",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":169,
-    "artist":"Action Bronson",
-    "genre":"HipHop",
-    "title":"Beautiful Music",
-    "favourite":""
+    "ID":169,
+    "Song":"Talk Dirty",
+    "Artist":"Jason Derulo",
+    "Genre":"Hip Hop",
+    "Top Song":""
   },
   {
-    "id":170,
-    "artist":"Action Bronson & Statik Selektah",
-    "genre":"HipHop",
-    "title":"Respect The Mustoche",
-    "favourite":""
+    "ID":170,
+    "Song":"Fancy",
+    "Artist":"Iggy Azelea",
+    "Genre":"Hip Hop",
+    "Top Song":""
   },
   {
-    "id":171,
-    "artist":"Action Bronson & Statik Selektah",
-    "genre":"HipHop",
-    "title":"Time For Some Ft. Lil Fame",
-    "favourite":""
+    "ID":171,
+    "Song":"My Best Friend",
+    "Artist":"Tim McGraw",
+    "Genre":"S Country",
+    "Top Song":""
   },
   {
-    "id":172,
-    "artist":"Action Bronson & Statik Selektah",
-    "genre":"HipHop",
-    "title":"Cocoo Butter Ft. Nina Sky",
-    "favourite":""
+    "ID":172,
+    "Song":"Take On Me",
+    "Artist":"A-ha",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":173,
-    "artist":"Action Bronson & Statik Selektah",
-    "genre":"HipHop",
-    "title":"White Silk",
-    "favourite":""
+    "ID":173,
+    "Song":"Safe and Sound",
+    "Artist":"Capital Cities",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":174,
-    "artist":"Action Bronson & Statik Selektah",
-    "genre":"HipHop",
-    "title":"Keep Off The Grass",
-    "favourite":""
+    "ID":174,
+    "Song":"Then",
+    "Artist":"Brad Paisley",
+    "Genre":"S Country",
+    "Top Song":""
   },
   {
-    "id":175,
-    "artist":"Action Bronson & Statik Selektah",
-    "genre":"HipHop",
-    "title":"The Stick Up",
-    "favourite":""
+    "ID":175,
+    "Song":"What Makes You Beautiful",
+    "Artist":"One Direction",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":176,
-    "artist":"Action Bronson & Statik Selektah",
-    "genre":"HipHop",
-    "title":"Central Bookings Ft. Meyham Laure",
-    "favourite":""
+    "ID":176,
+    "Song":"All Summer Long",
+    "Artist":"Kid Rock",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":177,
-    "artist":"Action Bronson & Statik Selektah",
-    "genre":"HipHop",
-    "title":"Cirque Du Soleil",
-    "favourite":""
+    "ID":177,
+    "Song":"Photograph",
+    "Artist":"Kid Rock",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":178,
-    "artist":"Action Bronson & Statik Selektah",
-    "genre":"HipHop",
-    "title":"The Rainmaker",
-    "favourite":""
+    "ID":178,
+    "Song":"Red Red Wine",
+    "Artist":"UB40",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":179,
-    "artist":"Action Bronson & Statik Selektah",
-    "genre":"HipHop",
-    "title":"Love Letter",
-    "favourite":"yes"
+    "ID":179,
+    "Song":"Jammin",
+    "Artist":"Bob Marley",
+    "Genre":"Reggae",
+    "Top Song":""
   },
   {
-    "id":180,
-    "artist":"Action Bronson & Statik Selektah",
-    "genre":"HipHop",
-    "title":"Not Enough Words",
-    "favourite":""
+    "ID":180,
+    "Song":"Hot Hot Hot",
+    "Artist":"Arrow",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":181,
-    "artist":"Action Bronson & Statik Selektah",
-    "genre":"HipHop",
-    "title":"Terror Death Camp Ft. Meyham Laur",
-    "favourite":""
+    "ID":181,
+    "Song":"Holiday",
+    "Artist":"Madonna",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":182,
-    "artist":"Action Bronson & Statik Selektah",
-    "genre":"HipHop",
-    "title":"Miss Fordham Road (86 87 88)",
-    "favourite":""
+    "ID":182,
+    "Song":"Lucky Star",
+    "Artist":"Madonna",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":183,
-    "artist":"Action Bronson & Statik Selektah",
-    "genre":"HipHop",
-    "title":"Cliff Notes",
-    "favourite":""
+    "ID":183,
+    "Song":"Tik Tock",
+    "Artist":"Kesha",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":184,
-    "artist":"Action Bronson & Statik Selektah",
-    "genre":"HipHop",
-    "title":"Bon Voyage",
-    "favourite":""
+    "ID":184,
+    "Song":"Sexual Healing",
+    "Artist":"Marvin Gaye",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":185,
-    "artist":"AC_DC",
-    "genre":"Classic Rock",
-    "title":"Let There Be Rock",
-    "favourite":""
+    "ID":185,
+    "Song":"I Heard It Through The Grape Vine",
+    "Artist":"Marvin Gaye",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":186,
-    "artist":"AC_DC",
-    "genre":"Classic Rock",
-    "title":"Dirty Deeds Done Dirt Cheap",
-    "favourite":""
+    "ID":186,
+    "Song":"When A Man Loves A Woman",
+    "Artist":"Percy Sledge",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":187,
-    "artist":"AC_DC",
-    "genre":"Classic Rock",
-    "title":"Big Gun",
-    "favourite":""
+    "ID":187,
+    "Song":"Counting Stars",
+    "Artist":"One Republic",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":188,
-    "artist":"AC_DC",
-    "genre":"Classic Rock",
-    "title":"The Jack",
-    "favourite":""
+    "ID":188,
+    "Song":"Feel This Moment",
+    "Artist":"Pitbull and Christina Aguilera",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":189,
-    "artist":"AC_DC",
-    "genre":"Classic Rock",
-    "title":"Heatseeker",
-    "favourite":""
+    "ID":189,
+    "Song":"Run Around Sue",
+    "Artist":"Dion",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":190,
-    "artist":"AC_DC",
-    "genre":"Classic Rock",
-    "title":"Jailbreak",
-    "favourite":""
+    "ID":190,
+    "Song":"Honey, I'm Good",
+    "Artist":"Andy Grammer",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":191,
-    "artist":"AC_DC",
-    "genre":"Classic Rock",
-    "title":"You Shook Me All Night Long",
-    "favourite":""
+    "ID":191,
+    "Song":"Jumping Jack Flash",
+    "Artist":"Rolling Stones",
+    "Genre":"F Rock",
+    "Top Song":""
   },
   {
-    "id":192,
-    "artist":"AC_DC",
-    "genre":"Classic Rock",
-    "title":"Rock 'N' Roll Damnation",
-    "favourite":""
+    "ID":192,
+    "Song":"Jack and Diane",
+    "Artist":"John Mellencamp",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":193,
-    "artist":"AC_DC",
-    "genre":"Classic Rock",
-    "title":"Shake Your Foundations",
-    "favourite":""
+    "ID":193,
+    "Song":"Hurts So Good",
+    "Artist":"John Mellencamp",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":194,
-    "artist":"AC_DC",
-    "genre":"Classic Rock",
-    "title":"T.N.T.",
-    "favourite":""
+    "ID":194,
+    "Song":"You Spin Me Round",
+    "Artist":"Dead Or Alive",
+    "Genre":"F Dance",
+    "Top Song":"Yes"
   },
   {
-    "id":195,
-    "artist":"AC_DC",
-    "genre":"Classic Rock",
-    "title":"Who Made Who",
-    "favourite":""
+    "ID":195,
+    "Song":"Shout",
+    "Artist":"Tears For Fears",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":196,
-    "artist":"AC_DC",
-    "genre":"Classic Rock",
-    "title":"Highway To Hell",
-    "favourite":""
+    "ID":196,
+    "Song":"Dancing in the Dark",
+    "Artist":"Bruce Springsteen",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":197,
-    "artist":"AC_DC",
-    "genre":"Classic Rock",
-    "title":"Whole Lotta Rosie",
-    "favourite":""
+    "ID":197,
+    "Song":"Glory Days",
+    "Artist":"Bruce Springsteen",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":198,
-    "artist":"AC_DC",
-    "genre":"Classic Rock",
-    "title":"For These About To Rock (We Salut",
-    "favourite":""
+    "ID":198,
+    "Song":"Rolling In The Deep",
+    "Artist":"Adele",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":199,
-    "artist":"AC_DC",
-    "genre":"Classic Rock",
-    "title":"Big Balls",
-    "favourite":""
+    "ID":199,
+    "Song":"Play That Funky Music",
+    "Artist":"Wild Cherry",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":200,
-    "artist":"AC_DC",
-    "genre":"Classic Rock",
-    "title":"Rocker",
-    "favourite":""
+    "ID":200,
+    "Song":"Don't Rock The Jukebox",
+    "Artist":"Alan Jackson",
+    "Genre":"M Country",
+    "Top Song":""
   },
   {
-    "id":201,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Water",
-    "favourite":""
+    "ID":201,
+    "Song":"One Last Time",
+    "Artist":"Ariana Grande",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":202,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Wise Up",
-    "favourite":""
+    "ID":202,
+    "Song":"Problem",
+    "Artist":"Ariana Grande",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":203,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"The Active Element",
-    "favourite":""
+    "ID":203,
+    "Song":"Boom Clap",
+    "Artist":"Charlie XCX",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":204,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"The Tugboat Complex",
-    "favourite":""
+    "ID":204,
+    "Song":"I Don't Care",
+    "Artist":"Charlie XCX",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":205,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Bad Karma",
-    "favourite":""
+    "ID":205,
+    "Song":"Summertime",
+    "Artist":"Daddy Yankee",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":206,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Take Me to the Basement",
-    "favourite":""
+    "ID":206,
+    "Song":"Sexy Chick",
+    "Artist":"David Guetta",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":207,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Blacklist (feat. MF Doom)",
-    "favourite":""
+    "ID":207,
+    "Song":"Ed Sheeran",
+    "Artist":"Photograph",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":208,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Sinister (feat. Vast Aire & Yesh)",
-    "favourite":"yes"
+    "ID":208,
+    "Song":"Ellie Golding",
+    "Artist":"Love Me Like You Do",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":209,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Helium (feat. Vordul)",
-    "favourite":""
+    "ID":209,
+    "Song":"Monster",
+    "Artist":"Eminem and Rihanna",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":210,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Dragon Coaster (feat. Mojo)",
-    "favourite":""
+    "ID":210,
+    "Song":"Rhythm Divine",
+    "Artist":"Enrique Iglesius",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":211,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Inner City Hustle [Wakin'] (feat.",
-    "favourite":""
+    "ID":211,
+    "Song":"Bruce Springsteen",
+    "Artist":"Eric Church",
+    "Genre":"M Country",
+    "Top Song":""
   },
   {
-    "id":212,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Tap Dancin' for Scratch (feat. Va",
-    "favourite":""
+    "ID":212,
+    "Song":"Uma Therman",
+    "Artist":"Fall Out Boy",
+    "Genre":"F Rock",
+    "Top Song":""
   },
   {
-    "id":213,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Put Your Quarters Up (feat. Slug",
-    "favourite":""
+    "ID":213,
+    "Song":"Trap Queen",
+    "Artist":"Fetty Wap",
+    "Genre":"Hip Hop",
+    "Top Song":""
   },
   {
-    "id":214,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Home Again (feat. The Controls)",
-    "favourite":""
+    "ID":214,
+    "Song":"Check Yes or No",
+    "Artist":"George Strait",
+    "Genre":"S Country",
+    "Top Song":""
   },
   {
-    "id":215,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Coma [remix]",
-    "favourite":""
+    "ID":215,
+    "Song":"End of the World",
+    "Artist":"Great Big Sea",
+    "Genre":"Celtic",
+    "Top Song":""
   },
   {
-    "id":216,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Atlantis (feat. Mojo)",
-    "favourite":""
+    "ID":216,
+    "Song":"The Night Paddy Murphy Died",
+    "Artist":"Great Big Sea",
+    "Genre":"Celtic",
+    "Top Song":""
   },
   {
-    "id":217,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Bad Summeritan",
-    "favourite":""
+    "ID":217,
+    "Song":"Marimac",
+    "Artist":"Great Big Sea",
+    "Genre":"Celtic",
+    "Top Song":""
   },
   {
-    "id":218,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Commencement at the Obedience Aca",
-    "favourite":""
+    "ID":218,
+    "Song":"Call Me Maybe",
+    "Artist":"Carly Rae Jepson",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":219,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Accapella [Live at the El-Ray]",
-    "favourite":""
+    "ID":219,
+    "Song":"Take Me To Church",
+    "Artist":"Hozier",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":220,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Fishtales",
-    "favourite":""
+    "ID":220,
+    "Song":"Wiggle",
+    "Artist":"Jason Derulo",
+    "Genre":"Hip Hop",
+    "Top Song":""
   },
   {
-    "id":221,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Face Melter",
-    "favourite":""
+    "ID":221,
+    "Song":"Making Memories of Us",
+    "Artist":"Keith Urban",
+    "Genre":"S Country",
+    "Top Song":""
   },
   {
-    "id":222,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Numb [To the Guns]",
-    "favourite":""
+    "ID":222,
+    "Song":"She Thinks My Tractors Sexy",
+    "Artist":"Kenny Chesney",
+    "Genre":"F Country",
+    "Top Song":""
   },
   {
-    "id":223,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Sniff Glue",
-    "favourite":""
+    "ID":223,
+    "Song":"Rude",
+    "Artist":"Magic",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":224,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Crooked",
-    "favourite":""
+    "ID":224,
+    "Song":"Wonderwall",
+    "Artist":"Oasis",
+    "Genre":"S Rock",
+    "Top Song":""
   },
   {
-    "id":225,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Sabbatical with Options",
-    "favourite":""
+    "ID":225,
+    "Song":"Cheerleader",
+    "Artist":"OMI",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":226,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Kill Switch",
-    "favourite":""
+    "ID":226,
+    "Song":"I Lived",
+    "Artist":"One Republic",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":227,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Jet Son",
-    "favourite":""
+    "ID":227,
+    "Song":"1999",
+    "Artist":"Prince",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":228,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Train Buffer",
-    "favourite":""
+    "ID":228,
+    "Song":"Blurred Lines",
+    "Artist":"Robin Thicke",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":229,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Ace Rocks",
-    "favourite":""
+    "ID":229,
+    "Song":"Hips Don't Lie",
+    "Artist":"Shakira",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":230,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"All in All",
-    "favourite":""
+    "ID":230,
+    "Song":"Cecilia",
+    "Artist":"Simon and Garfunkle",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":231,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Kill Em All",
-    "favourite":""
+    "ID":231,
+    "Song":"I Got You Babe",
+    "Artist":"Sonny and Cher",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":232,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Junkyard",
-    "favourite":""
+    "ID":232,
+    "Song":"Do You Believe In Love",
+    "Artist":"Cher",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":233,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Preservation (feat. Del the Funky",
-    "favourite":""
+    "ID":233,
+    "Song":"The Best",
+    "Artist":"Tina Turner",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":234,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Deadpan",
-    "favourite":""
+    "ID":234,
+    "Song":"Style",
+    "Artist":"Taylor Swift",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":235,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"One of Four",
-    "favourite":""
+    "ID":235,
+    "Song":"Blank Space",
+    "Artist":"Taylor Swift",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":236,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Kill Em All [Rjd2 remix]",
-    "favourite":""
+    "ID":236,
+    "Song":"Earned It",
+    "Artist":"The Weeknd",
+    "Genre":"R & B",
+    "Top Song":"Yes"
   },
   {
-    "id":237,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"No Jumper Cables [remix]",
-    "favourite":""
+    "ID":237,
+    "Song":"Talking Body",
+    "Artist":"Tove Lo",
+    "Genre":"Hip Hop",
+    "Top Song":""
   },
   {
-    "id":238,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Train Buffer [remix]",
-    "favourite":""
+    "ID":238,
+    "Song":"U2",
+    "Artist":"One",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":239,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Encounter",
-    "favourite":""
+    "ID":239,
+    "Song":"U2",
+    "Artist":"Mysterious Ways",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":240,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Float",
-    "favourite":""
+    "ID":240,
+    "Song":"I'm Glad You Came",
+    "Artist":"Wanted",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":241,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Commencement At The Obediance Aca",
-    "favourite":""
+    "ID":241,
+    "Song":"The Hills",
+    "Artist":"The Weeknd",
+    "Genre":"Hip Hop",
+    "Top Song":""
   },
   {
-    "id":242,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Big Bang",
-    "favourite":""
+    "ID":242,
+    "Song":"Renegades",
+    "Artist":"X Ambassadors",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":243,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Garbage",
-    "favourite":""
+    "ID":243,
+    "Song":"Chicken Fried",
+    "Artist":"Zac Brown Band",
+    "Genre":"M Country",
+    "Top Song":""
   },
   {
-    "id":244,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"I'll Be Ok (Featuring Slug)",
-    "favourite":""
+    "ID":244,
+    "Song":"Legs",
+    "Artist":"ZZ Top",
+    "Genre":"F Rock",
+    "Top Song":""
   },
   {
-    "id":245,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Breakfast With Blockhead",
-    "favourite":""
+    "ID":245,
+    "Song":"Sharp Dressed Man",
+    "Artist":"ZZ Top",
+    "Genre":"F Rock",
+    "Top Song":""
   },
   {
-    "id":246,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Basic Cable",
-    "favourite":""
+    "ID":246,
+    "Song":"Joe Cocker",
+    "Artist":"You Can Leave Your Hat On",
+    "Genre":"S Rock",
+    "Top Song":""
   },
   {
-    "id":247,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Fascination",
-    "favourite":""
+    "ID":247,
+    "Song":"The Stripper",
+    "Artist":"Peter Rose",
+    "Genre":"Wedding",
+    "Top Song":""
   },
   {
-    "id":248,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Oxygen",
-    "favourite":""
+    "ID":248,
+    "Song":"Sugar Sugar",
+    "Artist":"Archies",
+    "Genre":"Wedding",
+    "Top Song":""
   },
   {
-    "id":249,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Skip Town",
-    "favourite":""
+    "ID":249,
+    "Song":"On The Dark Side",
+    "Artist":"John Cafferty",
+    "Genre":"F Rock",
+    "Top Song":""
   },
   {
-    "id":250,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"6B Panamara",
-    "favourite":""
+    "ID":250,
+    "Song":"Thank God I'm A Country Boy",
+    "Artist":"John Denver",
+    "Genre":"F Country",
+    "Top Song":""
   },
   {
-    "id":251,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Lunch With Blockhead",
-    "favourite":""
+    "ID":251,
+    "Song":"Come With Me know",
+    "Artist":"Kongos",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":252,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Spare A Match",
-    "favourite":"yes"
+    "ID":252,
+    "Song":"Ring Of Fire",
+    "Artist":"Johnny Cash",
+    "Genre":"F Country",
+    "Top Song":""
   },
   {
-    "id":253,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Attentoin Span (Featuring Vast Ai",
-    "favourite":""
+    "ID":253,
+    "Song":"Hound Dog",
+    "Artist":"Elvis",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":254,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"How To Be A Carpenter",
-    "favourite":""
+    "ID":254,
+    "Song":"Can't Help Falling In Love With You",
+    "Artist":"Elvis",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":255,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Prosperity",
-    "favourite":""
+    "ID":255,
+    "Song":"All Shook Up",
+    "Artist":"Elvis",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":256,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"No Splash",
-    "favourite":""
+    "ID":256,
+    "Song":"Stairway to Heaven",
+    "Artist":"Led Zepplin",
+    "Genre":"S Rock",
+    "Top Song":""
   },
   {
-    "id":257,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Drawbridge (Featuring Dose One)",
-    "favourite":""
+    "ID":257,
+    "Song":"Call Me",
+    "Artist":"Blondie",
+    "Genre":"Disco",
+    "Top Song":""
   },
   {
-    "id":258,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"Dinner With Blockhead",
-    "favourite":""
+    "ID":258,
+    "Song":"All Night Long",
+    "Artist":"Lionel Ritchie",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":259,
-    "artist":"Aesop Rock",
-    "genre":"HipHop",
-    "title":"The Mayor And The Crook",
-    "favourite":""
+    "ID":259,
+    "Song":"Funkytown",
+    "Artist":"Lipps Inc",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":260,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Two Of A Kind",
-    "favourite":""
+    "ID":260,
+    "Song":"Vogue",
+    "Artist":"Madonna",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":261,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Half-Empty Bottle",
-    "favourite":""
+    "ID":261,
+    "Song":"Paradie By the Dashboard Light",
+    "Artist":"Meatloaf",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":262,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Y?rf Rendernmein",
-    "favourite":""
+    "ID":262,
+    "Song":"Conga",
+    "Artist":"Miami Sound Machine",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":263,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"I Wanna Get a Mohawk (But Mom",
-    "favourite":""
+    "ID":263,
+    "Song":"Locomotion",
+    "Artist":"Kylie Minolue",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":264,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Brownie Bottom Sundae",
-    "favourite":""
+    "ID":264,
+    "Song":"Step By Step",
+    "Artist":"New Kids On the Block",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":265,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"The Checkered Demon",
-    "favourite":""
+    "ID":265,
+    "Song":"Bizarre Love Triangle",
+    "Artist":"New Order",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":266,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Cereal Wars",
-    "favourite":""
+    "ID":266,
+    "Song":"We're Here For A Good Time",
+    "Artist":"Trooper",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":267,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"The Mother In Me",
-    "favourite":""
+    "ID":267,
+    "Song":"In The Air Tonight",
+    "Artist":"Phil Collins",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":268,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Rizzo In The Box",
-    "favourite":""
+    "ID":268,
+    "Song":"Don't Cha",
+    "Artist":"Pussy Cat Dolls",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":269,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Kung-Fu Devil",
-    "favourite":""
+    "ID":269,
+    "Song":"I Don't Want to Dance",
+    "Artist":"Scissor Sisters",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":270,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Your Name Here",
-    "favourite":""
+    "ID":270,
+    "Song":"REM",
+    "Artist":"Shiney Happy People",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":271,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Ny-Quil",
-    "favourite":""
+    "ID":271,
+    "Song":"Together Forever",
+    "Artist":"Randy Travis",
+    "Genre":"M Country",
+    "Top Song":""
   },
   {
-    "id":272,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Don't Make Me Ill",
-    "favourite":""
+    "ID":272,
+    "Song":"Push It",
+    "Artist":"Salt N Peppa",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":273,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Open Your Eyes - High School F",
-    "favourite":""
+    "ID":273,
+    "Song":"Pump up the Jam",
+    "Artist":"MARS",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":274,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Strength Through Wounding",
-    "favourite":""
+    "ID":274,
+    "Song":"Smooth",
+    "Artist":"Santana",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":275,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Porphyria",
-    "favourite":""
+    "ID":275,
+    "Song":"Temperature",
+    "Artist":"Sean Paul",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":276,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Exsanguination",
-    "favourite":""
+    "ID":276,
+    "Song":"Up",
+    "Artist":"Shania Twain",
+    "Genre":"F Country",
+    "Top Song":""
   },
   {
-    "id":277,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Malleus Maleficarum",
-    "favourite":""
+    "ID":277,
+    "Song":"Don't You",
+    "Artist":"Simple Minds",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":278,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Narrative Of Soul Against Soul",
-    "favourite":""
+    "ID":278,
+    "Song":"We Are Family",
+    "Artist":"Sister Sledge",
+    "Genre":"Disco",
+    "Top Song":""
   },
   {
-    "id":279,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Clove Smoke Catharsis",
-    "favourite":""
+    "ID":279,
+    "Song":"Tainted Love",
+    "Artist":"Softcell",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":280,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"The Prayer Position",
-    "favourite":""
+    "ID":280,
+    "Song":"Bad Moon Rising",
+    "Artist":"CCR",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":281,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"No Poetic Device",
-    "favourite":""
+    "ID":281,
+    "Song":"Rock n me",
+    "Artist":"Steve Miller",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":282,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Weathered Tome",
-    "favourite":""
+    "ID":282,
+    "Song":"Life Is A Highway",
+    "Artist":"Tom Cochrane",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":283,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"The Last Kiss",
-    "favourite":""
+    "ID":283,
+    "Song":"Wake Me Up",
+    "Artist":"Wham",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":284,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"At A Glance",
-    "favourite":""
+    "ID":284,
+    "Song":"Girls Just Want to Have Fun",
+    "Artist":"Cyndi Lauper",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":285,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"God Called In Sick Today",
-    "favourite":""
+    "ID":285,
+    "Song":"Somebody to love Me",
+    "Artist":"Whitney Houston",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":286,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Prelude 12_21",
-    "favourite":""
+    "ID":286,
+    "Song":"Excited",
+    "Artist":"Pointer Sisters",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":287,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Kill Caustic",
-    "favourite":""
+    "ID":287,
+    "Song":"Theme From Godfather",
+    "Artist":"Andy Williams",
+    "Genre":"Dinner",
+    "Top Song":""
   },
   {
-    "id":288,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Miss Murder",
-    "favourite":""
+    "ID":288,
+    "Song":"Manic Monday",
+    "Artist":"Bangles",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":289,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Summer Shudder",
-    "favourite":""
+    "ID":289,
+    "Song":"Wasn't That A Party",
+    "Artist":"Irish Rovers",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":290,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"The Interview",
-    "favourite":""
+    "ID":290,
+    "Song":"Copacabana",
+    "Artist":"Barry Manilow",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":291,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Love Like Winter",
-    "favourite":""
+    "ID":291,
+    "Song":"You're my First, Last, Everything",
+    "Artist":"Barry White",
+    "Genre":"Disco",
+    "Top Song":"Yes"
   },
   {
-    "id":292,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Affliction",
-    "favourite":""
+    "ID":292,
+    "Song":"Surfin USA",
+    "Artist":"Beach Boys",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":293,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"The Missing Frame",
-    "favourite":""
+    "ID":293,
+    "Song":"Kokomo",
+    "Artist":"Beach Boys",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":294,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Kiss And Control",
-    "favourite":""
+    "ID":294,
+    "Song":"Medley",
+    "Artist":"Beatles",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":295,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"The Killing Lights",
-    "favourite":"yes"
+    "ID":295,
+    "Song":"On A SlowBoat to China",
+    "Artist":"Benny Goodman",
+    "Genre":"Big Band",
+    "Top Song":""
   },
   {
-    "id":296,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"37mm",
-    "favourite":""
+    "ID":296,
+    "Song":"WhiteWedding",
+    "Artist":"Billy Idol",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":297,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Endlessly She Said",
-    "favourite":""
+    "ID":297,
+    "Song":"I'll Never Fall In Love Again",
+    "Artist":"Carpenters",
+    "Genre":"Adult Contemporary",
+    "Top Song":""
   },
   {
-    "id":298,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Don't Change [Bonus Track] (INXS",
-    "favourite":""
+    "ID":298,
+    "Song":"Devil Went Down To Georgia",
+    "Artist":"Charlie Daniel's Band",
+    "Genre":"F Country",
+    "Top Song":""
   },
   {
-    "id":299,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Jack The Ripper [Bonus Track] (Mo",
-    "favourite":""
+    "ID":299,
+    "Song":"Lady In Red",
+    "Artist":"Chris De Burgh",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":300,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"On The Arrow [Bonus Track]",
-    "favourite":""
+    "ID":300,
+    "Song":"Stroke it",
+    "Artist":"Clarence Carter",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":301,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Fallen Like The Sky [Bonus Track]",
-    "favourite":""
+    "ID":301,
+    "Song":"Soak Up The Sun",
+    "Artist":"Sheryl Crow",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":302,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Keeping Out Of Direct Sunlight",
-    "favourite":""
+    "ID":302,
+    "Song":"Do You Really Want to Hurt Me",
+    "Artist":"Culture Club",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":303,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Three Reasons",
-    "favourite":""
+    "ID":303,
+    "Song":"China Girl",
+    "Artist":"David Bowie",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":304,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"A Single Second",
-    "favourite":""
+    "ID":304,
+    "Song":"Motown Song",
+    "Artist":"Rod Stewart",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":305,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"pH Low",
-    "favourite":""
+    "ID":305,
+    "Song":"Personal Jesus",
+    "Artist":"Depeche Mode",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":306,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Let It Be Broke",
-    "favourite":""
+    "ID":306,
+    "Song":"Macarthur Park",
+    "Artist":"Donna Summer",
+    "Genre":"Disco",
+    "Top Song":""
   },
   {
-    "id":307,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Third Season",
-    "favourite":""
+    "ID":307,
+    "Song":"Hotel California",
+    "Artist":"Eagles",
+    "Genre":"S Rock",
+    "Top Song":""
   },
   {
-    "id":308,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Lower Your Head And Take It In",
-    "favourite":""
+    "ID":308,
+    "Song":"September",
+    "Artist":"Earth, Wind and Fire",
+    "Genre":"Disco",
+    "Top Song":""
   },
   {
-    "id":309,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Coin Return",
-    "favourite":""
+    "ID":309,
+    "Song":"I Don't Want to Dance",
+    "Artist":"Eddie Grant",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":310,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"The New Patron Saints And Ange",
-    "favourite":""
+    "ID":310,
+    "Song":"Crocodile Rock",
+    "Artist":"Elton John",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":311,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Three Seconds Notice",
-    "favourite":""
+    "ID":311,
+    "Song":"Can You Feel the Love Tonight",
+    "Artist":"Elton John",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":312,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Salt For Your Wounds",
-    "favourite":""
+    "ID":312,
+    "Song":"Sweet Dreams",
+    "Artist":"Eurythmics",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":313,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Today's Lesson",
-    "favourite":""
+    "ID":313,
+    "Song":"That'll Be the Day",
+    "Artist":"Buddy Holly",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":314,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"The Devil Loves You",
-    "favourite":""
+    "ID":314,
+    "Song":"I Ran",
+    "Artist":"Flock of Seagulls",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":315,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Triple Zero",
-    "favourite":""
+    "ID":315,
+    "Song":"My Girl",
+    "Artist":"Temptations",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":316,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Miseria Cantare (The Beginning",
-    "favourite":""
+    "ID":316,
+    "Song":"Bambolero",
+    "Artist":"Gypsy Kings",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":317,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"The Leaving Song Pt. 2-Fnt",
-    "favourite":""
+    "ID":317,
+    "Song":"I Will Survive",
+    "Artist":"Gloria Gaynor",
+    "Genre":"Disco",
+    "Top Song":""
   },
   {
-    "id":318,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Bleed Black-Fnt",
-    "favourite":""
+    "ID":318,
+    "Song":"Knock On Wood",
+    "Artist":"Amil Stewart",
+    "Genre":"Disco",
+    "Top Song":""
   },
   {
-    "id":319,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Silver And Cold-Fnt",
-    "favourite":""
+    "ID":319,
+    "Song":"Early Morning Rain",
+    "Artist":"Gordon Lightfoot",
+    "Genre":"Dinner",
+    "Top Song":""
   },
   {
-    "id":320,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Dancing Through Sunday-Fnt",
-    "favourite":""
+    "ID":320,
+    "Song":"Maneater",
+    "Artist":"Hall and Oates",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":321,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Girls Not Grey-Fnt",
-    "favourite":""
+    "ID":321,
+    "Song":"Sexy Thing",
+    "Artist":"Hot Chocolate",
+    "Genre":"Disco",
+    "Top Song":""
   },
   {
-    "id":322,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Death Of Seasons-Fnt",
-    "favourite":""
+    "ID":322,
+    "Song":"Heart of Rock n Roll",
+    "Artist":"Huey Lewis",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":323,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"The Great Disappointment-Fnt",
-    "favourite":""
+    "ID":323,
+    "Song":"New Sensation",
+    "Artist":"INXS",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":324,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Paper Airplanes (Makeshift Win",
-    "favourite":""
+    "ID":324,
+    "Song":"Centerfold",
+    "Artist":"J. Geils Band",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":325,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"This Celluloid Dream-Fnt",
-    "favourite":""
+    "ID":325,
+    "Song":"This is What it Feels Like",
+    "Artist":"Armin Van Hammer",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":326,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"The Leaving Song-Fnt",
-    "favourite":""
+    "ID":326,
+    "Song":"Let's Go",
+    "Artist":"Calvin Harris",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":327,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"But Home Is Nowhere-Fnt",
-    "favourite":""
+    "ID":327,
+    "Song":"Wagon Wheel",
+    "Artist":"Darius Rucker",
+    "Genre":"F Country",
+    "Top Song":""
   },
   {
-    "id":328,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Initiation",
-    "favourite":""
+    "ID":328,
+    "Song":"Turn Me On",
+    "Artist":"David Guetta and Nicki Minaj",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":329,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"The Lost Souls",
-    "favourite":""
+    "ID":329,
+    "Song":"Winter Wonderland",
+    "Artist":"Michael Buble",
+    "Genre":"Christmas",
+    "Top Song":""
   },
   {
-    "id":330,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"The Nephilim",
-    "favourite":""
+    "ID":330,
+    "Song":"Silver Bells",
+    "Artist":"Michael Buble",
+    "Genre":"Christmas",
+    "Top Song":""
   },
   {
-    "id":331,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Ever And A Day",
-    "favourite":""
+    "ID":331,
+    "Song":"I Will Wait",
+    "Artist":"Mumford and Sons",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":332,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Sacrifice Theory",
-    "favourite":""
+    "ID":332,
+    "Song":"LOVE",
+    "Artist":"Nat King Cole",
+    "Genre":"Adult Contemporary",
+    "Top Song":""
   },
   {
-    "id":333,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Of Greetings And Goodbyes",
-    "favourite":""
+    "ID":333,
+    "Song":"Promiscuous",
+    "Artist":"Nelly Furtado",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":334,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Smile",
-    "favourite":""
+    "ID":334,
+    "Song":"Do It Right",
+    "Artist":"Nelly Furtado",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":335,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Story At Three",
-    "favourite":""
+    "ID":335,
+    "Song":"Raise Your Glass",
+    "Artist":"Pink",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":336,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"The Days Of The Pheonix",
-    "favourite":""
+    "ID":336,
+    "Song":"So What",
+    "Artist":"Pink",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":337,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Catch A Hot One",
-    "favourite":""
+    "ID":337,
+    "Song":"Let's Get This Party Started",
+    "Artist":"Pink",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":338,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Wester",
-    "favourite":""
+    "ID":338,
+    "Song":"Disturbia",
+    "Artist":"Rihanna",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":339,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"6 To 8",
-    "favourite":""
+    "ID":339,
+    "Song":"Fire Burning",
+    "Artist":"Sean Kingston",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":340,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"The Despair Factor",
-    "favourite":"yes"
+    "ID":340,
+    "Song":"Come and Get It",
+    "Artist":"Selena Gomez",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":341,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Morningstar",
-    "favourite":""
+    "ID":341,
+    "Song":"The Way I Are",
+    "Artist":"Timbaland",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":342,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"He Who Laughs Last",
-    "favourite":""
+    "ID":342,
+    "Song":"Baby One More Time",
+    "Artist":"Britney Spears",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":343,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"File 13",
-    "favourite":""
+    "ID":343,
+    "Song":"Crazy",
+    "Artist":"Britney Spears",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":344,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Wake Up Call",
-    "favourite":""
+    "ID":344,
+    "Song":"Smack That",
+    "Artist":"Eminem and Akon",
+    "Genre":"Hip Hop",
+    "Top Song":""
   },
   {
-    "id":345,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Cult Status",
-    "favourite":""
+    "ID":345,
+    "Song":"Try",
+    "Artist":"Blue Rodeo",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":346,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Perfect Fit",
-    "favourite":""
+    "ID":346,
+    "Song":"Gonna Make You Sweat",
+    "Artist":"C and C Music Factory",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":347,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Advances In Modern Technology",
-    "favourite":""
+    "ID":347,
+    "Song":"Mr. Jones",
+    "Artist":"Counting Crows",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":348,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Theory Of Revolution",
-    "favourite":""
+    "ID":348,
+    "Song":"We Belong Together",
+    "Artist":"Mariah Carey",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":349,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"This Secret Ninja",
-    "favourite":""
+    "ID":349,
+    "Song":"Wonderful Tonight",
+    "Artist":"Eric Clapton",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":350,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Soap Box Derby",
-    "favourite":""
+    "ID":350,
+    "Song":"My Heart Will Go On",
+    "Artist":"Celine Dion",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":351,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Aspirin Free",
-    "favourite":""
+    "ID":351,
+    "Song":"Hundry Like The Wolf",
+    "Artist":"Duran Duran",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":352,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Fishbowl",
-    "favourite":""
+    "ID":352,
+    "Song":"Lady Marmalade",
+    "Artist":"Christina Aguilera",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":353,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Charles Atlas",
-    "favourite":""
+    "ID":353,
+    "Song":"Candle In The Wind",
+    "Artist":"Elton John",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":354,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Crop Tub",
-    "favourite":""
+    "ID":354,
+    "Song":"Lose My Breath",
+    "Artist":"Destiny's Child",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":355,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Consult My Lover",
-    "favourite":""
+    "ID":355,
+    "Song":"Roadhouse Blues",
+    "Artist":"Doors",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":356,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Take The Test",
-    "favourite":""
+    "ID":356,
+    "Song":"Low",
+    "Artist":"Flo Rida",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":357,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Two Of A Kind",
-    "favourite":""
+    "ID":357,
+    "Song":"Just The Way You Are",
+    "Artist":"Billy Joel",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":358,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Shatty Fatmas",
-    "favourite":""
+    "ID":358,
+    "Song":"Faithfully",
+    "Artist":"Journey",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":359,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Y?rf Rendernmein",
-    "favourite":""
+    "ID":359,
+    "Song":"Waiting For Tonight",
+    "Artist":"Jennifer Lopez",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":360,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Cruise Control",
-    "favourite":""
+    "ID":360,
+    "Song":"Party In The USA",
+    "Artist":"Miley Cyrus",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":361,
-    "artist":"AFI",
-    "genre":"Punk",
-    "title":"Modern Epidemic",
-    "favourite":""
+    "ID":361,
+    "Song":"Living the Viva Loca",
+    "Artist":"Ricky Martin",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":362,
-    "artist":"Akon",
-    "genre":"HipHop",
-    "title":"Gansta Bop",
-    "favourite":""
+    "ID":362,
+    "Song":"Hey Yah",
+    "Artist":"Outkast",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":363,
-    "artist":"Akon",
-    "genre":"HipHop",
-    "title":"Smack That Ft Eminem",
-    "favourite":""
+    "ID":363,
+    "Song":"Brown Sugar",
+    "Artist":"Rolling Stones",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":364,
-    "artist":"Akon",
-    "genre":"HipHop",
-    "title":"Blown Away Ft Styles P",
-    "favourite":""
+    "ID":364,
+    "Song":"Only Girl In The World",
+    "Artist":"Rihanna",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":365,
-    "artist":"Akon",
-    "genre":"HipHop",
-    "title":"I Wanna Fuck You Ft Snoop Dog",
-    "favourite":""
+    "ID":365,
+    "Song":"Have I Told You Lately",
+    "Artist":"Rod Stewart",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":366,
-    "artist":"Akon",
-    "genre":"HipHop",
-    "title":"Be Easy Ft Gage",
-    "favourite":""
+    "ID":366,
+    "Song":"Hollaback Girl",
+    "Artist":"Gwen Stefani",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":367,
-    "artist":"Akon",
-    "genre":"HipHop",
-    "title":"Me Myself & I",
-    "favourite":""
+    "ID":367,
+    "Song":"One Bourbon One Scotch One Beer",
+    "Artist":"George Thorogood",
+    "Genre":"F Rock",
+    "Top Song":""
   },
   {
-    "id":368,
-    "artist":"Akon",
-    "genre":"HipHop",
-    "title":"You Dont Want It",
-    "favourite":""
+    "ID":368,
+    "Song":"Bad To The Bone",
+    "Artist":"George Thorogood",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":369,
-    "artist":"Akon",
-    "genre":"HipHop",
-    "title":"Cross That Line Ft Rick Ross",
-    "favourite":"yes"
+    "ID":369,
+    "Song":"Funky Cold Medina",
+    "Artist":"Tone Loc",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":370,
-    "artist":"Akon",
-    "genre":"HipHop",
-    "title":"Girls Ft Beenie Man",
-    "favourite":""
+    "ID":370,
+    "Song":"Better Be Good To Me",
+    "Artist":"Tina Turner",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":371,
-    "artist":"Akon",
-    "genre":"HipHop",
-    "title":"Keep On Calling Ft P Money",
-    "favourite":""
+    "ID":371,
+    "Song":"New Orleans Is Sinking",
+    "Artist":"Tragically Hip",
+    "Genre":"M Rock",
+    "Top Song":"Yes"
   },
   {
-    "id":372,
-    "artist":"Akon",
-    "genre":"HipHop",
-    "title":"Moonshine Ft Savage",
-    "favourite":""
+    "ID":372,
+    "Song":"Break Your Heart",
+    "Artist":"Tiao Cruz",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":373,
-    "artist":"Akon",
-    "genre":"HipHop",
-    "title":"Go To War Ft Papoose",
-    "favourite":""
+    "ID":373,
+    "Song":"Cotton Eye Joe",
+    "Artist":"Rednex",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":374,
-    "artist":"Akon",
-    "genre":"HipHop",
-    "title":"So Fly Ft Blewz",
-    "favourite":""
+    "ID":374,
+    "Song":"What Is Love",
+    "Artist":"Haddaway",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":375,
-    "artist":"Akon",
-    "genre":"HipHop",
-    "title":"Ride Out Ft Tru-Life",
-    "favourite":""
+    "ID":375,
+    "Song":"Stuck In The Middle With You",
+    "Artist":"Stealers Wheel",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":376,
-    "artist":"Akon",
-    "genre":"HipHop",
-    "title":"Dont Let Up",
-    "favourite":""
+    "ID":376,
+    "Song":"Ballroom Blitz",
+    "Artist":"Sweet",
+    "Genre":"F Rock",
+    "Top Song":""
   },
   {
-    "id":377,
-    "artist":"Akon",
-    "genre":"HipHop",
-    "title":"Gun In Hand Ft Booba",
-    "favourite":""
+    "ID":377,
+    "Song":"Raise A Little Hell",
+    "Artist":"Trooper",
+    "Genre":"F Rock",
+    "Top Song":""
   },
   {
-    "id":378,
-    "artist":"Akon",
-    "genre":"HipHop",
-    "title":"U Got Me Ft T-Pain",
-    "favourite":""
+    "ID":378,
+    "Song":"Tubthumping",
+    "Artist":"Chumbawumba",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":379,
-    "artist":"Akon",
-    "genre":"HipHop",
-    "title":"Look Me In My Eyes Ft Blast",
-    "favourite":""
+    "ID":379,
+    "Song":"Song 21",
+    "Artist":"Blur",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":380,
-    "artist":"Akon",
-    "genre":"HipHop",
-    "title":"On Da Corner-Outro Ft Fat Joe And",
-    "favourite":""
+    "ID":380,
+    "Song":"Oh Ya",
+    "Artist":"Yellow",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":381,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"What's The Big Deal About Bauhaus",
-    "favourite":""
+    "ID":381,
+    "Song":"Come On Eileen",
+    "Artist":"Dexy's Midnight Runners",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":382,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Music That Mattered 25-23",
-    "favourite":""
+    "ID":382,
+    "Song":"Closing Time",
+    "Artist":"Semisonic",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":383,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Music That Mattered 22 & 21",
-    "favourite":""
+    "ID":383,
+    "Song":"American Pie",
+    "Artist":"Don Mclean",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":384,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Music That Mattered 20 & 19",
-    "favourite":""
+    "ID":384,
+    "Song":"Missing",
+    "Artist":"Everything But the Girl",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":385,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Music That Mattered 18 & 17",
-    "favourite":""
+    "ID":385,
+    "Song":"A Girl Like You",
+    "Artist":"Edwin Collins",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":386,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Music That Mattered 16 & 15",
-    "favourite":""
+    "ID":386,
+    "Song":"Bombastic",
+    "Artist":"Shaggy",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":387,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Music That Mattered 14 & 13",
-    "favourite":""
+    "ID":387,
+    "Song":"Spice Up Your Life",
+    "Artist":"Spice Girls",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":388,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Music That Mattered 12 & 11",
-    "favourite":""
+    "ID":388,
+    "Song":"Barbie Girl",
+    "Artist":"Aqua",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":389,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Music That Mattered 10 & 9",
-    "favourite":""
+    "ID":389,
+    "Song":"All My Life",
+    "Artist":"K-Ci and Jojo",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":390,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Music That Mattered 8 & 7",
-    "favourite":""
+    "ID":390,
+    "Song":"All For You",
+    "Artist":"Janet Jackson",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":391,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Music That Mattered 6 & 5",
-    "favourite":""
+    "ID":391,
+    "Song":"Can't Get You Out of My Head",
+    "Artist":"Kylie Minolgue",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":392,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Music That Mattered 4",
-    "favourite":""
+    "ID":392,
+    "Song":"Crazy",
+    "Artist":"Gnarls Barkley",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":393,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Music That Mattered 3",
-    "favourite":""
+    "ID":393,
+    "Song":"Dance Dance",
+    "Artist":"Fall Out Boy",
+    "Genre":"F Rock",
+    "Top Song":""
   },
   {
-    "id":394,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Music That Mattered 2",
-    "favourite":""
+    "ID":394,
+    "Song":"Big Black Horse",
+    "Artist":"K.T. Tunstall",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":395,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Music That Mattered 1",
-    "favourite":""
+    "ID":395,
+    "Song":"Home",
+    "Artist":"Michael Buble",
+    "Genre":"Dinner",
+    "Top Song":""
   },
   {
-    "id":396,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Electronica Part 1",
-    "favourite":""
+    "ID":396,
+    "Song":"Where No One Know My Name",
+    "Artist":"Jann Arden",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":397,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Electronica Part 2",
-    "favourite":""
+    "ID":397,
+    "Song":"Good Girl Is So Bad",
+    "Artist":"Cobra Starship",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":398,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Electronica Part 3",
-    "favourite":""
+    "ID":398,
+    "Song":"Evacuate The Dance Floor",
+    "Artist":"Cascada",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":399,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Electronica Part 4",
-    "favourite":""
+    "ID":399,
+    "Song":"Heaven",
+    "Artist":"DJ Sammy",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":400,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The Impact Of The Music Video",
-    "favourite":""
+    "ID":400,
+    "Song":"Relax",
+    "Artist":"Frankie Goes To Hollywood",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":401,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Monsters Of New Rock Foo Fighters",
-    "favourite":""
+    "ID":401,
+    "Song":"Teenage Dream",
+    "Artist":"Katy Perry",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":402,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Monsters Of New Rock The Offsprin",
-    "favourite":"yes"
+    "ID":402,
+    "Song":"At Last",
+    "Artist":"Etta James",
+    "Genre":"Adult Contemporary",
+    "Top Song":""
   },
   {
-    "id":403,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Monsters Of New Rock_ Blink 182",
-    "favourite":""
+    "ID":403,
+    "Song":"Bumpy Ride",
+    "Artist":"Mohambi",
+    "Genre":"Reggae",
+    "Top Song":""
   },
   {
-    "id":404,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Monsters Of New Rock_ Foo Fighter",
-    "favourite":""
+    "ID":404,
+    "Song":"Tonight (I'm Loving You)",
+    "Artist":"Enrique Iglesius",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":405,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Monsters Of New Rock_ Green Day",
-    "favourite":""
+    "ID":405,
+    "Song":"Beautiful Day",
+    "Artist":"U2",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":406,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Monsters Of New Rock_ Kid Rock",
-    "favourite":""
+    "ID":406,
+    "Song":"More",
+    "Artist":"Usher",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":407,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Monsters Of New Rock_ Limp Bizkit",
-    "favourite":""
+    "ID":407,
+    "Song":"G6",
+    "Artist":"Far East Movement",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":408,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Monsters Of New Rock_ Radiohead",
-    "favourite":""
+    "ID":408,
+    "Song":"Beer In Mexico",
+    "Artist":"Kenny Chesney",
+    "Genre":"M Country",
+    "Top Song":""
   },
   {
-    "id":409,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Monsters Of New Rock_ Red Hot Chi",
-    "favourite":""
+    "ID":409,
+    "Song":"Black And Yellow",
+    "Artist":"Wiz Khalifa and Snoop",
+    "Genre":"Hip Hop",
+    "Top Song":""
   },
   {
-    "id":410,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Payola",
-    "favourite":""
+    "ID":410,
+    "Song":"OMG",
+    "Artist":"Usher",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":411,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The Producers, Part 1",
-    "favourite":""
+    "ID":411,
+    "Song":"International Love",
+    "Artist":"Chris Brown",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":412,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The Reunions Return!",
-    "favourite":""
+    "ID":412,
+    "Song":"Super Bass",
+    "Artist":"Nicki Minaj",
+    "Genre":"Hip Hop",
+    "Top Song":""
   },
   {
-    "id":413,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The Stone Roses",
-    "favourite":""
+    "ID":413,
+    "Song":"Escapade",
+    "Artist":"Janet Jackson",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":414,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Tool",
-    "favourite":""
+    "ID":414,
+    "Song":"Someone Like You",
+    "Artist":"Adele",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":415,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"9 Great B-Sides",
-    "favourite":""
+    "ID":415,
+    "Song":"Under The Boardwalk",
+    "Artist":"Otis Redding",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":416,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"A Brief History Of Nu Metal 1",
-    "favourite":""
+    "ID":416,
+    "Song":"Marry You",
+    "Artist":"Bruno Mars",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":417,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"A Brief History Of Nu Metal 2",
-    "favourite":""
+    "ID":417,
+    "Song":"Story of Us",
+    "Artist":"Taylor Swift",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":418,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"A Live History Of The Smashing Pu",
-    "favourite":""
+    "ID":418,
+    "Song":"Pumped Up For Kicks",
+    "Artist":"Foster The People",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":419,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Brit Pop Part 1",
-    "favourite":""
+    "ID":419,
+    "Song":"Last Night",
+    "Artist":"Ian Carey and Snoop",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":420,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Brit Pop Part 2",
-    "favourite":""
+    "ID":420,
+    "Song":"Wagon Wheel",
+    "Artist":"Old Crow Medicine Show",
+    "Genre":"M Country",
+    "Top Song":""
   },
   {
-    "id":421,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Brit Pop Part 3",
-    "favourite":""
+    "ID":421,
+    "Song":"Love You Like A Love Song",
+    "Artist":"Selena Gomez",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":422,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Brit Pop Part 4",
-    "favourite":""
+    "ID":422,
+    "Song":"Sexy And I Know It",
+    "Artist":"LMFAO",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":423,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Creed",
-    "favourite":""
+    "ID":423,
+    "Song":"I'm Too Sexy",
+    "Artist":"Right Said Fred",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":424,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Depeche Mode At 20",
-    "favourite":""
+    "ID":424,
+    "Song":"Jeopardy Theme",
+    "Artist":"TV/ Movie",
+    "Genre":"Tv/ Movie",
+    "Top Song":""
   },
   {
-    "id":425,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Emo_ What's That_",
-    "favourite":""
+    "ID":425,
+    "Song":"Survivor Theme",
+    "Artist":"TV/ Movie",
+    "Genre":"Tv/ Movie",
+    "Top Song":""
   },
   {
-    "id":426,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Get In the Van!",
-    "favourite":""
+    "ID":426,
+    "Song":"Drum Roll",
+    "Artist":"Special Effects",
+    "Genre":"Special Affects",
+    "Top Song":""
   },
   {
-    "id":427,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Gossip And Weirdness",
-    "favourite":""
+    "ID":427,
+    "Song":"Ah Leah",
+    "Artist":"Donnie Iris",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":428,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Moby",
-    "favourite":""
+    "ID":428,
+    "Song":"Good Feeling",
+    "Artist":"Flo Rida",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":429,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Outsider Music",
-    "favourite":""
+    "ID":429,
+    "Song":"Whistle Song",
+    "Artist":"Flo Rida",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":430,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Psychos, Nutcases & Weirdos",
-    "favourite":""
+    "ID":430,
+    "Song":"I Like How It Feels",
+    "Artist":"Enrique Iglesius and Pitbull",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":431,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Red Hot Chili Peppers Part 1",
-    "favourite":""
+    "ID":431,
+    "Song":"Hey Ho",
+    "Artist":"Lumineers",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":432,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Red Hot Chili Peppers Part 2",
-    "favourite":""
+    "ID":432,
+    "Song":"Drink In My Hand",
+    "Artist":"Eric Church",
+    "Genre":"F Country",
+    "Top Song":""
   },
   {
-    "id":433,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Red Hot Chili Peppers Part 3",
-    "favourite":""
+    "ID":433,
+    "Song":"We Run The Night",
+    "Artist":"Havana Brown and Pitbull",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":434,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Seven Great Mysteries Of Modern R",
-    "favourite":""
+    "ID":434,
+    "Song":"The Twist",
+    "Artist":"Chubby Checker",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":435,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The History of Selling Out Part 1",
-    "favourite":""
+    "ID":435,
+    "Song":"Limbo Rock",
+    "Artist":"Chubby Checker",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":436,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The History of Selling Out Part 2",
-    "favourite":""
+    "ID":436,
+    "Song":"Barbara Ann",
+    "Artist":"Beach Boys",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":437,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The New Rockers",
-    "favourite":""
+    "ID":437,
+    "Song":"Great Balls of Fire",
+    "Artist":"Lerry Lee Lewis",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":438,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Weezer",
-    "favourite":""
+    "ID":438,
+    "Song":"A Hard Day's Night",
+    "Artist":"Beatles",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":439,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"What's The Big Deal About Elvis C",
-    "favourite":""
+    "ID":439,
+    "Song":"Jive Talkin",
+    "Artist":"Bee Gees",
+    "Genre":"M Dance",
+    "Top Song":"Yes"
   },
   {
-    "id":440,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"What's Wrong With The Music Indus",
-    "favourite":""
+    "ID":440,
+    "Song":"Hot Stuff",
+    "Artist":"Donna Summer",
+    "Genre":"Disco",
+    "Top Song":""
   },
   {
-    "id":441,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Why Performers Hate Their Record",
-    "favourite":""
+    "ID":441,
+    "Song":"The Hustle",
+    "Artist":"Van Mcoy",
+    "Genre":"Disco",
+    "Top Song":""
   },
   {
-    "id":442,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Where Are They Now_",
-    "favourite":""
+    "ID":442,
+    "Song":"Kung Fu Fighting",
+    "Artist":"Carl Douglas",
+    "Genre":"Disco",
+    "Top Song":""
   },
   {
-    "id":443,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"How To Talk Like A Rock Snob 2",
-    "favourite":""
+    "ID":443,
+    "Song":"Flashdance",
+    "Artist":"Irene Cara",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":444,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Nirvana By The Numbers - Part I",
-    "favourite":""
+    "ID":444,
+    "Song":"Le Freak",
+    "Artist":"Chic",
+    "Genre":"Disco",
+    "Top Song":""
   },
   {
-    "id":445,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Nirvana By The Numbers - Part Ii",
-    "favourite":""
+    "ID":445,
+    "Song":"Boogie OogieOogie",
+    "Artist":"Taste of Honey",
+    "Genre":"Disco",
+    "Top Song":""
   },
   {
-    "id":446,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Tracks From The Vinyl Vault",
-    "favourite":""
+    "ID":446,
+    "Song":"Shadow Dancing",
+    "Artist":"Andy Gibb",
+    "Genre":"Disco",
+    "Top Song":""
   },
   {
-    "id":447,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Joe Strummer A Remembrance 1",
-    "favourite":""
+    "ID":447,
+    "Song":"Butterfly Kisses",
+    "Artist":"Bob Carlisle",
+    "Genre":"S Country",
+    "Top Song":""
   },
   {
-    "id":448,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Joe Strummer A Remembrance 2",
-    "favourite":""
+    "ID":448,
+    "Song":"CBC Hockey Theme",
+    "Artist":"TV/Movie",
+    "Genre":"TV/Movie",
+    "Top Song":""
   },
   {
-    "id":449,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"What's The Big Deal About The Smi",
-    "favourite":""
+    "ID":449,
+    "Song":"Dust On The Bottle",
+    "Artist":"David Lee Murphy",
+    "Genre":"F Country",
+    "Top Song":""
   },
   {
-    "id":450,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Building A Record Library 1 (Albu",
-    "favourite":""
+    "ID":450,
+    "Song":"Good Bye Earl",
+    "Artist":"Dixie Chicks",
+    "Genre":"F Country",
+    "Top Song":""
   },
   {
-    "id":451,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Building A Record Library 2 (Albu",
-    "favourite":""
+    "ID":451,
+    "Song":"It Had To Be You",
+    "Artist":"Harry Connick",
+    "Genre":"Adult Contemporary",
+    "Top Song":""
   },
   {
-    "id":452,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Building A Record Collection Part",
-    "favourite":""
+    "ID":452,
+    "Song":"My Maria",
+    "Artist":"Brooks and Dunn",
+    "Genre":"F Country",
+    "Top Song":""
   },
   {
-    "id":453,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Building A Record Collection Part",
-    "favourite":""
+    "ID":453,
+    "Song":"Pop A Top",
+    "Artist":"Alan Jackson",
+    "Genre":"F Country",
+    "Top Song":""
   },
   {
-    "id":454,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Nickelback",
-    "favourite":""
+    "ID":454,
+    "Song":"Time of Your Life",
+    "Artist":"Greenday",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":455,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Alt-Rock's Greatest Instrumentals",
-    "favourite":""
+    "ID":455,
+    "Song":"My Guy",
+    "Artist":"Mary Wells",
+    "Genre":"R and B",
+    "Top Song":""
   },
   {
-    "id":456,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Rise & Fall Of Alice In Chains 1",
-    "favourite":""
+    "ID":456,
+    "Song":"I Can't Help Myself (Sugar Pie Honey Bunch)",
+    "Artist":"Four Tops",
+    "Genre":"R and B",
+    "Top Song":""
   },
   {
-    "id":457,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Rise & Fall Of Alice In Chains 2",
-    "favourite":""
+    "ID":457,
+    "Song":"Mack The Knife",
+    "Artist":"Frank Sinatra",
+    "Genre":"Adult Contemporary",
+    "Top Song":""
   },
   {
-    "id":458,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"A Music Industry Checkup",
-    "favourite":""
+    "ID":458,
+    "Song":"Whiter Shade of Pale",
+    "Artist":"Procol Harum",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":459,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Medical Matters & Mysteries Of Mu",
-    "favourite":""
+    "ID":459,
+    "Song":"Louie, Louie",
+    "Artist":"Animal House",
+    "Genre":"Tv/Movie",
+    "Top Song":""
   },
   {
-    "id":460,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Medical Matters & Mysteries Of Mu",
-    "favourite":""
+    "ID":460,
+    "Song":"Mustang Sally",
+    "Artist":"The Commitments",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":461,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The White Stripes",
-    "favourite":""
+    "ID":461,
+    "Song":"Summertime Blues",
+    "Artist":"Brian Selzer",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":462,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"How To Talk Like A Rock Snob 3",
-    "favourite":""
+    "ID":462,
+    "Song":"Stray Cat Strut",
+    "Artist":"Stray Cats",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":463,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Madchester Part 1",
-    "favourite":""
+    "ID":463,
+    "Song":"Wild Child",
+    "Artist":"Rick Ocasek",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":464,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Madchester Part 2",
-    "favourite":""
+    "ID":464,
+    "Song":"Oh Canada",
+    "Artist":"Instrumental",
+    "Genre":"Specialty",
+    "Top Song":""
   },
   {
-    "id":465,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Radiohead Part 1",
-    "favourite":""
+    "ID":465,
+    "Song":"Whoop! There It Is!",
+    "Artist":"Clock",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":466,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Radiohead Part 2",
-    "favourite":""
+    "ID":466,
+    "Song":"Na Na Hey Hey Good bye",
+    "Artist":"DJ Chrome",
+    "Genre":"Specialty",
+    "Top Song":""
   },
   {
-    "id":467,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Radiohead Part 3",
-    "favourite":""
+    "ID":467,
+    "Song":"Saturday Night",
+    "Artist":"Whigfield",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":468,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Radiohead Part 4",
-    "favourite":""
+    "ID":468,
+    "Song":"The Hockey Song",
+    "Artist":"Stompin Tom Connors",
+    "Genre":"Specialty",
+    "Top Song":""
   },
   {
-    "id":469,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Christian Alt-Rock",
-    "favourite":""
+    "ID":469,
+    "Song":"Auld Lang Syne",
+    "Artist":"Guy Lombardo",
+    "Genre":"Specialty",
+    "Top Song":""
   },
   {
-    "id":470,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The Crime Beat",
-    "favourite":""
+    "ID":470,
+    "Song":"Daddy's Little Girl",
+    "Artist":"Al Martino",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":471,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Coldplay",
-    "favourite":""
+    "ID":471,
+    "Song":"Daughter of Mine",
+    "Artist":"John McDermott",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":472,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The Producers 3  The Canadians",
-    "favourite":""
+    "ID":472,
+    "Song":"Don't Stop",
+    "Artist":"Fleetwood Mac",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":473,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The 100 Greatest New Rock Moments",
-    "favourite":""
+    "ID":473,
+    "Song":"From This Moment On",
+    "Artist":"Shania Twain",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":474,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The 100 Greatest New Rock Moments",
-    "favourite":""
+    "ID":474,
+    "Song":"Having A Party",
+    "Artist":"Rod Stewart",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":475,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The 100 Greatest New Rock Moments",
-    "favourite":""
+    "ID":475,
+    "Song":"I Knew The Bride",
+    "Artist":"Nick Lowe",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":476,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The 100 Greatest New Rock Moments",
-    "favourite":""
+    "ID":476,
+    "Song":"I Love A Rainy Night",
+    "Artist":"Kenny Loggins",
+    "Genre":"F Country",
+    "Top Song":""
   },
   {
-    "id":477,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The 100 Greatest New Rock Moments",
-    "favourite":""
+    "ID":477,
+    "Song":"Jailhouse Rock",
+    "Artist":"Elvis",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":478,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The 100 Greatest New Rock Moments",
-    "favourite":""
+    "ID":478,
+    "Song":"(Bad Bad) Leroy Brown",
+    "Artist":"Jim Croce",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":479,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The 100 Greatest New Rock Moments",
-    "favourite":""
+    "ID":479,
+    "Song":"Mickey",
+    "Artist":"Toni Basil",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":480,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The 100 Greatest New Rock Moments",
-    "favourite":""
+    "ID":480,
+    "Song":"Mountain Music",
+    "Artist":"Alabama",
+    "Genre":"M Country",
+    "Top Song":""
   },
   {
-    "id":481,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The 100 Greatest New Rock Moments",
-    "favourite":""
+    "ID":481,
+    "Song":"Rock and Roll Pt 2",
+    "Artist":"Gary Glitter",
+    "Genre":"F Rock",
+    "Top Song":""
   },
   {
-    "id":482,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The 100 Greatest New Rock Moments",
-    "favourite":""
+    "ID":482,
+    "Song":"Spanish Eyes",
+    "Artist":"Engelburt Humperdinck",
+    "Genre":"Adult Contemporary",
+    "Top Song":""
   },
   {
-    "id":483,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Kurt Cobain 10 Years Later Part 1",
-    "favourite":""
+    "ID":483,
+    "Song":"The Gambler",
+    "Artist":"Kenny Rogers",
+    "Genre":"M Country",
+    "Top Song":""
   },
   {
-    "id":484,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Kurt Cobain 10 Years Later Part 2",
-    "favourite":""
+    "ID":484,
+    "Song":"Unforgettable",
+    "Artist":"Nat King Cole",
+    "Genre":"Adult Contemporary",
+    "Top Song":""
   },
   {
-    "id":485,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Was Kurt Cobain Murdered_ Part 1",
-    "favourite":""
+    "ID":485,
+    "Song":"Walking On Sunshine",
+    "Artist":"Katrina and The Waves",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":486,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Was Kurt Cobain Murdered_ Part 2",
-    "favourite":""
+    "ID":486,
+    "Song":"We've Only Just Begun",
+    "Artist":"Carpenters",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":487,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"New Rock's Craziest People",
-    "favourite":""
+    "ID":487,
+    "Song":"Wind Beneath Your Wings",
+    "Artist":"Bette Midler",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":488,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Drummers Who Made A Difference",
-    "favourite":"yes"
+    "ID":488,
+    "Song":"Suddenly I See",
+    "Artist":"K.T Tunstall",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":489,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"A Guide To Summer Concert Festiva",
-    "favourite":""
+    "ID":489,
+    "Song":"The Sweet Escape",
+    "Artist":"Gwen Stefani and Akon",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":490,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The Secret History Of Recorded Mu",
-    "favourite":""
+    "ID":490,
+    "Song":"Glamorous",
+    "Artist":"Fergie",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":491,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Stories Behind Songs",
-    "favourite":""
+    "ID":491,
+    "Song":"Beautiful Girls",
+    "Artist":"Sean Kingston",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":492,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Taboo Tunes_ Fear of Music Part 1",
-    "favourite":""
+    "ID":492,
+    "Song":"Hey There Delilah",
+    "Artist":"Plain White T's",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":493,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Taboo Tunes_ Fear of Music Part 2",
-    "favourite":""
+    "ID":493,
+    "Song":"Apologize",
+    "Artist":"Timaland and One Republic",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":494,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"How To Talk Like A Rock Snob 5",
-    "favourite":""
+    "ID":494,
+    "Song":"Into The Night",
+    "Artist":"Santana and Chad Kroger",
+    "Genre":"F Rock",
+    "Top Song":""
   },
   {
-    "id":495,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Seven Morrissey Mysteries",
-    "favourite":""
+    "ID":495,
+    "Song":"Pocketful of Sunshine",
+    "Artist":"Natasha Beddingfield",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":496,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Rhythm Sections",
-    "favourite":""
+    "ID":496,
+    "Song":"Shake It",
+    "Artist":"Metro Station",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":497,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Format Wars",
-    "favourite":""
+    "ID":497,
+    "Song":"Hot And Cold",
+    "Artist":"Katy Perry",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":498,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Death As A Career Move",
-    "favourite":""
+    "ID":498,
+    "Song":"Forever",
+    "Artist":"Chris Brown",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":499,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"U2 A Secret History - Part 1",
-    "favourite":""
+    "ID":499,
+    "Song":"Dangerous",
+    "Artist":"Kardinal Offishall and Akon",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":500,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"U2 A Secret History - Part 2",
-    "favourite":""
+    "ID":500,
+    "Song":"Keeps Getting Better",
+    "Artist":"Christina Aguilera",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":501,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"U2 A Secret History - Part 3",
-    "favourite":""
+    "ID":501,
+    "Song":"Let It Rock",
+    "Artist":"Kevin Rudolf and Lil Wayne",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":502,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"U2 A Secret History - Part 4",
-    "favourite":""
+    "ID":502,
+    "Song":"I Know You Want Me (Calle Ocho)",
+    "Artist":"Pitbull",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":503,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"What's the Big Deal About The Cur",
-    "favourite":""
+    "ID":503,
+    "Song":"Hey Soul Sister",
+    "Artist":"Train",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":504,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Xmas Show 11",
-    "favourite":""
+    "ID":504,
+    "Song":"Don't Stop Until you Get Enough",
+    "Artist":"Michael Jackson",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":505,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Gay New Rock 1",
-    "favourite":""
+    "ID":505,
+    "Song":"Empire State of Mind",
+    "Artist":"Jay-Z and Alicia Keys",
+    "Genre":"Hip Hop",
+    "Top Song":""
   },
   {
-    "id":506,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Gay New Rock 2",
-    "favourite":""
+    "ID":506,
+    "Song":"Get Down Tonight",
+    "Artist":"Kc and the Sunshine Band",
+    "Genre":"Disco",
+    "Top Song":""
   },
   {
-    "id":507,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Whatever Happened to Britpop 1",
-    "favourite":""
+    "ID":507,
+    "Song":"Hot In Herre",
+    "Artist":"Nelly",
+    "Genre":"Rap",
+    "Top Song":""
   },
   {
-    "id":508,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Whatever Happened to Britpop 2",
-    "favourite":""
+    "ID":508,
+    "Song":"I Hope You Dance",
+    "Artist":"Lee Ann Womak",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":509,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Whatever Happened to Britpop 3",
-    "favourite":""
+    "ID":509,
+    "Song":"I Like It",
+    "Artist":"Enrique Iglesius and Pitbull",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":510,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Alt-Rock's Greatest All-Female Ba",
-    "favourite":""
+    "ID":510,
+    "Song":"I Loved Her First",
+    "Artist":"Heartland",
+    "Genre":"S Country",
+    "Top Song":""
   },
   {
-    "id":511,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Alt-Rock's Greatest All-Female Ba",
-    "favourite":""
+    "ID":511,
+    "Song":"Ice Ice Baby",
+    "Artist":"Vanilla Ice",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":512,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"I'm Not Dead Yet",
-    "favourite":""
+    "ID":512,
+    "Song":"In My Head",
+    "Artist":"Jason Derulo",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":513,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Montreal New Rock",
-    "favourite":""
+    "ID":513,
+    "Song":"It's Raining Men",
+    "Artist":"Weather Girls",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":514,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Bad Career Moves 2",
-    "favourite":""
+    "ID":514,
+    "Song":"Jump Around",
+    "Artist":"House of Pain",
+    "Genre":"Hip Hop",
+    "Top Song":""
   },
   {
-    "id":515,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Nirvana The Songs and Sessions",
-    "favourite":""
+    "ID":515,
+    "Song":"Lets Get Loud",
+    "Artist":"Jennifer Lopez",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":516,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Beck's Brain",
-    "favourite":""
+    "ID":516,
+    "Song":"Lets Get It Started",
+    "Artist":"Black Eyed Peas",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":517,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"New Rock Secrets - Exposed!",
-    "favourite":""
+    "ID":517,
+    "Song":"Move This",
+    "Artist":"Technotronic",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":518,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Green Day_ Deep Background",
-    "favourite":""
+    "ID":518,
+    "Song":"Rhythm Is A Dancer",
+    "Artist":"Snap",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":519,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Trent Reznor & Nine Inch Nails Pa",
-    "favourite":""
+    "ID":519,
+    "Song":"September",
+    "Artist":"Earth, Wind and Fire",
+    "Genre":"Disco",
+    "Top Song":""
   },
   {
-    "id":520,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Trent Reznor & Nine Inch Nails Pa",
-    "favourite":""
+    "ID":520,
+    "Song":"She's Everything",
+    "Artist":"Brad Paisley",
+    "Genre":"S Country",
+    "Top Song":""
   },
   {
-    "id":521,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Joy Division and Ian Curtis 25 Ye",
-    "favourite":""
+    "ID":521,
+    "Song":"Then",
+    "Artist":"Brad Paisley",
+    "Genre":"S Country",
+    "Top Song":""
   },
   {
-    "id":522,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"10 Weird Things About Oasis",
-    "favourite":""
+    "ID":523,
+    "Song":"Shake, Shake Shake",
+    "Artist":"Kc and the Sunshine Band",
+    "Genre":"Disco",
+    "Top Song":""
   },
   {
-    "id":523,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Definition",
-    "favourite":""
+    "ID":524,
+    "Song":"ABC",
+    "Artist":"Jackson 5",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":524,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Bono Yes Just Bono",
-    "favourite":""
+    "ID":525,
+    "Song":"Billie Jean",
+    "Artist":"Michael Jackson",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":525,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Modern Collectible Records",
-    "favourite":""
+    "ID":526,
+    "Song":"Down",
+    "Artist":"Jay Sean and Lil Wayne",
+    "Genre":"Hip Hop",
+    "Top Song":""
   },
   {
-    "id":526,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"More Outsider Music",
-    "favourite":""
+    "ID":527,
+    "Song":"Electric Boogie ( Electric Slide)",
+    "Artist":"Marcia Griffiths",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":527,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The Tricky Issue of Sampling",
-    "favourite":""
+    "ID":528,
+    "Song":"Electric Slide",
+    "Artist":"Grandmaster Slice",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":528,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The 500th Episode",
-    "favourite":""
+    "ID":529,
+    "Song":"Fat Boy",
+    "Artist":"Max a Million",
+    "Genre":"Hip Hop",
+    "Top Song":""
   },
   {
-    "id":529,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"CBGB - A History, Part 1",
-    "favourite":""
+    "ID":530,
+    "Song":"I Cross My Heart",
+    "Artist":"George Strait",
+    "Genre":"S Country",
+    "Top Song":""
   },
   {
-    "id":530,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"CBGB - A History, Part 2",
-    "favourite":""
+    "ID":531,
+    "Song":"Just The Way You Are",
+    "Artist":"Bruno Mars",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":531,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"A Brief Tribute to Robert Moog",
-    "favourite":""
+    "ID":532,
+    "Song":"Let's Get It On",
+    "Artist":"Marvin Gaye",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":532,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Before They Were Famous",
-    "favourite":""
+    "ID":533,
+    "Song":"Lost In This Moment",
+    "Artist":"Big and Rich",
+    "Genre":"S Country",
+    "Top Song":""
   },
   {
-    "id":533,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Rivers Cuomo",
-    "favourite":""
+    "ID":534,
+    "Song":"Love Story",
+    "Artist":"Taylor Swift",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":534,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"10 Things About Coldplay",
-    "favourite":""
+    "ID":535,
+    "Song":"Nothing On You",
+    "Artist":"B.O.B and Bruno Mars",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":535,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"All-Time Longevity Champions",
-    "favourite":""
+    "ID":536,
+    "Song":"Bette Davis Eyes",
+    "Artist":"Kim Carnnes",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":536,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Where are they now_ Another repri",
-    "favourite":""
+    "ID":537,
+    "Song":"Born To Be Wild",
+    "Artist":"Steppenwolf",
+    "Genre":"F Rock",
+    "Top Song":""
   },
   {
-    "id":537,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Xmas Show 12",
-    "favourite":""
+    "ID":538,
+    "Song":"My Sharona",
+    "Artist":"The Knack",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":538,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"(Good) Goth Part 1",
-    "favourite":""
+    "ID":539,
+    "Song":"It;s Not Unusual",
+    "Artist":"Tom Jones",
+    "Genre":"Adult Contemperary",
+    "Top Song":""
   },
   {
-    "id":539,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"(Good) Goth Part 2",
-    "favourite":""
+    "ID":540,
+    "Song":"Beer For My Horses",
+    "Artist":"Toby Keith",
+    "Genre":"M Country",
+    "Top Song":""
   },
   {
-    "id":540,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"30 Years Of Punk, Part 1 (Pre-Pun",
-    "favourite":""
+    "ID":541,
+    "Song":"Buffalo Soldier",
+    "Artist":"Bob Marley",
+    "Genre":"Reggae",
+    "Top Song":""
   },
   {
-    "id":541,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"30 Years Of Punk, Part 2 (1975-19",
-    "favourite":""
+    "ID":542,
+    "Song":"Pennsylvania B-5000",
+    "Artist":"Glenn Miller",
+    "Genre":"Big Band",
+    "Top Song":""
   },
   {
-    "id":542,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"30 Years Of Punk, Part 3 (1977)",
-    "favourite":""
+    "ID":543,
+    "Song":"Wide Open Spaces",
+    "Artist":"Dixie Chicks",
+    "Genre":"S Country",
+    "Top Song":""
   },
   {
-    "id":543,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"30 Years Of Punk, Part 4 (1978-19",
-    "favourite":""
+    "ID":544,
+    "Song":"It'sYour Love",
+    "Artist":"Tim McGraw and Faith Hill",
+    "Genre":"S Country",
+    "Top Song":""
   },
   {
-    "id":544,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"30 Years Of Punk, Part 5 (The 80s",
-    "favourite":""
+    "ID":545,
+    "Song":"Fishing In The Dark",
+    "Artist":"Nitty Gritty Dirt Band",
+    "Genre":"M Country",
+    "Top Song":""
   },
   {
-    "id":545,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"30 Years Of Punk, Part 6",
-    "favourite":""
+    "ID":546,
+    "Song":"Happy Birthday",
+    "Artist":"Specialty",
+    "Genre":"Specialty",
+    "Top Song":""
   },
   {
-    "id":546,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"A Guide To Rock N Roll Drugs",
-    "favourite":""
+    "ID":547,
+    "Song":"I'm Here For the Party",
+    "Artist":"Gretchen Wilson",
+    "Genre":"F Country",
+    "Top Song":""
   },
   {
-    "id":547,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"A Quarter-Century Of Depeche Mode",
-    "favourite":""
+    "ID":548,
+    "Song":"Little Sister",
+    "Artist":"Dwight Yoakam",
+    "Genre":"F Country",
+    "Top Song":""
   },
   {
-    "id":548,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Cover Songs 1",
-    "favourite":""
+    "ID":549,
+    "Song":"Hypnotize",
+    "Artist":"Notorious Big",
+    "Genre":"Rap",
+    "Top Song":""
   },
   {
-    "id":549,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Cover Songs 2",
-    "favourite":""
+    "ID":550,
+    "Song":"How Bizarre",
+    "Artist":"O.M.C",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":550,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Hidden Tracks",
-    "favourite":""
+    "ID":551,
+    "Song":"Hard Days Night",
+    "Artist":"Beatles",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":551,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Hot City Scenes Through The Years",
-    "favourite":""
+    "ID":552,
+    "Song":"Devil's Party",
+    "Artist":"INXS",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":552,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Hot City Scenes Through The Years",
-    "favourite":""
+    "ID":553,
+    "Song":"Flawed Design",
+    "Artist":"Stabilo",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":553,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"How To Talk Like A Rock Snob 6",
-    "favourite":""
+    "ID":554,
+    "Song":"Money Maker",
+    "Artist":"Ludicris",
+    "Genre":"Rap",
+    "Top Song":""
   },
   {
-    "id":554,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Joey Ramone A Remembrance",
-    "favourite":""
+    "ID":555,
+    "Song":"Rock This Party",
+    "Artist":"Rob Sinclair",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":555,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Missing In Action 1",
-    "favourite":""
+    "ID":556,
+    "Song":"Jeopardy",
+    "Artist":"Greg Kihn Band",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":556,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Missing in Action 2",
-    "favourite":""
+    "ID":557,
+    "Song":"Impacto",
+    "Artist":"Daddy Yankee and Fergie",
+    "Genre":"Reggae",
+    "Top Song":""
   },
   {
-    "id":557,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"More Medical Mysteries Of Music",
-    "favourite":""
+    "ID":558,
+    "Song":"Paralyzer",
+    "Artist":"Finger Eleven",
+    "Genre":"F Rock",
+    "Top Song":""
   },
   {
-    "id":558,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"New Rock and Technology_ An Updat",
-    "favourite":""
+    "ID":559,
+    "Song":"Apologize",
+    "Artist":"Tiberland and One Republic",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":559,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"New Rock And Technology_ An Updat",
-    "favourite":""
+    "ID":560,
+    "Song":"Bubbly",
+    "Artist":"Colie Caillat",
+    "Genre":"R and B",
+    "Top Song":""
   },
   {
-    "id":560,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Retro 90s 1",
-    "favourite":""
+    "ID":561,
+    "Song":"Seven Year Fool",
+    "Artist":"Jully Black",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":561,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Retro 90s 2",
-    "favourite":""
+    "ID":562,
+    "Song":"Rumors",
+    "Artist":"Time Social Club",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":562,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Retro 90s 3",
-    "favourite":""
+    "ID":563,
+    "Song":"Blame It on the Rain",
+    "Artist":"Milli Vanilli",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":563,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Retro 90s 4",
-    "favourite":""
+    "ID":564,
+    "Song":"Check Yes or No",
+    "Artist":"George Strait",
+    "Genre":"S Country",
+    "Top Song":""
   },
   {
-    "id":564,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"RHCP_ Drugs, Despair, Redemption",
-    "favourite":""
+    "ID":565,
+    "Song":"Hella Good",
+    "Artist":"No Doubt",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":565,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"RHCP_ Drugs, Despair, Redemption",
-    "favourite":""
+    "ID":566,
+    "Song":"Wake Up Little Susi",
+    "Artist":"Everly Brothers",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":566,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Secrets Of Pearl Jam",
-    "favourite":""
+    "ID":567,
+    "Song":"More and More",
+    "Artist":"Captain Hollywood",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":567,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The Fashionistas",
-    "favourite":""
+    "ID":568,
+    "Song":"Downunder",
+    "Artist":"Men at Work",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":568,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The History of New Rock Hair",
-    "favourite":""
+    "ID":569,
+    "Song":"Sunrise",
+    "Artist":"Norah Jones",
+    "Genre":"Dinner",
+    "Top Song":""
   },
   {
-    "id":569,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The Producers, Part 2",
-    "favourite":""
+    "ID":570,
+    "Song":"Jessie's Girl",
+    "Artist":"Rick Springield",
+    "Genre":"F Rock",
+    "Top Song":""
   },
   {
-    "id":570,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"U2 At 30",
-    "favourite":""
+    "ID":571,
+    "Song":"December 1963",
+    "Artist":"Four Seasons",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":571,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"XMas 13",
-    "favourite":""
+    "ID":572,
+    "Song":"Boys Are Back In Town",
+    "Artist":"Thin Lizzy",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":572,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"100 Weird Things_ Part 1 0F 10 -",
-    "favourite":""
+    "ID":573,
+    "Song":"If I Ain't Got You",
+    "Artist":"Alicia Keys",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":573,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"100 Weird Things_ Part 2 - Skelet",
-    "favourite":""
+    "ID":574,
+    "Song":"I Don't Want to Miss a Thing",
+    "Artist":"Aerosmith",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":574,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"100 Weird Things_ Part 3 Of 10 -",
-    "favourite":""
+    "ID":575,
+    "Song":"When You Say Nothing At All",
+    "Artist":"Alison Krauss",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":575,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"100 Weird Things_ Part 4 0F 10 -",
-    "favourite":""
+    "ID":576,
+    "Song":"All For Love",
+    "Artist":"Bryan Adams and Rod Stewart",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":576,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"100 Weird Things Pt 5 Of 10 Drugs",
-    "favourite":""
+    "ID":577,
+    "Song":"Vacation",
+    "Artist":"Go Gos",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":577,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"100 Weird Things_ Pt 6 Of 10 Stud",
-    "favourite":""
+    "ID":578,
+    "Song":"Just A Gigalo",
+    "Artist":"David Lee Roth",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":578,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"100 Weird Things_ Pt 7 Of 10 The",
-    "favourite":""
+    "ID":579,
+    "Song":"Wipe Out",
+    "Artist":"Safaris",
+    "Genre":"60s",
+    "Top Song":"Yes"
   },
   {
-    "id":579,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"100 Weird Things_ Part 8 Of 10_ S",
-    "favourite":""
+    "ID":580,
+    "Song":"Venus",
+    "Artist":"Bananarama",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":580,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"100 Weird Things_ Pt 9 Of 10 Mone",
-    "favourite":""
+    "ID":581,
+    "Song":"She Drives Me Crazy",
+    "Artist":"Fine Young Cannibals",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":581,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"100 Weird Things_ Pt 10 Of 10 Oth",
-    "favourite":""
+    "ID":582,
+    "Song":"The Look",
+    "Artist":"Roxette",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":582,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Alt-Rock's Top 10 Female Fronted",
-    "favourite":""
+    "ID":583,
+    "Song":"Joyride",
+    "Artist":"Roxette",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":583,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Demo Versions_ How Songs Are Born",
-    "favourite":""
+    "ID":584,
+    "Song":"Cold Hearted",
+    "Artist":"Paula Abdul",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":584,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Fabulous Frontmen 1 Chris Cornell",
-    "favourite":""
+    "ID":585,
+    "Song":"Nothing Compares To You",
+    "Artist":"Sinead O'Connor",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":585,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Greatest Musical Gadgets",
-    "favourite":""
+    "ID":586,
+    "Song":"Politics of Dancing",
+    "Artist":"Re-Flex",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":586,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Killers Confidential",
-    "favourite":""
+    "ID":587,
+    "Song":"Spirit In The Sky",
+    "Artist":"Dr. and the Medics",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":587,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Naming Your Band Part 1",
-    "favourite":""
+    "ID":588,
+    "Song":"Dancing With Myself",
+    "Artist":"Billy Idol",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":588,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Naming Your Band Part 2",
-    "favourite":""
+    "ID":589,
+    "Song":"Video Killed The Radio Star",
+    "Artist":"Buggles",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":589,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Plagiarism Or Unfortunate Sonic C",
-    "favourite":"yes"
+    "ID":590,
+    "Song":"Everybody Have Fun tonight",
+    "Artist":"Wang Chung",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":590,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Plagiarism Or Unfortunate Sonic C",
-    "favourite":""
+    "ID":591,
+    "Song":"Blue",
+    "Artist":"Eiffel 65",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":591,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Rock N Roll Hotels",
-    "favourite":""
+    "ID":592,
+    "Song":"Lips of An Angel",
+    "Artist":"Hinder",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":592,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Rock Star Career Changes",
-    "favourite":""
+    "ID":593,
+    "Song":"My Perogative",
+    "Artist":"Bobby Brown",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":593,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Screw You Guys...I'm Going Solo!",
-    "favourite":""
+    "ID":594,
+    "Song":"I Will Always Love You",
+    "Artist":"Whitney Houston",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":594,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The 14Th Annual Xmas Show",
-    "favourite":""
+    "ID":595,
+    "Song":"I Want to Dance With Somebody",
+    "Artist":"Whitney Houston",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":595,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The Art Of The Reunion Part 1",
-    "favourite":""
+    "ID":596,
+    "Song":"White Lines",
+    "Artist":"Grandmaster Flash",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":596,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The Art Of The Reunion Part 2",
-    "favourite":""
+    "ID":597,
+    "Song":"Rick Astley",
+    "Artist":"Never Gonna Give You Up",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":597,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The Art Of The Reunion Part 3",
-    "favourite":""
+    "ID":598,
+    "Song":"You're Beautiful",
+    "Artist":"James Blunt",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":598,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The History Of Mash-Ups",
-    "favourite":""
+    "ID":599,
+    "Song":"You Raise Me Up",
+    "Artist":"Josh Grogan",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":599,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The Infinite Musical Archive",
-    "favourite":""
+    "ID":600,
+    "Song":"True",
+    "Artist":"Spandau Ballet",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":600,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The Secret Of Album Cover Art",
-    "favourite":""
+    "ID":601,
+    "Song":"Daughters",
+    "Artist":"John Mayer",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":601,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Tool What The Hell_ Part 1",
-    "favourite":""
+    "ID":602,
+    "Song":"Complicated",
+    "Artist":"Avril Lavigne",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":602,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Tool What The Hell_ Part 2",
-    "favourite":""
+    "ID":603,
+    "Song":"Sandstorm",
+    "Artist":"Darude",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":603,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Why Things Are The Way They Are",
-    "favourite":""
+    "ID":604,
+    "Song":"Beer Barrel Polka",
+    "Artist":"Walter Ostanek",
+    "Genre":"Polka",
+    "Top Song":""
   },
   {
-    "id":604,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Your Questions Answered",
-    "favourite":""
+    "ID":605,
+    "Song":"Cherry Polka",
+    "Artist":"Walter Ostanek",
+    "Genre":"Polka",
+    "Top Song":""
   },
   {
-    "id":605,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Etymology Part 1",
-    "favourite":""
+    "ID":606,
+    "Song":"I Want to Grow Old With You",
+    "Artist":"Adam Sandler",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":606,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Etymology Part 2",
-    "favourite":""
+    "ID":607,
+    "Song":"Barett's Privateers",
+    "Artist":"Sons of Erin",
+    "Genre":"Celtic",
+    "Top Song":""
   },
   {
-    "id":607,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Fans & Fatalities",
-    "favourite":""
+    "ID":608,
+    "Song":"Subliime",
+    "Artist":"Santaria",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":608,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Small Towns And Big Bands",
-    "favourite":""
+    "ID":609,
+    "Song":"Quadriglia",
+    "Artist":"Tarantella",
+    "Genre":"Italian",
+    "Top Song":""
   },
   {
-    "id":609,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The Inventors",
-    "favourite":""
+    "ID":610,
+    "Song":"Serenata",
+    "Artist":"Tarantella",
+    "Genre":"Italian",
+    "Top Song":""
   },
   {
-    "id":610,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Cult Heroes",
-    "favourite":""
+    "ID":611,
+    "Song":"Tarantella Medley",
+    "Artist":"Tarantella",
+    "Genre":"Italian",
+    "Top Song":""
   },
   {
-    "id":611,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Linkin Park",
-    "favourite":""
+    "ID":612,
+    "Song":"Cha Cha Slide",
+    "Artist":"DJ Caspar",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":612,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Sourcing Samples",
-    "favourite":""
+    "ID":613,
+    "Song":"Wild Wild West",
+    "Artist":"Escape Club",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":613,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"History Of Grunge Part 1_ The Ear",
-    "favourite":""
+    "ID":614,
+    "Song":"Move This",
+    "Artist":"Technotronic",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":614,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"History Of Grunge Part 2_ 1990-91",
-    "favourite":""
+    "ID":615,
+    "Song":"Tribal Dance",
+    "Artist":"2 Unlimited",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":615,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"History Of Grunge Part 3_ 1992-93",
-    "favourite":""
+    "ID":616,
+    "Song":"I Want You",
+    "Artist":"Savage Garden",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":616,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"History Of Grunge Part 4_ 1993-94",
-    "favourite":""
+    "ID":617,
+    "Song":"Broken Bones",
+    "Artist":"Love Inc.",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":617,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"History Of Grunge Part 5 Rise Of",
-    "favourite":""
+    "ID":618,
+    "Song":"Collective Soul",
+    "Artist":"Precious Declaration",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":618,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"History Of Grunge Part 6_ The Fal",
-    "favourite":""
+    "ID":619,
+    "Song":"Apparitions",
+    "Artist":"Matthew Good Band",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":619,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Dave Grohl - Part 1",
-    "favourite":""
+    "ID":620,
+    "Song":"All Star",
+    "Artist":"Smashmouth",
+    "Genre":"M Rock",
+    "Top Song":""
   },
   {
-    "id":620,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Dave Grohl - Part 2",
-    "favourite":""
+    "ID":621,
+    "Song":"The Bad Touch",
+    "Artist":"Bloodhound Gang",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":621,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Moonlighting",
-    "favourite":""
+    "ID":622,
+    "Song":"Somebody Told Me",
+    "Artist":"The Killers",
+    "Genre":"F Rock",
+    "Top Song":""
   },
   {
-    "id":622,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Album Marketing 1 - NIN Year Zero",
-    "favourite":""
+    "ID":623,
+    "Song":"One Thing",
+    "Artist":"Finger Eleven",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":623,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Album Marketing 2 - Radiohead and",
-    "favourite":""
+    "ID":624,
+    "Song":"The Reason",
+    "Artist":"Hoobastank",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":624,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"The 15th Annual Xmas Show",
-    "favourite":""
+    "ID":625,
+    "Song":"When The Night Feels My Song",
+    "Artist":"Bedouin Soundclash",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":625,
-    "artist":"Alan Cross",
-    "genre":"Radio",
-    "title":"Rock Star Kids",
-    "favourite":""
+    "ID":626,
+    "Song":"Untitled",
+    "Artist":"Simple Plan",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":626,
-    "artist":"Albert King",
-    "genre":"Radio",
-    "title":"Get Out Of My Life Woman",
-    "favourite":""
+    "ID":627,
+    "Song":"At The Hop",
+    "Artist":"Danny and the Juniors",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":627,
-    "artist":"Albert King",
-    "genre":"Radio",
-    "title":"Born Under A Bad Sign",
-    "favourite":""
+    "ID":628,
+    "Song":"Whole Lotta Skaking Going On",
+    "Artist":"Jerry Lee Lewis",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":628,
-    "artist":"Albert King",
-    "genre":"Radio",
-    "title":"The Feeling",
-    "favourite":""
+    "ID":629,
+    "Song":"Johnny B. Goode",
+    "Artist":"Chuck Berry",
+    "Genre":"60s",
+    "Top Song":""
   },
   {
-    "id":629,
-    "artist":"Albert King",
-    "genre":"Radio",
-    "title":"We All Wanna Boogie",
-    "favourite":""
+    "ID":630,
+    "Song":"Rhythm's Gonna Get You",
+    "Artist":"Miami Sound Machine",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":630,
-    "artist":"Albert King",
-    "genre":"Radio",
-    "title":"The Very Thought Of You",
-    "favourite":""
+    "ID":631,
+    "Song":"Dancing On The Ceiling",
+    "Artist":"Lionel Richie",
+    "Genre":"F Dance",
+    "Top Song":"Yes"
   },
   {
-    "id":631,
-    "artist":"Albert King",
-    "genre":"Radio",
-    "title":"I Got The Blues",
-    "favourite":""
+    "ID":632,
+    "Song":"Beds Are Burning",
+    "Artist":"Midnight Oil",
+    "Genre":"M Dance",
+    "Top Song":""
   },
   {
-    "id":632,
-    "artist":"Albert King",
-    "genre":"Radio",
-    "title":"I Get Evil",
-    "favourite":""
+    "ID":633,
+    "Song":"Jump",
+    "Artist":"Pointer Sisters",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":633,
-    "artist":"Albert King",
-    "genre":"Radio",
-    "title":"Angel Of Mercy",
-    "favourite":""
+    "ID":634,
+    "Song":"Beth",
+    "Artist":"Kiss",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":634,
-    "artist":"Albert King",
-    "genre":"Radio",
-    "title":"Flat Tire",
-    "favourite":""
+    "ID":635,
+    "Song":"I was Made For Loving You",
+    "Artist":"Kiss",
+    "Genre":"Disco",
+    "Top Song":""
   },
   {
-    "id":635,
-    "artist":"Albert King",
-    "genre":"Radio",
-    "title":"California",
-    "favourite":""
+    "ID":636,
+    "Song":"When I'm With You",
+    "Artist":"Sheriff",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":636,
-    "artist":"Albert King",
-    "genre":"Radio",
-    "title":"Searchin' For A Woman",
-    "favourite":""
+    "ID":637,
+    "Song":"Feels Like Home",
+    "Artist":"Chantal Kreviazuk",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":637,
-    "artist":"Albert King",
-    "genre":"Radio",
-    "title":"Bad Luck Blues",
-    "favourite":""
+    "ID":638,
+    "Song":"Jewish Hora Medley",
+    "Artist":"Miscellaneous",
+    "Genre":"Specialty",
+    "Top Song":""
   },
   {
-    "id":638,
-    "artist":"Albert King",
-    "genre":"Radio",
-    "title":"Wild Woman",
-    "favourite":""
+    "ID":639,
+    "Song":"Help From My Friends",
+    "Artist":"Joe Cocker",
+    "Genre":"S Dance",
+    "Top Song":""
   },
   {
-    "id":639,
-    "artist":"Albert King",
-    "genre":"Radio",
-    "title":"Be On Your Merry Way",
-    "favourite":""
+    "ID":640,
+    "Song":"Love Somebody",
+    "Artist":"Rick Springield",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":640,
-    "artist":"Albert King",
-    "genre":"Radio",
-    "title":"Murder",
-    "favourite":""
+    "ID":641,
+    "Song":"Sauvamente",
+    "Artist":"Elvis Crispo",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":641,
-    "artist":"Albert King",
-    "genre":"Radio",
-    "title":"Howlin' For My Darlin'",
-    "favourite":""
+    "ID":642,
+    "Song":"No Limits",
+    "Artist":"2 Unlimited",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":642,
-    "artist":"Albert King",
-    "genre":"Radio",
-    "title":"Won't Be Hangin' Around",
-    "favourite":""
+    "ID":643,
+    "Song":"You Already For This",
+    "Artist":"2 Unlimited",
+    "Genre":"F Dance",
+    "Top Song":""
   },
   {
-    "id":643,
-    "artist":"Arthur Big Boy Crudup",
-    "genre":"Blues",
-    "title":"Black Pony Blues",
-    "favourite":""
+    "ID":644,
+    "Song":"Crazy Train",
+    "Artist":"Ozzy Osbourne",
+    "Genre":"F Rock",
+    "Top Song":""
   },
   {
-    "id":644,
-    "artist":"Arthur Big Boy Crudup",
-    "genre":"Blues",
-    "title":"Death Valley Blues",
-    "favourite":""
+    "ID":645,
+    "Song":"Glenn Miller Medley",
+    "Artist":"Jive Bunny",
+    "Genre":"Big Band",
+    "Top Song":""
   },
   {
-    "id":645,
-    "artist":"Arthur Big Boy Crudup",
-    "genre":"Blues",
-    "title":"Kind Lover Blues",
-    "favourite":""
+    "ID":646,
+    "Song":"The Last Waltz",
+    "Artist":"Engelburt Humperdinck",
+    "Genre":"Adult Contemperary",
+    "Top Song":""
   },
   {
-    "id":646,
-    "artist":"Arthur Big Boy Crudup",
-    "genre":"Blues",
-    "title":"If I Get Lucky",
-    "favourite":""
+    "ID":647,
+    "Song":"Release Me",
+    "Artist":"Engelburt Humperdinck",
+    "Genre":"Adult Contemperary",
+    "Top Song":""
   },
   {
-    "id":647,
-    "artist":"Arthur Big Boy Crudup",
-    "genre":"Blues",
-    "title":"Give Me A 32-20",
-    "favourite":""
+    "ID":648,
+    "Song":"The Best Is Yry to Come",
+    "Artist":"Frank Sinatra",
+    "Genre":"Adult Contemperary",
+    "Top Song":""
   },
   {
-    "id":648,
-    "artist":"Arthur Big Boy Crudup",
-    "genre":"Blues",
-    "title":"Mean Old Frisco Blues",
-    "favourite":"yes"
-  },
-  {
-    "id":649,
-    "artist":"Arthur Big Boy Crudup",
-    "genre":"Blues",
-    "title":"Raised To My Hand",
-    "favourite":""
-  },
-  {
-    "id":650,
-    "artist":"Arthur Big Boy Crudup",
-    "genre":"Blues",
-    "title":"Cool Disposition",
-    "favourite":""
-  },
-  {
-    "id":651,
-    "artist":"Arthur Big Boy Crudup",
-    "genre":"Blues",
-    "title":"Who's Been Foolin' You",
-    "favourite":""
-  },
-  {
-    "id":652,
-    "artist":"Arthur Big Boy Crudup",
-    "genre":"Blues",
-    "title":"Rock Me Mama",
-    "favourite":""
-  },
-  {
-    "id":653,
-    "artist":"Arthur Big Boy Crudup",
-    "genre":"Blues",
-    "title":"That's Your Red Wagon",
-    "favourite":""
-  },
-  {
-    "id":654,
-    "artist":"Arthur Big Boy Crudup",
-    "genre":"Blues",
-    "title":"So Glad You're Mine",
-    "favourite":""
-  },
-  {
-    "id":655,
-    "artist":"Arthur Big Boy Crudup",
-    "genre":"Blues",
-    "title":"Boy Friend Blues",
-    "favourite":""
-  },
-  {
-    "id":656,
-    "artist":"Arthur Big Boy Crudup",
-    "genre":"Blues",
-    "title":"Crudup's After Hours",
-    "favourite":""
-  },
-  {
-    "id":657,
-    "artist":"Arthur Big Boy Crudup",
-    "genre":"Blues",
-    "title":"I Don't Know It",
-    "favourite":""
-  },
-  {
-    "id":658,
-    "artist":"Arthur Big Boy Crudup",
-    "genre":"Blues",
-    "title":"Chicago Blues",
-    "favourite":""
+    "ID":649,
+    "Song":"To all The Girls I've Loved Before",
+    "Artist":"Julio Iglesius",
+    "Genre":"Adult Contemperary",
+    "Top Song":""
   }
 ]

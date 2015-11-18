@@ -14,6 +14,6 @@ angular.module('sortApp', ['angularUtils.directives.dirPagination'])
   	$scope.tracks.splice($scope.tracks.indexOf(row),1);
   	$scope.tracks.push($scope.addedTracks);
  }
-  $scope.sortType = 'artist'; // set the default sort type
+  $scope.sortType = 'Artist'; // set the default sort type
   $scope.sortReverse = false; // set the default sort order
 });

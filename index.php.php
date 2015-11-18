@@ -5,7 +5,7 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
 	die("Connection failed: " . $conn->connect_error);
 } 
-$sql = "SELECT id, artist, album, title FROM tracks";
+$sql = "SELECT ID, Artist, Song, Genre FROM tracks";
 $result = $conn->query($sql);
 ?>
 <!DOCTYPE html>
@@ -29,15 +29,15 @@ $result = $conn->query($sql);
 	  <th>Select</th>
 		<th>
 		<a href="#">
+		Song
+		</a></th>
+		<th>
+		<a href="#">
 		Artist
 		</a></th>
 		<th>
 		<a href="#">
-		Album
-		</a></th>
-		<th>
-		<a href="#">
-		Song
+		Genre
 		</a></th>
 		<th>Remove</th>
 	  </tr>
@@ -51,9 +51,9 @@ if ($result->num_rows > 0) {
 	    ?>
 	<tr>
 		<td><input type="checkbox" id="<?php echo $row["id"] ?>" value="" /></td>
-		<td><?php echo $row["artist"] ?></td>
-		<td><?php echo $row["album"] ?></td>
-		<td><?php echo $row["title"] ?></td>
+		<td><?php echo $row["Song"] ?></td>
+		<td><?php echo $row["Artist"] ?></td>
+		<td><?php echo $row["Genre"] ?></td>
 		<td>X</td>
 	</tr>
 <?php 

@@ -1,12 +1,25 @@
 <?php
 include_once "inc/connect.php";
 
+//check if the starting row variable was passed in the URL or not
+if (!isset($_GET['startrow']) or !is_numeric($_GET['startrow'])) {
+  //we give the value of the starting row to 0 because nothing was found in URL
+  $startrow = 0;
+//otherwise we take the value from the URL
+} else {
+  $startrow = (int)$_GET['startrow'];
+}
+
+
 $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
 	die("Connection failed: " . $conn->connect_error);
 } 
-$sql = "SELECT ID, Artist, Song, Genre FROM tracks";
+$sql = "SELECT ID, Artist, Song, Genre FROM tracks LIMIT $startrow, 10";
 $result = $conn->query($sql);
+
+
+
 ?>
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
@@ -26,7 +39,7 @@ $result = $conn->query($sql);
   <table class="table table-bordered table-striped">
 	<thead>
 	  <tr>
-	  <th>Select</th>
+	  <th>ID</th>
 		<th>
 		<a href="#">
 		Song
@@ -39,7 +52,7 @@ $result = $conn->query($sql);
 		<a href="#">
 		Genre
 		</a></th>
-		<th>Remove</th>
+		<th>Edit</th>
 	  </tr>
 	</thead>
 	    <tbody>
@@ -50,11 +63,11 @@ if ($result->num_rows > 0) {
 
 	    ?>
 	<tr>
-		<td><input type="checkbox" id="<?php echo $row["id"] ?>" value="" /></td>
+		<td><?php echo $row["ID"] ?></td>
 		<td><?php echo $row["Song"] ?></td>
 		<td><?php echo $row["Artist"] ?></td>
 		<td><?php echo $row["Genre"] ?></td>
-		<td>X</td>
+		<td>Edit</td>
 	</tr>
 <?php 
 	}
@@ -66,5 +79,22 @@ $conn->close();
 ?>	
 </tbody>
 </table>
+<nav>
+  <ul class="pager">
+
+<?PHP
+$prev = $startrow - 10;
+
+//only print a "Previous" link if a "Next" was clicked
+if ($prev >= 0)
+    echo '<li class="previous"><a class="btn btn-default" href="'.$_SERVER['PHP_SELF'].'?startrow='.$prev.'"><span aria-hidden="true">&larr;</span> Previous</a></li>';
+?>
+<?PHP
+echo '<li class="next"><a href="'.$_SERVER['PHP_SELF'].'?startrow='.($startrow+10).'">Next <span aria-hidden="true">&rarr;</span></a></li>';
+?>
+  </ul>
+</nav>
+
+
 	</body>
 </html>

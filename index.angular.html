@@ -21,15 +21,33 @@
 <body>
 <div class="container" ng-app="sortApp" ng-controller="mainController">
     <h2>Available Songs</h2>
-  <form>
-    <div class="form-group">
-      <div class="input-group">
-        <div class="input-group-addon"><i class="glyphicon glyphicon-search"></i></div>
-        <input type="text" class="form-control" placeholder="Search for a song" ng-model="search">
-
-      </div>      
+<form class="form-inline">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <div class="input-group">
+                    <div class="input-group-addon"><i class="glyphicon glyphicon-search"></i></div>
+                    <input type="text" class="form-control" placeholder="Search for a song" ng-model="search">
+                </div>      
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="form-group">
+                <label for="genre">Genre</label>
+                <select class="form-control" name="genre">
+                    <option ng-repeat="songs in tracks" value="{{songs.Genre}}">{{songs.Genre}}</option>
+                </select>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="form-group">
+                <label for="topSong">Top Song
+                    <input type="checkbox" class="form-control" name="topSong" />
+                </label>
+            </div>
+        </div>
     </div>
-  </form>
+</form>
 
   <table class="table table-bordered table-striped">
     

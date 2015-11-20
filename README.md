@@ -18,4 +18,5 @@ Create a datatable using AngularJS with data from a JSON file created from an SQ
 - [X] add theme styles and js files to project
 - [X] organize files
 - [ ] update data from final client list
+- [ ] clean up source code, make it pretty
 

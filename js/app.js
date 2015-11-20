@@ -2,7 +2,7 @@
 angular.module('sortApp', ['angularUtils.directives.dirPagination'])
 
 .controller('mainController', function($scope, $http) {
-  $http.get('tracks.json')
+  $http.get('./data/tracks.json')
     .then (function(res){
       $scope.tracks = res.data; 
 	    $scope.addedTracks = [];

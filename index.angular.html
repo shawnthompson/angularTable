@@ -15,9 +15,10 @@
     <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <style>
-        .btn-default {background-color: #aaa; color: #000; padding:2px 20px;}
         .main { margin-top: 7em; }
+        td.ng-binding { line-height: 2em;}
         .table-striped>tbody>tr:nth-child(odd)>td, .table-striped>tbody>tr:nth-child(odd)>th { background-color: #333;}
+        .table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {vertical-align: middle;}
     </style>
 
     <!-- JS -->
@@ -129,7 +130,7 @@
     
     <tbody>
       <tr dir-paginate="songs in tracks | orderBy:sortType:sortReverse | filter:search | itemsPerPage: 30">
-        <td><a class="btn btn-default" href="" role="button" ng-click="addSong(songs)"><span class="glyphicon glyphicon-plus"></span></a></td>
+        <td><a class="btn btn-default btn-sm" href="" role="button" ng-click="addSong(songs)"><span class="glyphicon glyphicon-plus"></span></a></td>
         <td>{{ songs.Song }}</td>
         <td>{{ songs.Artist }}</td>
         <td>{{ songs.Genre }}</td>
@@ -171,7 +172,7 @@
     
     <tbody>
       <tr ng-repeat="addedSongs in addedTracks">
-        <td><a class="btn btn-default" href="" role="button" ng-click="removeSong(songs)">Remove</a></td>
+        <td><a class="btn btn-default btn-sm" href="" role="button" ng-click="removeSong(songs)"><span class="glyphicon glyphicon-minus"></span></a></td>
         <td>{{ addedSongs.Song }}</td>
         <td>{{ addedSongs.Artist }}</td>
         <td>{{ addedSongs.Genre }}</td>

@@ -7,9 +7,10 @@
 
     <!-- CSS -->
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootswatch/3.2.0/sandstone/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap-switch.min.css">
     <style>
         body { padding-top:50px; }
-        .btn-default {background-color: #aaa; color: #000; padding:0 15px;}
+        .btn-default {background-color: #aaa; color: #000; padding:2px 20px;}
     </style>
 
     <!-- JS -->
@@ -21,17 +22,18 @@
 <body>
 <div class="container" ng-app="sortApp" ng-controller="mainController">
     <h2>Available Songs</h2>
-<form class="form-inline">
+<form>
     <div class="row">
         <div class="col-md-6">
             <div class="form-group">
-                <div class="input-group">
-                    <div class="input-group-addon"><i class="glyphicon glyphicon-search"></i></div>
-                    <input type="text" class="form-control" placeholder="Search for a song" ng-model="search">
+                    <label for="filter">Search</label>
+                 <div class="input-group">
+                   <div class="input-group-addon"><i class="glyphicon glyphicon-search"></i></div>
+                    <input type="text" name="filter" class="form-control" placeholder="Search for a song or artist" ng-model="search">
                 </div>      
             </div>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-4">
             <div class="form-group">
                 <label for="genre">Genre</label>
                 <select class="form-control" name="genre">
@@ -39,11 +41,11 @@
                 </select>
             </div>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-2">
             <div class="form-group">
-                <label for="topSong">Top Song
-                    <input type="checkbox" class="form-control" name="topSong" />
-                </label>
+                <label for="topSong">Top Song Only</label>
+                <input type="checkbox" class="form-control" name="topSong" data-on-text="Yes" data-off-text="No" />
+                
             </div>
         </div>
     </div>
@@ -77,7 +79,7 @@
     
     <tbody>
       <tr dir-paginate="songs in tracks | orderBy:sortType:sortReverse | filter:search | itemsPerPage: 30">
-        <td><a class="btn btn-default" href="" role="button" ng-click="addSong(songs)">Add</a></td>
+        <td><a class="btn btn-default" href="" role="button" ng-click="addSong(songs)"><span class="glyphicon glyphicon-plus"></span></a></td>
         <td>{{ songs.Song }}</td>
         <td>{{ songs.Artist }}</td>
         <td>{{ songs.Genre }}</td>
@@ -129,5 +131,12 @@
 
 
 </div>
+
+
+<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="js/bootstrap-switch.min.js"></script>
+<script>
+    $("[name='topSong']").bootstrapSwitch();
+</script>
 </body>
 </html>

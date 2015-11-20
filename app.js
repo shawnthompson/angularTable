@@ -5,7 +5,7 @@ angular.module('sortApp', ['angularUtils.directives.dirPagination'])
   $http.get('tracks.json')
     .then (function(res){
       $scope.tracks = res.data; 
-	  $scope.addedTracks = [];
+	    $scope.addedTracks = [];
     });
   $scope.removeSong = function(row) {
   	$scope.tracks.splice($scope.tracks.indexOf(row),1);

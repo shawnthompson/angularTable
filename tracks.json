@@ -74,7 +74,7 @@
     "Song":"Satisfaction",
     "Artist":"Rolling Stones",
     "Genre":"F Rock",
-    "Top Song":"Yes"
+    "Top Song":"true"
   },
   {
     "ID":12,
@@ -837,7 +837,7 @@
     "Song":"How Sweet It is to be Loved by You",
     "Artist":"James Taylor",
     "Genre":"S Dance",
-    "Top Song":"Yes"
+    "Top Song":"true"
   },
   {
     "ID":121,
@@ -1355,7 +1355,7 @@
     "Song":"You Spin Me Round",
     "Artist":"Dead Or Alive",
     "Genre":"F Dance",
-    "Top Song":"Yes"
+    "Top Song":"true"
   },
   {
     "ID":195,
@@ -1649,7 +1649,7 @@
     "Song":"Earned It",
     "Artist":"The Weeknd",
     "Genre":"R & B",
-    "Top Song":"Yes"
+    "Top Song":"true"
   },
   {
     "ID":237,
@@ -2034,7 +2034,7 @@
     "Song":"You're my First, Last, Everything",
     "Artist":"Barry White",
     "Genre":"Disco",
-    "Top Song":"Yes"
+    "Top Song":"true"
   },
   {
     "ID":292,
@@ -2594,7 +2594,7 @@
     "Song":"New Orleans Is Sinking",
     "Artist":"Tragically Hip",
     "Genre":"M Rock",
-    "Top Song":"Yes"
+    "Top Song":"true"
   },
   {
     "ID":372,
@@ -3070,7 +3070,7 @@
     "Song":"Jive Talkin",
     "Artist":"Bee Gees",
     "Genre":"M Dance",
-    "Top Song":"Yes"
+    "Top Song":"true"
   },
   {
     "ID":440,
@@ -4043,7 +4043,7 @@
     "Song":"Wipe Out",
     "Artist":"Safaris",
     "Genre":"60s",
-    "Top Song":"Yes"
+    "Top Song":"true"
   },
   {
     "ID":580,
@@ -4407,7 +4407,7 @@
     "Song":"Dancing On The Ceiling",
     "Artist":"Lionel Richie",
     "Genre":"F Dance",
-    "Top Song":"Yes"
+    "Top Song":"true"
   },
   {
     "ID":632,

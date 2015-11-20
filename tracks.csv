@@ -9,7 +9,7 @@ ID,Song,Artist,Genre,Top Song
 8,Some Kind if Wonderful,Grand Funk,M Rock,
 9,Single Ladies,Beyonce,F Dance,
 10,Save a Horse (Ride A Cowboy),Big N Rich,F Country,
-11,Satisfaction,Rolling Stones,F Rock,Yes
+11,Satisfaction,Rolling Stones,F Rock,true
 12,Rumor Has It,Adele,M Dance,
 13,Respect,Aretha Frankin,60s,
 14,Rasputin,Boney M,Disco,
@@ -118,7 +118,7 @@ ID,Song,Artist,Genre,Top Song
 117,Getting Jiggy With It,Will Smith,Hip Hop,
 118,Danza Kuduro,Don Omar and Lucenzo,F Dance,
 119,Can't Hold Us,Macklemore and Ryan Lewis,F Dance,
-120,How Sweet It is to be Loved by You,James Taylor,S Dance,Yes
+120,How Sweet It is to be Loved by You,James Taylor,S Dance,true
 121,50 Cent,In Da Club,Hip Hop,
 122,Sweet Child of Mine,Guns n Roses,F Rock,
 123,"Signed,Sealed,Delivered",Stevie Wonder,M Dance,
@@ -192,7 +192,7 @@ ID,Song,Artist,Genre,Top Song
 191,Jumping Jack Flash,Rolling Stones,F Rock,
 192,Jack and Diane,John Mellencamp,M Rock,
 193,Hurts So Good,John Mellencamp,M Rock,
-194,You Spin Me Round,Dead Or Alive,F Dance,Yes
+194,You Spin Me Round,Dead Or Alive,F Dance,true
 195,Shout,Tears For Fears,M Dance,
 196,Dancing in the Dark,Bruce Springsteen,F Dance,
 197,Glory Days,Bruce Springsteen,M Rock,
@@ -234,7 +234,7 @@ ID,Song,Artist,Genre,Top Song
 233,The Best,Tina Turner,M Dance,
 234,Style,Taylor Swift,M Dance,
 235,Blank Space,Taylor Swift,M Dance,
-236,Earned It,The Weeknd,R & B,Yes
+236,Earned It,The Weeknd,R & B,true
 237,Talking Body,Tove Lo,Hip Hop,
 238,U2,One,S Dance,
 239,U2,Mysterious Ways,M Dance,
@@ -289,7 +289,7 @@ ID,Song,Artist,Genre,Top Song
 288,Manic Monday,Bangles,M Dance,
 289,Wasn't That A Party,Irish Rovers,M Dance,
 290,Copacabana,Barry Manilow,F Dance,
-291,"You're my First,Last,Everything",Barry White,Disco,Yes
+291,"You're my First,Last,Everything",Barry White,Disco,true
 292,Surfin USA,Beach Boys,60s,
 293,Kokomo,Beach Boys,M Dance,
 294,Medley,Beatles,60s,
@@ -369,7 +369,7 @@ ID,Song,Artist,Genre,Top Song
 368,Bad To The Bone,George Thorogood,M Rock,
 369,Funky Cold Medina,Tone Loc,M Dance,
 370,Better Be Good To Me,Tina Turner,M Dance,
-371,New Orleans Is Sinking,Tragically Hip,M Rock,Yes
+371,New Orleans Is Sinking,Tragically Hip,M Rock,true
 372,Break Your Heart,Tiao Cruz,F Dance,
 373,Cotton Eye Joe,Rednex,F Dance,
 374,What Is Love,Haddaway,F Dance,
@@ -437,7 +437,7 @@ ID,Song,Artist,Genre,Top Song
 436,Barbara Ann,Beach Boys,60s,
 437,Great Balls of Fire,Lerry Lee Lewis,60s,
 438,A Hard Day's Night,Beatles,60s,
-439,Jive Talkin,Bee Gees,M Dance,Yes
+439,Jive Talkin,Bee Gees,M Dance,true
 440,Hot Stuff,Donna Summer,Disco,
 441,The Hustle,Van Mcoy,Disco,
 442,Kung Fu Fighting,Carl Douglas,Disco,
@@ -576,7 +576,7 @@ ID,Song,Artist,Genre,Top Song
 576,All For Love,Bryan Adams and Rod Stewart,S Dance,
 577,Vacation,Go Gos,F Dance,
 578,Just A Gigalo,David Lee Roth,M Dance,
-579,Wipe Out,Safaris,60s,Yes
+579,Wipe Out,Safaris,60s,true
 580,Venus,Bananarama,F Dance,
 581,She Drives Me Crazy,Fine Young Cannibals,M Dance,
 582,The Look,Roxette,M Dance,
@@ -628,7 +628,7 @@ ID,Song,Artist,Genre,Top Song
 628,Whole Lotta Skaking Going On,Jerry Lee Lewis,60s,
 629,Johnny B. Goode,Chuck Berry,60s,
 630,Rhythm's Gonna Get You,Miami Sound Machine,F Dance,
-631,Dancing On The Ceiling,Lionel Richie,F Dance,Yes
+631,Dancing On The Ceiling,Lionel Richie,F Dance,true
 632,Beds Are Burning,Midnight Oil,M Dance,
 633,Jump,Pointer Sisters,F Dance,
 634,Beth,Kiss,S Dance,

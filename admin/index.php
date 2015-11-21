@@ -10,15 +10,21 @@ if (!isset($_GET['startrow']) or !is_numeric($_GET['startrow'])) {
   $startrow = (int)$_GET['startrow'];
 }
 
+// Order
+$orderBy = array('Artist', 'Song', 'Genre');
+$order = 'Song';
+if (isset($_GET['orderBy']) && in_array($_GET['orderBy'], $orderBy)) {
+    $order = $_GET['orderBy'];
+}
+
+// retrieve and show the data :)
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
 	die("Connection failed: " . $conn->connect_error);
 } 
-$sql = "SELECT ID, Artist, Song, Genre FROM tracks LIMIT $startrow, 30";
+$sql = "SELECT * FROM tracks ORDER by " . $order . "  LIMIT $startrow, 30";
 $result = $conn->query($sql);
-
-
 
 ?>
 <!-- index.html -->
@@ -42,7 +48,7 @@ $result = $conn->query($sql);
         td.ng-binding { line-height: 2em;}
         .table-striped>tbody>tr:nth-child(odd)>td, .table-striped>tbody>tr:nth-child(odd)>th { background-color: #333;}
         .table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {vertical-align: middle;}
-		#editSong {color: #000;}
+		.modal {color: #000;}
     </style>
 
     <!-- JS -->
@@ -98,15 +104,46 @@ $result = $conn->query($sql);
 <div class="container main" ng-app="sortApp" ng-controller="mainController">
 	<h1>SoundTraxx - Ottawa DJ - Songs</h1>
 
-<!-- Edit Modals -->
-
+<!-- Add Modal -->
+<div class="modal fade" id="addSong" tabindex="-1" role="dialog" aria-labelledby="addSongLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h2 class="modal-title" id="addSongLabel">Add Song</h2>
+      </div>
+      <div class="modal-body">
+        <form>
+          <div class="form-group">
+            <label for="addSongTitle" class="control-label">Song:</label>
+            <input type="text" class="form-control" id="addSongTitle">
+          </div>
+          <div class="form-group">
+            <label for="addSongArtist" class="control-label">Artist:</label>
+            <input type="text" class="form-control" id="addSongArtist">
+          </div>
+          <div class="form-group">
+            <label for="addSongGenre" class="control-label">Genre:</label>
+            <input type="text" class="form-control" id="addSongGenre">
+          </div>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+        <button type="button" class="btn btn-default">Add Song</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- / Add Modal -->
+<!-- Edit Modal -->
 
 <div class="modal fade" id="editSong" tabindex="-1" role="dialog" aria-labelledby="editSongID">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="editSongID">Edit song</h4>
+        <h2 class="modal-title" id="editSongID">Edit song</h2>
       </div>
       <div class="modal-body">
         <form>
@@ -125,23 +162,44 @@ $result = $conn->query($sql);
         </form>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save</button>
+        <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+        <button type="button" class="btn btn-default">Save</button>
       </div>
     </div>
   </div>
 </div>
 
+<!-- / Edit Modal -->
+<!-- Delete Modal -->
 
-	
-<!-- / Edit Modals -->
+<div class="modal fade" id="deleteMessage" tabindex="-1" role="dialog" aria-labelledby="deleteMessageLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h2 class="modal-title" id="deleteMessageLabel">Delete</h2>
+      </div>
+      <div class="modal-body">
+      	<p>Are you sure you want to delete <b><i><span class="modal-text"></span></i></b>? If you delete this song, you will have to add it again. There is no undo.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default">Yes</button>
+        <button type="button" class="btn btn-default" data-dismiss="modal">No</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- / Delete Modal -->
+
+<p><button class="btn btn-default btn-lg" data-target="#addSong" data-toggle="modal">Add song</button></p>
 
   <table class="table table-bordered table-striped table-responsive">
 	<thead>
 	  <tr>
-		<th><a href="#">Song</a></th>
-		<th><a href="#">Artist</a></th>
-		<th><a href="#">Genre</a></th>
+		<th><a href="?orderBy=Song">Song</a></th>
+		<th><a href="?orderBy=Artist">Artist</a></th>
+		<th><a href="?orderBy=Genre">Genre</a></th>
 		<th>Edit</th>
 		<th>Delete</th>
 	  </tr>
@@ -156,8 +214,8 @@ $result = $conn->query($sql);
 		<td><?php echo $row["Song"] ?></td>
 		<td><?php echo $row["Artist"] ?></td>
 		<td><?php echo $row["Genre"] ?></td>
-		<td><button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#editSong" data-whatever="title"><i class="fa fa-pencil"></i></a></td>
-		<td><a class="btn btn-default btn-sm" href="#"><i class="fa fa-minus"></i></a></td>
+		<td><button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#editSong"><i class="fa fa-pencil"></i></button></td>
+		<td><button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#deleteMessage" data-song="<?php echo $row['Song'] ?>"><i class="fa fa-minus"></i></button></td>
 	</tr>
 		<?php 
 			}
@@ -184,5 +242,17 @@ $result = $conn->query($sql);
 <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 <script src="../js/grayscale.min.js"></script>
+<script>
+	$('#deleteMessage').on('show.bs.modal', function (event) {
+  var button = $(event.relatedTarget) // Button that triggered the modal
+  var songTitle = button.data('song') // Extract info from data-* attributes
+  // If necessary, you could initiate an AJAX request here (and then do the updating in a callback).
+  // Update the modal's content. We'll use jQuery here, but you could use a data binding library or other methods instead.
+  var modal = $(this)
+  modal.find('.modal-text').text(songTitle)
+  modal.find('.modal-body input').val(songTitle)
+})
+</script>
+
 	</body>
 </html>

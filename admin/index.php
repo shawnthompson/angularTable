@@ -18,7 +18,6 @@ if (isset($_GET['orderBy']) && in_array($_GET['orderBy'], $orderBy)) {
 }
 
 // retrieve and show the data :)
-
 $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
 	die("Connection failed: " . $conn->connect_error);
@@ -183,8 +182,8 @@ $result = $conn->query($sql);
       	<p>Are you sure you want to delete <b><i><span class="modal-text"></span></i></b>? If you delete this song, you will have to add it again. There is no undo.</p>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default">Yes</button>
-        <button type="button" class="btn btn-default" data-dismiss="modal">No</button>
+        <a href="?delete=<?php echo $row[ID]?>" class="btn btn-default">Yes</a>
+        <button class="btn btn-default" data-dismiss="modal">No</button>
       </div>
     </div>
   </div>
@@ -216,14 +215,14 @@ $result = $conn->query($sql);
 		<td><?php echo $row["Genre"] ?></td>
 		<td><button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#editSong"><i class="fa fa-pencil"></i></button></td>
 		<td><button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#deleteMessage" data-song="<?php echo $row['Song'] ?>"><i class="fa fa-minus"></i></button></td>
-	</tr>
 		<?php 
 			}
 		} else {
-			echo "0 results";
+			echo "<td colspan='5'>0 results</td>";
 		}
 		$conn->close();
 		?>	
+	</tr>
 	</tbody>
 </table>
 <nav>

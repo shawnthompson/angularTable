@@ -29,7 +29,7 @@ $result = $conn->query($sql);
 <!-- index.html -->
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="sortApp">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -100,7 +100,7 @@ $result = $conn->query($sql);
         <!-- /.container -->
     </nav>
 
-<div class="container main" ng-app="sortApp" ng-controller="mainController">
+<div class="container main" ng-controller="mainController">
 	<h1>SoundTraxx - Ottawa DJ - Songs</h1>
 
 <!-- Add Modal -->

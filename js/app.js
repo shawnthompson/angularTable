@@ -1,11 +1,10 @@
 // app.js
-angular.module('sortApp', ['angularUtils.directives.dirPagination'])
+var myApp = angular.module('myApp', ['angularUtils.directives.dirPagination'])
 
-.controller('mainController', function($scope, $http) {
+myApp.controller('listController', ['$scope', '$http', function($scope, $http) {
   $http.get('./data/tracks.json')
     .then (function(res){
       $scope.tracks = res.data; 
-	    $scope.addedTracks = [];
     });
   $scope.removeSong = function(row) {
   	$scope.tracks.splice($scope.tracks.indexOf(row),1);
@@ -14,6 +13,13 @@ angular.module('sortApp', ['angularUtils.directives.dirPagination'])
   	$scope.tracks.splice($scope.tracks.indexOf(row),1);
   	$scope.tracks.push($scope.addedTracks);
  }
+}]);
+
+myApp.controller('collectionController', ['$scope', function($scope){
+  $scope.addedTracks = [];
+}]);
+
+myApp.controller('sortController', ['$scope', function(){
   $scope.sortType = 'Artist'; // set the default sort type
-  $scope.sortReverse = false; // set the default sort order
-});
+  $scope.sortReverse = false; // set the default sort order 
+}]);

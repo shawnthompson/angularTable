@@ -1,210 +1,132 @@
 <!-- index.html -->
-
 <!DOCTYPE html>
 <html lang="en" ng-app="myApp">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>SoundTraxx - Ottawa DJ - Songs</title>
-    <!-- CSS -->
-    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootswatch/3.2.0/sandstone/bootstrap.min.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/bootstrap-switch.min.css">
-    <link rel="stylesheet" href="css/grayscale.min.css">
-    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-    <style>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>SoundTraxx - Ottawa DJ - Songs</title>
+        <!-- CSS -->
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootswatch/3.2.0/sandstone/bootstrap.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/bootstrap-switch.min.css">
+        <link rel="stylesheet" href="css/grayscale.min.css">
+        <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+        <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+        <style>
         .main { margin-top: 7em; }
         td.ng-binding { line-height: 2em;}
         .table-striped>tbody>tr:nth-child(odd)>td, .table-striped>tbody>tr:nth-child(odd)>th { background-color: #333;}
         .table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {vertical-align: middle;}
         .mrgn-tp-lg {margin-top: 25px;}
-    </style>
-
-    <!-- JS -->
-    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.23/angular.min.js"></script>
-    <script src="js/dirPagination.js"></script>
-    <script src="js/app.js"></script>
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
+        </style>
+        <!-- JS -->
+        <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.23/angular.min.js"></script>
+        <script src="js/dirPagination.js"></script>
+        <script src="js/app.js"></script>
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
-</head>
-<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-
-
-    <!-- Navigation -->
-    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+        <![endif]-->
+    </head>
+    <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+        <!-- Navigation -->
+        <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
                     <i class="fa fa-bars"></i>
-                </button>
-                <a class="navbar-brand page-scroll" href="#page-top">
-                    <i class="fa fa-play-circle"></i>  <span class="light">SoundTraxx</span>
-                </a>
+                    </button>
+                    <a class="navbar-brand page-scroll" href="#page-top">
+                        <i class="fa fa-play-circle"></i>  <span class="light">SoundTraxx</span>
+                    </a>
+                </div>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                    <ul class="nav navbar-nav">
+                        <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                        <li class="hidden">
+                            <a href="#page-top"></a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="../index.html#services">Services</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="../index.html#about">About</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="../index.html#contact">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
             </div>
+            <!-- /.container -->
+        </nav>
 
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
-                <ul class="nav navbar-nav">
-                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-                    <li class="hidden">
-                        <a href="#page-top"></a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="../index.html#services">Services</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="../index.html#about">About</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="../index.html#contact">Contact</a>
-                    </li>
-                </ul>
+
+<div ng-view=""></div>
+
+
+            <h2>Selected Songs</h2>
+            <div class="table-responsive">
+                <table class="table table-bordered table-striped" ng-model="addedTracks">
+                    <thead>
+                        <tr>
+                            <th class="col-md-1">Remove</th>
+                            <th>
+                                <a href="#" ng-click="sortType = 'Song'; sortReverse = !sortReverse">
+                                    Song
+                                    <span ng-show="sortType == 'Song' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
+                                    <span ng-show="sortType == 'Song' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
+                                </a>
+                            </th>
+                            <th>
+                                <a href="#" ng-click="sortType = 'Artist'; sortReverse = !sortReverse">
+                                    Artist
+                                    <span ng-show="sortType == 'Artist' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
+                                    <span ng-show="sortType == 'Artist' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
+                                </a>
+                            </th>
+                            <th>
+                                <a href="#" ng-click="sortType = 'Genre'; sortReverse = !sortReverse">
+                                    Genre
+                                    <span ng-show="sortType == 'Genre' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
+                                    <span ng-show="sortType == 'Genre' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
+                                </a>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr ng-repeat="addedSongs in addedTracks">
+                            <td><a class="btn btn-default btn-sm" href="" role="button" ng-click="removeSong(songs)"><span class="glyphicon glyphicon-minus"></span></a></td>
+                            <td>{{ addedSongs.Song }}</td>
+                            <td>{{ addedSongs.Artist }}</td>
+                            <td>{{ addedSongs.Genre }}</td>
+                        </tr>
+                    </tbody>
+                </table>
             </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container -->
-    </nav>
-
-<div class="container main" ng-controller="listController">
-    <h2>Available Songs</h2>
-<form>
-    <div class="row">
-        <div class="col-md-6">
             <div class="form-group">
-                    <label for="filter">Search</label>
-                 <div class="input-group">
-                   <div class="input-group-addon"><i class="glyphicon glyphicon-search"></i></div>
-                    <input type="text" name="filter" class="form-control" placeholder="Search for a song or artist" ng-model="search">
-                </div>      
+                <label for="email">Email address</label>
+                <input class="form-control" name="email" type="email" />
             </div>
-        </div>
-        <div class="col-md-4">
-            <div class="form-group">
-                <label for="genre">Genre</label>
-                <select class="form-control" name="genre">
-                    <option ng-repeat="songs in tracks" value="{{songs.Genre}}">{{songs.Genre}}</option>
-                </select>
-
-<!-- <select ng-model="selectedCategory" ng-options="item.category for item in items | unique:'category'">
-</select>
- -->
-
-
+            <div class="form-group text-center">
+                <button class="btn btn-primary mrgn-tp-lg" type="submit">Submit</button>
             </div>
-        </div>
-        <div class="col-md-2">
-            <div class="form-group">
-                <label for="topSong">Top Song Only</label>
-                <input type="checkbox" class="form-control" name="topSong" data-on-text="Yes" data-off-text="No" />
+        <footer>
+            <div class="container text-center">
+                <p><small>Copyright &copy; www.soundtraxx.ca 2015</small></p>
             </div>
-        </div>
-    </div>
-</form>
-<div class="table-responsive">
-  <table class="table table-bordered table-striped">
-    
-    <thead>
-      <tr>
-        <th class="col-md-1">Add</th>
-        <th>
-        <a href="#" ng-click="sortType = 'Song'; sortReverse = !sortReverse">
-        Song
-        <span ng-show="sortType == 'Song' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
-        <span ng-show="sortType == 'Song' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
-        </a></th>
-        <th>
-        <a href="#" ng-click="sortType = 'Artist'; sortReverse = !sortReverse">
-        Artist
-        <span ng-show="sortType == 'Artist' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
-        <span ng-show="sortType == 'Artist' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
-        </a></th>
-        <th>
-        <a href="#" ng-click="sortType = 'Genre'; sortReverse = !sortReverse">
-        Genre
-        <span ng-show="sortType == 'Genre' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
-        <span ng-show="sortType == 'Genre' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
-        </a></th>
-      </tr>
-    </thead>
-    
-    <tbody>
-      <tr dir-paginate="songs in tracks | orderBy:sortType:sortReverse | filter:search | itemsPerPage: 30">
-        <td><a class="btn btn-default btn-sm" href="" role="button" ng-click="addSong(songs)"><span class="glyphicon glyphicon-plus"></span></a></td>
-        <td>{{ songs.Song }}</td>
-        <td>{{ songs.Artist }}</td>
-        <td>{{ songs.Genre }}</td>
-      </tr>
-    </tbody>
-    
-  </table>
-</div>
-  <div class="text-center">
-  <dir-pagination-controls></dir-pagination-controls>
-  </div>
-<h2>Selected Songs</h2>
-<div class="table-responsive">
-  <table class="table table-bordered table-striped" ng-model="addedTracks">
-    
-    <thead>
-      <tr>
-        <th class="col-md-1">Remove</th>
-        <th>
-        <a href="#" ng-click="sortType = 'Song'; sortReverse = !sortReverse">
-        Song
-        <span ng-show="sortType == 'Song' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
-        <span ng-show="sortType == 'Song' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
-        </a></th>
-        <th>
-        <a href="#" ng-click="sortType = 'Artist'; sortReverse = !sortReverse">
-        Artist
-        <span ng-show="sortType == 'Artist' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
-        <span ng-show="sortType == 'Artist' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
-        </a></th>
-        <th>
-        <a href="#" ng-click="sortType = 'Genre'; sortReverse = !sortReverse">
-        Genre
-        <span ng-show="sortType == 'Genre' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
-        <span ng-show="sortType == 'Genre' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
-        </a></th>
-      </tr>
-    </thead>
-    
-    <tbody>
-      <tr ng-repeat="addedSongs in addedTracks">
-        <td><a class="btn btn-default btn-sm" href="" role="button" ng-click="removeSong(songs)"><span class="glyphicon glyphicon-minus"></span></a></td>
-        <td>{{ addedSongs.Song }}</td>
-        <td>{{ addedSongs.Artist }}</td>
-        <td>{{ addedSongs.Genre }}</td>
-      </tr>
-    </tbody>   
-  </table>
-</div>
-<div class="form-group">
-<label for="email">Email address</label>
-<input class="form-control" name="email" type="email" />
-</div>
-<div class="form-group text-center">
-<button class="btn btn-primary mrgn-tp-lg" type="submit">Submit</button>
-</div>
-</div>
-    <footer>
-        <div class="container text-center">
-            <p><small>Copyright &copy; www.soundtraxx.ca 2015</small></p>
-        </div>
-    </footer>
-<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
-<script src="js/bootstrap-switch.min.js"></script>
-<script>
-    $("[name='topSong']").bootstrapSwitch();
-</script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-<script src="js/grayscale.min.js"></script>
-</body>
+        </footer>
+        <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+        <script src="js/bootstrap-switch.min.js"></script>
+        <script>
+        $("[name='topSong']").bootstrapSwitch();
+        </script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+        <script src="js/grayscale.min.js"></script>
+    </body>
 </html>

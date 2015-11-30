@@ -1,5 +1,5 @@
 // app.js
-var myApp = angular.module('myApp', ['angularUtils.directives.dirPagination'])
+var listController = angular.module('listController', ['angularUtils.directives.dirPagination'])
 
 myApp.controller('listController', ['$scope', '$http', function($scope, $http) {
   $http.get('./data/tracks.json')

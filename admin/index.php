@@ -1,5 +1,5 @@
 <?php
-include_once "../inc/connect.php";
+    require '../inc/connect.php';
 
 //check if the starting row variable was passed in the URL or not
 if (!isset($_GET['startrow']) or !is_numeric($_GET['startrow'])) {
@@ -17,16 +17,20 @@ if (isset($_GET['orderBy']) && in_array($_GET['orderBy'], $orderBy)) {
     $order = $_GET['orderBy'];
 }
 
-// retrieve and show the data :)
-$conn = new mysqli($servername, $username, $password, $dbname);
-if ($conn->connect_error) {
-	die("Connection failed: " . $conn->connect_error);
-} 
+
+$pdo = Database::connect();
 $sql = "SELECT * FROM tracks ORDER by " . $order . "  LIMIT $startrow, 30";
-$result = $conn->query($sql);
+
+
+// retrieve and show the data :)
+// $conn = new mysqli($servername, $username, $password, $dbname);
+// if ($conn->connect_error) {
+// 	die("Connection failed: " . $conn->connect_error);
+// } 
+// $sql = "SELECT * FROM tracks ORDER by " . $order . "  LIMIT $startrow, 30";
+// $result = $conn->query($sql);
 
 ?>
-<!-- index.html -->
 
 <!DOCTYPE html>
 <html lang="en" ng-app="sortApp">
@@ -38,7 +42,6 @@ $result = $conn->query($sql);
     <!-- CSS -->
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootswatch/3.2.0/sandstone/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="../css/bootstrap-switch.min.css">
     <link rel="stylesheet" href="../css/grayscale.min.css">
     <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
@@ -47,13 +50,10 @@ $result = $conn->query($sql);
         td.ng-binding { line-height: 2em;}
         .table-striped>tbody>tr:nth-child(odd)>td, .table-striped>tbody>tr:nth-child(odd)>th { background-color: #333;}
         .table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {vertical-align: middle;}
-		.modal {color: #000;}
+    		.modal {color: #000;}
     </style>
 
     <!-- JS -->
-    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.23/angular.min.js"></script>
-    <script src="js/dirPagination.js"></script>
-    <script src="js/app.js"></script>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -191,7 +191,7 @@ $result = $conn->query($sql);
 
 <!-- / Delete Modal -->
 
-<p><button class="btn btn-default btn-lg" data-target="#addSong" data-toggle="modal">Add song</button></p>
+<p><a href="create.php" class="btn btn-default btn-lg">Add song</a></p>
 
   <table class="table table-bordered table-striped table-responsive">
 	<thead>
@@ -205,10 +205,7 @@ $result = $conn->query($sql);
 	</thead>
     <tbody>
 	    <?php
-		if ($result->num_rows > 0) {
-			// output data of each row
-			while($row = $result->fetch_assoc()) {
-	    ?>
+foreach ($pdo->query($sql) as $row) {	    ?>
 	<tr>
 		<td><?php echo $row["Song"] ?></td>
 		<td><?php echo $row["Artist"] ?></td>
@@ -216,11 +213,8 @@ $result = $conn->query($sql);
 		<td><button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#editSong"><i class="fa fa-pencil"></i></button></td>
 		<td><button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#deleteMessage" data-song="<?php echo $row['Song'] ?>"><i class="fa fa-minus"></i></button></td>
 		<?php 
-			}
-		} else {
-			echo "<td colspan='5'>0 results</td>";
-		}
-		$conn->close();
+    }
+    Database::disconnect();
 		?>	
 	</tr>
 	</tbody>

@@ -87,7 +87,7 @@
                 <div class="col-md-12">
                   <div class="checkbox">
                     <label>
-                      <input type="checkbox">Top 200 songs
+                      <input type="checkbox" ng-model="topSongs">Top 200 songs
                     </label>
                   </div>
                 </div>
@@ -122,7 +122,7 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <tr dir-paginate="songs in tracks | orderBy:sortType:sortReverse | filter:search | filter:genre | itemsPerPage: 30" ng-class="{topSong:songs.TopSong }" >
+                    <tr dir-paginate="songs in tracks | orderBy:sortType:sortReverse | filter:search | filter:genre | filter:topSongs | itemsPerPage: 30" ng-class="{topSong:songs.TopSong }" >
                         <td><a class="btn btn-default btn-sm" href="" role="button" ng-click="addSong(songs)"><span class="glyphicon glyphicon-plus"></span></a></td>
                         <td>{{ songs.Song }}</td>
                         <td>{{ songs.Artist }}</td>

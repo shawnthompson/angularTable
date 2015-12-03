@@ -121,7 +121,7 @@
                 </tfoot>
                 <tbody>
                     <tr dir-paginate="songs in tracks | orderBy:sortType:sortReverse | filter:search | filter:genre | filter:topSongs | itemsPerPage: 30" ng-class="{topSong:songs.TopSong }"  ng-if="!songs.hide">
-                        <td><a class="btn btn-default btn-sm" href="" role="button" ng-click="addSong(tracks)"><span class="glyphicon glyphicon-plus"></span></a></td>
+                        <td><a class="btn btn-default btn-sm" href="" role="button" ng-click="addSong(tracks); songs.hide = true;"><span class="glyphicon glyphicon-plus"></span></a></td>
                         <td>{{ songs.Song }}</td>
                         <td>{{ songs.Artist }}</td>
                         <td>{{ songs.Genre }}</td> 

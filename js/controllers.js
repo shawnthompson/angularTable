@@ -41,24 +41,51 @@ return output;
 });
 
 
+
+/*
+ angular.module('copyExample', [])
+   .controller('ExampleController', ['$scope', function($scope) {
+     $scope.master= {};
+
+     $scope.update = function(user) {
+       // Example with 1 argument
+       $scope.master= angular.copy(user);
+     };
+
+     $scope.reset = function() {
+       // Example with 2 arguments
+       angular.copy($scope.master, $scope.user);
+     };
+
+     $scope.reset();
+   }]);
+*/
+
 tracksController.controller('ListController', ['$scope', '$http', function($scope, $http) {
   $http.get('./data/tracks.json').success(function(data) {
       $scope.tracks = data; 
     });
+  $scope.addedTracks = [ //sample data, to be removed before going live
+    { 
+      "ID":2,
+      "Song":"YMCA",
+      "Artist":"Village People",
+      "Genre":"Disco",
+      "TopSong":""
+    }
+  ];
+  $scope.addSong = function(track) {
+    $scope.addedTracks = angular.copy(track);
+  }
   $scope.removeSong = function(row) {
-  	$scope.tracks.splice($scope.tracks.indexOf(row),1);
+    $scope.addedTracks.splice($scope.addedTracks.indexOf(row),1);
   }
-  $scope.addSong = function(row) {
-  	$scope.tracks.splice($scope.tracks.indexOf(row),1);
-  	$scope.tracks.push($scope.addedTracks);
-  }
+  $scope.sortType = 'TopSong'; // set the default sort type
+  $scope.sortReverse = false; // set the default sort order 
 }]);
 
 tracksController.controller('DetailsController', ['$scope', function($scope){
-  $scope.addedTracks = [];
 }]);
 
 tracksController.controller('SortController', ['$scope', function(){
-  $scope.sortType = 'Artist'; // set the default sort type
-  $scope.sortReverse = false; // set the default sort order 
 }]);

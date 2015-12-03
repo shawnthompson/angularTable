@@ -58,8 +58,8 @@
             </div>
             <!-- /.container -->
         </nav>
-<main class="container">
-    <section class="songListContainer" ng-controller="ListController">
+<main class="container" ng-controller="ListController">
+    <section class="songListContainer">
         <h2>Available Songs</h2>
         <form>
             <div class="row">
@@ -121,10 +121,10 @@
                 </tfoot>
                 <tbody>
                     <tr dir-paginate="songs in tracks | orderBy:sortType:sortReverse | filter:search | filter:genre | filter:topSongs | itemsPerPage: 30" ng-class="{topSong:songs.TopSong }"  ng-if="!songs.hide">
-                        <td><a class="btn btn-default btn-sm" href="" role="button" ng-click="songs.hide = true;"><span class="glyphicon glyphicon-plus"></span></a></td>
+                        <td><a class="btn btn-default btn-sm" href="" role="button" ng-click="addSong(tracks)"><span class="glyphicon glyphicon-plus"></span></a></td>
                         <td>{{ songs.Song }}</td>
                         <td>{{ songs.Artist }}</td>
-                        <td>{{ songs.Genre }}</td>
+                        <td>{{ songs.Genre }}</td> 
                     </tr>
                 </tbody>
             </table>
@@ -135,39 +135,21 @@
     </section>
 
 
-    <section class="submitList" ng-controller="DetailsController">
+    <section class="submitList">
         <h2>Selected Songs</h2>
         <div class="table-responsive">
-            <table class="table table-bordered table-striped" ng-model="addedTracks">
+            <table class="table table-bordered table-striped">
                 <thead>
                     <tr>
                         <th class="col-md-1">Remove</th>
-                        <th>
-                            <a href="#" ng-click="sortType = 'Song'; sortReverse = !sortReverse">
-                                Song
-                                <span ng-show="sortType == 'Song' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
-                                <span ng-show="sortType == 'Song' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
-                            </a>
-                        </th>
-                        <th>
-                            <a href="#" ng-click="sortType = 'Artist'; sortReverse = !sortReverse">
-                                Artist
-                                <span ng-show="sortType == 'Artist' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
-                                <span ng-show="sortType == 'Artist' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
-                            </a>
-                        </th>
-                        <th>
-                            <a href="#" ng-click="sortType = 'Genre'; sortReverse = !sortReverse">
-                                Genre
-                                <span ng-show="sortType == 'Genre' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
-                                <span ng-show="sortType == 'Genre' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
-                            </a>
-                        </th>
+                        <th>Song</th>
+                        <th>Artist</th>
+                        <th>Genre</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr ng-repeat="addedSongs in addedTracks">
-                        <td><a class="btn btn-default btn-sm" href="" role="button" ng-click="removeSong(songs)"><span class="glyphicon glyphicon-minus"></span></a></td>
+                        <td><a class="btn btn-default btn-sm" href="" role="button" ng-click="removeSong(addedSongs)"><span class="glyphicon glyphicon-minus"></span></a></td>
                         <td>{{ addedSongs.Song }}</td>
                         <td>{{ addedSongs.Artist }}</td>
                         <td>{{ addedSongs.Genre }}</td>

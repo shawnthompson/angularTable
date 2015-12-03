@@ -18,7 +18,7 @@
         .table-striped>tbody>tr:nth-child(odd)>td, .table-striped>tbody>tr:nth-child(odd)>th { background-color: #333;}
         .table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {vertical-align: middle;}
         .mrgn-tp-lg {margin-top: 25px;}
-        .topSong {color:red;}
+         .table-striped>tbody>tr.topSong:nth-child(odd)>td, .table-striped>tbody>tr.topSong:nth-child(even)>td, tr.topSong {color:darkgoldenrod;font-weight:900;}
         </style>
         <!-- JS -->
         <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.23/angular.js"></script>
@@ -84,13 +84,6 @@
                         -->
                     </div>
                 </div>
-                <div class="col-md-12">
-                  <div class="checkbox">
-                    <label>
-                      <input type="checkbox" ng-model="topSongs">Top 200 songs
-                    </label>
-                  </div>
-                </div>
             </div>
         </form>
         <div class="table-responsive">
@@ -121,9 +114,14 @@
                         </th>
                     </tr>
                 </thead>
+                <tfoot>
+                    <tr class="topSong">
+                        <td colspan="4">Top 200 songs</td>
+                    </tr>                    
+                </tfoot>
                 <tbody>
-                    <tr dir-paginate="songs in tracks | orderBy:sortType:sortReverse | filter:search | filter:genre | filter:topSongs | itemsPerPage: 30" ng-class="{topSong:songs.TopSong }" >
-                        <td><a class="btn btn-default btn-sm" href="" role="button" ng-click="addSong(songs)"><span class="glyphicon glyphicon-plus"></span></a></td>
+                    <tr dir-paginate="songs in tracks | orderBy:sortType:sortReverse | filter:search | filter:genre | filter:topSongs | itemsPerPage: 30" ng-class="{topSong:songs.TopSong }"  ng-if="!songs.hide">
+                        <td><a class="btn btn-default btn-sm" href="" role="button" ng-click="songs.hide = true;"><span class="glyphicon glyphicon-plus"></span></a></td>
                         <td>{{ songs.Song }}</td>
                         <td>{{ songs.Artist }}</td>
                         <td>{{ songs.Genre }}</td>

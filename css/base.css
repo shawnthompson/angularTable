@@ -1,0 +1,43 @@
+.main {
+	margin-top: 7em;
+}
+
+td.ng-binding {
+	line-height: 2em;
+}
+
+.table-striped>tbody>tr:nth-child(odd)>td,
+.table-striped>tbody>tr:nth-child(odd)>th {
+	background-color: #333;
+}
+
+.table>thead>tr>th, 
+.table>tbody>tr>th, 
+.table>tfoot>tr>th, 
+.table>thead>tr>td, 
+.table>tbody>tr>td, 
+.table>tfoot>tr>td {
+	vertical-align: middle;
+}
+
+.mrgn-tp-lg {
+	margin-top: 25px;
+}
+
+ .table-striped>tbody>tr.topSong:nth-child(odd)>td, 
+ .table-striped>tbody>tr.topSong:nth-child(even)>td, 
+ tr.topSong {
+	color:darkgoldenrod;font-weight:900;
+ }
+
+ .songListContainer tbody tr:hover, 
+ .submitList tbody tr:hover {
+	opacity: .6;
+ }
+
+ .help-block {
+	color: red;
+ }
+ .modal {
+	color: #000;
+}

@@ -1,13 +1,20 @@
 <?php
-     
     require '../inc/connect.php';
  
+    $id = null;
+    if ( !empty($_GET['id'])) {
+        $id = $_REQUEST['id'];
+    }
+     
+    if ( null==$id ) {
+        header("Location: index.php");
+    }
+     
     if ( !empty($_POST)) {
         // keep track validation errors
         $songError = null;
         $artistError = null;
         $genreError = null;
-        $topSongError = null;
          
         // keep track post values
         $song = $_POST['song'];
@@ -18,30 +25,42 @@
         // validate input
         $valid = true;
         if (empty($song)) {
-            $songError = 'Please enter song';
+            $songError = 'Please enter song title';
             $valid = false;
         }
          
         if (empty($artist)) {
-            $artistError = 'Please enter artist';
+            $artistError = 'Please enter an artist';
             $valid = false;
         }
          
         if (empty($genre)) {
-            $genreError = 'Please enter genre';
+            $genreError = 'Please enter a genre';
             $valid = false;
         }
          
-        // insert data
+        // update data
         if ($valid) {
             $pdo = Database::connect();
             $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-            $sql = "INSERT INTO tracks (Song,Artist,Genre,TopSong) values (?, ?, ?, ?)";
+            $sql = "UPDATE tracks set Song = ?, Artist = ?, Genre =?, TopSong =? WHERE ID = ?";
             $q = $pdo->prepare($sql);
-            $q->execute(array($song,$artist,$genre,$topSong));
+            $q->execute(array($song,$artist,$genre,$topSong,$id));
             Database::disconnect();
             header("Location: index.php");
         }
+    } else {
+        $pdo = Database::connect();
+        $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+        $sql = "SELECT * FROM tracks where ID = ?";
+        $q = $pdo->prepare($sql);
+        $q->execute(array($id));
+        $data = $q->fetch(PDO::FETCH_ASSOC);
+        $song = $data['Song'];
+        $artist = $data['Artist'];
+        $genre = $data['Genre'];
+        $topSong = $data['TopSong'];
+        Database::disconnect();
     }
 ?>
 
@@ -114,7 +133,7 @@
 
 
 <h1 id="addSongLabel">Add Song</h2>
-<form action="create.php" method="post">
+<form action="update.php?id=<?php echo $id?>" method="post">
 
 <div class="form-group <?php echo !empty($songError)?'error':'';?>">
 <label for="addSongTitle" class="control-label">Song:</label>
@@ -143,14 +162,14 @@
 
 <fieldset>
 <legend>Top Song:</legend>
-<input id="yes" type="radio" name="topSong" value="true">
+<input id="yes" type="checkbox" name="topSong" value="true" <?php if ($topSong != ""){ echo ' checked';}?>>
 <label class="radio-inline" for="yes">Yes</label><br>
 </fieldset>
 
 
 <div class="form-action mrgn-tp-lg">
 <p class="btn btn-default"><a href="index.php">Cancel</a></p>
-<button type="submit" class="btn btn-default">Add Song</button>
+<button type="submit" class="btn btn-default">Update</button>
 </div>
 </form>
 </div>

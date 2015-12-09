@@ -2,7 +2,7 @@
     require '../inc/connect.php';
 // Order
 $orderBy = array('Artist', 'Song', 'Genre');
-$order = 'Song';
+$order = 'ID';
 if (isset($_GET['orderBy']) && in_array($_GET['orderBy'], $orderBy)) {
     $order = $_GET['orderBy'];
 }

@@ -7,7 +7,6 @@
         $songError = null;
         $artistError = null;
         $genreError = null;
-        $topSongError = null;
          
         // keep track post values
         $song = $_POST['song'];
@@ -40,7 +39,7 @@
             $q = $pdo->prepare($sql);
             $q->execute(array($song,$artist,$genre,$topSong));
             Database::disconnect();
-            header("Location: index.php");
+            header("Location: ../inc/convert.php");
         }
     }
 ?>
@@ -143,8 +142,10 @@
 
 <fieldset>
 <legend>Top Song:</legend>
-<input id="yes" type="radio" name="topSong" value="true">
-<label class="radio-inline" for="yes">Yes</label><br>
+<input id="top-yes" type="radio" name="topSong" value="true">
+<label class="radio-inline" for="top-yes">Yes</label><br>
+<input id="top-no" type="radio" name="topSong" checked="checked" value="">
+<label class="radio-inline" for="top-no">No</label><br>
 </fieldset>
 
 

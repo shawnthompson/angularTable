@@ -47,7 +47,7 @@
             $q = $pdo->prepare($sql);
             $q->execute(array($song,$artist,$genre,$topSong,$id));
             Database::disconnect();
-            header("Location: index.php");
+            header("Location: ../inc/convert.php");
         }
     } else {
         $pdo = Database::connect();

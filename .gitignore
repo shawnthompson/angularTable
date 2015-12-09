@@ -1,5 +1,5 @@
 ### PROJECT FILES ###
-inc/
+inc/connect.php
 
 ### OSX ###
 .DS_Store

@@ -38,6 +38,20 @@ td.ng-binding {
  .help-block {
 	color: red;
  }
- .modal {
+ 
+ .modal, .panel {
 	color: #000;
+}
+
+h2.panel-heading {
+	margin-bottom: 0;
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+	.fixed-right {
+		position: fixed;
+		top: 6em;
+		right: 0;
+	}
 }

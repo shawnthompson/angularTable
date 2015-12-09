@@ -51,8 +51,9 @@
             </div>
             <!-- /.container -->
         </nav>
-<main class="container" ng-controller="ListController">
-    <section class="songListContainer">
+        <div class="clearfix"></div>
+<main class="main" ng-controller="ListController">
+    <section class="songListContainer col-md-8">
         <h2>Available Songs</h2>
         <form>
             <div class="row">
@@ -113,7 +114,7 @@
                     </tr>                    
                 </tfoot>
                 <tbody>
-                    <tr dir-paginate="songs in tracks | orderBy:sortType:sortReverse | filter:search | filter:genre | filter:topSongs | itemsPerPage: 30" ng-class="{topSong:songs.TopSong }"  ng-if="!songs.hide">
+                    <tr dir-paginate="songs in tracks | orderBy:sortType:sortReverse | filter:search | filter:genre | filter:topSongs | itemsPerPage: 30" pagination-id="tracks" ng-class="{topSong:songs.TopSong }"  ng-if="!songs.hide">
                         <td><a class="btn btn-default btn-sm" href="" role="button" ng-click="addSong(tracks); songs.hide = true;"><span class="glyphicon glyphicon-plus"></span></a></td>
                         <td>{{ songs.Song }}</td>
                         <td>{{ songs.Artist }}</td>
@@ -123,42 +124,33 @@
             </table>
         </div>
         <div class="text-center">
-            <dir-pagination-controls></dir-pagination-controls>
+            <dir-pagination-controls pagination-id="tracks"></dir-pagination-controls>
         </div>
     </section>
 
 
-    <section class="submitList">
-        <h2>Selected Songs</h2>
-        <div class="table-responsive">
-            <table class="table table-bordered table-striped">
-                <thead>
-                    <tr>
-                        <th class="col-md-1">Remove</th>
-                        <th>Song</th>
-                        <th>Artist</th>
-                        <th>Genre</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr ng-repeat="addedSongs in addedTracks">
-                        <td><a class="btn btn-default btn-sm" href="" role="button" ng-click="removeSong(addedSongs)"><span class="glyphicon glyphicon-minus"></span></a></td>
-                        <td>{{ addedSongs.Song }}</td>
-                        <td>{{ addedSongs.Artist }}</td>
-                        <td>{{ addedSongs.Genre }}</td>
-                    </tr>
-                </tbody>
-            </table>
+    <section class="submitList col-md-4 fixed-right">
+    <div class="panel panel-default">
+        <h2 class="panel-heading">Selected Songs</h2>
+        <div class="panel-body">
+            <div class="list-group">
+            <a dir-paginate="addedSongs in addedTracks | itemsPerPage: 5" pagination-id="selTracks" class="list-group-item" href="" role="button" ng-click="removeSong(addedSongs)"><span class="glyphicon glyphicon-minus"></span> {{ addedSongs.Song }}</a>
+            </div>
         </div>
-        <div class="form-group">
-            <label for="email">Email address</label>
-            <input class="form-control" name="email" type="email" />
+        <div class="panel-footer">
+            <dir-pagination-controls pagination-id="selTracks"></dir-pagination-controls>
+            <div class="form-group">
+                <label for="email">Email address</label>
+                <input class="form-control" name="email" type="email" />
+            </div>
+            <div class="form-group text-center">
+                <button class="btn btn-primary mrgn-tp-lg" type="submit">Submit</button>
+            </div>
         </div>
-        <div class="form-group text-center">
-            <button class="btn btn-primary mrgn-tp-lg" type="submit">Submit</button>
-        </div>
+    </div>
     </section>
 </main>
+<div class="clearfix"></div>
         <footer class="container text-center">
             <p><small>Copyright &copy; www.soundtraxx.ca 2015</small></p>
         </footer>

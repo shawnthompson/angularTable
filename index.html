@@ -113,8 +113,8 @@
                     </tr>
                 </thead>
                 <tfoot>
-                    <tr class="topSong">
-                        <td colspan="4">Top 200 songs</td>
+                    <tr>
+                        <td colspan="4"><a href="#" data-toggle="modal" data-target="#instructions">Instructions</a></td>
                     </tr>                    
                 </tfoot>
                 <tbody>
@@ -131,6 +131,33 @@
             <dir-pagination-controls></dir-pagination-controls>
         </div>
     </section>
+
+<!-- Instructions modal -->
+
+<section class="modal fade" id="instructions" tabindex="-1" role="dialog" aria-labelledby="instructionsLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h2 class="modal-title" id="instructionsLabel">Instructions</h2>
+      </div>
+      <div class="modal-body">
+        <h3>Adding songs to your list</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur maiores, nam, ipsa laudantium voluptatibus officiis iusto illo officia suscipit deserunt maxime asperiores quisquam aliquam, mollitia incidunt eaque accusantium debitis, praesentium?</p>
+        <h3>Removing songs from your list</h3>
+         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur maiores, nam, ipsa laudantium voluptatibus officiis iusto illo officia suscipit deserunt maxime asperiores quisquam aliquam, mollitia incidunt eaque accusantium debitis, praesentium?</p>
+       <h3>Submitting your list</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur maiores, nam, ipsa laudantium voluptatibus officiis iusto illo officia suscipit deserunt maxime asperiores quisquam aliquam, mollitia incidunt eaque accusantium debitis, praesentium?</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- /Instructions modal -->
+
     <section class="submitList col-md-4 fixed-right">
     <div class="panel panel-default">
         <h2 class="panel-heading">Selected Songs</h2>

@@ -80,6 +80,9 @@ tracksController.controller('ListController', ['$scope', '$http', function($scop
   $scope.removeSong = function(row) {
     $scope.addedTracks.splice($scope.addedTracks.indexOf(row),1);
   }
+  $scope.clearSelectedSongs = function() {
+    $scope.addedTracks = [];
+  }
   $scope.sortType = 'ID'; // set the default sort type
   $scope.sortReverse = false; // set the default sort order 
 }]);

@@ -1,6 +1,6 @@
 <!-- index.html -->
 <!DOCTYPE html>
-<html lang="en" ng-app="myApp">
+<html lang="en" data-ng-app="myApp">
     <head>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -52,7 +52,7 @@
             <!-- /.container -->
         </nav>
         <div class="clearfix"></div>
-<main class="main" ng-controller="ListController">
+<main class="main" data-ng-controller="ListController">
     <section class="songListContainer col-md-8">
         <h2>Available Songs</h2>
         <form>
@@ -62,23 +62,23 @@
                         <label for="filter">Search</label>
                         <div class="input-group">
                             <div class="input-group-addon"><i class="glyphicon glyphicon-search"></i></div>
-                            <input type="text" name="filter" class="form-control" placeholder="Search for a song or artist" ng-model="search">
+                            <input type="text" id="filter" name="filter" class="form-control" placeholder="Search for a song or artist" data-ng-model="search">
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-group">
                         <label for="genre">Genre</label>
-                        <select class="form-control" name="genre" ng-model="genre">
+                        <select class="form-control" id="genre" name="genre" data-ng-model="genre">
                             <option value="" selected="selected">All genres</option>
-                            <option ng-repeat="songs in tracks | unique: 'Genre'" value="{{songs.Genre}}">{{songs.Genre}}</option>
+                            <option data-ng-repeat="songs in tracks | unique: 'Genre'" value="{{songs.Genre}}">{{songs.Genre}}</option>
                         </select>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="checkbox">
                         <label>
-                            <input ng-model="topSongs" type="checkbox" value=""> Top Songs only
+                            <input data-ng-model="topSongs" type="checkbox" value=""> Top Songs only
                         </label>
                     </div>
                 </div>
@@ -90,24 +90,24 @@
                     <tr>
                         <th class="col-md-1">Add</th>
                         <th>
-                            <a href="#" ng-click="sortType = 'Song'; sortReverse = !sortReverse">
+                            <a href="#" data-ng-click="sortType = 'Song'; sortReverse = !sortReverse">
                                 Song
-                                <span ng-show="sortType == 'Song' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
-                                <span ng-show="sortType == 'Song' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
+                                <span data-ng-show="sortType == 'Song' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
+                                <span data-ng-show="sortType == 'Song' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
                             </a>
                         </th>
                         <th>
-                            <a href="#" ng-click="sortType = 'Artist'; sortReverse = !sortReverse">
+                            <a href="#" data-ng-click="sortType = 'Artist'; sortReverse = !sortReverse">
                                 Artist
-                                <span ng-show="sortType == 'Artist' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
-                                <span ng-show="sortType == 'Artist' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
+                                <span data-ng-show="sortType == 'Artist' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
+                                <span data-ng-show="sortType == 'Artist' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
                             </a>
                         </th>
                         <th>
-                            <a href="#" ng-click="sortType = 'Genre'; sortReverse = !sortReverse">
+                            <a href="#" data-ng-click="sortType = 'Genre'; sortReverse = !sortReverse">
                                 Genre
-                                <span ng-show="sortType == 'Genre' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
-                                <span ng-show="sortType == 'Genre' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
+                                <span data-ng-show="sortType == 'Genre' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
+                                <span data-ng-show="sortType == 'Genre' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
                             </a>
                         </th>
                     </tr>
@@ -118,8 +118,8 @@
                     </tr>                    
                 </tfoot>
                 <tbody>
-                    <tr dir-paginate="songs in tracks | orderBy:sortType:sortReverse | filter:search | filter:genre | filter:topSongs | itemsPerPage: 30" ng-class="{topSong:songs.TopSong }"  ng-if="!songs.hide">
-                        <td><a class="btn btn-default btn-sm" href="" role="button" ng-click="addSong(tracks); songs.hide = true;"><span class="glyphicon glyphicon-plus"></span></a></td>
+                    <tr dir-paginate="songs in tracks | orderBy:sortType:sortReverse | filter:search | filter:genre | filter:topSongs | itemsPerPage: 30" data-ng-class="{topSong:songs.TopSong }"  data-ng-if="!songs.hide">
+                        <td><a class="btn btn-default btn-sm" href="" role="button" data-ng-click="addSong(tracks); songs.hide = true;"><span class="glyphicon glyphicon-plus"></span></a></td>
                         <td>{{ songs.Song }}</td>
                         <td>{{ songs.Artist }}</td>
                         <td>{{ songs.Genre }}</td> 
@@ -163,13 +163,13 @@
         <h2 class="panel-heading">Selected Songs</h2>
         <div class="panel-body">
             <ul class="list-unstyled">
-            <li ng-repeat="addedSongs in addedTracks | orderBy:sortType:sortReverse"><a class="btn btn-default" href="#" role="button" ng-click="removeSong(addedSongs)"><i class="fa fa-trash fa-2x"></i></a> {{ addedSongs.Song }} </li>
+            <li data-ng-repeat="addedSongs in addedTracks | orderBy:sortType:sortReverse"><a class="btn btn-default" href="#" role="button" data-ng-click="removeSong(addedSongs)"><i class="fa fa-trash fa-2x"></i></a> {{ addedSongs.Song }} </li>
             </ul>
         </div>
         <div class="panel-footer">
         <div class="form-group">
             <label for="email">Email address</label>
-            <input class="form-control" name="email" type="email" />
+            <input class="form-control" name="email" id="email" type="email" />
         </div>
         <div class="text-center">
             <button class="btn btn-primary" type="submit">Submit</button>

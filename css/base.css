@@ -1,5 +1,6 @@
 .main {
 	margin-top: 7em;
+	position: relative;
 }
 
 td.ng-binding {
@@ -47,10 +48,32 @@ h2.panel-heading {
 	margin-bottom: 0;
 }
 
-/* Medium devices (desktops, 992px and up) */
+.panel ul {
+		height: 400px;
+		overflow: scroll;
+}
+
+.fixed-right .btn {
+    padding: 8px 10px;
+}
+
+.fixed-right li {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-top: solid 1px grey;
+	border-bottom: solid 1px grey;
+}
+.fixed-right li:first-child {
+	border-top: solid 2px grey;
+}
+.fixed-right li:last-child {
+	border-bottom: solid 2px grey;
+}
+
+/* Medium devices (desktops, 992px and up / col-md) */
 @media (min-width: 992px) { 
 	.fixed-right {
-		position: fixed;
+		position: static;
 		top: 6em;
 		right: 0;
 	}

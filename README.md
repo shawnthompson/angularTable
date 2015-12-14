@@ -5,16 +5,16 @@ Create a datatable using AngularJS with data from a JSON file created from an SQ
 ## To Do ##
 
 - [X] Pagination
-- [ ] SQL to JSON
+- [X] SQL to JSON
 - [X] Create submit table
 - [X] Add genre row
 - [X] remove album row
-- [ ] create genre dropdown **need to add filter for single values**
-- [ ] Move selected item to Submit table
+- [X] create genre dropdown **need to add filter for single values**
+- [X] Move selected item to Submit table
 - [ ] create emailing function
-- [ ] create PHP admin area
+- [X] create PHP admin area
 - [ ] add top songs option **need to activate it to filter out table**
-- [ ] add class / style to top songs row  using `ng-class`
+- [X] add class / style to top songs row  using `ng-class`
 - [X] add theme styles and js files to project
 - [X] organize files
 - [ ] update data from final client list

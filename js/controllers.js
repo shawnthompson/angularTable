@@ -46,16 +46,27 @@ tracksController.controller('ListController', ['$scope', '$http', function($scop
     });
   $scope.addedTracks = [];
 
-  $scope.selectSong = function(songIndex, row) {
+  $scope.selectSong = function(songs) {
     $scope.addedTracks.push({
-            Song : songIndex
+            Song : songs.Song,
+            Artist : songs.Artist,
+            ID : songs.ID,
+            TopSong : songs.TopSong,
+            Genre : songs.Genre
         });
-    $scope.tracks.splice($scope.tracks.indexOf(row),1);
+    $scope.tracks.splice($scope.tracks.indexOf(songs),1);
   }
 
   $scope.removeSong = function(row) {
     $scope.addedTracks.splice($scope.addedTracks.indexOf(row),1);
-  }
+     $scope.tracks.push({
+            Song : row.Song,
+            Artist : row.Artist,
+            ID : row.ID,
+            TopSong : row.TopSong,
+            Genre : row.Genre
+        });
+ }
   $scope.clearSelectedSongs = function() {
     $scope.addedTracks = [];
   }

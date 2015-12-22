@@ -102,7 +102,8 @@ $sql = "SELECT * FROM tracks ORDER by " . $order;
 
 <!-- / Delete Modal -->
 
-<p><a href="create.php" class="btn btn-default btn-lg">Add song</a></p>
+<p><a href="create.php" class="btn btn-default">Add song</a></p>
+<p><a class="force-reload" data-href="../index.html"><i class="fa fa-chevron-circle-left"></i> Back to App</a></p>
 
   <table class="table table-bordered table-striped table-responsive">
 	<thead>
@@ -147,6 +148,13 @@ foreach ($pdo->query($sql) as $row) {	    ?>
   var _href = $(".modal-footer a.btn-default").attr("href");
   $(".modal-footer a.btn-default").attr("href", _href + (songID));
 })
+  $(document).ready(function () {
+    var now = (new Date()).getTime();
+
+    $('a.force-reload').prop('href', function () {
+        return $(this).data('href') + "?" + now;
+    });
+});
 </script>
 
 	</body>

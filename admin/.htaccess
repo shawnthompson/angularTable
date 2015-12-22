@@ -1,7 +1,0 @@
-#AuthName "Restricted Area" 
-#AuthType Basic 
-#AuthUserFile /home/plansmash.com/public_html/soundtraxx/.htpasswd 
-#AuthGroupFile /dev/null 
-#require valid-user
-
-# echo $_SERVER["DOCUMENT_ROOT"]

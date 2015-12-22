@@ -67,3 +67,6 @@ $RECYCLE.BIN/
 
 # Open Office locked files
 .~lock.*
+
+#.htaccess files
+*.htaccess

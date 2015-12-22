@@ -27,7 +27,7 @@ $sql = "SELECT * FROM tracks ORDER by " . $order;
     <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="../css/base.min.css">
-
+  <link href="../favicon.ico" rel="icon" type="image/x-icon"/>
     <!-- JS -->
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

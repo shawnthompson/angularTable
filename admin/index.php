@@ -102,8 +102,8 @@ $sql = "SELECT * FROM tracks ORDER by " . $order;
 
 <!-- / Delete Modal -->
 
-<p><a href="create.php" class="btn btn-default">Add song</a></p>
-<p><a class="force-reload" data-href="../index.html"><i class="fa fa-chevron-circle-left"></i> Back to App</a></p>
+<p class="pull-left"><a class="force-reload" data-href="../index.html"><i class="fa fa-chevron-circle-left"></i> Back to App</a></p>
+<p class="pull-right"><a href="create.php" class="btn btn-default">Add song</a></p>
 
   <table class="table table-bordered table-striped table-responsive">
 	<thead>

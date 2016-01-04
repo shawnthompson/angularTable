@@ -18,6 +18,7 @@
         <script src="js/dirPagination.js"></script>
         <script src="js/app.js"></script>
         <script src="js/controllers.js"></script>
+        <link href="favicon.ico" rel="icon" type="image/x-icon"/>
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
         <!--[if lt IE 9]>
@@ -75,6 +76,7 @@
                         </select>
                     </div>
                 </div>
+ <!--
                 <div class="col-md-12">
                     <div class="checkbox">
                         <label>
@@ -82,6 +84,7 @@
                         </label>
                     </div>
                 </div>
+  -->
             </div>
         </form>
         <div class="table-responsive">
@@ -115,20 +118,20 @@
                 <tfoot>
                     <tr>
                         <td colspan="4"><a class="btn btn-default" href="#" data-toggle="modal" data-target="#instructions">Instructions</a></td>
-                    </tr>                    
+                    </tr>
                 </tfoot>
                 <tbody>
-                    <tr dir-paginate="songs in tracks 
-                        | orderBy:sortType:sortReverse 
-                        | filter:search 
-                        | filter:genre 
-                        | filter:topSongs 
-                        | itemsPerPage: 30" 
+                    <tr dir-paginate="songs in tracks
+                        | orderBy:sortType:sortReverse
+                        | filter:search
+                        | filter:genre
+                        | filter:topSongs
+                        | itemsPerPage: 30"
                         data-ng-class="{topSong:songs.TopSong}">
                         <td><a class="btn btn-default btn-sm" href="" role="button" data-ng-click="selectSong(songs)"><span class="glyphicon glyphicon-plus"></span></a></td>
                         <td>{{ songs.Song }}</td>
                         <td>{{ songs.Artist }}</td>
-                        <td>{{ songs.Genre }}</td> 
+                        <td>{{ songs.Genre }}</td>
                     </tr>
                 </tbody>
             </table>
@@ -138,24 +141,29 @@
         </div>
     </section>
     <section class="submitList col-md-4 fixed-right">
-    <div class="panel panel-default">
-        <h2 class="panel-heading">Selected Songs</h2>
-        <div class="panel-body">
-            <ul class="list-unstyled">
-            <li data-ng-repeat="addedSongs in addedTracks | orderBy:sortType:sortReverse"><a class="btn btn-default" href="#" role="button" data-ng-click="removeSong(addedSongs)"><i class="fa fa-trash fa-2x"></i></a> {{ addedSongs.Song }}</li>
-            </ul>
+       <div class="panel panel-default">
+            <h2 class="panel-heading">Selected Songs</h2>
+            <div class="panel-body">
+                <ul class="list-unstyled">
+                <li data-ng-repeat="addedSongs in addedTracks | orderBy:sortType:sortReverse"><a class="btn btn-default" href="#" role="button" data-ng-click="removeSong(addedSongs)"><i class="fa fa-trash fa-2x"></i></a> {{ addedSongs.Song }}</li>
+                </ul>
+            </div>
+            <div class="panel-footer">
+                <form action="submit.php" method="post">
+                <select class="hidden" name="selectedSongForm[]" id="selectedSongForm" multiple>
+                    <option ng-repeat="optionSongs in addedTracks" value="{{ optionSongs.Song }} - {{ optionSongs.Artist }}" selected="selected">{{ optionSongs.Song }}</option>
+                </select>
+                    <div class="form-group">
+                        <label for="email">Email address</label>
+                        <input class="form-control" value="plansmash@gmail.com" name="email" id="email" type="email" placeholder="Enter your email" required="required" />
+                    </div>
+                    <div class="text-center">
+                        <button class="btn btn-primary" type="reset" data-ng-click="clearSelectedSongs()">Clear</button>
+                        <button class="btn btn-primary" type="submit">Submit</button>
+                    </div>
+                </form>
+            </div>
         </div>
-        <div class="panel-footer">
-        <div class="form-group">
-            <label for="email">Email address</label>
-            <input class="form-control" name="email" id="email" type="email" />
-        </div>
-        <div class="text-center">
-            <button class="btn btn-primary" type="reset" data-ng-click="clearSelectedSongs()">Clear</button>
-            <button class="btn btn-primary" type="submit">Submit</button>
-        </div>
-        </div>
-    </div>
     </section>
 
 <!-- Instructions modal -->

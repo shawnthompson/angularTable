@@ -1,4 +1,7 @@
 <?php
+$title = "Thank you";
+$path = "./";
+
 $email_message = "";
 $email_from = $_POST['email']; // required
 $songs = isset($_POST['selectedSongForm']) ? $_POST['selectedSongForm'] : '';
@@ -36,14 +39,20 @@ if(isset($_POST['email'])) {
     // create email headers
     $headers = "From: " . strip_tags($_POST['email']) . "\r\n";
     $headers .= "Reply-To: ". strip_tags($_POST['email']) . "\r\n";
-    $headers .= "CC: plansmash@me.com\r\n";
+    // $headers .= "CC: plansmash@me.com\r\n";
     $headers .= "MIME-Version: 1.0\r\n";
     $headers .= "Content-Type: text/html; charset=UTF-8\r\n";
 
 	@mail($email_to, $email_subject, $email_message, $headers);
-
-    echo "<h1>Thank you for submitting us your requested songs. We will be in touch with you very soon.</h1>";
-    echo $email_message;
-    echo '<p><a href="index.html?'.rand().'">Back</a></p>';
 }
 ?>
+<?php include "inc/head.php";?>
+<main class="main col-xs-12">
+    <h1><?php echo $title; ?></h1>
+    <p>Thank you for submitting us your requested songs. We will be in touch with you very soon.</p>
+    <ol>
+        <?php echo listSongs($songs); ?>
+    </ol>
+    <p><a href="index.php?'<?php echo rand(); ?>">Back to selection</a></p>
+</main>
+<?php include "inc/foot.php";?>

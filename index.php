@@ -110,7 +110,7 @@ $angular = "";
                             </div>
                             <div class="text-center">
                                 <button class="btn btn-primary" type="reset" data-ng-click="clearSelectedSongs()">Clear</button>
-                                <button class="btn btn-primary" type="submit">Submit</button>
+                                <button class="btn btn-primary" data-ng-class="{disabled: addedTracks.length === 0}" type="submit">Submit</button>
                             </div>
                         </form>
                     </div>

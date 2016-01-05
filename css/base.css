@@ -12,11 +12,11 @@ td.ng-binding {
 	background-color: #333;
 }
 
-.table>thead>tr>th, 
-.table>tbody>tr>th, 
-.table>tfoot>tr>th, 
-.table>thead>tr>td, 
-.table>tbody>tr>td, 
+.table>thead>tr>th,
+.table>tbody>tr>th,
+.table>tfoot>tr>th,
+.table>thead>tr>td,
+.table>tbody>tr>td,
 .table>tfoot>tr>td {
 	vertical-align: middle;
 }
@@ -25,13 +25,13 @@ td.ng-binding {
 	margin-top: 25px;
 }
 
- .table-striped>tbody>tr.topSong:nth-child(odd)>td, 
- .table-striped>tbody>tr.topSong:nth-child(even)>td, 
+ .table-striped>tbody>tr.topSong:nth-child(odd)>td,
+ .table-striped>tbody>tr.topSong:nth-child(even)>td,
  tr.topSong {
 	color:darkgoldenrod;font-weight:900;
  }
 
- .songListContainer tbody tr:hover, 
+ .songListContainer tbody tr:hover,
  .submitList tbody tr:hover {
 	opacity: .6;
  }
@@ -39,7 +39,7 @@ td.ng-binding {
  .help-block {
 	color: red;
  }
- 
+
  .modal, .panel {
 	color: #000;
 }
@@ -70,8 +70,16 @@ h2.panel-heading {
 	border-bottom: solid 2px grey;
 }
 
+::-moz-selection {
+    background: #ccc!important;
+}
+
+::selection {
+    background: #ccc!important;
+}
+
 /* Medium devices (desktops, 992px and up / col-md) */
-@media (min-width: 992px) { 
+@media (min-width: 992px) {
 	.fixed-right {
 		position: static;
 		top: 6em;

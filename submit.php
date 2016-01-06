@@ -22,7 +22,7 @@ if(isset($_POST['email'])) {
         return str_replace($bad,"",$string);
     }
 
-    // $email_to = "martinrobitaille_@hotmail.com";
+    // $email_to = "chipper79@bell.net";
     $email_to = "plansmash@me.com";
     $email_subject = "Requested songs by: " . $email_from;
 
@@ -39,7 +39,6 @@ if(isset($_POST['email'])) {
     // create email headers
     $headers = "From: " . strip_tags($_POST['email']) . "\r\n";
     $headers .= "Reply-To: ". strip_tags($_POST['email']) . "\r\n";
-    // $headers .= "CC: plansmash@me.com\r\n";
     $headers .= "MIME-Version: 1.0\r\n";
     $headers .= "Content-Type: text/html; charset=UTF-8\r\n";
 
@@ -53,6 +52,10 @@ if(isset($_POST['email'])) {
     <ol>
         <?php echo listSongs($songs); ?>
     </ol>
-    <p><a href="index.php?'<?php echo rand(); ?>">Back to selection</a></p>
+    <?php
+        echo '<p><a href="index.php?' . rand() . '">Back to selection</a></p>';
+        // echo '<p><a href="http://soundtraxx.ca/">Back to Soundtraxx.ca</a></p>';
+    ?>
+
 </main>
 <?php include "inc/foot.php";?>

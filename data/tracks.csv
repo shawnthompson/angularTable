@@ -1,896 +1,896 @@
-ID,Song,Artist,Genre,TopSong
-1,You Shook Me all Night Long,AC/DC,M Rock,true
-2,YMCA,Village People,Disco,true
-3,What a Wonderful World,Louis Armstrong,50s,true
-4,Twist N Shout,Beatles,60s,true
-5,Summer of 69,Bryan Adams,F Rock,true
-6,Stayin Alive,Bee Gees,Disco,true
-7,Starships,Nicki Minaj,F Dance,true
-8,Some Kind if Wonderful,Grand Funk,M Rock,true
-9,Single Ladies,Beyonce,F Dance,true
-10,Save a Horse (Ride A Cowboy),Big N Rich,F Country,true
-11,Satisfaction,Rolling Stones,F Rock,true
-12,Rumor Has It,Adele,M Dance,true
-13,Respect,Aretha Frankin,60s,true
-14,Rasputin,Boney M,Disco,true
-15,Pretty Woman,Roy Orbison,60s,true
-16,Party Rock Anthem,LMFAO,F Dance,true
-17,On The Floor,Jennifer Lopez and Pitbull,F Dance,true
-18,Old Time Rock N Roll,Bob Seger,F Rock,true
-19,Moves Like Jagger,Maroon 5,F Dance,true
-20,Mambo # 5,Lou Bega,F Dance,true
-21,La Bamba,Los Lobos,60s,true
-22,I Love It,Icono Pop,F Dance,true
-23,I Gotta Feeling,Black Eyed Peas,F Dance,true
-24,Happy,Pharell Wiiliams,F Dance,true
-25,Grease Megamix,John Travolta and Olivia Newton John,80s,true
-26,Good Feelin,Flo Rida,F Dance,true
-27,Give Me Everything,Pitbull,F Dance,true
-28,Get Lucky,Daft Punk,F Dance,true
-29,Gangnam Style,Psy,F Dance,true
-30,Don't Stop This Party,Pitbull,F Dance,true
-31,Dancing Queen,Abba,Disco,true
-32,Celebration,Kool and the Gang,Disco,true
-33,Brown Eyed Girl,Van Morrison,60s,true
-34,Billy Jean,Michael Jackson,80s,true
-35,Billy Idol,Mony Mony,F Dance,true
-36,500 Miles,Proclaimers,M Dance,true
-37,Lady In Red,Chris De Burgh,S Dance,true
-38,Sexyback,Justin Timberlake,Hip Hop,true
-39,Only Girl In the World,Rihanna,F Dance,true
-40,Sweet Home Alabama,Lynyrd Skynard,M Rock,true
-41,Twist,Chuby Checker,60s,true
-42,Cruise,Florida Georgia Line,M Country,true
-43,"Shake,Rattle and Roll",Bill Haley,60s,true
-44,Rock Around The Clock,Bill Haley,60s,true
-45,Home For A Rest,Spirit of the West,Celtic,true
-46,Man I Fell Like a woman,Shania Twain,F Country,true
-47,Born This Way,Lady Gaga,F Dance,true
-48,Just Dance,Lady Gaga,F Dance,true
-49,Bad Romance,Lady Gaga,F Dance,true
-50,Ex's and Ohs,Elle King,F Dance,true
-51,Hello,Adele,S Dance,true
-52,Shut Up and Dance,Walk the Moon,F Dance,true
-53,Uptown Funk,Bruno Mars and Mark Ronson,F Dance,true
-54,What do You Mean,Justin Beiber,M Dance,true
-55,Can't Feel My Face,The Weeknd,M Dance,true
-56,Downtown,Macklemore  and Ryan,M Dance,true
-57,Thinking Out Loud,Ed Sheeran,S Dance,true
-58,All of Me,John Legend,S Dance,true
-59,Sugar,Maroon 5,M Dance,true
-60,Cake By The Ocean,DNCE,F Dance,true
-61,Don't Stop Believing,Journey,M Rock,true
-62,Sweet Caroline,Neil Diamond,Adult Contemporary,true
-63,Living On A Prayer,Bon Jovi,F Rock,true
-64,Marry You,Bruno Mars,S Dance,true
-65,Cha Cha Slide,DJ Casper,M Dance,true
-66,Yeah,Usher,Hip Hop,true
-67,Timber,Pitbull and Kesha,F Dance,true
-68,Love Shack,B 52s,F Dance,true
-69,Shout,Otis Day,F Dance,true
-70,Time Warp,Rocky Horror,F Dance,true
-71,Friends in Low Places,Garth Brooks,S Country,true
-72,Pour Some Sugar On Me,Def Leppard,M Rock,true
-73,Baby Got Back,Sir Mix a lot,F Dance,true
-74,All About The Bass,Meghan Trainor,M Dance,true
-75,Footloose,Kenny Loggins,F Dance,true
-76,Sexy And I Know It,LMFAO,F Dance,true
-77,We Found Love,Rihanna and Calvin Harris,F Dance,true
-78,Country Girl ( Shake it For Me),Luke Bryan,F Country,true
-79,The Way You Look Tonight,Frank Sinatra,S Dance,true
-80,Dynamite,Taio Cruz,F Dance,true
-81,I Don't want to Miss a Thing,Aerosmith,S Dance,true
-82,Forever,Chris Brown,F Dance,true
-83,Stitches,Shawn Mendes,M Dance,true
-84,Wake Me Up,Avici,M Dance,true
-85,Crazy In Love,Beyonce and Jay Z,Hip Hop,true
-86,Everybody,BackStreet Boys,M Dance,true
-87,I'm Yours,Jason Mraz,S Dance,true
-88,I Kissed a Girl,Katy Perry,F Dance,true
-89,Beat It,Micheal Jackson,F Dance,true
-90,U Can't Touch This,MC Hammer,F Dance,true
-91,(I've Had ) The Time of My Life,Bill Medley and Jennifer Warnes,S Dance,true
-92,Crazy Thing Called Love,Queen,M Dance,true
-93,Macarena,Los Del Rios,M Dance,true
-94,Boot Scootin Boogie,Brooks and Dunn,M Dance,true
-95,Everything I Do For You,Bryan Adams,S Dance,true
-96,Feel So Close,Calvin Harris,M Dance,true
-97,Fly Me to The Moon,Frank Sinatra,S Dance,true
-98,"New York,New York",Frank Sinatra,S Dance,true
-99,Stand By Me,B.B. King,S Dance,true
-100,Gettin' Jiggy With It,Will Smith,Hip Hop,true
-101,Danza Kuduro,Don Omar and Lucenzo,F Dance,true
-102,Can't Hold Us,Macklemore and Ryan Lewis,F Dance,true
-103,How Sweet It is to be Loved by You,James Taylor,S Dance,true
-104,50 Cent,In Da Club,Hip Hop,true
-105,Sweet Child of Mine,Guns n Roses,F Rock,true
-106,"Signed,Sealed,Delivered",Stevie Wonder,M Dance,true
-107,Don't Stop The Music,Rihanna,F Dance,true
-108,Bust A Move,Young MC,Rap,true
-109,I Don't Dance,Rascall Flatts,S Country,true
-110,My Wish,Rascall Flatts,S Country,true
-111,Amazed,Alabama,S Country,true
-112,Bless The Broken Road,Rascall Flatts,S Country,true
-113,Let's Get It Started,Black Eyed Peas,M Dance,true
-114,Better Together,Jack Johnson,dinner,true
-115,Sunrise,Norah Jones,dinner,true
-116,Bird/Chicken Dance,unknown,Specialty,true
-117,Bye Bye Bye,N'sync,M Dance,true
-118,One More Time,Daft Punk,M Dance,true
-119,Locked Out of Heaven,Bruno Mars,M Dance,true
-120,Amore,Dean Martin,Adult Contemporary,true
-121,In The Mood,Glenn Miller,Big Band,true
-122,At Last,Ella Fitzgerald,Adult Contemporary,true
-123,What I Like About You,Romantics,F Dance,true
-124,DJ Got Us Falling In Love Again,Usher,F Dance,true
-125,Goldigger,Kanye West,Rap,true
-126,Stronger,Kanye West,Rap,true
-127,She's Everything,Brad Paisley,S Country,true
-128,Summer,Calvin Harris,F Dance,true
-129,Come Away With Me,Norah Jones,dinner,true
-130,Wanted,Hunter Hayes,S Country,true
-131,Honey Bee,Sheldon Blake,S Country,true
-132,Poker Face,Lady Gaga,M Dance,true
-133,Talk Dirty,Jason Derulo,Hip Hop,true
-134,Fancy,Iggy Azelea,Hip Hop,true
-135,My Best Friend,Tim McGraw,S Country,true
-136,Take On Me,A-ha,F Dance,true
-137,Safe and Sound,Capital Cities,M Dance,true
-138,Then,Brad Paisley,S Country,true
-139,What Makes You Beautiful,One Direction,F Dance,true
-140,All Summer Long,Kid Rock,M Rock,true
-141,Photograph,Kid Rock,S Dance,true
-142,Red Red Wine,UB40,S Dance,true
-143,Jammin,Bob Marley,Reggae,true
-144,Hot Hot Hot,Arrow,F Dance,true
-145,Holiday,Madonna,F Dance,true
-146,Lucky Star,Madonna,M Dance,true
-147,Tik Tock,Kesha,F Dance,true
-148,Sexual Healing,Marvin Gaye,S Dance,true
-149,I Heard It Through The Grape Vine,Marvin Gaye,M Dance,true
-150,When A Man Loves A Woman,Percy Sledge,S Dance,true
-151,Counting Stars,One Republic,F Dance,true
-152,Feel This Moment,Pitbull and Christina Aguilera,F Dance,true
-153,Run Around Sue,Dion,60s,true
-154,"Honey,I'm Good",Andy Grammer,F Dance,true
-155,Jumping Jack Flash,Rolling Stones,F Rock,true
-156,Jack and Diane,John Mellencamp,M Rock,true
-157,Push It,Salt N Peppa,F Dance,true
-158,Locomotion,Kylie Minolue,F Dance,true
-159,We Are Family,Sister Sledge,Disco,true
-160,Dancing in the Dark,Bruce Springsteen,F Dance,true
-161,Bad Moon Rising,CCR,M Rock,true
-162,Rolling In The Deep,Adele,M Dance,true
-163,Play That Funky Music,Wild Cherry,M Dance,true
-164,Don't Rock The Jukebox,Alan Jackson,M Country,true
-165,One Last Time,Ariana Grande,M Dance,true
-166,Problem,Ariana Grande,F Dance,true
-167,Boom Clap,Charlie XCX,M Dance,true
-168,I Don't Care,Charlie XCX,F Dance,true
-169,Summertime,Daddy Yankee,F Dance,true
-170,Sexy Chick,David Guetta,F Dance,true
-171,Ed Sheeran,Photograph,S Dance,true
-172,Ellie Golding,Love Me Like You Do,M Dance,true
-173,Monster,Eminem and Rihanna,M Dance,true
-174,Can't Help Falling In Love With You,Elvis,S Dance,true
-175,Funkytown,Lipps Inc,F Dance,true
-176,Uma Thurman,Fall Out Boy,F Rock,true
-177,Trap Queen,Fetty Wap,Hip Hop,true
-178,Check Yes or No,George Strait,S Country,true
-179,End of the World,Great Big Sea,Celtic,true
-180,Tainted Love,Softcell,M Dance,true
-181,Marimac,Great Big Sea,Celtic,true
-182,Call Me Maybe,Carly Rae Jepson,F Dance,true
-183,Girls Just Want to Have Fun,Cyndi Lauper,M Dance,true
-184,Wiggle,Jason Derulo,Hip Hop,true
-185,Making Memories of Us,Keith Urban,S  Country,true
-186,She Thinks My Tractors Sexy,Kenny Chesney,F Country,true
-187,Rude,Magic,S Dance,true
-188,Wonderwall,Oasis,S Rock,true
-189,Cheerleader,OMI,F Dance,true
-190,Chicken Fried,Zac Brown Band,M Country,true
-191,The Stripper,Peter Rose,Wedding,true
-192,Blurred Lines,Robin Thicke,M Dance,true
-193,Hips Don't Lie,Shakira,M Dance,true
-194,Blank Space,Taylor Swift,M Dance,true
-195,Earned It,The Weeknd,R & B,true
-196,Talking Body,Tove Lo,Hip Hop,true
-197,Renegades,true Ambassadors,M Rock,true
-198,Lady In Red,Chris De Burgh,S Dance,true
-199,The Hills,The Weeknd,Hip Hop,true
-200,Rhythm Divine,Enrique Iglesius,S Dance,
-201,Shout,Tears For Fears,M Dance,
-202,U2,One,S Dance,
-203,U2,Mysterious Ways,M Dance,
-204,I'm Glad You Came,Wanted,F Dance,
-205,I Lived,One Republic,F Dance,
-206,1999,Prince,M Dance,
-207,Bruce Springsteen,Eric Church,M Country,
-208,Legs,ZZ Top,F Rock,
-209,Sharp Dressed Man,ZZ Top,F Rock,
-210,Joe Cocker,You Can Leave Your Hat On,S Rock,
-211,The Best,Tina Turner,M Dance,
-212,Sugar Sugar,Archies,Wedding,
-213,On The Dark Side,John Cafferty,F Rock,
-214,Thank God I'm A Country Boy,John Denver,F Country,
-215,Come With Me know,Kongos,F Dance,
-216,Ring Of Fire,Johnny Cash,F Country,
-217,Hound Dog,Elvis,60s,
-218,You Spin Me Round,Dead Or Alive,F Dance,
-219,Hurts So Good,John Mellencamp,M Rock,
-220,All Shook Up,Elvis,60s,
-221,Stairway to Heaven,Led Zeppelin,S Rock,
-222,Call Me,Blondie,Disco,
-223,All Night Long,Lionel Ritchie,M Dance,
-224,Vogue,Madonna,F Dance,
-225,Paradie By the Dashboard Light,Meatloaf,F Dance,
-226,Conga,Miami Sound Machine,F Dance,
-227,Step By Step,New Kids On the Block,F Dance,
-228,Bizarre Love Triangle,New Order,F Dance,
-229,We're Here For A Good Time,Trooper,M Rock,
-230,In The Air Tonight,Phil Collins,S Dance,
-231,Don't Cha,Pussy Cat Dolls,F Dance,
-232,I Don't Want to Dance,Scissor Sisters,M Dance,
-233,REM,Shiney Happy People,M Rock,
-234,Together Forever,Randy Travis,M Country,
-235,Pump up the Jam,MARS,M Dance,
-236,Smooth,Santana,M Rock,
-237,Temperature,Sean Paul,F Dance,
-238,Up,Shania Twain,F Country,
-239,Don't You,Simple Minds,M Dance,
-240,Style,Taylor Swift,M Dance,
-241,Take Me To Church,Hozier,F Dance,
-242,The Night Paddy Murphy Died,Great Big Sea,Celtic,
-243,Glory Days,Bruce Springsteen,M Rock,
-244,Rock N Me,Steve Miller,M Rock,
-245,Life Is A Highway,Tom Cochrane,M Rock,
-246,Wake Me Up,Wham,F Dance,
-247,Somebody to love Me,Whitney Houston,M Dance,
-248,Excited,Pointer Sisters,F Dance,
-249,Theme From Godfather,Andy Williams,Dinner,
-250,Manic Monday,Bangles,M Dance,
-251,Wasn't That A Party,Irish Rovers,M Dance,
-252,Copacabana,Barry Manilow,F Dance,
-253,"You're my First,Last,Everything",Barry White,Disco,
-254,Surfin USA,Beach Boys,60s,
-255,Kokomo,Beach Boys,M Dance,
-256,Medley,Beatles,60s,
-257,On A SlowBoat to China,Benny Goodman,Big Band,
-258,WhiteWedding,Billy Idol,F Dance,
-259,I'll Never Fall In Love Again,Carpenters,Adult Contemporary,
-260,Devil Went Down To Georgia,Charlie Daniel's Band,F Country,
-261,Stroke it,Clarence Carter,M Dance,
-262,Soak Up The Sun,Sheryl Crow,M Dance,
-263,Do You Really Want to Hurt Me,Culture Club,M Dance,
-264,China Girl,David Bowie,M Dance,
-265,Motown Song,Rod Stewart,M Dance,
-266,Personal Jesus,Depeche Mode,M Dance,
-267,Macarthur Park,Donna Summer,Disco,
-268,Hotel California,Eagles,S Rock,
-269,September,"Earth,Wind and Fire",Disco,
-270,I Don't Want to Dance,Eddie Grant,M Dance,
-271,Crocodile Rock,Elton John,F Dance,
-272,Can You Feel the Love Tonight,Elton John,S Dance,
-273,Sweet Dreams,Eurythmics,M Dance,
-274,That'll Be the Day,Buddy Holly,60s,
-275,I Ran,Flock of Seagulls,F Dance,
-276,My Girl,Temptations,60s,
-277,Bambolero,Gypsy Kings,F Dance,
-278,I Will Survive,Gloria Gaynor,Disco,
-279,Knock On Wood,Amil Stewart,Disco,
-280,Early Morning Rain,Gordon Lightfoot,Dinner,
-281,Maneater,Hall and Oates,M Dance,
-282,Sexy Thing,Hot Chocolate,Disco,
-283,Heart of Rock n Roll,Huey Lewis,M Dance,
-284,New Sensation,INXS,F Dance,
-285,Centerfold,J. Geils Band,M Dance,
-286,This is What it Feels Like,Armin Van Hammer,F Dance,
-287,Let's  Go,Calvin Harris,F Dance,
-288,Wagon Wheel,Darius Rucker,F Country,
-289,Turn Me On,David Guetta and Nicki Minaj,F Dance,
-290,Winter Wonderland,Michael Buble,Christmas,
-291,Silver Bells,Michael Buble,Christmas,
-292,I Will Wait,Mumford and Sons,M Rock,
-293,LOVE,Nat King Cole,Adult Contemporary,
-294,Promiscuous,Nelly Furtado,M Dance,
-295,Do It Right,Nelly Furtado,M Dance,
-296,Raise Your Glass,Pink,F Dance,
-297,So What,Pink,F Dance,
-298,Let's Get This Party Started,Pink,F Dance,
-299,Disturbia,Rihanna,F Dance,
-300,Fire Burning,Sean Kingston,F Dance,
-301,Come and Get It,Selena Gomez,M Dance,
-302,The Way I Are,Timbaland,M Dance,
-303,Baby One More Time,Britney Spears,F Dance,
-304,Crazy,Britney Spears,F Dance,
-305,Smack That,Eminem and Akon,Hip Hop,
-306,Try,Blue Rodeo,S Dance,
-307,Gonna Make You Sweat,C and C Music Factory,F Dance,
-308,Mr. Jones,Counting Crows,M Rock,
-309,We Belong Together,Mariah Carey,S Dance,
-310,Wonderful Tonight,Eric Clapton,S Dance,
-311,My Heart Will Go On,Celine Dion,S Dance,
-312,Hundry Like The Wolf,Duran Duran,M Dance,
-313,Lady Marmalade,Christina Aguilera,M Dance,
-314,Candle In The Wind,Elton John,S Dance,
-315,Lose My Breath,Destiny's Child,F Dance,
-316,Roadhouse Blues,Doors,M Rock,
-317,Low,Flo Rida,F Dance,
-318,Just The Way You Are,Billy Joel,S Dance,
-319,Faithfully,Journey,S Dance,
-320,Waiting For Tonight,Jennifer Lopez,F Dance,
-321,Party In The USA,Miley Cyrus,M Dance,
-322,Living the Viva Loca,Ricky Martin,F Dance,
-323,Hey  Yah,Outkast,F Dance,
-324,Brown Sugar,Rolling Stones,M Rock,
-325,Only Girl In The World,Rihanna,F Dance,
-326,Have I Told You Lately,Rod Stewart,S Dance,
-327,Hollaback Girl,Gwen Stefani,M Dance,
-328,One Bourbon One Scotch One Beer,George Thorogood,F Rock,
-329,Bad To The Bone,George Thorogood,M Rock,
-330,Funky Cold Medina,Tone Loc,M Dance,
-331,Better Be Good To Me,Tina Turner,M Dance,
-332,New Orleans Is Sinking,Tragically Hip,M Rock,
-333,Break Your Heart,Tiao Cruz,F Dance,
-334,Cotton Eye Joe,Rednex,F Dance,
-335,What Is Love,Haddaway,F Dance,
-336,Stuck In The Middle With You,Stealers Wheel,M Rock,
-337,Ballroom Blitz,Sweet,F Rock,
-338,Raise A Little Hell,Trooper,F Rock,
-339,Tubthumping,Chumbawumba,M Dance,
-340,Song 21,Blur,M Rock,
-341,Oh Ya,Yellow,M Rock,
-342,Come On Eileen,Dexy's Midnight Runners,M Rock,
-343,Closing Time,Semisonic,M Rock,
-344,American Pie,Don Mclean,M Rock,
-345,Missing,Everything But the Girl,F Dance,
-346,A Girl Like You,Edwin Collins,M Dance,
-347,Bombastic,Shaggy,M Dance,
-348,Spice Up Your Life,Spice Girls,F Dance,
-349,Barbie Girl,Aqua,F Dance,
-350,All My Life,K-Ci and Jojo,S Dance,
-351,All For You,Janet Jackson,M Dance,
-352,Can't Get You Out of My Head,Kylie Minolgue,F Dance,
-353,Crazy,Gnarls Barkley,M Dance,
-354,Dance Dance,Fall Out Boy,F Rock,
-355,Big Black Horse,K.T. Tunstall,M Dance,
-356,Home,Michael Buble,Dinner,
-357,Where No One Know My Name,Jann Arden,M Dance,
-358,Good Girl Is So Bad,Cobra Starship,F Dance,
-359,Evacuate The Dance Floor,Cascada,F Dance,
-360,Heaven,DJ  Sammy,F Dance,
-361,Relax,Frankie Goes To Hollywood,F Dance,
-362,Teenage Dream,Katy Perry,F Dance,
-363,At Last,Etta James,Adult Contemporary,
-364,Bumpy Ride,Mohambi,Reggae,
-365,Tonight (I'm Loving You),Enrique Iglesius,F Dance,
-366,Beautiful Day,U2,M Rock,
-367,More,Usher,F Dance,
-368,G6,Far East Movement,M Dance,
-369,Beer In Mexico,Kenny Chesney,M Country,
-370,Black And Yellow,Wiz Khalifa and  Snoop,Hip Hop,
-371,OMG,Usher,F Dance,
-372,International Love,Chris Brown,F Dance,
-373,Super Bass,Nicki Minaj,Hip Hop,
-374,Escapade,Janet Jackson,M Dance,
-375,Someone Like You,Adele,S Dance,
-376,Under The Boardwalk,Otis Redding,60s,
-377,Marry You,Bruno Mars,S Dance,
-378,Story of Us,Taylor Swift,F Dance,
-379,Pumped Up For Kicks,Foster The People,M Dance,
-380,Last Night,Ian Carey and Snoop,F Dance,
-381,Wagon Wheel,Old Crow Medicine Show,M Country,
-382,Love You Like A Love Song,Selena Gomez,F Dance,
-383,Shots,LMFAO,M Dance,
-384,I'm Too Sexy,Right Said Fred,M Dance,
-385,Jeopardy Theme,TV/ Movie,Tv/ Movie,
-386,Survivor Theme,TV/ Movie,Tv/ Movie,
-387,Drum Roll,Special Effects,Special Affects,
-388,Ah Leah,Donnie Iris,M Rock,
-389,Good Feeling,Flo Rida,F Dance,
-390,Whistle Song,Flo Rida,M Dance,
-391,I Like How It Feels,Enrique Iglesius and Pitbull,F Dance,
-392,Hey Ho,Lumineers,M Dance,
-393,Drink In My Hand,Eric Church,F Country,
-394,We Run The Night,Havana Brown and Pitbull,F Dance,
-395,The Twist,Chubby Checker,60s,
-396,Limbo Rock,Chubby Checker,60s,
-397,Barbara Ann,Beach Boys,60s,
-398,Great Balls of Fire,Lerry Lee Lewis,60s,
-399,A Hard Day's Night,Beatles,60s,
-400,Jive Talkin,Bee Gees,M Dance,
-401,Hot Stuff,Donna Summer,Disco,
-402,The Hustle,Van Mcoy,Disco,
-403,Kung Fu Fighting,Carl Douglas,Disco,
-404,Flashdance,Irene Cara,F Dance,
-405,Le Freak,Chic,Disco,
-406,Boogie Oogie Oogie,Taste of Honey,Disco,
-407,Shadow Dancing,Andy Gibb,Disco,
-408,Butterfly Kisses,Bob Carlisle,S Country,
-409,CBC Hockey Theme,TV/Movie,TV/Movie,
-410,Dust On The Bottle,David Lee Murphy,F Country,
-411,Good Bye Earl,Dixie Chicks,F Country,
-412,It Had To Be You,Harry Connick,Adult Contemporary,
-413,My Maria,Brooks and Dunn,F Country,
-414,Pop A Top,Alan Jackson,F Country,
-415,Time of Your Life,Greenday,M Rock,
-416,My Guy,Mary Wells,R and B,
-417,I Can't Help Myself (Sugar Pie Honey Bunch),Four Tops,R and B,
-418,Mack The Knife,Frank Sinatra,Adult Contemporary,
-419,Whiter Shade of Pale,Procol Harum,S Dance,
-420,"Louie,Louie",Animal House,Tv/Movie,
-421,Mustang Sally,The Commitments,M Dance,
-422,Summertime Blues,Brian Selzer,M Rock,
-423,Stray Cat Strut,Stray Cats,M Dance,
-424,Wild Child,Rick Ocasek,F Dance,
-425,Oh Canada,Instrumental,Specialty,
-426,Whoop! There It Is!,Clock,F Dance,
-427,Na Na Hey Hey Good bye,DJ Chrome,Specialty,
-428,Saturday Night,Whigfield,M Dance,
-429,The Hockey Song,Stompin Tom Connors,Specialty,
-430,Auld Lang Syne,Guy Lombardo,Specialty,
-431,Daddy's Little Girl,Al Martino,S Dance,
-432,Daughter of Mine,John McDermott,S Dance,
-433,Don't Stop,Fleetwood Mac,F Dance,
-434,From This Moment On,Shania Twain,S Dance,
-435,Having A Party,Rod Stewart,M Dance,
-436,I Knew The Bride,Nick Lowe,F Dance,
-437,I Love A Rainy Night,Kenny Loggins,F Country,
-438,Jailhouse Rock,Elvis,60s,
-439,(Bad Bad) Leroy Brown,Jim Croce,M Dance,
-440,Mickey,Toni Basil,F Dance,
-441,Mountain Music,Alabama,M Country,
-442,Rock and Roll Pt 2,Gary Glitter,F Rock,
-443,Spanish Eyes,Engelburt Humperdinck,Adult Contemporary,
-444,The Gambler,Kenny Rogers,M Country,
-445,Unforgettable,Nat King Cole,Adult Contemporary,
-446,Walking On Sunshine,Katrina and The Waves,F Dance,
-447,We've Only Just Begun,Carpenters,S Dance,
-448,Wind Beneath Your Wings,Bette Midler,S Dance,
-449,Suddenly I See,K.T Tunstall,M Dance,
-450,The Sweet Escape,Gwen Stefani and Akon,M Dance,
-451,Glamorous,Fergie,M Dance,
-452,Beautiful Girls,Sean Kingston,M Dance,
-453,Hey There Delilah,Plain White T's,M Dance,
-454,Apologize,Timaland and One Republic,S Dance,
-455,Into The Night,Santana and Chad Kroger,F Rock,
-456,Pocketful of Sunshine,Natasha Beddingfield,M Dance,
-457,Shake It,Metro Station,F Dance,
-458,Hot And Cold,Katy Perry,F Dance,
-459,Forever,Chris Brown,F Dance,
-460,Dangerous,Kardinal Offishall and Akon,M Dance,
-461,Keeps Getting Better,Christina Aguilera,F Dance,
-462,Let It Rock,Kevin Rudolf and Lil Wayne,M Dance,
-463,I Know You Want Me (Calle Ocho),Pitbull,F Dance,
-464,Hey Soul Sister,Train,M Rock,
-465,Don't Stop Until you Get Enough,Michael Jackson,M Dance,
-466,Empire State of Mind,Jay-Z  and Alicia Keys,Hip Hop,
-467,Get Down Tonight,Kc and the Sunshine Band,Disco,
-468,Hot In Herre,Nelly,Rap,
-469,I Hope You Dance,Lee Ann Womak,S Dance,
-470,I Like It,Enrique Iglesius and Pitbull,F Dance,
-471,I Loved Her First,Heartland,S Country,
-472,Ice Ice Baby,Vanilla Ice,M Dance,
-473,In My Head,Jason Derulo,F Dance,
-474,It's Raining Men,Weather Girls,F Dance,
-475,Jump Around,House of Pain,Hip Hop,
-476,Lets Get Loud,Jennifer Lopez,F Dance,
-477,Lets Get It Started,Black Eyed Peas,M Dance,
-478,Move This,Technotronic,F Dance,
-479,Rhythm Is A Dancer,Snap,F Dance,
-480,September,"Earth,Wind and Fire",Disco,
-481,She's Everything,Brad Paisley,S Country,
-482,Then,Brad Paisley,S Country,
-483,"Shake,Shake Shake",Kc and the Sunshine Band,Disco,
-484,ABC,Jackson 5,M Dance,
-485,Billie Jean,Michael Jackson,M Dance,
-486,Down,Jay Sean and Lil Wayne,Hip Hop,
-487,Electric Boogie ( Electric Slide),Marcia Griffiths,M Dance,
-488,Electric Slide,Grandmaster Slice,M Dance,
-489,Fat Boy,Max a Million,Hip Hop,
-490,I Cross My Heart,George Strait,S Country,
-491,Just The Way You Are,Bruno Mars,M Dance,
-492,Let's Get It On,Marvin Gaye,S Dance,
-493,Lost In This Moment,Big and Rich,S Country,
-494,Love Story,Taylor Swift,M Dance,
-495,Nothing On You,B.O.B and Bruno Mars,M Dance,
-497,Bette Davis Eyes,Kim Carnnes,M Dance,
-498,Born To Be Wild,Steppenwolf,F Rock,
-499,My Sharona,The Knack,M Rock,
-500,It;s Not Unusual,Tom Jones,Adult Contemperary,
-501,Beer For My Horses,Toby Keith,M Country,
-502,Buffalo Soldier,Bob Marley,Reggae,
-503,Pennsylvania B-5000,Glenn Miller,Big Band,
-504,Wide Open Spaces,Dixie Chicks,S Country,
-505,It'sYour Love,Tim McGraw and Faith Hill,S Country,
-506,Fishing  In The Dark,Nitty Gritty Dirt Band,M Country,
-507,Happy Birthday,Specialty,Specialty,
-508,I'm Here For the Party,Gretchen Wilson,F Country,
-509,Little Sister,Dwight Yoakam,F Country,
-510,Hypnotize,Notorious Big,Rap,
-511,How Bizarre,O.M.C,M Dance,
-512,Hard Days Night,Beatles,60s,
-513,Devil's Party,INXS,F Dance,
-514,Flawed Design,Stabilo,F Dance,
-515,Money Maker,Ludicris,Rap,
-516,Rock This Party,Rob Sinclair,F Dance,
-517,Jeopardy,Greg Kihn Band,M Dance,
-518,Impacto,Daddy Yankee and  Fergie,Reggae,
-519,Paralyzer,Finger Eleven,F Rock,
-520,Apologize,Tiberland and One Republic,S Dance,
-521,Bubbly,Colie Caillat,R and B,
-522,Seven Year Fool,Jully Black,M Dance,
-523,Rumors,Time Social Club,M Dance,
-524,Blame It on the Rain,Milli Vanilli,M Dance,
-525,Check Yes or No,George Strait,S Country,
-526,Hella Good,No Doubt,M Dance,
-527,Wake Up Little Susi,Everly Brothers,60s,
-528,More and More,Captain Hollywood,F Dance,
-529,Downunder,Men at Work,M Dance,
-530,Sunrise,Norah Jones,Dinner,
-531,Jessie's Girl,Rick Springield,F Rock,
-532,December 1963,Four Seasons,M Dance,
-533,Boys Are Back In Town,Thin Lizzy,M Rock,
-534,If I Ain't Got You,Alicia Keys,S Dance,
-535,When You Say Nothing At All,Alison Krauss,S Dance,
-536,All For Love,Bryan Adams and Rod Stewart,S Dance,
-537,Vacation,Go Gos,F Dance,
-538,Just A Gigalo,David Lee Roth,M Dance,
-539,Wipe Out,Safaris,60s,
-540,Venus,Bananarama,F Dance,
-541,She Drives Me Crazy,Fine Young Cannibals,M Dance,
-542,The Look,Roxette,M Dance,
-543,Joyride,Roxette,M Dance,
-544,Cold Hearted,Paula Abdul,M Dance,
-545,Nothing Compares To You,Sinead O'Connor,S Dance,
-546,Politics of Dancing,Re-Flex,F Dance,
-547,Spirit In The Sky,Dr. and  the Medics,M Dance,
-548,Dancing With Myself,Billy Idol,F Dance,
-549,Video Killed  The Radio Star,Buggles,F Dance,
-550,Everybody Have Fun tonight,Wang Chung,F Dance,
-551,Blue,Eiffel 65,F Dance,
-552,Lips of An Angel,Hinder,S Dance,
-553,My Perogative,Bobby Brown,M Dance,
-554,I Will Always Love You,Whitney Houston,S Dance,
-555,I Want to Dance With Somebody,Whitney Houston,F Dance,
-556,White Lines,Grandmaster Flash,M Dance,
-557,Rick Astley,Never Gonna Give You Up,F Dance,
-558,You're  Beautiful,James Blunt,S Dance,
-559,You Raise Me Up,Josh Grogan,S Dance,
-560,True,Spandau Ballet,S Dance,
-561,Daughters,John Mayer,S Dance,
-562,Complicated,Avril Lavigne,M Dance,
-563,Sandstorm,Darude,F Dance,
-564,Beer Barrel  Polka,Walter Ostanek,Polka,
-565,Cherry Polka,Walter Ostanek,Polka,
-566,I Want to Grow Old With You,Adam Sandler,S Dance,
-567,Barett's Privateers,Sons of  Erin,Celtic,
-568,Subliime,Santaria,F Dance,
-569,Quadriglia,Tarantella,Italian,
-570,Serenata,Tarantella,Italian,
-571,Tarantella Medley,Tarantella,Italian,
-572,Cha Cha Slide,DJ  Caspar,M Dance,
-573,Wild Wild West,Escape Club,F Dance,
-574,Move This,Technotronic,F Dance,
-575,Tribal Dance,2 Unlimited,F Dance,
-576,I Want You,Savage Garden,F Dance,
-577,Broken Bones,Love Inc.,F Dance,
-578,Collective Soul,Precious Declaration,M Rock,
-579,Apparitions,Matthew Good Band,S Dance,
-580,All Star,Smashmouth,M Rock,
-581,The  Bad Touch,Bloodhound Gang,F Dance,
-582,Somebody Told Me,The Killers,F Rock,
-583,One Thing,Finger Eleven,S Dance,
-584,The Reason,Hoobastank,S Dance,
-585,When The Night Feels My Song,Bedouin Soundclash,M Dance,
-586,Untitled,Simple Plan,S Dance,
-587,At The Hop,Danny and the Juniors,60s,
-588,Whole Lotta Skaking Going On,Jerry Lee Lewis,60s,
-589,Johnny B. Goode,Chuck Berry,60s,
-590,Rhythm's Gonna Get You,Miami Sound Machine,F Dance,
-591,Dancing On The Ceiling,Lionel Richie,F Dance,
-592,Beds Are Burning,Midnight Oil,M Dance,
-593,Jump,Pointer Sisters,F Dance,
-594,Beth,Kiss,S Dance,
-595,I was Made For Loving You,Kiss,Disco,
-596,When I'm With You,Sheriff,S Dance,
-597,Feels Like Home,Chantal Kreviazuk,S Dance,
-598,Jewish Hora Medley,Miscellaneous,Specialty,
-599,Help From My Friends,Joe Cocker,S Dance,
-600,Love Somebody,Rick Springield,F Dance,
-601,Sauvamente,Elvis Crispo,F Dance,
-602,No Limits,2 Unlimited,F Dance,
-603,You Already  For This,2 Unlimited,F Dance,
-604,Crazy Train,Ozzy Osbourne,F Rock,
-605,Glenn Miller Medley,Jive Bunny,Big Band,
-606,The Last Waltz,Engelburt Humperdinck,Adult Contemperary,
-607,Release Me,Engelburt Humperdinck,Adult Contemperary,
-608,The Best Is Yry to Come,Frank Sinatra,Adult Contemperary,
-609,To all The Girls I've Loved Before,Julio Iglesius,Adult Contemperary,
-610,Angel Eyes,Jeff Healey,S Dance,
-611,As Time Goes By,Tony Bennett,Adult Contemporary,
-612,Beautiful U R,Brenda Cox,M Dance,
-613,Behind Closed Doors,Charlie Rich,S Country,
-614,Best I Ever Had,Drake,Hip Hop,
-615,Bird Dance,Emeralds,Special,
-616,Black Cars,Gino Vanelli,F Dance,
-617,Blue Velvet,Bobby Vinton,Adult Contemporary,
-618,Bootylicious,Destiny's Child,F Dance,
-619,Bop,Dan Seals,F Country,
-620,Buffalo Stance,Neneh Cherry,F Dance,
-621,Bye Bye Bye,N'Sync,M Dance,
-622,Careless Whisper,Wham,S Dance,
-623,Caribbean Queen,Billy Ocean,M Dance,
-624,Can I Have This Dance,Anne Murray,S Dance,
-625,Crying Over You,Platinum Blonde,F Dance,
-626,Dance With Me,Johnny Reid,S Country,
-627,Dollar Wine,Byron Lee,Reagae,
-628,Don't Be Cruel,Elvis,60s,
-629,Don't Be Stupid,Shania Twain,F Country,
-630,Don't Cha,Pussycat Dolls,M Dance,
-631,Electric Avenue,Eddy Grant,M Dance,
-632,Everybody Everybody,Black Box,F Dance,
-633,Everybody Salsa,Chocolate,F Dance,
-634,Express Yourself,Madonna,F Dance,
-635,Follow The Leader,Soca Boys,F Dance,
-636,Good Vibrations,Marky Mark,F Dance,
-637,Green Green Grass of Home,Tom Jones,Adult Contemporary,
-638,Here Comes The High Stepper,Ini Komoze,M Dance,
-639,Holly Jolly Christmas,Burl Ives,Christmas,
-640,I Just Called To Say I Love You,Stevie Wonder,S Dance,
-641,I Love Rock and Roll,Joan Jett,F Rock,
-642,I Think We're Alone Now,Tiffany,F Dance,
-643,I Walk The Line,Johnny Cash,F Country,
-644,I Will Survive,Gloria Gaynor,Disco,
-645,I'll Always Be There,Roch Voisin,S Dance,
-646,In My Daughters Eyes,Martina McBride,S Country,
-647,White Christmas,Bing Crosby,Christmas,
-648,Its My Life,Talk Talk,M Dance,
-649,I've Been Thinking About You,London Beat,M Dance,
-650,Jump and Wave,Byron Lee,F Dance,
-651,Keep Your Hands To Yourself,Georgia Satelittes,F Rock,
-652,Ketchup Song,Las Ketchup,F Dance,
-653,Lambada,Kaoma,F Dance,
-654,Last Waltz,Engelburt Humperdinck,Adult Contemporary,
-655,Let The Music Play,Shannon,F Dance,
-656,Let Your Backbone Slide,Maestroe Fresh Wes,Rap,
-657,Let's Dance,David Bowie,M Dance,
-658,Lightning Crashes,Live,S Dance,
-659,Little Red Corvette,Prince,M Dance,
-660,Living In America,James Brown,F Dance,
-661,Looking For A New Love,Jody Watley,F Dance,
-662,Love Is All Around,Wet Wet Wet,S Dance,
-663,Turn Me Loose,Loverboy,M Rock,
-664,Miami,Will Smith,M Dance,
-665,Money Maker,Ludicris,Rap,
-666,Monster Mash,Bobby Pickett,Specialty,
-667,Thriller,Michael Jackson,F Dance,
-668,Montego Bay,Amazulu,M Dance,
-669,Moon River,Andy Williams,Adult Contemporary,
-670,More Than Words,Extreme,S Dance,
-671,Mr. Vain,Culture Beat,F Dance,
-672,We Built This City,Starship,F Dance,
-673,Life is Life,Opus,M Dance,
-674,Right Here Waiting For You,Richard Marx,S Dance,
-675,Obsession,Animotion,F Dance,
-676,Only Time,Enya,S Dance,
-677,West End Girls,Pet Shop Boys,M Dance,
-678,Orinoco Flow,Enya,S Dance,
-679,Peggy Sue,Buddy Holly,60s,
-680,Please Don't Go,K.W.S,M Dance,
-681,Real Wild Child,Iggy Pop,F Dance,
-682,Realize,Colbie Calliat,S Dance,
-683,Red Red Wine,UB 40,S Dance,
-684,Reggae Nights,Jimmy Cliff,F Dance,
-685,Roam,B-52s,F Dance,
-686,Rock The Casbah,Clash,M Dance,
-687,Rock This Party,Rob Sinclair,F Dance,
-688,Seven Nation Army,White Stripes,F Rock,
-689,Shake Ya Tailfeather,Nelly and P. Diddy,Hip Hop,
-690,Show Me Love,Robin S,F Dance,
-691,Splish Splash,Bobby Darin,60s,
-692,Stardust,Artie Shaw,Big Band,
-693,Stayed Until 2,Gord Bamford,F Country,
-694,Step By Step,New Kids On The Block,F Dance,
-695,Strike It Up,Black Box,F Dance,
-696,Summer Nights,Olivia Newton John,F Dance,
-697,Sunglasses At Night,Corey Hart,F Dance,
-698,Surf City,Jan and Dean,60s,
-699,Sweat,Inner Circle,Reggae,
-700,S'Wonderful,Diana Krall,Dinner,
-701,Take The A Train,Duke Ellington,Big Band,
-702,Taking Care of Business,BTO,F Rock,
-703,Talking In Your Sleep,Romantics,F Dance,
-704,In The Night,Laura Branigan,M Dance,
-705,Gloria,Laura Branigan,F Dance,
-706,Tears In Heaven,Eric Clapton,S Dance,
-707,Tenderness,General Public,F Dance,
-708,The Heat Is On,Glenn Frey,F Dance,
-709,The Hustle,Van McCoy,Disco,
-710,The Look of Love,Diana Krall,Dinner,
-711,The Sign,Ace of Base,M Dance,
-712,There's A Tear In My Beer,Hank Williams Jr.,F Country,
-713,This Is How We Do It,Montel Jordan,M Dance,
-714,Thunderstruck,AC/DC,F Rock,
-715,To All The Girls I've Loved Before,Julio Iglesias and Willie Nelson,Adult Contemporary,
-716,Total Eclipse of The Heart,Bonnie Tyler,M Rock,
-717,Twistin By The Pool,Dire Straits,F Rock,
-718,Twistin the Night Away,Sam Cooke,60s,
-719,Two Princes,Spin Doctors,F Rock,
-720,Volare,Gypsy Kings,F Dance,
-721,Walk of Life,Dire Straits,F Dance,
-722,Walking On Sunshine,Katrina and the Waves,F Dance,
-723,We Got The Beat,Go Go's,F Dance,
-724,We Like to Party,Vengaboys,F Dance,
-725,We're Not Gonna Take It,Twisted Sister,F Rock,
-726,What You Waiting For,Gwen Stefani,F Dance,
-727,When I Grow Up,Pussycat Dolls,F Dance,
-728,When Doves Cry,Prince,M Dance,
-729,Wilbury Twist,Travelling Wilburys,F Rock,
-730,Word Up,Cameo,M Dance,
-731,Would I Lie To You,Eurythmics,F Dance,
-732,You Really Got Me,Kinks,F Rock,
-733,You Keep Me Hanging On,Kim Wilde,F Dance,
-734,You Should be Dancing,Bee Gees,Disco,
-735,Walk Like An Egyptian,Bangles,F Dance,
-736,Another You,Armin Van Buren and Mr.Probz,F Dance,
-737,Before My Glory,Bunji Carlin,Reggae,
-738,Runaway With Me,Carly Rae Jepson,F Dance,
-739,Just A little Bit,Destra,F Dance,
-740,Again,Fetty Wap,S Dance,
-741,"I Don't Like It,I Love It",Flo rida and Robin Thicke,F Dance,
-742,Love Myself,Hailee Steinfeld,F Dance,
-743,No Apology,Kerwin Du Bois,Reggae,
-744,Ah Feeling,Lead Pipe and Saddis,Reggae,
-745,Feelings,Maroon 5,F Dance,
-746,Drag Me Down,One Direction,F Dance,
-747,A little Wine,Patrice Roberts,Reggae,
-748,One Love,"Shaggy,Gene Noble and  Pitbull",F Dance,
-749,Bring It Back,Shy Center and  Aleva Craft,F Dance,
-750,Trans Am,Thompson Square,F Country,
-751,B.Y.H.B Bring Your Hot Body,Uncle Ezra Ray,M Dance,
-752,The Night,"2LAU,Nom de Strip and Estelle",F Dance,
-753,For a Better Day,Avicii,M Dance,
-754,Music to My Soul,Cee Lo Green,F Dance,
-755,Vaiven,Daddy Yankee,Reggae,
-756,Confident,Demi Lovato,M Dance,
-757,Cool For The Summer,Demi Lovato,F Dance,
-758,Omen,Disclosure and Sam Smith,F Dance,
-759,Drake,Hotline Bling,Hip Hop,
-760,Ocean Drive,Duke Dumont,F Dance,
-761,Valet,Eric Bollinger. Fetty Wap and 2 Chainz,F Dance,
-762,Feeling Grows,Fridge Magnets,F Dance,
-763,Hello,Hedley,F Dance,
-764,Here For You,Kygo and Ella Henderson,F Dance,
-765,Downtown,Macklemore and Ryan Lewis,F Dance,
-766,Levels,Nick Jonas,F Dance,
-767,Fight Song,Rachel Paltten,F Dance,
-768,Lay It all on Me,Rudimental and Ed Sheeran,M Dance,
-769,Same Old Love,Selena Gomez,M Dance,
-770,Cruel For You,Selena Gomez,M Dance,
-771,Lush Life,Zara Larsson,F Dance,
-772,Focus,Ariande Grande,M Dance,
-773,Renegade Runaway,Carrie Underwood,F Country,
-774,2 Heads,Coleman Hell,F Dance,
-775,Perfect,One Direction,M Dance,
-776,California,Tim McGraw and Big n Rich,M Country,
-777,Hello,Adele,S Dance,
-778,What Do You Mean,Justin Bieber,F Dance,
-779,Sorry,Justin Bieber,F Dance,
-780,Can't Feel My Face,The Weeknd,F Dance,
-781,Thinking Out Loud,Ed Sheeran,S Dance,
-782,Earned It,The Weeknd,M Dance,
-783,I Don't Want  to Go to Bed,Simply Plan and Nelly,M Dance,
-784,Lean On,Major Lazor and DJ Sanke faeturing Mo,M Dance,
-785,Life's Like You Make it,New Electric,M Dance,
-786,Catch,Allie X,M Dance,
-787,On My Mind,Ellie Goulding,M Dance,
-788,Locked Away,R. City featuring Adam Levine,M Dance,
-789,Hula Hoop,OMI,M Dance,
-790,Hideaway,Daya,M Dance,
-791,That Sweater,Scott Helman,F Dance,
-793,Exes and Ohs,Elle King,F Dance,
-794,A Part of Me,Katie Perry,F Dance,
-795,Let's Get Loud,Jennifer Lopez,F Dance,
-796,Unforgetable,Nat King Cole,Adult Contemporary,
-797,Stars on 45,Stars on 45,F Dance,
-798,The Way You Make Me Feel,Michael Jackson,F Dance,
-799,You and Me,Lifehouse,S Dance,
-800,Clap Your Hands,Beaumonts,60s,
-801,The Dance,Garth Brooks,S Country,
-802,Guitars and Cadillacs,Dwight Yoakam,M Country,
-803,Disco Inferno,Tramps,Disco,
-804,Born To Be Alive,Patrick Hernandez,Disco,
-805,That's The Way I like It,KC and  the Sunshine Band,Disco,
-806,Cupid Shuffle,Cupid,M Dance,
-807,Brick House,Commodores,M Dance,
-808,I Can't Help Myself,Four Tops,60s,
-809,It's Your Love,Tim McGraw and Faith Hill,S Country,
-810,A Part of Me,Katie Perry,F Dance,
-811,Beautiful Life,Ace of Base,F Dance,
-812,We No Speak Americano,Yolanda Be Cool vs Dcup,F Dance,
-813,Tic Tok,Keisha,F Dance,
-814,Just a Dream,Nelly,M Dance,
-815,Poison,Bel Biv Devoe,M Dance,
-816,"Truly,Madly,Deeply",Savage Garden,S Dance,
-817,Because You Loved Me,Celion Dion,S Dance,
-818,Wannabe,Spice Girls,M Dance,
-819,Big Time,Peter Gabriel,M Dance,
-820,Sledgehammer,Peter Gabriel,M Dance,
-821,Another One Bites The Dust,Queen,M Dance,
-822,Super Freak,Rick James,M Dance,
-823,You Dropped a Bomb on Me,Gap Band,F Dance,
-824,Downunder,Men At Work,M Dance,
-825,Safety Dance,Men Without Hats,M Dance,
-826,Take My Breath Away,Berlin,S Dance,
-827,Heaven,Bryan Adams,S Dance,
-828,ABC,Jackson 5,M Dance,
-829,Moondance,Van Morrison,S Dance,
-830,Superstition,Stevie Wonder,M Dance,
-831,Night Fever,Bee Gees,M Dance,
-832,Boogie Wonderland,"Earth,Wind and Fire",Disco,
-833,Start Me Up,Rolling Stones,M Rock,
-834,All Right Now,Free,M Rock,
-835,Heart of Glass,Blondie,Disco,
-836,Do You Love Me,Contours,M Rock,
-837,Can't Take My Eyes Off of You,Frankie Valli,S Dance,
-838,When I'm 64,Beatles,60s,
-839,Happy Together,Turtles,60s,
-840,Crazy,Patsy Cline,S Dance,
-841,You Can't Hurry Love,Supremes,60s,
-842,I'm A Believer,Monkees,60s,
-843,Proud Mary,CCR,M Rock,
-844,Hey Jude,Beatles,60s,
-845,Chapel of Love,Dixie Cups,60s,
-846,Honky Tonk Woman,Rolling Stones,M Rock,
-847,Under The Boardwalk,Drifters,60s,
-848,These Arms of Mine,Otis Redding,60s,
-849,Dance To The Music,Sly and Family Stone,60s,
-850,Folsom Prison Blues,Johnny Cash,F Country,
-851,Louie Louie,Kinsman,60s,
-852,Gimme Some Lovin,Spencer Davis,60s,
-853,Chances Are,Johnny Mathis,Adult Contemporary,
-854,Paul Anka,Put Your Head on my Shoulder,S Dance,
-855,Don't Be Cruel,Elvis,60s,
-856,Animals,Maroon 5,F Dance,
-857,Hey Jude,Beatles,S Dance,
-858,Your Song,Elton John,S Dance,
-859,Save the Best for Last,Instrumental,Wedding,
-860,"Jesu,Joy of Man's desiring",Instrumental,Wedding,
-861,Ava Maria,Schubert,Wedding,
-862,Sheep May Safely Graze,Instrumental,Wedding,
-863,Pachelbel's Canon,Pachelbel,Wedding,
-864,Bridal March from Lohengrin,Instrumental,Wedding,
-865,O Perfect Love,Instrumental,Wedding,
-866,Finale of Ode to Joy,Instrumental,Wedding,
-867,When I Fall in Love,Sleepless in Seattle,Wedding,
-868,Everything I do for you,Robin Hood,Wedding,
-869,Forever In Love,Instrumental,Wedding,
-870,Vangelis' Hymn,Vangelis,Wedding,
-871,"One Hand,One Heart",West Side Story,Wedding,
-872,The Wedding Song,Instrumental,Wedding,
-873,Happy Birthday,unknown,Specialty,
-874,The Look of Love,Diana Krall,dinner,
-875,I've Got You Under My Skin,Diana Krall,dinner,
-876,It Came Upon A Midnight Clear,John Tesh,Christmas,
-877,Silent Night,John Tesh,Christmas,
-878,Home For the Holidays,Perry Como,Christmas,
-879,Jingle Bell Rock,Jim Reeves,Christmas,
-880,Rocking Around The Christmas Tree,Brenda Lee,Christmas,
-881,Sleigh Ride,Carpenters,Christmas,
-882,Everything,Michaal Buble,Dinner,
-883,I've Got the World On a String,Diana Krall,Dinner,
-884,The Girl From Ipanema,Frank Sinatra,Dinner,
-885,Boplicity,Miles Davis,Dinner,
-886,Round Midnight,Thelonius Monk,Dinner,
-887,Call Me Irrisistable,Tony Bennett,Dinner,
-888,Sway,Dean Martin,Adult Contemporary,
-889,Blue Moon,Billie Halliday,Dinner,
-890,Heartplace,Stan Getz,Dinner,
-891,This Guy's in Love with you,Richard Clayderman,Dinner,
-892,End of the Night,Kenny G,Dinner,
-893,Forever In Love,Kenny G,Dinner,
-894,Cecilia,Simon and Garfunkle,60s,
-895,I Got You Babe,Sonny and Cher,M Dance,
-896,Do You Believe In Love,Cher,F Dance,
-897,Unchained Melody,Righteous Brothers,S Dance,
+ID,Song,Artist,Genre,TopSongs
+,You Shook Me all Night Long,AC/DC,M Rock,true
+,YMCA,Village People,Disco,true
+,What a Wonderful World,Louis Armstrong,50s,true
+,Twist N Shout,Beatles,60s,true
+,Summer of 69,Bryan Adams,F Rock,true
+,Stayin Alive,Bee Gees,Disco,true
+,Starships,Nicki Minaj,F Dance,true
+,Some Kind if Wonderful,Grand Funk,M Rock,true
+,Single Ladies,Beyonce,F Dance,true
+,Save a Horse (Ride A Cowboy),Big N Rich,F Country,true
+,Satisfaction,Rolling Stones,F Rock,true
+,Rumor Has It,Adele,M Dance,true
+,Respect,Aretha Frankin,60s,true
+,Rasputin,Boney M,Disco,true
+,Pretty Woman,Roy Orbison,60s,true
+,Party Rock Anthem,LMFAO,F Dance,true
+,On The Floor,Jennifer Lopez and Pitbull,F Dance,true
+,Old Time Rock N Roll,Bob Seger,F Rock,true
+,Moves Like Jagger,Maroon 5,F Dance,true
+,Mambo # 5,Lou Bega,F Dance,true
+,La Bamba,Los Lobos,60s,true
+,I Love It,Icono Pop,F Dance,true
+,I Gotta Feeling,Black Eyed Peas,F Dance,true
+,Happy,Pharell Wiiliams,F Dance,true
+,Grease Megamix,John Travolta and Olivia Newton John,80s,true
+,Good Feelin,Flo Rida,F Dance,true
+,Give Me Everything,Pitbull,F Dance,true
+,Get Lucky,Daft Punk,F Dance,true
+,Gangnam Style,Psy,F Dance,true
+,Don't Stop This Party,Pitbull,F Dance,true
+,Dancing Queen,Abba,Disco,true
+,Celebration,Kool and the Gang,Disco,true
+,Brown Eyed Girl,Van Morrison,60s,true
+,Billy Jean,Michael Jackson,80s,true
+,Billy Idol,Mony Mony,F Dance,true
+,500 Miles,Proclaimers,M Dance,true
+,Lady In Red,Chris De Burgh,S Dance,true
+,Sexyback,Justin Timberlake,Hip Hop,true
+,Only Girl In the World,Rihanna,F Dance,true
+,Sweet Home Alabama,Lynyrd Skynard,M Rock,true
+,Twist,Chuby Checker,60s,true
+,Cruise,Florida Georgia Line,M Country,true
+,"Shake,Rattle and Roll",Bill Haley,60s,true
+,Rock Around The Clock,Bill Haley,60s,true
+,Home For A Rest,Spirit of the West,Celtic,true
+,Man I Fell Like a woman,Shania Twain,F Country,true
+,Born This Way,Lady Gaga,F Dance,true
+,Just Dance,Lady Gaga,F Dance,true
+,Bad Romance,Lady Gaga,F Dance,true
+,Ex's and Ohs,Elle King,F Dance,true
+,Hello,Adele,S Dance,true
+,Shut Up and Dance,Walk the Moon,F Dance,true
+,Uptown Funk,Bruno Mars and Mark Ronson,F Dance,true
+,What do You Mean,Justin Beiber,M Dance,true
+,Can't Feel My Face,The Weeknd,M Dance,true
+,Downtown,Macklemore  and Ryan,M Dance,true
+,Thinking Out Loud,Ed Sheeran,S Dance,true
+,All of Me,John Legend,S Dance,true
+,Sugar,Maroon 5,M Dance,true
+,Cake By The Ocean,DNCE,F Dance,true
+,Don't Stop Believing,Journey,M Rock,true
+,Sweet Caroline,Neil Diamond,Adult Contemporary,true
+,Living On A Prayer,Bon Jovi,F Rock,true
+,Marry You,Bruno Mars,S Dance,true
+,Cha Cha Slide,DJ Casper,M Dance,true
+,Yeah,Usher,Hip Hop,true
+,Timber,Pitbull and Kesha,F Dance,true
+,Love Shack,B 52s,F Dance,true
+,Shout,Otis Day,F Dance,true
+,Time Warp,Rocky Horror,F Dance,true
+,Friends in Low Places,Garth Brooks,S Country,true
+,Pour Some Sugar On Me,Def Leppard,M Rock,true
+,Baby Got Back,Sir Mix a lot,F Dance,true
+,All About The Bass,Meghan Trainor,M Dance,true
+,Footloose,Kenny Loggins,F Dance,true
+,Sexy And I Know It,LMFAO,F Dance,true
+,We Found Love,Rihanna and Calvin Harris,F Dance,true
+,Country Girl ( Shake it For Me),Luke Bryan,F Country,true
+,The Way You Look Tonight,Frank Sinatra,S Dance,true
+,Dynamite,Taio Cruz,F Dance,true
+,I Don't want to Miss a Thing,Aerosmith,S Dance,true
+,Forever,Chris Brown,F Dance,true
+,Stitches,Shawn Mendes,M Dance,true
+,Wake Me Up,Avici,M Dance,true
+,Crazy In Love,Beyonce and Jay Z,Hip Hop,true
+,Everybody,BackStreet Boys,M Dance,true
+,I'm Yours,Jason Mraz,S Dance,true
+,I Kissed a Girl,Katy Perry,F Dance,true
+,Beat It,Micheal Jackson,F Dance,true
+,U Can't Touch This,MC Hammer,F Dance,true
+,(I've Had ) The Time of My Life,Bill Medley and Jennifer Warnes,S Dance,true
+,Crazy Thing Called Love,Queen,M Dance,true
+,Macarena,Los Del Rios,M Dance,true
+,Boot Scootin Boogie,Brooks and Dunn,M Dance,true
+,Everything I Do For You,Bryan Adams,S Dance,true
+,Feel So Close,Calvin Harris,M Dance,true
+,Fly Me to The Moon,Frank Sinatra,S Dance,true
+,"New York, New York",Frank Sinatra,S Dance,true
+,Stand By Me,B.B. King,S Dance,true
+,Gettin' Jiggy With It,Will Smith,Hip Hop,true
+,Danza Kuduro,Don Omar and Lucenzo,F Dance,true
+,Can't Hold Us,Macklemore and Ryan Lewis,F Dance,true
+,How Sweet It is to be Loved by You,James Taylor,S Dance,true
+,50 Cent,In Da Club,Hip Hop,true
+,Sweet Child of Mine,Guns n Roses,F Rock,true
+,"Signed,Sealed,Delivered",Stevie Wonder,M Dance,true
+,Don't Stop The Music,Rihanna,F Dance,true
+,Bust A Move,Young MC,Rap,true
+,I Don't Dance,Rascall Flatts,S Country,true
+,My Wish,Rascall Flatts,S Country,true
+,Amazed,Alabama,S Country,true
+,Bless The Broken Road,Rascall Flatts,S Country,true
+,Let's Get It Started,Black Eyed Peas,M Dance,true
+,Better Together,Jack Johnson,dinner,true
+,Sunrise,Norah Jones,dinner,true
+,Bird/Chicken Dance,unknown,Specialty,true
+,Bye Bye Bye,N'sync,M Dance,true
+,One More Time,Daft Punk,M Dance,true
+,Locked Out of Heaven,Bruno Mars,M Dance,true
+,Amore,Dean Martin,Adult Contemporary,true
+,In The Mood,Glenn Miller,Big Band,true
+,At Last,Ella Fitzgerald,Adult Contemporary,true
+,What I Like About You,Romantics,F Dance,true
+,DJ Got Us Falling In Love Again,Usher,F Dance,true
+,Goldigger,Kanye West,Rap,true
+,Stronger,Kanye West,Rap,true
+,She's Everything,Brad Paisley,S Country,true
+,Summer,Calvin Harris,F Dance,true
+,Come Away With Me,Norah Jones,dinner,true
+,Wanted,Hunter Hayes,S Country,true
+,Honey Bee,Sheldon Blake,S Country,true
+,Poker Face,Lady Gaga,M Dance,true
+,Talk Dirty,Jason Derulo,Hip Hop,true
+,Fancy,Iggy Azelea,Hip Hop,true
+,My Best Friend,Tim McGraw,S Country,true
+,Take On Me,A-ha,F Dance,true
+,Safe and Sound,Capital Cities,M Dance,true
+,Then,Brad Paisley,S Country,true
+,What Makes You Beautiful,One Direction,F Dance,true
+,All Summer Long,Kid Rock,M Rock,true
+,Photograph,Kid Rock,S Dance,true
+,Red Red Wine,UB40,S Dance,true
+,Jammin,Bob Marley,Reggae,true
+,Hot Hot Hot,Arrow,F Dance,true
+,Holiday,Madonna,F Dance,true
+,Lucky Star,Madonna,M Dance,true
+,Tik Tock,Kesha,F Dance,true
+,Sexual Healing,Marvin Gaye,S Dance,true
+,I Heard It Through The Grape Vine,Marvin Gaye,M Dance,true
+,When A Man Loves A Woman,Percy Sledge,S Dance,true
+,Counting Stars,One Republic,F Dance,true
+,Feel This Moment,Pitbull and Christina Aguilera,F Dance,true
+,Run Around Sue,Dion,60s,true
+,"Honey,I'm Good",Andy Grammer,F Dance,true
+,Jumping Jack Flash,Rolling Stones,F Rock,true
+,Jack and Diane,John Mellencamp,M Rock,true
+,Push It,Salt N Peppa,F Dance,true
+,Locomotion,Kylie Minolue,F Dance,true
+,We Are Family,Sister Sledge,Disco,true
+,Dancing in the Dark,Bruce Springsteen,F Dance,true
+,Bad Moon Rising,CCR,M Rock,true
+,Rolling In The Deep,Adele,M Dance,true
+,Play That Funky Music,Wild Cherry,M Dance,true
+,Don't Rock The Jukebox,Alan Jackson,M Country,true
+,One Last Time,Ariana Grande,M Dance,true
+,Problem,Ariana Grande,F Dance,true
+,Boom Clap,Charlie XCX,M Dance,true
+,I Don't Care,Charlie XCX,F Dance,true
+,Summertime,Daddy Yankee,F Dance,true
+,Sexy Chick,David Guetta,F Dance,true
+,Ed Sheeran,Photograph,S Dance,true
+,Ellie Golding,Love Me Like You Do,M Dance,true
+,Monster,Eminem and Rihanna,M Dance,true
+,Can't Help Falling In Love With You,Elvis,S Dance,true
+,Funkytown,Lipps Inc,F Dance,true
+,Uma Thurman,Fall Out Boy,F Rock,true
+,Trap Queen,Fetty Wap,Hip Hop,true
+,Check Yes or No,George Strait,S Country,true
+,End of the World,Great Big Sea,Celtic,true
+,Tainted Love,Softcell,M Dance,true
+,Marimac,Great Big Sea,Celtic,true
+,Call Me Maybe,Carly Rae Jepson,F Dance,true
+,Girls Just Want to Have Fun,Cyndi Lauper,M Dance,true
+,Wiggle,Jason Derulo,Hip Hop,true
+,Making Memories of Us,Keith Urban,S  Country,true
+,She Thinks My Tractors Sexy,Kenny Chesney,F Country,true
+,Rude,Magic,S Dance,true
+,Wonderwall,Oasis,S Rock,true
+,Cheerleader,OMI,F Dance,true
+,Chicken Fried,Zac Brown Band,M Country,true
+,The Stripper,Peter Rose,Wedding,true
+,Blurred Lines,Robin Thicke,M Dance,true
+,Hips Don't Lie,Shakira,M Dance,true
+,Blank Space,Taylor Swift,M Dance,true
+,Earned It,The Weeknd,R & B,true
+,Talking Body,Tove Lo,Hip Hop,true
+,Renegades,true Ambassadors,M Rock,true
+,Lady In Red,Chris De Burgh,S Dance,true
+,The Hills,The Weeknd,Hip Hop,true
+,Rhythm Divine,Enrique Iglesius,S Dance,
+,Shout,Tears For Fears,M Dance,
+,U2,One,S Dance,
+,U2,Mysterious Ways,M Dance,
+,I'm Glad You Came,Wanted,F Dance,
+,I Lived,One Republic,F Dance,
+,1999,Prince,M Dance,
+,Bruce Springsteen,Eric Church,M Country,
+,Legs,ZZ Top,F Rock,
+,Sharp Dressed Man,ZZ Top,F Rock,
+,Joe Cocker,You Can Leave Your Hat On,S Rock,
+,The Best,Tina Turner,M Dance,
+,Sugar Sugar,Archies,Wedding,
+,On The Dark Side,John Cafferty,F Rock,
+,Thank God I'm A Country Boy,John Denver,F Country,
+,Come With Me know,Kongos,F Dance,
+,Ring Of Fire,Johnny Cash,F Country,
+,Hound Dog,Elvis,60s,
+,You Spin Me Round,Dead Or Alive,F Dance,
+,Hurts So Good,John Mellencamp,M Rock,
+,All Shook Up,Elvis,60s,
+,Stairway to Heaven,Led Zeppelin,S Rock,
+,Call Me,Blondie,Disco,
+,All Night Long,Lionel Ritchie,M Dance,
+,Vogue,Madonna,F Dance,
+,Paradie By the Dashboard Light,Meatloaf,F Dance,
+,Conga,Miami Sound Machine,F Dance,
+,Step By Step,New Kids On the Block,F Dance,
+,Bizarre Love Triangle,New Order,F Dance,
+,We're Here For A Good Time,Trooper,M Rock,
+,In The Air Tonight,Phil Collins,S Dance,
+,Don't Cha,Pussy Cat Dolls,F Dance,
+,I Don't Want to Dance,Scissor Sisters,M Dance,
+,REM,Shiney Happy People,M Rock,
+,Together Forever,Randy Travis,M Country,
+,Pump up the Jam,MARS,M Dance,
+,Smooth,Santana,M Rock,
+,Temperature,Sean Paul,F Dance,
+,Up,Shania Twain,F Country,
+,Don't You,Simple Minds,M Dance,
+,Style,Taylor Swift,M Dance,
+,Take Me To Church,Hozier,F Dance,
+,The Night Paddy Murphy Died,Great Big Sea,Celtic,
+,Glory Days,Bruce Springsteen,M Rock,
+,Rock N Me,Steve Miller,M Rock,
+,Life Is A Highway,Tom Cochrane,M Rock,
+,Wake Me Up,Wham,F Dance,
+,Somebody to love Me,Whitney Houston,M Dance,
+,Excited,Pointer Sisters,F Dance,
+,Theme From Godfather,Andy Williams,Dinner,
+,Manic Monday,Bangles,M Dance,
+,Wasn't That A Party,Irish Rovers,M Dance,
+,Copacabana,Barry Manilow,F Dance,
+,"You're my First,Last,Everything",Barry White,Disco,
+,Surfin USA,Beach Boys,60s,
+,Kokomo,Beach Boys,M Dance,
+,Medley,Beatles,60s,
+,On A SlowBoat to China,Benny Goodman,Big Band,
+,WhiteWedding,Billy Idol,F Dance,
+,I'll Never Fall In Love Again,Carpenters,Adult Contemporary,
+,Devil Went Down To Georgia,Charlie Daniel's Band,F Country,
+,Stroke it,Clarence Carter,M Dance,
+,Soak Up The Sun,Sheryl Crow,M Dance,
+,Do You Really Want to Hurt Me,Culture Club,M Dance,
+,China Girl,David Bowie,M Dance,
+,Motown Song,Rod Stewart,M Dance,
+,Personal Jesus,Depeche Mode,M Dance,
+,Macarthur Park,Donna Summer,Disco,
+,Hotel California,Eagles,S Rock,
+,September,"Earth,Wind and Fire",Disco,
+,I Don't Want to Dance,Eddie Grant,M Dance,
+,Crocodile Rock,Elton John,F Dance,
+,Can You Feel the Love Tonight,Elton John,S Dance,
+,Sweet Dreams,Eurythmics,M Dance,
+,That'll Be the Day,Buddy Holly,60s,
+,I Ran,Flock of Seagulls,F Dance,
+,My Girl,Temptations,60s,
+,Bambolero,Gypsy Kings,F Dance,
+,I Will Survive,Gloria Gaynor,Disco,
+,Knock On Wood,Amil Stewart,Disco,
+,Early Morning Rain,Gordon Lightfoot,Dinner,
+,Maneater,Hall and Oates,M Dance,
+,Sexy Thing,Hot Chocolate,Disco,
+,Heart of Rock n Roll,Huey Lewis,M Dance,
+,New Sensation,INXS,F Dance,
+,Centerfold,J. Geils Band,M Dance,
+,This is What it Feels Like,Armin Van Hammer,F Dance,
+,Let's  Go,Calvin Harris,F Dance,
+,Wagon Wheel,Darius Rucker,F Country,
+,Turn Me On,David Guetta and Nicki Minaj,F Dance,
+,Winter Wonderland,Michael Buble,Christmas,
+,Silver Bells,Michael Buble,Christmas,
+,I Will Wait,Mumford and Sons,M Rock,
+,LOVE,Nat King Cole,Adult Contemporary,
+,Promiscuous,Nelly Furtado,M Dance,
+,Do It Right,Nelly Furtado,M Dance,
+,Raise Your Glass,Pink,F Dance,
+,So What,Pink,F Dance,
+,Let's Get This Party Started,Pink,F Dance,
+,Disturbia,Rihanna,F Dance,
+,Fire Burning,Sean Kingston,F Dance,
+,Come and Get It,Selena Gomez,M Dance,
+,The Way I Are,Timbaland,M Dance,
+,Baby One More Time,Britney Spears,F Dance,
+,Crazy,Britney Spears,F Dance,
+,Smack That,Eminem and Akon,Hip Hop,
+,Try,Blue Rodeo,S Dance,
+,Gonna Make You Sweat,C and C Music Factory,F Dance,
+,Mr. Jones,Counting Crows,M Rock,
+,We Belong Together,Mariah Carey,S Dance,
+,Wonderful Tonight,Eric Clapton,S Dance,
+,My Heart Will Go On,Celine Dion,S Dance,
+,Hundry Like The Wolf,Duran Duran,M Dance,
+,Lady Marmalade,Christina Aguilera,M Dance,
+,Candle In The Wind,Elton John,S Dance,
+,Lose My Breath,Destiny's Child,F Dance,
+,Roadhouse Blues,Doors,M Rock,
+,Low,Flo Rida,F Dance,
+,Just The Way You Are,Billy Joel,S Dance,
+,Faithfully,Journey,S Dance,
+,Waiting For Tonight,Jennifer Lopez,F Dance,
+,Party In The USA,Miley Cyrus,M Dance,
+,Living the Viva Loca,Ricky Martin,F Dance,
+,Hey  Yah,Outkast,F Dance,
+,Brown Sugar,Rolling Stones,M Rock,
+,Only Girl In The World,Rihanna,F Dance,
+,Have I Told You Lately,Rod Stewart,S Dance,
+,Hollaback Girl,Gwen Stefani,M Dance,
+,One Bourbon One Scotch One Beer,George Thorogood,F Rock,
+,Bad To The Bone,George Thorogood,M Rock,
+,Funky Cold Medina,Tone Loc,M Dance,
+,Better Be Good To Me,Tina Turner,M Dance,
+,New Orleans Is Sinking,Tragically Hip,M Rock,
+,Break Your Heart,Tiao Cruz,F Dance,
+,Cotton Eye Joe,Rednex,F Dance,
+,What Is Love,Haddaway,F Dance,
+,Stuck In The Middle With You,Stealers Wheel,M Rock,
+,Ballroom Blitz,Sweet,F Rock,
+,Raise A Little Hell,Trooper,F Rock,
+,Tubthumping,Chumbawumba,M Dance,
+,Song 21,Blur,M Rock,
+,Oh Ya,Yellow,M Rock,
+,Come On Eileen,Dexy's Midnight Runners,M Rock,
+,Closing Time,Semisonic,M Rock,
+,American Pie,Don Mclean,M Rock,
+,Missing,Everything But the Girl,F Dance,
+,A Girl Like You,Edwin Collins,M Dance,
+,Bombastic,Shaggy,M Dance,
+,Spice Up Your Life,Spice Girls,F Dance,
+,Barbie Girl,Aqua,F Dance,
+,All My Life,K-Ci and Jojo,S Dance,
+,All For You,Janet Jackson,M Dance,
+,Can't Get You Out of My Head,Kylie Minolgue,F Dance,
+,Crazy,Gnarls Barkley,M Dance,
+,Dance Dance,Fall Out Boy,F Rock,
+,Big Black Horse,K.T. Tunstall,M Dance,
+,Home,Michael Buble,Dinner,
+,Where No One Know My Name,Jann Arden,M Dance,
+,Good Girl Is So Bad,Cobra Starship,F Dance,
+,Evacuate The Dance Floor,Cascada,F Dance,
+,Heaven,DJ  Sammy,F Dance,
+,Relax,Frankie Goes To Hollywood,F Dance,
+,Teenage Dream,Katy Perry,F Dance,
+,At Last,Etta James,Adult Contemporary,
+,Bumpy Ride,Mohambi,Reggae,
+,Tonight (I'm Loving You),Enrique Iglesius,F Dance,
+,Beautiful Day,U2,M Rock,
+,More,Usher,F Dance,
+,G6,Far East Movement,M Dance,
+,Beer In Mexico,Kenny Chesney,M Country,
+,Black And Yellow,Wiz Khalifa and  Snoop,Hip Hop,
+,OMG,Usher,F Dance,
+,International Love,Chris Brown,F Dance,
+,Super Bass,Nicki Minaj,Hip Hop,
+,Escapade,Janet Jackson,M Dance,
+,Someone Like You,Adele,S Dance,
+,Under The Boardwalk,Otis Redding,60s,
+,Marry You,Bruno Mars,S Dance,
+,Story of Us,Taylor Swift,F Dance,
+,Pumped Up For Kicks,Foster The People,M Dance,
+,Last Night,Ian Carey and Snoop,F Dance,
+,Wagon Wheel,Old Crow Medicine Show,M Country,
+,Love You Like A Love Song,Selena Gomez,F Dance,
+,Shots,LMFAO,M Dance,
+,I'm Too Sexy,Right Said Fred,M Dance,
+,Jeopardy Theme,TV/ Movie,Tv/ Movie,
+,Survivor Theme,TV/ Movie,Tv/ Movie,
+,Drum Roll,Special Effects,Special Affects,
+,Ah Leah,Donnie Iris,M Rock,
+,Good Feeling,Flo Rida,F Dance,
+,Whistle Song,Flo Rida,M Dance,
+,I Like How It Feels,Enrique Iglesius and Pitbull,F Dance,
+,Hey Ho,Lumineers,M Dance,
+,Drink In My Hand,Eric Church,F Country,
+,We Run The Night,Havana Brown and Pitbull,F Dance,
+,The Twist,Chubby Checker,60s,
+,Limbo Rock,Chubby Checker,60s,
+,Barbara Ann,Beach Boys,60s,
+,Great Balls of Fire,Lerry Lee Lewis,60s,
+,A Hard Day's Night,Beatles,60s,
+,Jive Talkin,Bee Gees,M Dance,
+,Hot Stuff,Donna Summer,Disco,
+,The Hustle,Van Mcoy,Disco,
+,Kung Fu Fighting,Carl Douglas,Disco,
+,Flashdance,Irene Cara,F Dance,
+,Le Freak,Chic,Disco,
+,Boogie Oogie Oogie,Taste of Honey,Disco,
+,Shadow Dancing,Andy Gibb,Disco,
+,Butterfly Kisses,Bob Carlisle,S Country,
+,CBC Hockey Theme,TV/Movie,TV/Movie,
+,Dust On The Bottle,David Lee Murphy,F Country,
+,Good Bye Earl,Dixie Chicks,F Country,
+,It Had To Be You,Harry Connick,Adult Contemporary,
+,My Maria,Brooks and Dunn,F Country,
+,Pop A Top,Alan Jackson,F Country,
+,Time of Your Life,Greenday,M Rock,
+,My Guy,Mary Wells,R and B,
+,I Can't Help Myself (Sugar Pie Honey Bunch),Four Tops,R and B,
+,Mack The Knife,Frank Sinatra,Adult Contemporary,
+,Whiter Shade of Pale,Procol Harum,S Dance,
+,"Louie,Louie",Animal House,Tv/Movie,
+,Mustang Sally,The Commitments,M Dance,
+,Summertime Blues,Brian Selzer,M Rock,
+,Stray Cat Strut,Stray Cats,M Dance,
+,Wild Child,Rick Ocasek,F Dance,
+,Oh Canada,Instrumental,Specialty,
+,Whoop! There It Is!,Clock,F Dance,
+,Na Na Hey Hey Good bye,DJ Chrome,Specialty,
+,Saturday Night,Whigfield,M Dance,
+,The Hockey Song,Stompin Tom Connors,Specialty,
+,Auld Lang Syne,Guy Lombardo,Specialty,
+,Daddy's Little Girl,Al Martino,S Dance,
+,Daughter of Mine,John McDermott,S Dance,
+,Don't Stop,Fleetwood Mac,F Dance,
+,From This Moment On,Shania Twain,S Dance,
+,Having A Party,Rod Stewart,M Dance,
+,I Knew The Bride,Nick Lowe,F Dance,
+,I Love A Rainy Night,Kenny Loggins,F Country,
+,Jailhouse Rock,Elvis,60s,
+,(Bad Bad) Leroy Brown,Jim Croce,M Dance,
+,Mickey,Toni Basil,F Dance,
+,Mountain Music,Alabama,M Country,
+,Rock and Roll Pt 2,Gary Glitter,F Rock,
+,Spanish Eyes,Engelburt Humperdinck,Adult Contemporary,
+,The Gambler,Kenny Rogers,M Country,
+,Unforgettable,Nat King Cole,Adult Contemporary,
+,Walking On Sunshine,Katrina and The Waves,F Dance,
+,We've Only Just Begun,Carpenters,S Dance,
+,Wind Beneath Your Wings,Bette Midler,S Dance,
+,Suddenly I See,K.T Tunstall,M Dance,
+,The Sweet Escape,Gwen Stefani and Akon,M Dance,
+,Glamorous,Fergie,M Dance,
+,Beautiful Girls,Sean Kingston,M Dance,
+,Hey There Delilah,Plain White T's,M Dance,
+,Apologize,Timaland and One Republic,S Dance,
+,Into The Night,Santana and Chad Kroger,F Rock,
+,Pocketful of Sunshine,Natasha Beddingfield,M Dance,
+,Shake It,Metro Station,F Dance,
+,Hot And Cold,Katy Perry,F Dance,
+,Forever,Chris Brown,F Dance,
+,Dangerous,Kardinal Offishall and Akon,M Dance,
+,Keeps Getting Better,Christina Aguilera,F Dance,
+,Let It Rock,Kevin Rudolf and Lil Wayne,M Dance,
+,I Know You Want Me (Calle Ocho),Pitbull,F Dance,
+,Hey Soul Sister,Train,M Rock,
+,Don't Stop Until you Get Enough,Michael Jackson,M Dance,
+,Empire State of Mind,Jay-Z  and Alicia Keys,Hip Hop,
+,Get Down Tonight,Kc and the Sunshine Band,Disco,
+,Hot In Herre,Nelly,Rap,
+,I Hope You Dance,Lee Ann Womak,S Dance,
+,I Like It,Enrique Iglesius and Pitbull,F Dance,
+,I Loved Her First,Heartland,S Country,
+,Ice Ice Baby,Vanilla Ice,M Dance,
+,In My Head,Jason Derulo,F Dance,
+,It's Raining Men,Weather Girls,F Dance,
+,Jump Around,House of Pain,Hip Hop,
+,Lets Get Loud,Jennifer Lopez,F Dance,
+,Lets Get It Started,Black Eyed Peas,M Dance,
+,Move This,Technotronic,F Dance,
+,Rhythm Is A Dancer,Snap,F Dance,
+,September,"Earth,Wind and Fire",Disco,
+,She's Everything,Brad Paisley,S Country,
+,Then,Brad Paisley,S Country,
+,"Shake,Shake Shake",Kc and the Sunshine Band,Disco,
+,ABC,Jackson 5,M Dance,
+,Billie Jean,Michael Jackson,M Dance,
+,Down,Jay Sean and Lil Wayne,Hip Hop,
+,Electric Boogie ( Electric Slide),Marcia Griffiths,M Dance,
+,Electric Slide,Grandmaster Slice,M Dance,
+,Fat Boy,Max a Million,Hip Hop,
+,I Cross My Heart,George Strait,S Country,
+,Just The Way You Are,Bruno Mars,M Dance,
+,Let's Get It On,Marvin Gaye,S Dance,
+,Lost In This Moment,Big and Rich,S Country,
+,Love Story,Taylor Swift,M Dance,
+,Nothing On You,B.O.B and Bruno Mars,M Dance,
+,Bette Davis Eyes,Kim Carnnes,M Dance,
+,Born To Be Wild,Steppenwolf,F Rock,
+,My Sharona,The Knack,M Rock,
+,It;s Not Unusual,Tom Jones,Adult Contemperary,
+,Beer For My Horses,Toby Keith,M Country,
+,Buffalo Soldier,Bob Marley,Reggae,
+,Pennsylvania B-5000,Glenn Miller,Big Band,
+,Wide Open Spaces,Dixie Chicks,S Country,
+,It'sYour Love,Tim McGraw and Faith Hill,S Country,
+,Fishing  In The Dark,Nitty Gritty Dirt Band,M Country,
+,Happy Birthday,Specialty,Specialty,
+,I'm Here For the Party,Gretchen Wilson,F Country,
+,Little Sister,Dwight Yoakam,F Country,
+,Hypnotize,Notorious Big,Rap,
+,How Bizarre,O.M.C,M Dance,
+,Hard Days Night,Beatles,60s,
+,Devil's Party,INXS,F Dance,
+,Flawed Design,Stabilo,F Dance,
+,Money Maker,Ludicris,Rap,
+,Rock This Party,Rob Sinclair,F Dance,
+,Jeopardy,Greg Kihn Band,M Dance,
+,Impacto,Daddy Yankee and  Fergie,Reggae,
+,Paralyzer,Finger Eleven,F Rock,
+,Apologize,Tiberland and One Republic,S Dance,
+,Bubbly,Colie Caillat,R and B,
+,Seven Year Fool,Jully Black,M Dance,
+,Rumors,Time Social Club,M Dance,
+,Blame It on the Rain,Milli Vanilli,M Dance,
+,Check Yes or No,George Strait,S Country,
+,Hella Good,No Doubt,M Dance,
+,Wake Up Little Susi,Everly Brothers,60s,
+,More and More,Captain Hollywood,F Dance,
+,Downunder,Men at Work,M Dance,
+,Sunrise,Norah Jones,Dinner,
+,Jessie's Girl,Rick Springield,F Rock,
+,December 1963,Four Seasons,M Dance,
+,Boys Are Back In Town,Thin Lizzy,M Rock,
+,If I Ain't Got You,Alicia Keys,S Dance,
+,When You Say Nothing At All,Alison Krauss,S Dance,
+,All For Love,Bryan Adams and Rod Stewart,S Dance,
+,Vacation,Go Gos,F Dance,
+,Just A Gigalo,David Lee Roth,M Dance,
+,Wipe Out,Safaris,60s,
+,Venus,Bananarama,F Dance,
+,She Drives Me Crazy,Fine Young Cannibals,M Dance,
+,The Look,Roxette,M Dance,
+,Joyride,Roxette,M Dance,
+,Cold Hearted,Paula Abdul,M Dance,
+,Nothing Compares To You,Sinead O'Connor,S Dance,
+,Politics of Dancing,Re-Flex,F Dance,
+,Spirit In The Sky,Dr. and  the Medics,M Dance,
+,Dancing With Myself,Billy Idol,F Dance,
+,Video Killed  The Radio Star,Buggles,F Dance,
+,Everybody Have Fun tonight,Wang Chung,F Dance,
+,Blue,Eiffel 65,F Dance,
+,Lips of An Angel,Hinder,S Dance,
+,My Perogative,Bobby Brown,M Dance,
+,I Will Always Love You,Whitney Houston,S Dance,
+,I Want to Dance With Somebody,Whitney Houston,F Dance,
+,White Lines,Grandmaster Flash,M Dance,
+,Rick Astley,Never Gonna Give You Up,F Dance,
+,You're  Beautiful,James Blunt,S Dance,
+,You Raise Me Up,Josh Grogan,S Dance,
+,True,Spandau Ballet,S Dance,
+,Daughters,John Mayer,S Dance,
+,Complicated,Avril Lavigne,M Dance,
+,Sandstorm,Darude,F Dance,
+,Beer Barrel  Polka,Walter Ostanek,Polka,
+,Cherry Polka,Walter Ostanek,Polka,
+,I Want to Grow Old With You,Adam Sandler,S Dance,
+,Barett's Privateers,Sons of  Erin,Celtic,
+,Subliime,Santaria,F Dance,
+,Quadriglia,Tarantella,Italian,
+,Serenata,Tarantella,Italian,
+,Tarantella Medley,Tarantella,Italian,
+,Cha Cha Slide,DJ  Caspar,M Dance,
+,Wild Wild West,Escape Club,F Dance,
+,Move This,Technotronic,F Dance,
+,Tribal Dance,2 Unlimited,F Dance,
+,I Want You,Savage Garden,F Dance,
+,Broken Bones,Love Inc.,F Dance,
+,Collective Soul,Precious Declaration,M Rock,
+,Apparitions,Matthew Good Band,S Dance,
+,All Star,Smashmouth,M Rock,
+,The  Bad Touch,Bloodhound Gang,F Dance,
+,Somebody Told Me,The Killers,F Rock,
+,One Thing,Finger Eleven,S Dance,
+,The Reason,Hoobastank,S Dance,
+,When The Night Feels My Song,Bedouin Soundclash,M Dance,
+,Untitled,Simple Plan,S Dance,
+,At The Hop,Danny and the Juniors,60s,
+,Whole Lotta Skaking Going On,Jerry Lee Lewis,60s,
+,Johnny B. Goode,Chuck Berry,60s,
+,Rhythm's Gonna Get You,Miami Sound Machine,F Dance,
+,Dancing On The Ceiling,Lionel Richie,F Dance,
+,Beds Are Burning,Midnight Oil,M Dance,
+,Jump,Pointer Sisters,F Dance,
+,Beth,Kiss,S Dance,
+,I was Made For Loving You,Kiss,Disco,
+,When I'm With You,Sheriff,S Dance,
+,Feels Like Home,Chantal Kreviazuk,S Dance,
+,Jewish Hora Medley,Miscellaneous,Specialty,
+,Help From My Friends,Joe Cocker,S Dance,
+,Love Somebody,Rick Springield,F Dance,
+,Sauvamente,Elvis Crispo,F Dance,
+,No Limits,2 Unlimited,F Dance,
+,You Already  For This,2 Unlimited,F Dance,
+,Crazy Train,Ozzy Osbourne,F Rock,
+,Glenn Miller Medley,Jive Bunny,Big Band,
+,The Last Waltz,Engelburt Humperdinck,Adult Contemperary,
+,Release Me,Engelburt Humperdinck,Adult Contemperary,
+,The Best Is Yry to Come,Frank Sinatra,Adult Contemperary,
+,To all The Girls I've Loved Before,Julio Iglesius,Adult Contemperary,
+,Angel Eyes,Jeff Healey,S Dance,
+,As Time Goes By,Tony Bennett,Adult Contemporary,
+,Beautiful U R,Brenda Cox,M Dance,
+,Behind Closed Doors,Charlie Rich,S Country,
+,Best I Ever Had,Drake,Hip Hop,
+,Bird Dance,Emeralds,Special,
+,Black Cars,Gino Vanelli,F Dance,
+,Blue Velvet,Bobby Vinton,Adult Contemporary,
+,Bootylicious,Destiny's Child,F Dance,
+,Bop,Dan Seals,F Country,
+,Buffalo Stance,Neneh Cherry,F Dance,
+,Bye Bye Bye,N'Sync,M Dance,
+,Careless Whisper,Wham,S Dance,
+,Caribbean Queen,Billy Ocean,M Dance,
+,Can I Have This Dance,Anne Murray,S Dance,
+,Crying Over You,Platinum Blonde,F Dance,
+,Dance With Me,Johnny Reid,S Country,
+,Dollar Wine,Byron Lee,Reagae,
+,Don't Be Cruel,Elvis,60s,
+,Don't Be Stupid,Shania Twain,F Country,
+,Don't Cha,Pussycat Dolls,M Dance,
+,Electric Avenue,Eddy Grant,M Dance,
+,Everybody Everybody,Black Box,F Dance,
+,Everybody Salsa,Chocolate,F Dance,
+,Express Yourself,Madonna,F Dance,
+,Follow The Leader,Soca Boys,F Dance,
+,Good Vibrations,Marky Mark,F Dance,
+,Green Green Grass of Home,Tom Jones,Adult Contemporary,
+,Here Comes The High Stepper,Ini Komoze,M Dance,
+,Holly Jolly Christmas,Burl Ives,Christmas,
+,I Just Called To Say I Love You,Stevie Wonder,S Dance,
+,I Love Rock and Roll,Joan Jett,F Rock,
+,I Think We're Alone Now,Tiffany,F Dance,
+,I Walk The Line,Johnny Cash,F Country,
+,I Will Survive,Gloria Gaynor,Disco,
+,I'll Always Be There,Roch Voisin,S Dance,
+,In My Daughters Eyes,Martina McBride,S Country,
+,White Christmas,Bing Crosby,Christmas,
+,Its My Life,Talk Talk,M Dance,
+,I've Been Thinking About You,London Beat,M Dance,
+,Jump and Wave,Byron Lee,F Dance,
+,Keep Your Hands To Yourself,Georgia Satelittes,F Rock,
+,Ketchup Song,Las Ketchup,F Dance,
+,Lambada,Kaoma,F Dance,
+,Last Waltz,Engelburt Humperdinck,Adult Contemporary,
+,Let The Music Play,Shannon,F Dance,
+,Let Your Backbone Slide,Maestroe Fresh Wes,Rap,
+,Let's Dance,David Bowie,M Dance,
+,Lightning Crashes,Live,S Dance,
+,Little Red Corvette,Prince,M Dance,
+,Living In America,James Brown,F Dance,
+,Looking For A New Love,Jody Watley,F Dance,
+,Love Is All Around,Wet Wet Wet,S Dance,
+,Turn Me Loose,Loverboy,M Rock,
+,Miami,Will Smith,M Dance,
+,Money Maker,Ludicris,Rap,
+,Monster Mash,Bobby Pickett,Specialty,
+,Thriller,Michael Jackson,F Dance,
+,Montego Bay,Amazulu,M Dance,
+,Moon River,Andy Williams,Adult Contemporary,
+,More Than Words,Extreme,S Dance,
+,Mr. Vain,Culture Beat,F Dance,
+,We Built This City,Starship,F Dance,
+,Life is Life,Opus,M Dance,
+,Right Here Waiting For You,Richard Marx,S Dance,
+,Obsession,Animotion,F Dance,
+,Only Time,Enya,S Dance,
+,West End Girls,Pet Shop Boys,M Dance,
+,Orinoco Flow,Enya,S Dance,
+,Peggy Sue,Buddy Holly,60s,
+,Please Don't Go,K.W.S,M Dance,
+,Real Wild Child,Iggy Pop,F Dance,
+,Realize,Colbie Calliat,S Dance,
+,Red Red Wine,UB 40,S Dance,
+,Reggae Nights,Jimmy Cliff,F Dance,
+,Roam,B-52s,F Dance,
+,Rock The Casbah,Clash,M Dance,
+,Rock This Party,Rob Sinclair,F Dance,
+,Seven Nation Army,White Stripes,F Rock,
+,Shake Ya Tailfeather,Nelly and P. Diddy,Hip Hop,
+,Show Me Love,Robin S,F Dance,
+,Splish Splash,Bobby Darin,60s,
+,Stardust,Artie Shaw,Big Band,
+,Stayed Until 2,Gord Bamford,F Country,
+,Step By Step,New Kids On The Block,F Dance,
+,Strike It Up,Black Box,F Dance,
+,Summer Nights,Olivia Newton John,F Dance,
+,Sunglasses At Night,Corey Hart,F Dance,
+,Surf City,Jan and Dean,60s,
+,Sweat,Inner Circle,Reggae,
+,S'Wonderful,Diana Krall,Dinner,
+,Take The A Train,Duke Ellington,Big Band,
+,Taking Care of Business,BTO,F Rock,
+,Talking In Your Sleep,Romantics,F Dance,
+,In The Night,Laura Branigan,M Dance,
+,Gloria,Laura Branigan,F Dance,
+,Tears In Heaven,Eric Clapton,S Dance,
+,Tenderness,General Public,F Dance,
+,The Heat Is On,Glenn Frey,F Dance,
+,The Hustle,Van McCoy,Disco,
+,The Look of Love,Diana Krall,Dinner,
+,The Sign,Ace of Base,M Dance,
+,There's A Tear In My Beer,Hank Williams Jr.,F Country,
+,This Is How We Do It,Montel Jordan,M Dance,
+,Thunderstruck,AC/DC,F Rock,
+,To All The Girls I've Loved Before,Julio Iglesias and Willie Nelson,Adult Contemporary,
+,Total Eclipse of The Heart,Bonnie Tyler,M Rock,
+,Twistin By The Pool,Dire Straits,F Rock,
+,Twistin the Night Away,Sam Cooke,60s,
+,Two Princes,Spin Doctors,F Rock,
+,Volare,Gypsy Kings,F Dance,
+,Walk of Life,Dire Straits,F Dance,
+,Walking On Sunshine,Katrina and the Waves,F Dance,
+,We Got The Beat,Go Go's,F Dance,
+,We Like to Party,Vengaboys,F Dance,
+,We're Not Gonna Take It,Twisted Sister,F Rock,
+,What You Waiting For,Gwen Stefani,F Dance,
+,When I Grow Up,Pussycat Dolls,F Dance,
+,When Doves Cry,Prince,M Dance,
+,Wilbury Twist,Travelling Wilburys,F Rock,
+,Word Up,Cameo,M Dance,
+,Would I Lie To You,Eurythmics,F Dance,
+,You Really Got Me,Kinks,F Rock,
+,You Keep Me Hanging On,Kim Wilde,F Dance,
+,You Should be Dancing,Bee Gees,Disco,
+,Walk Like An Egyptian,Bangles,F Dance,
+,Another You,Armin Van Buren and Mr.Probz,F Dance,
+,Before My Glory,Bunji Carlin,Reggae,
+,Runaway With Me,Carly Rae Jepson,F Dance,
+,Just A little Bit,Destra,F Dance,
+,Again,Fetty Wap,S Dance,
+,"I Don't Like It,I Love It",Flo rida and Robin Thicke,F Dance,
+,Love Myself,Hailee Steinfeld,F Dance,
+,No Apology,Kerwin Du Bois,Reggae,
+,Ah Feeling,Lead Pipe and Saddis,Reggae,
+,Feelings,Maroon 5,F Dance,
+,Drag Me Down,One Direction,F Dance,
+,A little Wine,Patrice Roberts,Reggae,
+,One Love,"Shaggy,Gene Noble and  Pitbull",F Dance,
+,Bring It Back,Shy Center and  Aleva Craft,F Dance,
+,Trans Am,Thompson Square,F Country,
+,B.Y.H.B Bring Your Hot Body,Uncle Ezra Ray,M Dance,
+,The Night,"2LAU,Nom de Strip and Estelle",F Dance,
+,For a Better Day,Avicii,M Dance,
+,Music to My Soul,Cee Lo Green,F Dance,
+,Vaiven,Daddy Yankee,Reggae,
+,Confident,Demi Lovato,M Dance,
+,Cool For The Summer,Demi Lovato,F Dance,
+,Omen,Disclosure and Sam Smith,F Dance,
+,Drake,Hotline Bling,Hip Hop,
+,Ocean Drive,Duke Dumont,F Dance,
+,Valet,Eric Bollinger. Fetty Wap and 2 Chainz,F Dance,
+,Feeling Grows,Fridge Magnets,F Dance,
+,Hello,Hedley,F Dance,
+,Here For You,Kygo and Ella Henderson,F Dance,
+,Downtown,Macklemore and Ryan Lewis,F Dance,
+,Levels,Nick Jonas,F Dance,
+,Fight Song,Rachel Paltten,F Dance,
+,Lay It all on Me,Rudimental and Ed Sheeran,M Dance,
+,Same Old Love,Selena Gomez,M Dance,
+,Cruel For You,Selena Gomez,M Dance,
+,Lush Life,Zara Larsson,F Dance,
+,Focus,Ariande Grande,M Dance,
+,Renegade Runaway,Carrie Underwood,F Country,
+,2 Heads,Coleman Hell,F Dance,
+,Perfect,One Direction,M Dance,
+,California,Tim McGraw and Big n Rich,M Country,
+,Hello,Adele,S Dance,
+,What Do You Mean,Justin Bieber,F Dance,
+,Sorry,Justin Bieber,F Dance,
+,Can't Feel My Face,The Weeknd,F Dance,
+,Thinking Out Loud,Ed Sheeran,S Dance,
+,Earned It,The Weeknd,M Dance,
+,I Don't Want  to Go to Bed,Simply Plan and Nelly,M Dance,
+,Lean On,Major Lazor and DJ Sanke faeturing Mo,M Dance,
+,Life's Like You Make it,New Electric,M Dance,
+,Catch,Allie true,M Dance,
+,On My Mind,Ellie Goulding,M Dance,
+,Locked Away,R. City featuring Adam Levine,M Dance,
+,Hula Hoop,OMI,M Dance,
+,Hideaway,Daya,M Dance,
+,That Sweater,Scott Helman,F Dance,
+,Exes and Ohs,Elle King,F Dance,
+,A Part of Me,Katie Perry,F Dance,
+,Let's Get Loud,Jennifer Lopez,F Dance,
+,Unforgetable,Nat King Cole,Adult Contemporary,
+,Stars on 45,Stars on 45,F Dance,
+,The Way You Make Me Feel,Michael Jackson,F Dance,
+,You and Me,Lifehouse,S Dance,
+,Clap Your Hands,Beaumonts,60s,
+,The Dance,Garth Brooks,S Country,
+,Guitars and Cadillacs,Dwight Yoakam,M Country,
+,Disco Inferno,Tramps,Disco,
+,Born To Be Alive,Patrick Hernandez,Disco,
+,That's The Way I like It,KC and  the Sunshine Band,Disco,
+,Cupid Shuffle,Cupid,M Dance,
+,Brick House,Commodores,M Dance,
+,I Can't Help Myself,Four Tops,60s,
+,It's Your Love,Tim McGraw and Faith Hill,S Country,
+,A Part of Me,Katie Perry,F Dance,
+,Beautiful Life,Ace of Base,F Dance,
+,We No Speak Americano,Yolanda Be Cool vs Dcup,F Dance,
+,Tic Tok,Keisha,F Dance,
+,Just a Dream,Nelly,M Dance,
+,Poison,Bel Biv Devoe,M Dance,
+,"Truly,Madly,Deeply",Savage Garden,S Dance,
+,Because You Loved Me,Celion Dion,S Dance,
+,Wannabe,Spice Girls,M Dance,
+,Big Time,Peter Gabriel,M Dance,
+,Sledgehammer,Peter Gabriel,M Dance,
+,Another One Bites The Dust,Queen,M Dance,
+,Super Freak,Rick James,M Dance,
+,You Dropped a Bomb on Me,Gap Band,F Dance,
+,Downunder,Men At Work,M Dance,
+,Safety Dance,Men Without Hats,M Dance,
+,Take My Breath Away,Berlin,S Dance,
+,Heaven,Bryan Adams,S Dance,
+,ABC,Jackson 5,M Dance,
+,Moondance,Van Morrison,S Dance,
+,Superstition,Stevie Wonder,M Dance,
+,Night Fever,Bee Gees,M Dance,
+,Boogie Wonderland,"Earth,Wind and Fire",Disco,
+,Start Me Up,Rolling Stones,M Rock,
+,All Right Now,Free,M Rock,
+,Heart of Glass,Blondie,Disco,
+,Do You Love Me,Contours,M Rock,
+,Can't Take My Eyes Off of You,Frankie Valli,S Dance,
+,When I'm 64,Beatles,60s,
+,Happy Together,Turtles,60s,
+,Crazy,Patsy Cline,S Dance,
+,You Can't Hurry Love,Supremes,60s,
+,I'm A Believer,Monkees,60s,
+,Proud Mary,CCR,M Rock,
+,Hey Jude,Beatles,60s,
+,Chapel of Love,Dixie Cups,60s,
+,Honky Tonk Woman,Rolling Stones,M Rock,
+,Under The Boardwalk,Drifters,60s,
+,These Arms of Mine,Otis Redding,60s,
+,Dance To The Music,Sly and Family Stone,60s,
+,Folsom Prison Blues,Johnny Cash,F Country,
+,Louie Louie,Kinsman,60s,
+,Gimme Some Lovin,Spencer Davis,60s,
+,Chances Are,Johnny Mathis,Adult Contemporary,
+,Paul Anka,Put Your Head on my Shoulder,S Dance,
+,Don't Be Cruel,Elvis,60s,
+,Animals,Maroon 5,F Dance,
+,Hey Jude,Beatles,S Dance,
+,Your Song,Elton John,S Dance,
+,Save the Best for Last,Instrumental,Wedding,
+,"Jesu,Joy of Man's desiring",Instrumental,Wedding,
+,Ava Maria,Schubert,Wedding,
+,Sheep May Safely Graze,Instrumental,Wedding,
+,Pachelbel's Canon,Pachelbel,Wedding,
+,Bridal March from Lohengrin,Instrumental,Wedding,
+,O Perfect Love,Instrumental,Wedding,
+,Finale of Ode to Joy,Instrumental,Wedding,
+,When I Fall in Love,Sleepless in Seattle,Wedding,
+,Everything I do for you,Robin Hood,Wedding,
+,Forever In Love,Instrumental,Wedding,
+,Vangelis' Hymn,Vangelis,Wedding,
+,"One Hand,One Heart",West Side Story,Wedding,
+,The Wedding Song,Instrumental,Wedding,
+,Happy Birthday,unknown,Specialty,
+,The Look of Love,Diana Krall,dinner,
+,I've Got You Under My Skin,Diana Krall,dinner,
+,It Came Upon A Midnight Clear,John Tesh,Christmas,
+,Silent Night,John Tesh,Christmas,
+,Home For the Holidays,Perry Como,Christmas,
+,Jingle Bell Rock,Jim Reeves,Christmas,
+,Rocking Around The Christmas Tree,Brenda Lee,Christmas,
+,Sleigh Ride,Carpenters,Christmas,
+,Everything,Michaal Buble,Dinner,
+,I've Got the World On a String,Diana Krall,Dinner,
+,The Girl From Ipanema,Frank Sinatra,Dinner,
+,Boplicity,Miles Davis,Dinner,
+,Round Midnight,Thelonius Monk,Dinner,
+,Call Me Irrisistable,Tony Bennett,Dinner,
+,Sway,Dean Martin,Adult Contemporary,
+,Blue Moon,Billie Halliday,Dinner,
+,Heartplace,Stan Getz,Dinner,
+,This Guy's in Love with you,Richard Clayderman,Dinner,
+,End of the Night,Kenny G,Dinner,
+,Forever In Love,Kenny G,Dinner,
+,Cecilia,Simon and Garfunkle,60s,
+,I Got You Babe,Sonny and Cher,M Dance,
+,Do You Believe In Love,Cher,F Dance,
+,Unchained Melody,Righteous Brothers,S Dance,

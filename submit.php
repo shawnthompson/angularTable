@@ -23,7 +23,8 @@ if(isset($_POST['email'])) {
     }
 
     // $email_to = "chipper79@bell.net";
-    $email_to = "plansmash@me.com";
+    // $email_to = "plansmash@me.com";
+    $email_to = "martinrobitaille07@gmail.com";
     $email_subject = "Requested songs by: " . $email_from;
 
     // validation expected data exists

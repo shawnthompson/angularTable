@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>SoundTraxx - Ottawa DJ - <?php echo $title; ?></title>
         <!-- CSS -->
-        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootswatch/3.2.0/sandstone/bootstrap.min.css">
+        <link rel="stylesheet" href="http://soundtraxx.ca/css/bootstrap.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="<?php echo $path; ?>css/grayscale.min.css">
         <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
@@ -44,7 +44,6 @@
                 <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
                     <ul class="nav navbar-nav">
                         <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-                        <li class="hidden"><a href="#page-top"></a></li>
                         <li><a class="page-scroll" href="http://soundtraxx.ca/index.html#services">Services</a></li>
                         <li><a class="page-scroll" href="http://soundtraxx.ca/index.html#about">About</a></li>
                         <li><a class="page-scroll" href="http://soundtraxx.ca/index.html#contact">Contact</a></li>

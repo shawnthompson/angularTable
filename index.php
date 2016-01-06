@@ -13,7 +13,7 @@ $angular = "";
                             <div class="form-group">
                                 <label for="filter">Search</label>
                                 <div class="input-group">
-                                    <div class="input-group-addon"><i class="glyphicon glyphicon-search"></i></div>
+                                    <div class="input-group-addon"><i class="fa fa-search"></i></div>
                                     <input type="text" id="filter" name="filter" class="form-control" placeholder="Search for a song or artist" data-ng-model="search">
                                 </div>
                             </div>
@@ -46,22 +46,22 @@ $angular = "";
                                 <th>
                                     <a href="#" data-ng-click="sortType = 'Song'; sortReverse = !sortReverse">
                                         Song
-                                        <span data-ng-show="sortType == 'Song' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
-                                        <span data-ng-show="sortType == 'Song' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
+                                        <span data-ng-show="sortType == 'Song' && !sortReverse" class="fa fa-chevron-down"></span>
+                                        <span data-ng-show="sortType == 'Song' && sortReverse" class="fa fa-chevron-up"></span>
                                     </a>
                                 </th>
                                 <th>
                                     <a href="#" data-ng-click="sortType = 'Artist'; sortReverse = !sortReverse">
                                         Artist
-                                        <span data-ng-show="sortType == 'Artist' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
-                                        <span data-ng-show="sortType == 'Artist' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
+                                        <span data-ng-show="sortType == 'Artist' && !sortReverse" class="fa fa-chevron-down"></span>
+                                        <span data-ng-show="sortType == 'Artist' && sortReverse" class="fa fa-chevron-up"></span>
                                     </a>
                                 </th>
                                 <th>
                                     <a href="#" data-ng-click="sortType = 'Genre'; sortReverse = !sortReverse">
                                         Genre
-                                        <span data-ng-show="sortType == 'Genre' && !sortReverse" class="glyphicon glyphicon-chevron-down"></span>
-                                        <span data-ng-show="sortType == 'Genre' && sortReverse" class="glyphicon glyphicon-chevron-up"></span>
+                                        <span data-ng-show="sortType == 'Genre' && !sortReverse" class="fa fa-chevron-down"></span>
+                                        <span data-ng-show="sortType == 'Genre' && sortReverse" class="fa fa-chevron-up"></span>
                                     </a>
                                 </th>
                             </tr>
@@ -79,7 +79,7 @@ $angular = "";
                                 | filter:topSongs
                                 | itemsPerPage: 30"
                                 data-ng-class="{topSong:songs.TopSong}">
-                                <td><a class="btn btn-default btn-sm" href="" role="button" data-ng-click="selectSong(songs)"><span class="glyphicon glyphicon-plus"></span></a></td>
+                                <td><a class="btn btn-default btn-sm" href="" role="button" data-ng-click="selectSong(songs)"><span class="fa fa-plus"></span></a></td>
                                 <td>{{ songs.Song }}</td>
                                 <td>{{ songs.Artist }}</td>
                                 <td>{{ songs.Genre }}</td>

@@ -27,7 +27,7 @@ td.ng-binding {
 
  .table-striped>tbody>tr.topSong:nth-child(odd)>td,
  .table-striped>tbody>tr.topSong:nth-child(even)>td,
- tr.topSong {
+ .topSong {
 	color:darkgoldenrod;font-weight:900;
  }
 

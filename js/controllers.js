@@ -40,6 +40,17 @@ tracksController.filter('unique', function () {
 	};
 });
 
+tracksController.controller('ListControllerJSONP', ['$scope', '$http', function($scope, $http) {
+  $http.get('http://plansmash.com/soundtraxx/client/data/tracks.json').success(function(data) {
+      $scope.tracks = data;
+    });
+  $scope.addedTracks = [];
+
+  $scope.sortType = 'TopSong'; // set the default sort type
+  $scope.sortReverse = true; // set the default sort order
+
+}]);
+
 tracksController.controller('ListController', ['$scope', '$http', function($scope, $http) {
 
 	$http.get('./data/tracks.json').success(function(data) {

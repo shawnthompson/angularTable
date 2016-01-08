@@ -22,9 +22,9 @@ if(isset($_POST['email'])) {
         return str_replace($bad,"",$string);
     }
 
-    // $email_to = "chipper79@bell.net";
+    $email_to = "chipper79@bell.net";
     // $email_to = "plansmash@me.com";
-    $email_to = "martinrobitaille07@gmail.com";
+    // $email_to = "martinrobitaille07@gmail.com";
     $email_subject = "Requested songs by: " . $email_from;
 
     // validation expected data exists

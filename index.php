@@ -7,7 +7,8 @@ $angular = "";
           <main class="main" data-ng-app="myApp" data-ng-controller="ListController">
             <section class="songListContainer col-md-8">
                 <h1><?php echo $title; ?></h1>
-                <form>
+                <p>Songs in <strong class="topSong">orange</strong> are in the top 200 requested songs</p>
+               <form>
                     <div class="row">
                         <div class="col-md-8">
                             <div class="form-group">

@@ -41,7 +41,7 @@ include "../inc/head.php";
 
 <main class="main col-xs-12">
 	<h1><?php echo $title; ?></h1>
-
+    <p>Songs in <strong class="topSong">orange</strong> are in the top 200 requested songs</p>
 <!-- Delete Modal -->
 <div class="modal fade" id="deleteMessage" tabindex="-1" role="dialog" aria-labelledby="deleteMessageLabel">
 	<div class="modal-dialog" role="document">
